@@ -1,0 +1,2 @@
+# InstallScript
+Sitecore をインストールする際に便利なスクリプトのサンプルを公開しています
