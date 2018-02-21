@@ -8,7 +8,7 @@ $SolrRoot = "C:\solr\solr-6.6.2"
 $SolrService = "Solr-6.6.2"
 $SqlServer = "."
 $SqlAdminUser = "sa"
-$SqlAdminPassword="pleasechangepassword"
+$SqlAdminPassword="Pleasechang3p@ssword"
 
 # xConnect のためのクライアント証明書のインストール
 $certParams = @{
