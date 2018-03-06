@@ -1,0 +1,86 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Dictionary/C/Close" key="Close" itemid="{DFCA32E1-D7C1-43F7-BE84-6189E14B156A}" fieldid="Phrase" updated="20080620T142506Z">
+    <ja-JP>閉じる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/TitleText in CMS-Only mode" key="TitleText in CMS-Only mode" itemid="{C2F629FF-BD7D-42B4-A247-3380DAE1408C}" fieldid="Text" updated="20151029T135138Z">
+    <ja-JP>Sitecore Experience Management</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/TitleText in CMS-Only mode" key="TitleText in CMS-Only mode" itemid="{C2F629FF-BD7D-42B4-A247-3380DAE1408C}" fieldid="__Display name" updated="20151029T135138Z">
+    <ja-JP>CMS のタイトル テキスト-オンリー モード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/D/Download" key="Download" itemid="{7E7A3941-CF60-41A1-9F3A-F0D41DF9ED7E}" fieldid="Phrase" updated="20080620T142818Z">
+    <ja-JP>ダウンロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Marketing/MarketingAutomation" key="MarketingAutomation" itemid="{BBCAED6E-9F9C-4936-B9D7-1A227F1E11E1}" fieldid="Text" updated="20170518T104947Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Marketing/MarketingAutomation" key="MarketingAutomation" itemid="{BBCAED6E-9F9C-4936-B9D7-1A227F1E11E1}" fieldid="__Display name" updated="20170518T104947Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation" key="MarketingAutomation" itemid="{3A86E677-5AD1-4315-B7B5-EFA11988119A}" fieldid="__Display name" updated="20161229T094154Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/Navigation Links/Dashboard/Automation campaigns" key="Automation campaigns" itemid="{EE789E57-36A4-4F47-9312-3829416C6117}" fieldid="__Display name" updated="20170110T102557Z">
+    <ja-JP>オートメーション キャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/Texts/ListPagesHeaderText" key="ListPagesHeaderText" itemid="{B1822E58-CA13-4804-8FA1-67912389B10C}" fieldid="Text" updated="20161125T132734Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Common/Layouts/Renderings/Composites/AutomationCampaignList" key="AutomationCampaignList" itemid="{D2744A7D-21A8-425C-B866-53A89F8CFC06}" fieldid="__Display name" updated="20170510T062704Z">
+    <ja-JP>オートメーション キャンペーン リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/CreatePopover/CreatePopover" key="CreatePopover" itemid="{E0175104-B62B-42E4-9772-64B0F3C2ED48}" fieldid="PopoverTitle" updated="20161228T155341Z">
+    <ja-JP>オートメーション プランを作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/Navigation Links/Dashboard/Automation campaigns/All campaigns" key="All campaigns" itemid="{CBB41749-5D21-4756-A424-21B474805173}" fieldid="Tooltip" updated="20170110T102639Z">
+    <ja-JP>全てのオートメーション フローを表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/Navigation Links/Dashboard/Automation campaigns/Active campaigns" key="Active campaigns" itemid="{29D24FBA-E551-4B1A-8BC6-36989F32CA4C}" fieldid="Tooltip" updated="20170427T082551Z">
+    <ja-JP>全てのアクティブなオートメーション フローを表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Components/Navigation Links/Dashboard/Automation campaigns/Inactive campaigns" key="Inactive campaigns" itemid="{5A516794-F220-47B6-9608-181AACC527B8}" fieldid="Tooltip" updated="20170427T082544Z">
+    <ja-JP>全ての非アクティブなオートメーション フローを表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Common/Layouts/Renderings/Composites/AutomationCampaignList/PageSettings/ActionControl/ActionColumn/ActionGroup/Delete campaign" key="Delete campaign" itemid="{3275682F-B8F7-4622-9AB3-D2AA7DE9082A}" fieldid="Tooltip" updated="20170220T101625Z">
+    <ja-JP>選択されたオートメーション キャンペーンを削除します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Common/Layouts/Renderings/Composites/CreatePopover/PageSettings/CreateButton" key="CreateButton" itemid="{3CA3F97E-90E4-411B-B3F0-92D987E2DC1A}" fieldid="Tooltip" updated="20161227T100913Z">
+    <ja-JP>新規のオートメーション フローを作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/An overview of the number of contacts that have reached the selected" key="An overview of the number of contacts that have reached the selected" itemid="{6675FA27-B5E1-451E-9327-7CB71A8842F6}" fieldid="Phrase" updated="20170823T063226Z">
+    <ja-JP>オートメーション キャンペーンで選択された要素に到達したコンタクトの数の概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/Drag and drop the elements" key="Drag and drop the elements" itemid="{A62750C2-7D1F-4F45-BE31-DAF6AB16ED34}" fieldid="Phrase" updated="20170823T063226Z">
+    <ja-JP>要素をキャンバスにドラッグ&amp;ドロップしオートメーション キャンペーンを作成します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/Select an automation campaign" key="Select an automation campaign" itemid="{0A66B7C3-242E-4677-8F08-173990207B80}" fieldid="Phrase" updated="20170823T063227Z">
+    <ja-JP>オートメーション キャンペーンを選択</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/Select an automation campaign" key="Select an automation campaign" itemid="{0A66B7C3-242E-4677-8F08-173990207B80}" fieldid="__Display name" updated="20170823T063227Z">
+    <ja-JP>オートメーション キャンペーンを選択</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/The automation campaign has been deactivated" key="The automation campaign has been deactivated" itemid="{57A1C6A1-772C-4AE0-914A-E6606B8DE198}" fieldid="Phrase" updated="20170823T063227Z">
+    <ja-JP>オートメーション キャンペーンは無効化されています</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/The automation campaign has been deactivated" key="The automation campaign has been deactivated" itemid="{57A1C6A1-772C-4AE0-914A-E6606B8DE198}" fieldid="__Display name" updated="20170823T063227Z">
+    <ja-JP>オートメーション キャンペーンは無効化されています</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/You are about to activate" key="You are about to activate" itemid="{5C27D070-5445-492D-BBED-657C26379577}" fieldid="Phrase" updated="20170823T063227Z">
+    <ja-JP>現在のオートメーション キャンペーンをアクティブ化しようとしています。コンタクトは開始要素に指定されたルールに従いキャンペーンに登録されます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/You are about to deactivate" key="You are about to deactivate" itemid="{A2592BE3-A024-4F90-B092-DF55461FC654}" fieldid="Phrase" updated="20170823T063227Z">
+    <ja-JP>現在のオートメーション キャンペーンを非アクティブ化しようとしています</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Translations/You are about to delete" key="You are about to delete" itemid="{EEF059BD-114B-454E-9C74-63C39A1FA6FB}" fieldid="Phrase" updated="20170823T063227Z">
+    <ja-JP>このオートメーション キャンペーンを削除しようとしています。現在登録されているコンタクトはこのキャンペーンを継続しません。このアクションは元に戻せません。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Pages/All" key="All" itemid="{F1667BC9-1105-4A4F-9886-021A0440D8F1}" fieldid="BrowserTitle" updated="20170420T111208Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Pages/Active" key="Active" itemid="{EE225B4B-B6DF-486C-9D58-AD10FDAB31C8}" fieldid="BrowserTitle" updated="20170427T082738Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/MarketingAutomation/Pages/Inactive" key="Inactive" itemid="{42B7106C-D350-42CA-8B67-766BD095E093}" fieldid="BrowserTitle" updated="20170427T082748Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+</sitecore>
