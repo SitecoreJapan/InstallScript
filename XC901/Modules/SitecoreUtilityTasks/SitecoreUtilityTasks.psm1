@@ -63,10 +63,10 @@ Function Invoke-CreateDefaultStorefrontTask {
         [string]$scriptName = "CreateDefaultStorefrontTenantAndSite",
 		[Parameter(Mandatory=$false)]
         [string]$siteName = "",
-		[Parameter(Mandatory=$false)]
-        [string]$sitecoreUsername = "sitecore\admin",
-		[Parameter(Mandatory=$false)]
-        [string]$sitecoreUserPassword = "b"
+		[Parameter(Mandatory=$true)]
+        [string]$sitecoreUsername,
+		[Parameter(Mandatory=$true)]
+        [string]$sitecoreUserPassword
     )
 
 	if($siteName -ne "")
@@ -77,11 +77,11 @@ Function Invoke-CreateDefaultStorefrontTask {
 		Stop-WebSite $siteName
 
 		if((Get-WebAppPoolState $siteName).Value -ne 'Stopped')
-		{
-			Stop-WebAppPool -Name $siteName
-		}
+ 		{
+ 			Stop-WebAppPool -Name $siteName
+ 		}
 	
-		Start-WebAppPool -Name $siteName
+ 		Start-WebAppPool -Name $siteName
 		Start-WebSite $siteName
 		Write-Host "Restarting the website and application pool for $($siteName) complete..." -ForegroundColor Green ; 
 	}
@@ -208,8 +208,8 @@ Register-SitecoreInstallExtension -Command Invoke-CreateDefaultStorefrontTask -A
 # SIG # Begin signature block
 # MIIXwQYJKoZIhvcNAQcCoIIXsjCCF64CAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUj9Te6kdNuaXVv7+9YDJ9NOF6
-# SIigghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUs0mkKeEl+Ok/vkbkE+w/4gIN
+# uPugghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
 # AQUFADCBizELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIG
 # A1UEBxMLRHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhh
 # d3RlIENlcnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcg
@@ -315,22 +315,22 @@ Register-SitecoreInstallExtension -Command Invoke-CreateDefaultStorefrontTask -A
 # bTExMC8GA1UEAxMoRGlnaUNlcnQgU0hBMiBBc3N1cmVkIElEIENvZGUgU2lnbmlu
 # ZyBDQQIQB6Zc7QsNL9EyTYMCYZHvVTAJBgUrDgMCGgUAoHAwEAYKKwYBBAGCNwIB
 # DDECMAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO
-# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFNuRjzTG/zNRycEMhSrNJvcV
-# MFmdMA0GCSqGSIb3DQEBAQUABIIBAJLgkp/6wdVxt04Id+g/IWxpLmyDBGPrbFRL
-# r+SGVkIx1EziHYcom+TjmfKNBhHoch8W6q2lg635igREKJ4tao18fbzfIFCiiikC
-# VlPUsehL5YUfcYdg2k8HsBEdJJkZSXRSCk2SVxIZy0qN58lptqxXC+GQZqP/u134
-# JhkuDfo1iY+EWEL8QxXNhDE9rcpFc7HhtGRKQXy4FrYQtREa+s8vUYOuYmMOrdCO
-# Y/1dpFcTsyxfpNb3NS+feTviFywSVwNulyngVbVVEE5DdEq6cij2ADl8MQftrDgI
-# fTMHcEMjPSNyvaunh9bcZbqp6r/WbcZOTXXkq2ZThd1HZmGOQ0ehggILMIICBwYJ
+# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFGSN02v31PA352jIh91Kx3iA
+# Xf85MA0GCSqGSIb3DQEBAQUABIIBADWNRDvZ/D67qQKDuljU03ydOG8P6atlLN85
+# 3KElr8OKukQbCVo8iv7/Uo4IQ/n0963hz1FNzyMANBS9DCqcBUrYZIBFXGz/7Pzs
+# a6Id0nKzj7zaH/hCQ7I04YtyePDYuYnwi3Cp+ArKfNSYyPFiQmCmZPoN9Mg0D1V2
+# HYsoEMx7fkJd89B1CQ5XhJuYwWme21H11JEbRL13xol7RVNfPNQPyxnqerHJm4gC
+# BLBKlhXuNxeBhrTmgnIvt9XEY1SNyYDN9MYU9DBeLp9wTEKTshq+jkWUrXSYZeCJ
+# BN33mup2+EPFuD5VRfijNyDN+MWGJvR4GORQnnn++/INpwWH+/WhggILMIICBwYJ
 # KoZIhvcNAQkGMYIB+DCCAfQCAQEwcjBeMQswCQYDVQQGEwJVUzEdMBsGA1UEChMU
 # U3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRpbWUgU3Rh
 # bXBpbmcgU2VydmljZXMgQ0EgLSBHMgIQDs/0OMj+vzVuBNhqmBsaUDAJBgUrDgMC
 # GgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
-# MTgwMTI4MTQwOTA1WjAjBgkqhkiG9w0BCQQxFgQUEt1Xl/h8nylonIhnQtLc4Q8N
-# WbowDQYJKoZIhvcNAQEBBQAEggEAcMndk2Bbv9iyXXmuhDPttP0sC4qKH0Rn/Vui
-# Co6/Z4VDryoOjm1bIUfgHeV1LiajZh1ZS6RvzU4YJspIvbVbJ4yhCckIpDV+fZyl
-# BhrWxDmLTiZ2RZhS0QNxjkUJm3tSMy6TbBjFil9AJQ9QjV4JwnqRHV/TjdAHEzkw
-# 1KMG+xfsJJB9vxxLPDQKI+sNcMdvsTtM1XkkxTbJUBWaak1d1IghgG6jkh3tzL3d
-# Ksq2mnlQfQY20HVX0ep0LohPkSSr63UGXCSYKJTTPvahTLAN5eoEuydt7gzxrF8/
-# v9d1lCwoIlnntFmBznxq96niPd94Miq7odw4v6mjwW5YCHS/IQ==
+# MTgwMzEyMDc0MjIxWjAjBgkqhkiG9w0BCQQxFgQUHYUb0XZVeiukAmGPfGAFI3j6
+# dzMwDQYJKoZIhvcNAQEBBQAEggEAlBbRDm38XCc1y1bTXfEjbkqJZyEzg7rWWh3P
+# L8HKYGqkeonBZynZG9NeCRlzGFHPZdSaTUqUv1YEeDUA7loyooYMjRlb4ryBxTw0
+# 2KxwEINoayohhfBGNjhUZo8RBuev2IOV0MjMhWtxRF6DJzq0JlqEWu9dFtyr+VZi
+# 0+mRgVXDQIOSwIkqoW5EfvmqYdVnxOck4kQRpsrjLMNCbeSkIOXpShPvySGiLqgq
+# 6/3/S+YjmRKNGqUWadu05IXQLQeNzTWA1nKOWfejWRy4m4ImBvLFlqiOydMHHF3+
+# 9Ec1MFN6QRhM5q6pbuXe03Ii43eerpCQpdJDfoCFZLFwg1/CrA==
 # SIG # End signature block

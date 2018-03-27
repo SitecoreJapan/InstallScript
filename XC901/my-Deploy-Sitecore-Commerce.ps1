@@ -22,29 +22,31 @@ $params = @{
 		InstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$($SiteName).sc"
 		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$($SiteName).xconnect"
 		CertificateName = "$($SiteName).sc"
-		CommerceServicesDbServer = $($Env:COMPUTERNAME)
+		CommerceServicesDbServer = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
 		CommerceServicesDbName = "SitecoreCommerce9_SharedEnvironments"
 		CommerceServicesGlobalDbName = "SitecoreCommerce9_Global"		
-        SitecoreDbServer = $($Env:COMPUTERNAME)
+        SitecoreDbServer = $($Env:COMPUTERNAME)            #OR "SQLServerName\SQLInstanceName"
 		SitecoreCoreDbName = "$($SqlDbPrefix)_Core"
+		SitecoreUsername = "sitecore\admin"
+		SitecoreUserPassword = "b"
 		CommerceSearchProvider = $CommerceSearchProvider
 		SolrUrl = "https://localhost:8983/solr"
 		SolrRoot = "c:\\Solr\\solr-6.6.2"
-		SolrService = "solr-6.6.2"
+		SolrService = "Solr-6.6.2"
 		SolrSchemas = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SolrSchemas" )
 		SearchIndexPrefix = ""
 		AzureSearchServiceName = ""
 		AzureSearchAdminKey = ""
 		AzureSearchQueryKey = ""
-		CommerceEngineDacPac = Resolve-Path -Path "..\assets\Sitecore.Commerce.Engine.DB.dacpac"	   
+		CommerceEngineDacPac = Resolve-Path -Path "..\Sitecore.Commerce.Engine.SDK.*\Sitecore.Commerce.Engine.DB.dacpac"	   
 		CommerceOpsServicesPort = "5015"
 		CommerceShopsServicesPort = "5005"
 		CommerceAuthoringServicesPort = "5000"
 		CommerceMinionsServicesPort = "5010"		
-		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.2.*.zip"		
-		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1.*"		
+		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.*.zip"		
+		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1*"		
 		SitecoreIdentityServerZipPath = Resolve-Path -Path "..\Sitecore.IdentityServer.1.*.zip"
-		CommerceEngineCertificatePath = Resolve-Path -Path "..\assets\EngineConnect.crt"		
+		CommerceEngineCertificatePath = Resolve-Path -Path "..\storefront.engine.cer"		
         SiteUtilitiesSrc = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SiteUtilityPages" )	
         HabitatImagesModuleFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Habitat.Images-*.zip"	
         AdvImagesModuleFullPath = Resolve-Path -Path "..\Adventure Works Images.zip"	
@@ -55,7 +57,7 @@ $params = @{
         SXACommerceModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator 1.*.zip"
 		SXAStorefrontModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront 1.*.zip"
         SXAStorefrontThemeModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront Themes*.zip"
-		SXAStorefrontCatalogModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Habitat Catalog*.zip"
+		SXAStorefrontCatalogModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Habitat Catalog 1.1.47.zip"
 		MergeToolFullPath = Resolve-Path -Path "..\assets\Microsoft.Web.XmlTransform.dll"
 		UserAccount = @{
 			Domain = $Env:COMPUTERNAME
@@ -67,7 +69,7 @@ $params = @{
 			PublicKey = ''
 			PrivateKey = ''
 		}
-		SitecoreIdentityServerName = "SitecoreIdentityServer"
+		SitecoreIdentityServerName = "SitecoreIdentityServer"		
     }
 
 if ($CommerceSearchProvider -eq "SOLR") {
@@ -79,8 +81,8 @@ elseif ($CommerceSearchProvider -eq "AZURE"){
 # SIG # Begin signature block
 # MIIXwQYJKoZIhvcNAQcCoIIXsjCCF64CAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU6to5YQYHcoJHfxmdvPjlOgQ4
-# 0GCgghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUswVm0I2I3UYjVHqBNbc6XlAX
+# YBSgghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
 # AQUFADCBizELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIG
 # A1UEBxMLRHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhh
 # d3RlIENlcnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcg
@@ -186,22 +188,22 @@ elseif ($CommerceSearchProvider -eq "AZURE"){
 # bTExMC8GA1UEAxMoRGlnaUNlcnQgU0hBMiBBc3N1cmVkIElEIENvZGUgU2lnbmlu
 # ZyBDQQIQB6Zc7QsNL9EyTYMCYZHvVTAJBgUrDgMCGgUAoHAwEAYKKwYBBAGCNwIB
 # DDECMAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO
-# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFIKaCwS/9DkNn5OSETSDF/E3
-# WzCvMA0GCSqGSIb3DQEBAQUABIIBAH/IwjPg5JJFoQQeehBuXnCUGVUmJLZWCIDR
-# kyZQr0PSwXPnqaZi8XmOOVjDspMK6gA3Ja/WcA9Y7pntojBjzOYrYTul7A1LtRZW
-# dm38ioecmgORCH+ssUOwdRFQo8PrSoAwNNHictbov2N6gdYDeML2+XQRyGIgQEY2
-# Ueufg0hfhhy8b0h0TLI86HihE2br90Vs7FKZl0UhNGkYGi+BgCzZ4HbWxFDVkHXN
-# 5AZEIrKe1fwYIJmo6zyyWRqqOrG1HjJaUy+T4UTBoUhAkADsUYArcE+qlRFxawLP
-# El7DCz539hpAScHCFBdMU4463IOElzySrTWFPmBtNkQm41sF5tmhggILMIICBwYJ
+# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFA3SgtJKGkW+u0SQP+Id+phk
+# TLrjMA0GCSqGSIb3DQEBAQUABIIBAGVMJUxPR37YG3IKR7acNm0MCRkvEvaSxIq+
+# tgHZyr6i5swJF9A7874xbIr0a3cvaPUJjM2wiqAn6RFaD7J8wqAN2QAQWYeUFalF
+# PJ09PKBW3K7+XzN2mXvMPpbbWOqBDud65BCLhsB4X4CUjoK4SAJ3l6atU7uNQr5u
+# TMJ+Ft7U5rh5hvoC2q51eYlg+35EB1kZIcRynWOSysdd5DjzjNwA33UztdeMDkXK
+# 8qZDBjQjOlJt1jkbGoZotVheH9dG+2S1m0YD2C1mK167rAo+2zoM9fuW2LdrsT2G
+# HWyGe6xy1Fz23DrqH8tzerQrofCmWuu154FgA++DUXxD2n8kppahggILMIICBwYJ
 # KoZIhvcNAQkGMYIB+DCCAfQCAQEwcjBeMQswCQYDVQQGEwJVUzEdMBsGA1UEChMU
 # U3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRpbWUgU3Rh
 # bXBpbmcgU2VydmljZXMgQ0EgLSBHMgIQDs/0OMj+vzVuBNhqmBsaUDAJBgUrDgMC
 # GgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
-# MTgwMTI4MTQwOTEzWjAjBgkqhkiG9w0BCQQxFgQUGnxgCSf5slNJdgLEge3PxWS4
-# CsYwDQYJKoZIhvcNAQEBBQAEggEAdmrcR87J+EIIh3VKiL5Vbp/qeNIaqu7WjHUB
-# CxYbnoDO5JgOhZ1SdovnpN8SgcXD7wND5o7MHKEyRP9t1KH6l/ZL0WgXEukMOicI
-# 8aJGfVyBan4LTEARAXctsScfv8ZDoYqwGvJXHWoyqQjb+cFTpsyWbzqKqXpVjoyf
-# UrpLKbwai0b1sP5kx/jrxTUWFoJ5L3JjWzJ4GyTiNR2q18R4OZ+Q+YbMlcANr5PP
-# hkKMc8zVhnDMsTYQElMigMkB7iJXrx900lW38sVXdpnC8er8bhGIerUDRqGiaef6
-# 0+VkQKINP0804t99gbAh8HpDO1LpeAyHBa71o+N79lo9PcV2Ag==
+# MTgwMzEyMDc0MjI3WjAjBgkqhkiG9w0BCQQxFgQUCJLyRCY9exfBHk6LodzOVW/1
+# nt8wDQYJKoZIhvcNAQEBBQAEggEAgFTwyY6ykTS4HhNFDW56XuJc/zySHt16ByQg
+# ov1MDqPf7prToEWArP3+IpaBqLj7uzFQrnGVl2HNm6vKr5B2GdVE6QohwoCQPAQM
+# cjBtdvOIhcd7603WHjVTLA8ts/d+YuCM44tHEtAFhvGNYZERmMmVQ/Tm6S51q1p/
+# hUoEeahQFsgcvK+JFbH3UtdgPOFxOj7KG+Jk5nLoWBIATopE3seBfwZ55EBgkXWw
+# VMKc7eFLU9OXVqIPOXYZ0uprIaqdsxQ/gzQJCrusomsy+umTou7q4QFncrby+mOx
+# jjgvkc+4hg+aT+nrlh46+40pvcYAHLVuIyYDMp4Fwmjs/Y2vQQ==
 # SIG # End signature block
