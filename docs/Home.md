@@ -9,3 +9,4 @@
 
 ## Sitecore Experience Commerce
 * [Sitecore Experience Commerce 9.0 update 1](90/Sitecore-Experience-Commerce-901.md)
+* [Sitecore Experience Commerce 9.0 update 2](90/Sitecore-Experience-Commerce-902.md)
