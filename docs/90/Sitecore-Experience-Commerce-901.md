@@ -3,11 +3,11 @@
 
 ## 環境を整える
 今回は、すでにインストール済みの Sitecore Experience Platform に対してインストールをします。
-* Sitecore Experience Platform 9.0.1 （[インストール手順](https://github.com/SitecoreJapan/InstallScript/wiki/01-Sitecore-Experience-Platform) )
+* Sitecore Experience Platform 9.0.1 （[インストール手順](Sitecore-Experience-Platform-901.md) )
 
 以下のモジュールを追加インストールします。
-* [.NET Core 2.1.4 SDK (Installer for Windows x64)](https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.4-windows-x64-installer)
-* [ .NET Core Windows Server Hosting 2.0.0](https://aka.ms/dotnetcore-2-windowshosting)
+* [.NET Core 2.1.4 SDK (Installer for Windows x64)](https://www.microsoft.com/net/download)
+* [.NET Core Windows Server Hosting 2.0.0](https://aka.ms/dotnetcore-2-windowshosting)
 
 またインストールに必要な Braintree のアカウントを用意します
 * Braintree の Sandbox アカウント（[Braintree](https://www.braintreepayments.com/sandbox) のサイトから無料で取得できます）
