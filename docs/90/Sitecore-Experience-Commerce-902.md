@@ -145,13 +145,13 @@ PS C:\deploy\assets>
 Sitecore Commerce Engine Connect を設定するための証明書を作成します。
 
 ```
-New-SelfSignedCertificate -certstorelocation cert:\localmachine\my -dnsname "xp0.engineconnect"
+New-SelfSignedCertificate -certstorelocation cert:\localmachine\my -dnsname "sxa.storefront.com"
 ```
 
 上記のコマンドを実行すると表示される Thumbprint を利用して、以下のファイルを作成します。
 
 ```
-Export-Certificate -Cert cert:\localMachine\my\ {Thumbprint} -FilePath 'C:\deploy\storefront.engine.cer'
+Export-Certificate -Cert cert:\localMachine\my\{Thumbprint} -FilePath 'C:\deploy\storefront.engine.cer'
 ```
 
 ## MYDeploy-Sitecore-Commerce.ps1 の作成
