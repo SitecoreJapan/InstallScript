@@ -14,14 +14,13 @@
   <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Security" key="Security" itemid="{B8CE3C9D-2B0B-4015-8F40-9E7E54DA4FF7}" fieldid="RowsNumber" updated="20160412T114348Z">
     <ja-JP>2</ja-JP>
   </phrase>
-<<<<<<< HEAD
-    <phrase path="/sitecore/system/Dictionary/C/Close" key="Close" itemid="{DFCA32E1-D7C1-43F7-BE84-6189E14B156A}" fieldid="Phrase" updated="20080620T142506Z">
+  <phrase path="/sitecore/system/Dictionary/C/Close" key="Close" itemid="{DFCA32E1-D7C1-43F7-BE84-6189E14B156A}" fieldid="Phrase" updated="20080620T142506Z">
     <ja-JP>閉じる</ja-JP>
   </phrase>
   <phrase path="/sitecore/system/Dictionary/D/Download" key="Download" itemid="{7E7A3941-CF60-41A1-9F3A-F0D41DF9ED7E}" fieldid="Phrase" updated="20080620T142818Z">
     <ja-JP>ダウンロード</ja-JP>
   </phrase>
-
-=======
->>>>>>> 4021c2ab6e205afeb0c745c72446566c68d33be0
+  <phrase path="/sitecore/system/Dictionary/O/Open_1" key="Open_1" itemid="{BE7ADB5A-59F1-4CE5-916E-657D4137BE69}" fieldid="Phrase" updated="20081114T045828Z">
+    <ja-JP>開く</ja-JP>
+  </phrase>
 </sitecore>
