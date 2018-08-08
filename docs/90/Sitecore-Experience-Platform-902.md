@@ -32,14 +32,14 @@ Solr のインストールに関しては PowerShell を利用してサービス
 
 スクリプトを上記のフォルダにコピーをして、実行することで Solr 6.6.2 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
 
-## Sitecore Install Framework のインストール
+## Sitecore Installation Framework のインストール
 
 PowerShell のコンソールを開いて、Nuget のプロバイダーに SitecoreGallery を以下のように追加します
 
 ```
 Register-PSRepository -Name "SitecoreGallery" -SourceLocation "https://sitecore.myget.org/F/sc-powershell/api/v2/" -InstallationPolicy Trusted
 ```
-上記の手続きが完了していれば、以下のコマンドで Sitecore Install Framework のインストールが完了します。
+上記の手続きが完了していれば、以下のコマンドで Sitecore Installation Framework のインストールが完了します。
 ```
 Install-Module SitecoreInstallFramework
 ```
