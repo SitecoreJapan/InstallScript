@@ -62,5 +62,7 @@
   <phrase path="/sitecore/system/Marketing Control Panel/Events/Marketing Automation profile score change" key="Marketing Automation profile score change" itemid="{D385BB97-C200-41B6-B053-7A5D8AB58DD0}" fieldid="__Display name" updated="20180808T044135Z">
     <ja-JP>マーケティング オートメーション プロファイル スコア変更</ja-JP>
   </phrase>
-
+  <phrase path="/sitecore/templates/System/Analytics/Marketing Automation" key="Marketing Automation" itemid="{F8CD2101-92A2-444B-883D-C6D7986A3E2A}" fieldid="__Display name" updated="20161222T112022Z">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
 </sitecore>
