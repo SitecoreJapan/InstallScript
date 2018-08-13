@@ -29,5 +29,7 @@
   <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations/AutomationsPanel/EngagementPlans" key="EngagementPlans" itemid="{A0515394-EA52-476E-96C0-579AA946E3F5}" fieldid="EmptyText" updated="20170801T025730Z">
     <ja-JP>マーケティングオートメーションキャンペーンが見つかりません</ja-JP>
   </phrase>
-
+  <phrase path="/sitecore/system/Dictionary/D/Download" key="Download" itemid="{7E7A3941-CF60-41A1-9F3A-F0D41DF9ED7E}" fieldid="Phrase" updated="20080620T052818Z">
+    <ja-JP>ダウンロード</ja-JP>
+  </phrase>
 </sitecore>
