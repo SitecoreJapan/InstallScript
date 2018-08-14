@@ -1,8 +1,8 @@
 #Requires -Version 3
 param(
-    [string]$SiteName = "habitat.dev.local",	
+    [string]$SiteName = "xp0.sc",	
 	[string]$SiteHostHeaderName = "sxa.storefront.com",	
-	[string]$SqlDbPrefix = $SiteName,
+	[string]$SqlDbPrefix = "xp0",
 	[string]$CommerceSearchProvider = "SOLR"
 )
 
@@ -20,7 +20,7 @@ $params = @{
 		SiteName = $SiteName
 		SiteHostHeaderName = $SiteHostHeaderName 
 		InstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$SiteName"
-		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\habitat_xconnect.dev.local"
+		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\xp0.xconnect"
 		CertificateName = $SiteName
 		CommerceServicesDbServer = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
 		CommerceServicesDbName = "SitecoreCommerce9_SharedEnvironments"
