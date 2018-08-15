@@ -1,8 +1,8 @@
 #Requires -Version 3
 param(
-    [string]$SiteName = "habitat.dev.local",	
+    [string]$SiteName = "xp0.sc",	
 	[string]$SiteHostHeaderName = "sxa.storefront.com",	
-	[string]$SqlDbPrefix = $SiteName,
+	[string]$SqlDbPrefix = "xp0",
 	[string]$CommerceSearchProvider = "SOLR"
 )
 
@@ -20,7 +20,7 @@ $params = @{
 		SiteName = $SiteName
 		SiteHostHeaderName = $SiteHostHeaderName 
 		InstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$SiteName"
-		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\habitat_xconnect.dev.local"
+		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\xp0.xconnect"
 		CertificateName = $SiteName
 		CommerceServicesDbServer = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
 		CommerceServicesDbName = "SitecoreCommerce9_SharedEnvironments"
@@ -38,21 +38,21 @@ $params = @{
 		AzureSearchServiceName = ""
 		AzureSearchAdminKey = ""
 		AzureSearchQueryKey = ""
-		CommerceEngineDacPac = Resolve-Path -Path "..\Sitecore.Commerce.Engine.SDK.*\Sitecore.Commerce.Engine.DB.dacpac"	   
+		CommerceEngineDacPac = Resolve-Path -Path "..\assets\Sitecore.Commerce.Engine.DB.dacpac"	   
 		CommerceOpsServicesPort = "5015"
 		CommerceShopsServicesPort = "5005"
 		CommerceAuthoringServicesPort = "5000"
 		CommerceMinionsServicesPort = "5010"		
-		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.2.2.126.zip"		
-		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1.2.19"		
+		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.2*.zip"		
+		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1*"		
 		SitecoreIdentityServerZipPath = Resolve-Path -Path "..\Sitecore.IdentityServer.1.*.zip"
-		CommerceEngineCertificatePath = Resolve-Path -Path "..\storefront.engine.cer"		
+		CommerceEngineCertificatePath = Resolve-Path -Path "..\assets\storefront.engine.cer"		
         SiteUtilitiesSrc = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SiteUtilityPages" )	
         HabitatImagesModuleFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Habitat.Images-*.zip"	
         AdvImagesModuleFullPath = Resolve-Path -Path "..\Adventure Works Images.zip"	
 		CommerceConnectModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Connect*.zip"	
 		CommercexProfilesModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceProfile Core *.zip"	
-		CommercexAnalyticsModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceAnalytics Core 11.2.83.zip"	
+		CommercexAnalyticsModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceAnalytics Core *.zip"	
 		CommerceMAModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation Core *.zip"	
 		CommerceMAForAutomationEngineModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation for AutomationEngine *.zip"	
         CEConnectPackageFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.Connect*.update"
