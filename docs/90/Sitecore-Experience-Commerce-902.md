@@ -16,15 +16,15 @@ Sitecore Experience Platform 9.0.2 の環境に関しては、インストール
 
 ## ファイルのダウンロードと展開
 
-今回、インストールをするセットは `c:\deploy` のフォルダを作成して展開していきます。まず、Sitecore Experience Commerce 9.0 update 2 のページから、Packages for On Premises 2018.07-2.2.126 ( Sitecore.Commerce.2018.07-2.2.126.zip ) のファイルをダウンロードしてしてください。
+今回、インストールをするセットは `c:\projects\sc902` のフォルダを作成して展開していきます。まず、Sitecore Experience Commerce 9.0 update 2 のページから、Packages for On Premises 2018.07-2.2.126 ( Sitecore.Commerce.2018.07-2.2.126.zip ) のファイルをダウンロードしてしてください。
 
-ダウンロードしたファイルは、ブロックされている場合は、先にファイルのプロパティを開いて、ブロック解除をする必要があります。解除していただいた後、c:\deploy フォルダに展開します。
+ダウンロードしたファイルは、ブロックされている場合は、先にファイルのプロパティを開いて、ブロック解除をする必要があります。解除していただいた後、c:\projects\sc902 フォルダに展開します。
 
 ```
-PS C:\deploy> dir
+PS C:\projects\sc902> dir
 
 
-    ディレクトリ: C:\deploy
+    ディレクトリ: C:\projects\sc902
 
 
 Mode                LastWriteTime         Length Name
@@ -52,29 +52,31 @@ Mode                LastWriteTime         Length Name
 ------       2018/07/05     15:53         147896 speak-styling-0.9.0-r00078.tgz
 
 
-PS C:\deploy>
+PS C:\projects\sc902>
 ```
 
-`c:\deploy` の中にある以下のファイルを解凍します。解凍することで、3 つのフォルダが  `c:\deploy` に作成されます。
+`c:\projects\sc902` の中にある以下のファイルを解凍します。解凍することで、3 つのフォルダが  `c:\projects\sc902` に作成されます。
 
 * SIF.Sitecore.Commerce.1.2.14.zip
 * Sitecore.Commerce.Engine.SDK.2.2.72.zip
 * Sitecore.BizFX.1.2.19.zip
 
+上記の 3 つのファイルは不要となりますので、削除してください。
+
 続いて、 `Microsoft.Web.XmlTransform.dll`を利用するため、以下の Nuget Gallary からファイルをダウンロードします。
 
 * Nuget Gallary - [MSBuild.Microsoft.VisualStudio.Web.targets 14.0.0.3](https://www.nuget.org/packages/MSBuild.Microsoft.VisualStudio.Web.targets/) 
 
-上記のページの Manual download からファイルをダウンロードしたファイル msbuild.microsoft.visualstudio.web.targets.14.0.0.3.nupkg の拡張子 nupkg を zip に変更することで、解凍が可能となります。解凍先は `c:\deploy` で展開してください。
+上記のページの Manual download からファイルをダウンロードしたファイル msbuild.microsoft.visualstudio.web.targets.14.0.0.3.nupkg の拡張子 nupkg を zip に変更することで、解凍が可能となります。解凍先は `c:\projects\sc902` で展開してください。
 
 なお、このファイルがダウンロードしてすぐの場合はブロックされていることがあります。プロパティを開いて、ブロックを解除してから展開してください。
 
 上記の作業が完了すると、以下のようなフォルダの構成となります。
 
 ```
-PS C:\deploy> dir
+PS C:\projects\sc902> dir
 
-    ディレクトリ: C:\deploy
+    ディレクトリ: C:\projects\sc902
 
 
 Mode                LastWriteTime         Length Name
@@ -108,25 +110,25 @@ d-----       2018/07/26     13:32                Sitecore.Commerce.Engine.SDK.2.
 -a----       2018/07/26     13:43            820 storefront.engine.cer
 
 
-PS C:\deploy>
+PS C:\projects\sc902>
 ```
 
-以下のファイルを `c:\deploy\assets` フォルダにダウンロードします。
+以下のファイルを `c:\projects\sc902\assets` フォルダにダウンロードします。
 * [Sitecore Powershell Extensions 4.7.2](https://marketplace.sitecore.net/en/Modules/Sitecore_PowerShell_console.aspx)
 * [Sitecore Experience Accelerator 1.7.1](https://dev.sitecore.net/Downloads/Sitecore_Experience_Accelerator/17/Sitecore_Experience_Accelerator_17_Update1.aspx)
 
 
-最後に、すでに展開している Sitecore.Commerce.Engine.SDK.2.2.72 のフォルダの中にある `Sitecore.Commerce.Engine.DB.dacpac` のファイルも `c:\deploy\assets` のフォルダにコピーをします。
+最後に、すでに展開している Sitecore.Commerce.Engine.SDK.2.2.72 のフォルダの中にある `Sitecore.Commerce.Engine.DB.dacpac` のファイルも `c:\projects\sc902\assets` のフォルダにコピーをします。
 
 
-`C:\deploy\assets` のフォルダは以下のような構成になります。
+`C:\projects\sc902\assets` のフォルダは以下のような構成になります。
 
 ```
-PS C:\deploy> cd assets
-PS C:\deploy\assets> dir
+PS C:\projects\sc902> cd assets
+PS C:\projects\sc902\assets> dir
 
 
-    ディレクトリ: C:\deploy\assets
+    ディレクトリ: C:\projects\sc902\assets
 
 
 Mode                LastWriteTime         Length Name
@@ -136,7 +138,7 @@ Mode                LastWriteTime         Length Name
 -a----       2018/06/26     23:06           9251 Sitecore.Commerce.Engine.DB.dacpac
 
 
-PS C:\deploy\assets>
+PS C:\projects\sc902\assets>
 
 ```
 
@@ -151,12 +153,12 @@ New-SelfSignedCertificate -certstorelocation cert:\localmachine\my -dnsname "sxa
 上記のコマンドを実行すると表示される Thumbprint を利用して、以下のファイルを作成します。
 
 ```
-Export-Certificate -Cert cert:\localMachine\my\{Thumbprint} -FilePath 'C:\deploy\storefront.engine.cer'
+Export-Certificate -Cert cert:\localMachine\my\{Thumbprint} -FilePath 'C:\projects\sc902\assets\storefront.engine.cer'
 ```
 
 ## MYDeploy-Sitecore-Commerce.ps1 の作成
 
-`C:\deploy\SIF.Sitecore.Commerce.1.2.14` のフォルダに入っているインストール用のスクリプト `Deploy-Sitecore-Commerce.ps1` をコピーして、ファイル名を `MyDeploy-Sitecore-Commerce.ps1` として保存します。
+`C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14` のフォルダに入っているインストール用のスクリプト `Deploy-Sitecore-Commerce.ps1` をコピーして、ファイル名を `MyDeploy-Sitecore-Commerce.ps1` として保存します。
 
 `MyDeploy-Sitecore-Commerce.ps1` のファイルを開いて、以下のパラメーターの確認をしてください。
 
@@ -179,19 +181,19 @@ Export-Certificate -Cert cert:\localMachine\my\{Thumbprint} -FilePath 'C:\deploy
 
 実際にインストールに成功しているサンプルの `MyDeploy-Sitecore-Commerce.ps1` を、 XC902 フォルダに参考ファイルとしてアップしておきました。
 
-## xConnect の停止
+## xConnect は稼働させる
 
-インストール中、xConnect のインスタンスを止める必要があるため、IIS の管理画面から停止してください。
+Sitecore Commerce 9.0.1 まではここで xConnect を停止させる手順でしたが、Sitecore Commerce 9.0.2 ではインストール中は xConnect のインスタンスを稼働させる必要があるため、動いていればそのままにしてください。
 
 ## インストールスクリプトを実行
 
 あとは PowerShell でスクリプトを実行することで、Solr や Sitecore のプロセスなどがインストールされます。
 
 ```
-PS C:\deploy\SIF.Sitecore.Commerce.1.2.14> dir *.ps1
+PS C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14> dir *.ps1
 
 
-    ディレクトリ: C:\deploy\SIF.Sitecore.Commerce.1.2.14
+    ディレクトリ: C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14
 
 
 Mode                LastWriteTime         Length Name
@@ -200,11 +202,9 @@ Mode                LastWriteTime         Length Name
 -a----       2018/07/26     13:58          13373 MyDeploy-Sitecore-Commerce.ps1
 
 
-PS C:\deploy\SIF.Sitecore.Commerce.1.2.14> .\MyDeploy-Sitecore-Commerce.ps1
+PS C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14> .\MyDeploy-Sitecore-Commerce.ps1
 
 ```
-
-インストール後、xConnect を再開してください。
 
 ## Tips
 Index の Rebuild で時間がかかってタイムアウトすることがあります。この際は、SIF.Sitecore.Commerce.1.2.14\Configuration\Commerce のフォルダにある json ファイル Master_SingleServer.json を開いて、 Tasks で Rebuild 作業以降にすることで再開できます（以下、サンプル）。
