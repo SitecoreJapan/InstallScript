@@ -69,9 +69,9 @@ $params = @{
 			Password = 'Pu8azaCr'
 		}
 		BraintreeAccount = @{
-			MerchantId = 'c36w95m65f9t2zps'
-			PublicKey = 'ccgwnp7whv8pc6yt'
-			PrivateKey = '1149582924a491cdc4fc82feab85e3cb'
+			MerchantId = ''
+			PublicKey = ''
+			PrivateKey = ''
 		}
 		SitecoreIdentityServerName = "SitecoreIdentityServer"		
     }
