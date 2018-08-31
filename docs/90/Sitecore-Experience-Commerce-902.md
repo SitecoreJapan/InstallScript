@@ -206,6 +206,22 @@ PS C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14> .\MyDeploy-Sitecore-Commerce.
 
 ```
 
+## インストール後の処理
+
+Sitecore Experience Commerce 9.0.2 のインストールが完了したあと、以下の手順で日本語リソースをインポートしてください。
+
+- Sitecore の日本語リソースの適用（ https://dev.sitecore.net からダウンロードした Sitecore 9.0.2 rev. 180604 (ja-JP).zip をアップロード）
+- Sitecore Experience Acceleartor 1.7 update の日本語リソースの適用（ temp/SXAtranslations/ja-jp.xml にファイルがあります）
+- Github で展開している Sitecore Commerce Experience 9.0.2 リソースファイル、Commerce-core-ja-jp.xml を Core データベースに、Commerce-master-ja-jp.xml を Master データベースに適用します
+
+Sitecore Experience Commerce のビジネスツールの日本語リソースは従来の管理と異なり、Master データベースで変更してリソースデータベースをクリアする、という手順になっています。このため SQL Server Management Tool を起動してサーバーに接続、SitecoreCommerce9_SharedEnvironments のデータベースにある ContentEntities のテーブルのデータをクリアしてください。
+
+```
+DELETE FROM [SitecoreCommerce9_SharedEnvironments].[dbo].[ContentEntities]
+```
+
+データをクリアしたあと、IIS を再起動すると、次回にビジネスツールを起動する際に Masnter データベースのデータを利用して、リソースが更新される形です。
+
 ## Tips
 Index の Rebuild で時間がかかってタイムアウトすることがあります。この際は、SIF.Sitecore.Commerce.1.2.14\Configuration\Commerce のフォルダにある json ファイル Master_SingleServer.json を開いて、 Tasks で Rebuild 作業以降にすることで再開できます（以下、サンプル）。
 

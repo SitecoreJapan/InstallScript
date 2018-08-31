@@ -1,0 +1,26 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Applications/CommerceApps" key="CommerceApps" itemid="{BB51734F-118D-4328-A473-796D3D29230D}" fieldid="__Display name" updated="20131119T060016Z">
+    <ja-JP>Commerce アプリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/CommerceApps/Commerce Editor" key="Commerce Editor" itemid="{E2733D8D-2B9F-4870-871B-48D12ECB1D20}" fieldid="Display name" updated="20131119T072522Z">
+    <ja-JP>Commerce エディター</ja-JP>
+  </phrase>
+    <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Left/Commerce Editor" key="Commerce Editor" itemid="{98E69F0A-0C19-4DCB-AE28-4E0C86325E49}" fieldid="Tool tip" updated="20151009T210625Z">
+    <ja-JP>Commerce コンテンツの管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Left/Commerce Editor" key="Commerce Editor" itemid="{98E69F0A-0C19-4DCB-AE28-4E0C86325E49}" fieldid="Display name" updated="20151009T210625Z">
+    <ja-JP>Commerce エディター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Left/Commerce Editor" key="Commerce Editor" itemid="{98E69F0A-0C19-4DCB-AE28-4E0C86325E49}" fieldid="__Display name" updated="20151009T210625Z">
+    <ja-JP>Commerce エディター</ja-JP>
+  </phrase>
+    <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Commerce" key="Commerce" itemid="{B1D01A70-E9BB-43A9-BC5E-B34442E5AB85}" fieldid="Title" updated="20171023T185148Z">
+    <ja-JP>Commerce</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Commerce/BusinessTools" key="BusinessTools" itemid="{C19BA3CD-6290-4C68-9A5D-2008A16FDBEF}" fieldid="Text" updated="20171228T144303Z">
+    <ja-JP>ビジネス ツール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Commerce/BusinessTools" key="BusinessTools" itemid="{C19BA3CD-6290-4C68-9A5D-2008A16FDBEF}" fieldid="__Display name" updated="20171228T144303Z">
+    <ja-JP>ビジネスツール</ja-JP>
+  </phrase>
+</sitecore>
