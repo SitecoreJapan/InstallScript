@@ -28,7 +28,7 @@ Web Platform Installer をインストールした後、以下のモジュール
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
 * 作業フォルダ : c:\project\solr
-* コピーするファイル： [install-solr-1.8.0_171.ps1](../../solr/install-solr-1.8.0_171.ps1)
+* コピーするファイル： [InstallSolr.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
 
 スクリプトを上記のフォルダにコピーをして、実行することで Solr 6.6.2 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
 
@@ -61,7 +61,7 @@ Script     1.2.1      SitecoreInstallFramework            {Export-WebDeployParam
 * [Packages for XP Single](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Update2.aspx)
 
 続いて、サンプルの Install スクリプトをダウンロードします。
-* [InstallScript.ps1](../../902/InstallScript.ps1)
+* [InstallScript.ps1](https://github.com/SitecoreJapan/InstallScript/blob/master/902/InstallScript.ps1)
 
 以下、ファイルを展開する場所に関しては `c:\projects\sif` を想定して記載していきます。  
 1. ダウンロードした `InstallScript.ps1` を `c:\projects\sif` にコピーします。

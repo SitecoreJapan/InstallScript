@@ -28,7 +28,7 @@ Web Platform Installer をインストールした後、以下のモジュール
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
 * 作業フォルダ : c:\project\solr
-* コピーするファイル： [InstallSolr.ps1](https://github.com/SitecoreJapan/InstallScript/blob/master/solr/install-solr.ps1)
+* コピーするファイル： [InstallSolr.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
 
 スクリプトを上記のフォルダにコピーをして、実行することで Solr 6.6.2 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
 
