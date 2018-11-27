@@ -1,0 +1,158 @@
+﻿<sitecore>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account" key="Commerce Account" itemid="{B2EC0F8B-DD05-4964-8B46-D1232BFBFC2E}" fieldid="__Display name" updated="20180124T072603Z">
+    <ja-JP>Commerce アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Address Editor" key="Address Editor" itemid="{ECF139E2-C760-4EF1-847D-3B1A7718A051}" fieldid="__Display name" updated="20180322T032830Z">
+    <ja-JP>アドレス帳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Address List" key="Address List" itemid="{C7363F74-D4A6-44A6-828B-86119F24C163}" fieldid="__Display name" updated="20180322T032848Z">
+    <ja-JP>住所リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Change Password" key="Change Password" itemid="{D05C410D-AAAF-4295-A5BE-47DB5B011F4D}" fieldid="__Display name" updated="20171211T082923Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Forgot Password" key="Forgot Password" itemid="{ABB029F6-990F-42ED-8B4C-5C2D28D0A4B1}" fieldid="__Display name" updated="20171211T082930Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Login" key="Login" itemid="{97D8D8DA-E6FD-4983-BDB6-ABD28C6E0209}" fieldid="__Display name" updated="20180103T065248Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Profile Editor" key="Profile Editor" itemid="{845BE183-8C33-443A-A396-257B87BBC2BE}" fieldid="__Display name" updated="20171211T083005Z">
+    <ja-JP>プロファイル編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Profile View" key="Profile View" itemid="{C212B24C-5A0C-47CF-A91A-18C0B08970DD}" fieldid="__Display name" updated="20171211T083012Z">
+    <ja-JP>プロファイル表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Registration" key="Registration" itemid="{8088A650-0910-4CE0-802A-3D5E757F1254}" fieldid="__Display name" updated="20171211T083018Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart" key="Commerce Cart" itemid="{66DD1E03-3207-41D1-A84E-C71E8E679FD9}" fieldid="__Display name" updated="20180124T072603Z">
+    <ja-JP>Commerce カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Add To Cart" key="Add To Cart" itemid="{93BC3DB7-582A-48EE-ADE8-F410561FA411}" fieldid="__Display name" updated="20171211T083025Z">
+    <ja-JP>カートに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Minicart" key="Minicart" itemid="{04B9A10C-2092-4E29-BDA3-79571F5F19FC}" fieldid="__Display name" updated="20171211T083031Z">
+    <ja-JP>ミニ カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Promotion Codes" key="Promotion Codes" itemid="{AB1E2893-6556-49D5-9095-B7AAF09B8BEF}" fieldid="__Display name" updated="20171211T083045Z">
+    <ja-JP>プロモーション コード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{3E8F1BDD-037D-4AD7-953C-D39E9191C5FD}" fieldid="__Display name" updated="20171211T083059Z">
+    <ja-JP>ショッピングカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Shopping Cart Total" key="Shopping Cart Total" itemid="{062251D0-4C83-43BE-8119-B33DAF14DF2F}" fieldid="__Display name" updated="20171211T083105Z">
+    <ja-JP>ショッピングタートル合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog" key="Commerce Catalog" itemid="{7E57CE9B-7895-442E-B0C8-521E7D5BD987}" fieldid="__Display name" updated="20180124T072617Z">
+    <ja-JP>Commerce カタログ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Catalog Item Container" key="Catalog Item Container" itemid="{A4946E81-2A46-48D6-988D-81033CC7044B}" fieldid="__Display name" updated="20171006T081739Z">
+    <ja-JP>カタログ アイテム コンテナ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Category Navigation" key="Category Navigation" itemid="{7F30A08E-92A2-4C33-B9CF-0AA6AEB064C3}" fieldid="__Display name" updated="20170725T035656Z">
+    <ja-JP>カテゴリ ナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Facets" key="Product Facets" itemid="{57DDDA93-8C79-452E-8D7E-6F828B97F8C2}" fieldid="__Display name" updated="20170725T032032Z">
+    <ja-JP>製品ファセット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Images" key="Product Images" itemid="{24A792CF-1F2A-4A0D-9CEE-89B6BC696C55}" fieldid="__Display name" updated="20170725T032132Z">
+    <ja-JP>製品イメージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Information" key="Product Information" itemid="{C4222625-2637-43FE-82D7-341009A277CA}" fieldid="__Display name" updated="20171211T083128Z">
+    <ja-JP>製品情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Inventory" key="Product Inventory" itemid="{B79DF484-3464-441A-811C-DC1BFEED8CA1}" fieldid="__Display name" updated="20171211T083137Z">
+    <ja-JP>製品在庫</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List" key="Product List" itemid="{54729A57-6D74-4A3D-A870-174F70FC6288}" fieldid="__Display name" updated="20171211T083143Z">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Items per Page" key="Product List Items per Page" itemid="{9CA5EB05-780A-438F-AABE-18B09C97D5FD}" fieldid="__Display name" updated="20171127T065956Z">
+    <ja-JP>製品リスト ページ表示数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Page Info" key="Product List Page Info" itemid="{C1DE5434-8570-46CB-BF87-FC33DBDFD89E}" fieldid="__Display name" updated="20171211T083159Z">
+    <ja-JP>製品リスト ページ情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Pager" key="Product List Pager" itemid="{2A6D6B26-5912-4AD1-B396-47669C2AEBEE}" fieldid="__Display name" updated="20171211T083210Z">
+    <ja-JP>製品リスト ページャー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Sorting" key="Product List Sorting" itemid="{EA89C258-F47F-4A76-A9E2-DF450985B897}" fieldid="__Display name" updated="20171211T083226Z">
+    <ja-JP>製品リスト 並び替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Price" key="Product Price" itemid="{32C08A8F-1576-4DED-905D-DDAB77466027}" fieldid="__Display name" updated="20170720T034252Z">
+    <ja-JP>製品価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Variants" key="Product Variants" itemid="{63B19D58-0764-495A-80CB-4B06C99C3F70}" fieldid="__Display name" updated="20171211T083238Z">
+    <ja-JP>製品の種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Promoted Products" key="Promoted Products" itemid="{AB50BF90-23E9-4452-8FA5-DF7A293CB6BE}" fieldid="__Display name" updated="20171214T033504Z">
+    <ja-JP>製品のプロモーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Search Initiated" key="Search Initiated" itemid="{8EB4ECE6-E52A-4175-82E6-8182CDD93414}" fieldid="__Display name" updated="20180604T011441Z">
+    <ja-JP>検索でアクセス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Visited Category Page" key="Visited Category Page" itemid="{318A2CD5-A87B-4583-91AB-F66F572947FB}" fieldid="__Display name" updated="20180601T110213Z">
+    <ja-JP>訪問したカテゴリーページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Visited Product Page" key="Visited Product Page" itemid="{8136E17F-7B43-4B1E-BA17-6521B05F58D0}" fieldid="__Display name" updated="20180601T110258Z">
+    <ja-JP>訪問した商品ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Subcategory Navigation" key="Subcategory Navigation" itemid="{E3E0051B-CF20-4014-9373-5F96297DF2A5}" fieldid="__Display name" updated="20170725T031939Z">
+    <ja-JP>サブカテゴリ ナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout" key="Commerce Checkout" itemid="{7F71CAD2-1AAB-406A-8E35-A04E2B86632D}" fieldid="__Display name" updated="20180124T072624Z">
+    <ja-JP>Commerce チェックアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Billing" key="Billing" itemid="{5DFBBA2F-736F-4185-8FA5-C9107A3647B0}" fieldid="__Display name" updated="20171211T083255Z">
+    <ja-JP>支払い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Delivery" key="Delivery" itemid="{33DF6C8F-BB50-447B-8CF8-ED84F665B2BA}" fieldid="__Display name" updated="20171211T083302Z">
+    <ja-JP>配送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Order Confirmation" key="Order Confirmation" itemid="{E4D1D252-5689-4F23-8655-B9AC90D36F15}" fieldid="__Display name" updated="20171211T083308Z">
+    <ja-JP>オーダーの確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Review" key="Review" itemid="{9D1D9DB3-EE59-4AAA-862E-65FFFB097FD3}" fieldid="__Display name" updated="20171211T083314Z">
+    <ja-JP>レビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Start Checkout" key="Start Checkout" itemid="{7AE14FB7-E165-49CA-85FB-B45E4B14B955}" fieldid="__Display name" updated="20171211T083329Z">
+    <ja-JP>チェックアウトの開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Step Indicator" key="Step Indicator" itemid="{3034FC89-896C-4A55-A72A-E3BC92A67BC6}" fieldid="__Display name" updated="20171211T083338Z">
+    <ja-JP>オーダー手順の確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders" key="Commerce Orders" itemid="{CF6F6728-83F7-4893-B36F-4897D4AA403E}" fieldid="__Display name" updated="20180124T072641Z">
+    <ja-JP>Commerce オーダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Header" key="Order Header" itemid="{136EA27E-7ED0-4EB8-8C5E-A85E7272D61D}" fieldid="__Display name" updated="20171211T083348Z">
+    <ja-JP>注文ヘッダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order History" key="Order History" itemid="{CE39AB87-34C6-46F8-A5E2-B532158B10EF}" fieldid="__Display name" updated="20171211T083357Z">
+    <ja-JP>注文履歴</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Lines" key="Order Lines" itemid="{31AF62B3-42D5-411C-A3ED-98541134D003}" fieldid="__Display name" updated="20171211T083403Z">
+    <ja-JP>注文ライン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Totals" key="Order Totals" itemid="{49EF85FC-FBDD-4FE8-AE43-A5C9C1DF7959}" fieldid="__Display name" updated="20171211T083410Z">
+    <ja-JP>注文合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Recent Orders" key="Recent Orders" itemid="{7BAC69BC-19F8-487E-A6AA-29A145934C6C}" fieldid="__Display name" updated="20171211T083421Z">
+    <ja-JP>最近の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared" key="Commerce Shared" itemid="{A9E7129A-E6F4-414C-8452-D873EB68BFC2}" fieldid="__Display name" updated="20180124T072701Z">
+    <ja-JP>Commerce 共有</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Language Selector" key="Language Selector" itemid="{EAF925D2-529E-4A5B-90DE-87184D3BA735}" fieldid="__Display name" updated="20170725T032934Z">
+    <ja-JP>言語切り替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Message Summary" key="Message Summary" itemid="{A6AEE2E8-BFB1-4D86-BA02-5E73C723B38E}" fieldid="__Display name" updated="20170626T083143Z">
+    <ja-JP>メッセージ概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Search Bar" key="Search Bar" itemid="{29E9F4F9-F2AC-4AB1-80E5-EBB3CFF7E9F2}" fieldid="__Display name" updated="20171211T075024Z">
+    <ja-JP>検索バー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Top Bar Links" key="Top Bar Links" itemid="{18F9EE55-D1CB-41E2-9238-78DB8BDB1AE2}" fieldid="__Display name" updated="20171211T075005Z">
+    <ja-JP>トップバー リンク</ja-JP>
+  </phrase>
+</sitecore>

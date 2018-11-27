@@ -1,0 +1,500 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce" key="Commerce" itemid="{05B4F481-60B7-47C5-BA43-68808C876374}" fieldid="Header" updated="20151124T130831Z">
+    <ja-JP>$name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce" key="Commerce" itemid="{05B4F481-60B7-47C5-BA43-68808C876374}" fieldid="__Display name" updated="20151124T130831Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/CommercePanel" key="CommercePanel" itemid="{C0FE6F7E-B870-4629-8C40-317B4180532C}" fieldid="Header" updated="20151216T110748Z">
+    <ja-JP>$name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview" key="Overview" itemid="{0D313697-4D6C-49C9-BD8A-2E9044D7B6AC}" fieldid="__Display name" updated="20151216T092636Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/AvgTotalCartsTitle" key="AvgTotalCartsTitle" itemid="{08C03631-EE01-4BD4-9858-78755CED82C0}" fieldid="Text" updated="20151209T071030Z">
+    <ja-JP>平均バリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/AvgTotalOrdersTitle" key="AvgTotalOrdersTitle" itemid="{AD63BEFD-6079-46B3-B7EF-9026FF657A1F}" fieldid="Text" updated="20151209T071037Z">
+    <ja-JP>平均バリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/FirstCartPlacedTitle" key="FirstCartPlacedTitle" itemid="{C616C075-241F-4139-BC06-E24B7DB254CF}" fieldid="Text" updated="20151115T105632Z">
+    <ja-JP>最初に放棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/FirstOrderPlacedTitle" key="FirstOrderPlacedTitle" itemid="{05630BBE-E006-4218-A5A6-C23D0CE6F246}" fieldid="Text" updated="20151112T153211Z">
+    <ja-JP> 最初の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/FrequencyOfAbandonedCartsTitle" key="FrequencyOfAbandonedCartsTitle" itemid="{09784E25-A06B-4872-89EB-B5D39FCAD651}" fieldid="Text" updated="20151209T071421Z">
+    <ja-JP>放棄されたカートの頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/FrequencyOfTransactionsTitle" key="FrequencyOfTransactionsTitle" itemid="{9512E7BB-332F-481A-922A-1451DC3CA901}" fieldid="Text" updated="20151209T071154Z">
+    <ja-JP>オーダーの頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/LastCartPlacedTitle" key="LastCartPlacedTitle" itemid="{C7BBAF15-6701-4BA9-8E78-AAB283D8E597}" fieldid="Text" updated="20151115T105651Z">
+    <ja-JP>最後の破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/LastOrderPlacedTitle" key="LastOrderPlacedTitle" itemid="{AFB108E2-E507-49AA-A3BE-C3B048BF69A5}" fieldid="Text" updated="20151112T153226Z">
+    <ja-JP>最後の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/NumberOfCartsTitle" key="NumberOfCartsTitle" itemid="{17054BC9-559F-4632-B8DC-2E2B351B3B39}" fieldid="Text" updated="20151209T071312Z">
+    <ja-JP>放棄されたカートの数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/NumberOfOrdersTitle" key="NumberOfOrdersTitle" itemid="{7B17E31C-13BB-4180-95D1-6D5649A325CF}" fieldid="Text" updated="20151117T094904Z">
+    <ja-JP>注文数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/NumberOfProductsTitle" key="NumberOfProductsTitle" itemid="{E69FF2D0-A445-47DB-B43B-3A116F736D4D}" fieldid="Text" updated="20151209T071139Z">
+    <ja-JP>製品の総数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/NumberOfUniquePurchasesTitle" key="NumberOfUniquePurchasesTitle" itemid="{D8EB795E-672B-408F-BDB5-4953BC00856C}" fieldid="Text" updated="20151209T071115Z">
+    <ja-JP>ユニークな製品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/TotalCartsTitle" key="TotalCartsTitle" itemid="{3DF4F79F-8DAD-47C9-BB87-A73C8F99AD4D}" fieldid="Text" updated="20151209T070953Z">
+    <ja-JP>トータルの価値</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/Texts/TotalOrdersTitle" key="TotalOrdersTitle" itemid="{BD639A57-6094-42B9-AD2E-0917C8DBABFB}" fieldid="Text" updated="20151209T071001Z">
+    <ja-JP>注文のバリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/OverviewPanel" key="OverviewPanel" itemid="{0E7B4FB8-27D7-401D-A969-C789D04354AB}" fieldid="Header" updated="20151214T122414Z">
+    <ja-JP>OverviewPanel</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/OverviewPanel/OrderMetricsAccordion" key="OrderMetricsAccordion" itemid="{D848457F-958A-4668-BE40-F29C58B80984}" fieldid="Header" updated="20151210T135026Z">
+    <ja-JP>注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/Overview/OverviewPanel/AbadonedCartMetricsAccordion" key="AbadonedCartMetricsAccordion" itemid="{49D3F791-916F-4A9F-9E68-6850D19EC419}" fieldid="Header" updated="20151210T135455Z">
+    <ja-JP>破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes" key="OrderOutcomes" itemid="{A20A4BD1-14F7-4D91-8CF6-236797CBD213}" fieldid="__Display name" updated="20151216T092624Z">
+    <ja-JP>注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel" key="OrderOutcomesPanel" itemid="{B0E83DC6-C131-4CE9-AD74-74E5CFCC6DED}" fieldid="Header" updated="20151210T113855Z">
+    <ja-JP>$name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomesAccordion" key="OrderOutcomesAccordion" itemid="{1C7F3449-F1ED-4302-8061-353E53F25A95}" fieldid="Header" updated="20150618T083406Z">
+    <ja-JP>注文数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomesAccordion" key="OrderOutcomesAccordion" itemid="{1C7F3449-F1ED-4302-8061-353E53F25A95}" fieldid="__Display name" updated="20150618T083406Z">
+    <ja-JP>訪問数のアコーディオン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes" key="OrderOutcomes" itemid="{ADBE6031-54B9-4F31-8D25-ED3877265AA9}" fieldid="EmptyText" updated="20151210T081308Z">
+    <ja-JP>訪問がみつかりません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes" key="OrderOutcomes" itemid="{ADBE6031-54B9-4F31-8D25-ED3877265AA9}" fieldid="__Display name" updated="20151210T081308Z">
+    <ja-JP>訪問数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/Date" key="Date" itemid="{ABF48564-DAE6-4DFF-B53B-C5A7EC3AC076}" fieldid="SortField" updated="20151216T112105Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/Date" key="Date" itemid="{ABF48564-DAE6-4DFF-B53B-C5A7EC3AC076}" fieldid="HeaderText" updated="20151216T112105Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/Date" key="Date" itemid="{ABF48564-DAE6-4DFF-B53B-C5A7EC3AC076}" fieldid="__Display name" updated="20151216T112105Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/ShopName" key="ShopName" itemid="{683A16AA-8851-403A-A9F3-986CA47DBC6E}" fieldid="HeaderText" updated="20151213T072936Z">
+    <ja-JP>ショップ名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/ShopName" key="ShopName" itemid="{683A16AA-8851-403A-A9F3-986CA47DBC6E}" fieldid="__Display name" updated="20151213T072936Z">
+    <ja-JP>ショップ名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/OrderNumber" key="OrderNumber" itemid="{9C6ACE4B-D1F7-4972-9A57-90DFB348E402}" fieldid="HeaderText" updated="20151213T072946Z">
+    <ja-JP>注文 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/OrderNumber" key="OrderNumber" itemid="{9C6ACE4B-D1F7-4972-9A57-90DFB348E402}" fieldid="__Display name" updated="20151213T072946Z">
+    <ja-JP>注文 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfLines" key="NumberOfLines" itemid="{7197F4D0-0FCC-4D8D-9245-E0B5DEA1E18C}" fieldid="HeaderAlignment" updated="20151213T072957Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfLines" key="NumberOfLines" itemid="{7197F4D0-0FCC-4D8D-9245-E0B5DEA1E18C}" fieldid="HeaderText" updated="20151213T072957Z">
+    <ja-JP>注文数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfLines" key="NumberOfLines" itemid="{7197F4D0-0FCC-4D8D-9245-E0B5DEA1E18C}" fieldid="__Display name" updated="20151213T072957Z">
+    <ja-JP>注文数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfProducts" key="NumberOfProducts" itemid="{B5175014-24C7-437A-A4CA-BBD125733E9C}" fieldid="HeaderAlignment" updated="20151213T073006Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfProducts" key="NumberOfProducts" itemid="{B5175014-24C7-437A-A4CA-BBD125733E9C}" fieldid="HeaderText" updated="20151213T073006Z">
+    <ja-JP>商品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/NumberOfProducts" key="NumberOfProducts" itemid="{B5175014-24C7-437A-A4CA-BBD125733E9C}" fieldid="__Display name" updated="20151213T073006Z">
+    <ja-JP>商品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/OrderTotal" key="OrderTotal" itemid="{18B18AA8-9B02-472A-9A7F-E58DA76EDCA9}" fieldid="SortField" updated="20151216T112322Z">
+    <ja-JP>OrderTotal</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/OrderTotal" key="OrderTotal" itemid="{18B18AA8-9B02-472A-9A7F-E58DA76EDCA9}" fieldid="HeaderText" updated="20151216T112322Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/OrderOutcomes/OrderOutcomesPanel/OrderOutcomes/OrderTotal" key="OrderTotal" itemid="{18B18AA8-9B02-472A-9A7F-E58DA76EDCA9}" fieldid="__Display name" updated="20151216T112322Z">
+    <ja-JP>注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts" key="PopularProducts" itemid="{83BA92A5-FA57-44DA-88FE-9DB1EC368485}" fieldid="__Display name" updated="20151216T092613Z">
+    <ja-JP>製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByViewAccordion" key="PopularProductsByViewAccordion" itemid="{69D44119-023D-4D04-8F7E-EFB15E76E08F}" fieldid="Header" updated="20151209T110903Z">
+    <ja-JP>商品 PV</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/ProductID" key="ProductID" itemid="{4A653CDF-0B77-46B8-B526-ACF6B08C01D1}" fieldid="HeaderText" updated="20151213T073111Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/ProductID" key="ProductID" itemid="{4A653CDF-0B77-46B8-B526-ACF6B08C01D1}" fieldid="__Display name" updated="20151213T073111Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Product Name" key="Product Name" itemid="{20E1371F-180A-433A-BA58-6006A05C6C61}" fieldid="HeaderText" updated="20151213T073123Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Product Name" key="Product Name" itemid="{20E1371F-180A-433A-BA58-6006A05C6C61}" fieldid="__Display name" updated="20151213T073123Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/CategoryName" key="CategoryName" itemid="{22E7051A-CC22-4738-A948-35BC0F51A31D}" fieldid="HeaderText" updated="20151213T073123Z">
+    <ja-JP>カテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/CategoryName" key="CategoryName" itemid="{22E7051A-CC22-4738-A948-35BC0F51A31D}" fieldid="__Display name" updated="20151213T073123Z">
+    <ja-JP>カテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Price" key="Price" itemid="{D6EED745-A0AB-4845-A39A-6FF826271DCA}" fieldid="HeaderText" updated="20151216T112614Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Price" key="Price" itemid="{D6EED745-A0AB-4845-A39A-6FF826271DCA}" fieldid="__Display name" updated="20151216T112614Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Count" key="Count" itemid="{F131F0D3-ED62-4F9D-92F8-1DD708623FC1}" fieldid="HeaderText" updated="20151213T073123Z">
+    <ja-JP>参照回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Count" key="Count" itemid="{F131F0D3-ED62-4F9D-92F8-1DD708623FC1}" fieldid="__Display name" updated="20151213T073123Z">
+    <ja-JP>参照回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Recency" key="Recency" itemid="{A81ECFDE-7B8F-4B5A-A510-098105C7724E}" fieldid="SortField" updated="20151216T112808Z">
+    <ja-JP>訪問の開始日時</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Recency" key="Recency" itemid="{A81ECFDE-7B8F-4B5A-A510-098105C7724E}" fieldid="HeaderText" updated="20151216T112808Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByView/Recency" key="Recency" itemid="{A81ECFDE-7B8F-4B5A-A510-098105C7724E}" fieldid="__Display name" updated="20151216T112808Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditionsAccordion" key="PopularProductsByAdditionsAccordion" itemid="{1DD3B1E6-1A0F-4844-B49B-E6EF5AEC839B}" fieldid="Header" updated="20151209T111142Z">
+    <ja-JP>商品がカートに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/ProductID" key="ProductID" itemid="{09405F77-B5C8-4621-AEF8-A07C36817410}" fieldid="HeaderText" updated="20151213T073215Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/ProductID" key="ProductID" itemid="{09405F77-B5C8-4621-AEF8-A07C36817410}" fieldid="__Display name" updated="20151213T073215Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Product Name" key="Product Name" itemid="{73460A17-2565-40F8-80C1-EAA2350EAB70}" fieldid="HeaderText" updated="20151213T073215Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Product Name" key="Product Name" itemid="{73460A17-2565-40F8-80C1-EAA2350EAB70}" fieldid="__Display name" updated="20151213T073215Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Price" key="Price" itemid="{02F57B76-7D84-4A77-B919-D5393AA771A5}" fieldid="HeaderText" updated="20151216T112903Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Price" key="Price" itemid="{02F57B76-7D84-4A77-B919-D5393AA771A5}" fieldid="__Display name" updated="20151216T112903Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Count" key="Count" itemid="{8D6C752F-66E0-4DC0-BEC8-63DE43B61256}" fieldid="HeaderText" updated="20151213T073215Z">
+    <ja-JP>追加回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Count" key="Count" itemid="{8D6C752F-66E0-4DC0-BEC8-63DE43B61256}" fieldid="__Display name" updated="20151213T073215Z">
+    <ja-JP>追加回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Recency" key="Recency" itemid="{E3241013-4E43-4117-9DAD-595DA2850FDD}" fieldid="SortField" updated="20151216T112911Z">
+    <ja-JP>訪問の開始日時</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Recency" key="Recency" itemid="{E3241013-4E43-4117-9DAD-595DA2850FDD}" fieldid="HeaderText" updated="20151216T112911Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByAdditions/Recency" key="Recency" itemid="{E3241013-4E43-4117-9DAD-595DA2850FDD}" fieldid="__Display name" updated="20151216T112911Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchaseAccordion" key="PopularProductsByPurchaseAccordion" itemid="{634B385C-40EE-4F5D-A711-3978BA22B902}" fieldid="Header" updated="20151209T111304Z">
+    <ja-JP>商品を発注</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/ProductID" key="ProductID" itemid="{36F35408-5471-441E-8FF6-3B47156C1BE5}" fieldid="HeaderText" updated="20151213T073249Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/ProductID" key="ProductID" itemid="{36F35408-5471-441E-8FF6-3B47156C1BE5}" fieldid="__Display name" updated="20151213T073249Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Product Name" key="Product Name" itemid="{7B4AA2C9-BCA7-4483-8CCB-25EE2FC84714}" fieldid="HeaderText" updated="20151213T073249Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Product Name" key="Product Name" itemid="{7B4AA2C9-BCA7-4483-8CCB-25EE2FC84714}" fieldid="__Display name" updated="20151213T073249Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Price" key="Price" itemid="{E8FDAF2B-7E41-4F9D-95AE-2C9036E1111B}" fieldid="HeaderText" updated="20151216T113010Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Price" key="Price" itemid="{E8FDAF2B-7E41-4F9D-95AE-2C9036E1111B}" fieldid="__Display name" updated="20151216T113010Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Count" key="Count" itemid="{EA7BFACF-C163-42F8-82C3-C3C774C12A21}" fieldid="HeaderAlignment" updated="20151213T073249Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Count" key="Count" itemid="{EA7BFACF-C163-42F8-82C3-C3C774C12A21}" fieldid="HeaderText" updated="20151213T073249Z">
+    <ja-JP>注文回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Count" key="Count" itemid="{EA7BFACF-C163-42F8-82C3-C3C774C12A21}" fieldid="__Display name" updated="20151213T073249Z">
+    <ja-JP>注文回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Recency" key="Recency" itemid="{6E550384-3DEA-4C3A-AD24-7078E958F5AD}" fieldid="HeaderAlignment" updated="20151216T113022Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Recency" key="Recency" itemid="{6E550384-3DEA-4C3A-AD24-7078E958F5AD}" fieldid="SortField" updated="20151216T113022Z">
+    <ja-JP>訪問の開始日時</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Recency" key="Recency" itemid="{6E550384-3DEA-4C3A-AD24-7078E958F5AD}" fieldid="HeaderText" updated="20151216T113022Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/PopularProducts/PopularProductsPanel/PopularProductsByPurchase/Recency" key="Recency" itemid="{6E550384-3DEA-4C3A-AD24-7078E958F5AD}" fieldid="__Display name" updated="20151216T113022Z">
+    <ja-JP>頻度</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities" key="MissedOpportunities" itemid="{26A09BD6-9203-4D7D-BCC1-A01F3BE2D23E}" fieldid="__Display name" updated="20151216T092602Z">
+    <ja-JP>機会損失</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel" key="MissedOpportunitiesPanel" itemid="{403C4709-75E1-443D-8E3C-05697D9DF8BB}" fieldid="Header" updated="20151118T085049Z">
+    <ja-JP>MissedOpportunitiesPanel</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedopportunitiesAccordion" key="ProductMissedopportunitiesAccordion" itemid="{C999C020-CA17-4B9C-88C4-EEBF88EFDDD2}" fieldid="Header" updated="20151209T111611Z">
+    <ja-JP>機会損失</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ProductId" key="ProductId" itemid="{5795AC60-2020-4B6C-8BC7-1C62F66D39F7}" fieldid="HeaderText" updated="20151213T073356Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ProductId" key="ProductId" itemid="{5795AC60-2020-4B6C-8BC7-1C62F66D39F7}" fieldid="__Display name" updated="20151213T073356Z">
+    <ja-JP>製品 ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ProductName" key="ProductName" itemid="{6680E57E-909C-4B6C-ABD9-D8D30D29B2B8}" fieldid="HeaderText" updated="20151213T073356Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ProductName" key="ProductName" itemid="{6680E57E-909C-4B6C-ABD9-D8D30D29B2B8}" fieldid="__Display name" updated="20151213T073356Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/AddCount" key="AddCount" itemid="{973B5A9D-70E3-4BA8-895D-8AF8AA525514}" fieldid="HeaderAlignment" updated="20151213T073356Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/AddCount" key="AddCount" itemid="{973B5A9D-70E3-4BA8-895D-8AF8AA525514}" fieldid="HeaderText" updated="20151213T073356Z">
+    <ja-JP>追加回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/AddCount" key="AddCount" itemid="{973B5A9D-70E3-4BA8-895D-8AF8AA525514}" fieldid="__Display name" updated="20151213T073356Z">
+    <ja-JP>追加回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ViewCount" key="ViewCount" itemid="{59A271BA-5F64-4C10-810C-6CEC491C086D}" fieldid="HeaderAlignment" updated="20151213T073356Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ViewCount" key="ViewCount" itemid="{59A271BA-5F64-4C10-810C-6CEC491C086D}" fieldid="HeaderText" updated="20151213T073356Z">
+    <ja-JP>表示回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/ViewCount" key="ViewCount" itemid="{59A271BA-5F64-4C10-810C-6CEC491C086D}" fieldid="__Display name" updated="20151213T073356Z">
+    <ja-JP>表示回数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/LastAccessed" key="LastAccessed" itemid="{C1D5BB19-9BF6-474A-81DE-A6EA43943D6A}" fieldid="HeaderAlignment" updated="20151216T113154Z">
+    <ja-JP>{DD7C736F-EFF0-403E-9777-78D59F383810}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/LastAccessed" key="LastAccessed" itemid="{C1D5BB19-9BF6-474A-81DE-A6EA43943D6A}" fieldid="SortField" updated="20151216T113154Z">
+    <ja-JP>LastAccessed</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/LastAccessed" key="LastAccessed" itemid="{C1D5BB19-9BF6-474A-81DE-A6EA43943D6A}" fieldid="HeaderText" updated="20151216T113154Z">
+    <ja-JP>最後の活動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/MissedOpportunities/MissedOpportunitiesPanel/ProductMissedOpportunitiesList/LastAccessed" key="LastAccessed" itemid="{C1D5BB19-9BF6-474A-81DE-A6EA43943D6A}" fieldid="__Display name" updated="20151216T113154Z">
+    <ja-JP>最後の活動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts" key="AbandonedCarts" itemid="{EFE2F7DB-23CD-4F1B-BCBC-E4F37C0DF731}" fieldid="__Display name" updated="20151216T092535Z">
+    <ja-JP>破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel" key="AbandonedCartPanel" itemid="{5449B3B8-7498-4217-B74D-8F74365635DB}" fieldid="Header" updated="20151210T125903Z">
+    <ja-JP>$name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCartAccordion" key="AbandonedCartAccordion" itemid="{553FA2B1-28B8-48C3-8311-7741CB37B61D}" fieldid="Header" updated="20151209T111835Z">
+    <ja-JP>破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/Date" key="Date" itemid="{FD7F2C7F-B95E-4314-8AEF-341DEBFBC085}" fieldid="SortField" updated="20151216T113300Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/Date" key="Date" itemid="{FD7F2C7F-B95E-4314-8AEF-341DEBFBC085}" fieldid="HeaderText" updated="20151216T113300Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/Date" key="Date" itemid="{FD7F2C7F-B95E-4314-8AEF-341DEBFBC085}" fieldid="__Display name" updated="20151216T113300Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/ShopName" key="ShopName" itemid="{0A47E807-AD36-4BA3-A979-A6BA2014DC29}" fieldid="HeaderText" updated="20151213T073426Z">
+    <ja-JP>ショップ名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/ShopName" key="ShopName" itemid="{0A47E807-AD36-4BA3-A979-A6BA2014DC29}" fieldid="__Display name" updated="20151213T073426Z">
+    <ja-JP>ショップ名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/NumberOfLines" key="NumberOfLines" itemid="{F9AF8D9F-55F2-4A19-B2C9-6E5A2EEE1437}" fieldid="HeaderText" updated="20151213T073426Z">
+    <ja-JP>購入数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/NumberOfLines" key="NumberOfLines" itemid="{F9AF8D9F-55F2-4A19-B2C9-6E5A2EEE1437}" fieldid="__Display name" updated="20151213T073426Z">
+    <ja-JP>購入数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/NumberOfProducts" key="NumberOfProducts" itemid="{37ACD0E3-2611-4070-BE6C-10B5B578B11B}" fieldid="HeaderText" updated="20151213T073426Z">
+    <ja-JP>合計商品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/NumberOfProducts" key="NumberOfProducts" itemid="{37ACD0E3-2611-4070-BE6C-10B5B578B11B}" fieldid="__Display name" updated="20151213T073426Z">
+    <ja-JP>合計商品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/CartTotal" key="CartTotal" itemid="{0CFD3286-BC01-42A1-A31A-EFF8FB1F808D}" fieldid="HeaderAlignment" updated="20151216T113309Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/CartTotal" key="CartTotal" itemid="{0CFD3286-BC01-42A1-A31A-EFF8FB1F808D}" fieldid="HeaderText" updated="20151216T113309Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/AbandonedCarts/AbandonedCartPanel/AbandonedCarts/CartTotal" key="CartTotal" itemid="{0CFD3286-BC01-42A1-A31A-EFF8FB1F808D}" fieldid="__Display name" updated="20151216T113309Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts" key="ShoppingCarts" itemid="{A9EF66A8-BD0F-46A8-BC36-67D79954057E}" fieldid="__Display name" updated="20151216T092550Z">
+    <ja-JP>カートのアクティビティ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditionsAccordion" key="CartAdditionsAccordion" itemid="{C5DBAC43-2694-4A31-A9B7-F3C241B2B18E}" fieldid="Header" updated="20151209T113123Z">
+    <ja-JP>カートに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditionsAccordion" key="CartAdditionsAccordion" itemid="{C5DBAC43-2694-4A31-A9B7-F3C241B2B18E}" fieldid="__Display name" updated="20151209T113123Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovalsAccordion" key="CartRemovalsAccordion" itemid="{4BC84924-F3E8-4B44-BD3C-416717510CF4}" fieldid="Header" updated="20151209T113109Z">
+    <ja-JP>カートから削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovalsAccordion" key="CartRemovalsAccordion" itemid="{4BC84924-F3E8-4B44-BD3C-416717510CF4}" fieldid="__Display name" updated="20151209T113109Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdatesAccordion" key="CartUpdatesAccordion" itemid="{A6137A0C-B069-4532-A019-C2C6972CFC94}" fieldid="Header" updated="20151209T113333Z">
+    <ja-JP>カートの更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdatesAccordion" key="CartUpdatesAccordion" itemid="{A6137A0C-B069-4532-A019-C2C6972CFC94}" fieldid="__Display name" updated="20151209T113333Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions" key="CartAdditions" itemid="{5AA8E3A3-0435-493F-8609-CDA3808842FE}" fieldid="EmptyText" updated="20151216T115752Z">
+    <ja-JP>コンタクトはカートに追加していません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions" key="CartAdditions" itemid="{5AA8E3A3-0435-493F-8609-CDA3808842FE}" fieldid="__Display name" updated="20151216T115752Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Date" key="Date" itemid="{B2A959FA-F975-4D52-BC16-F8540555832E}" fieldid="SortField" updated="20151216T113426Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Date" key="Date" itemid="{B2A959FA-F975-4D52-BC16-F8540555832E}" fieldid="HeaderText" updated="20151216T113426Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Date" key="Date" itemid="{B2A959FA-F975-4D52-BC16-F8540555832E}" fieldid="__Display name" updated="20151216T113426Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/ProductID" key="ProductID" itemid="{10FB2742-0347-480F-BFFA-F8EC16669E6C}" fieldid="HeaderText" updated="20151213T073458Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/ProductID" key="ProductID" itemid="{10FB2742-0347-480F-BFFA-F8EC16669E6C}" fieldid="__Display name" updated="20151213T073458Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Product Name" key="Product Name" itemid="{2C604F5E-F282-4A42-90E7-D85F78A710D2}" fieldid="HeaderText" updated="20151213T073458Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Product Name" key="Product Name" itemid="{2C604F5E-F282-4A42-90E7-D85F78A710D2}" fieldid="__Display name" updated="20151213T073458Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Quantity" key="Quantity" itemid="{1478E82A-D118-47ED-8D54-D79587BC65F1}" fieldid="HeaderAlignment" updated="20151213T073458Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Quantity" key="Quantity" itemid="{1478E82A-D118-47ED-8D54-D79587BC65F1}" fieldid="HeaderText" updated="20151213T073458Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Quantity" key="Quantity" itemid="{1478E82A-D118-47ED-8D54-D79587BC65F1}" fieldid="__Display name" updated="20151213T073458Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Price" key="Price" itemid="{9DDD4B8F-4E2F-4DE5-A5E6-B2C596236CC5}" fieldid="HeaderAlignment" updated="20151216T113445Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Price" key="Price" itemid="{9DDD4B8F-4E2F-4DE5-A5E6-B2C596236CC5}" fieldid="HeaderText" updated="20151216T113445Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartAdditions/Price" key="Price" itemid="{9DDD4B8F-4E2F-4DE5-A5E6-B2C596236CC5}" fieldid="__Display name" updated="20151216T113445Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals" key="CartRemovals" itemid="{96F74C4D-1CF9-4B57-AEAB-D0BA7993E9C2}" fieldid="EmptyText" updated="20151216T120113Z">
+    <ja-JP>このコンタクトはカートから削除していません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals" key="CartRemovals" itemid="{96F74C4D-1CF9-4B57-AEAB-D0BA7993E9C2}" fieldid="__Display name" updated="20151216T120113Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Date" key="Date" itemid="{D330E064-7FC3-4C45-AA42-5BA5C12EC857}" fieldid="SortField" updated="20151216T113505Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Date" key="Date" itemid="{D330E064-7FC3-4C45-AA42-5BA5C12EC857}" fieldid="HeaderText" updated="20151216T113505Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Date" key="Date" itemid="{D330E064-7FC3-4C45-AA42-5BA5C12EC857}" fieldid="__Display name" updated="20151216T113505Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/ProductID" key="ProductID" itemid="{1E558D14-7A3B-4C01-BC27-6920B5AE3895}" fieldid="HeaderText" updated="20151213T073508Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/ProductID" key="ProductID" itemid="{1E558D14-7A3B-4C01-BC27-6920B5AE3895}" fieldid="__Display name" updated="20151213T073508Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Product Name" key="Product Name" itemid="{6B5976B8-BADE-4648-BFD7-9C3212CDFDDE}" fieldid="HeaderText" updated="20151213T073508Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Product Name" key="Product Name" itemid="{6B5976B8-BADE-4648-BFD7-9C3212CDFDDE}" fieldid="__Display name" updated="20151213T073508Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Quantity" key="Quantity" itemid="{B17B9B79-8B83-4B98-9889-2298E9A92903}" fieldid="HeaderAlignment" updated="20151213T073508Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Quantity" key="Quantity" itemid="{B17B9B79-8B83-4B98-9889-2298E9A92903}" fieldid="HeaderText" updated="20151213T073508Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Quantity" key="Quantity" itemid="{B17B9B79-8B83-4B98-9889-2298E9A92903}" fieldid="__Display name" updated="20151213T073508Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Price" key="Price" itemid="{DA4CB400-0934-45E4-B2C1-28BE9B21947E}" fieldid="HeaderText" updated="20151216T113513Z">
+    <ja-JP>値</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartRemovals/Price" key="Price" itemid="{DA4CB400-0934-45E4-B2C1-28BE9B21947E}" fieldid="__Display name" updated="20151216T113513Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates" key="CartUpdates" itemid="{45AF6866-F223-4B2C-BD72-E4D504974064}" fieldid="EmptyText" updated="20151216T115657Z">
+    <ja-JP>このコンタクトはカートを更新していません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates" key="CartUpdates" itemid="{45AF6866-F223-4B2C-BD72-E4D504974064}" fieldid="__Display name" updated="20151216T115657Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Date" key="Date" itemid="{F21DD1DC-F12B-46F4-8913-A7AA03202953}" fieldid="HeaderText" updated="20151216T113534Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Date" key="Date" itemid="{F21DD1DC-F12B-46F4-8913-A7AA03202953}" fieldid="__Display name" updated="20151216T113534Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/ProductID" key="ProductID" itemid="{3DD9DCA8-36B9-4115-9754-8E1EECD34210}" fieldid="HeaderText" updated="20151213T073518Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/ProductID" key="ProductID" itemid="{3DD9DCA8-36B9-4115-9754-8E1EECD34210}" fieldid="__Display name" updated="20151213T073518Z">
+    <ja-JP>製品ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Product Name" key="Product Name" itemid="{E0395524-86E1-49AF-9D2E-C18D4C027AD2}" fieldid="HeaderText" updated="20151213T073518Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Product Name" key="Product Name" itemid="{E0395524-86E1-49AF-9D2E-C18D4C027AD2}" fieldid="__Display name" updated="20151213T073518Z">
+    <ja-JP>製品名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Quantity" key="Quantity" itemid="{84A12070-7A87-4896-AE4A-A1E9AC280F99}" fieldid="HeaderAlignment" updated="20151213T073518Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Quantity" key="Quantity" itemid="{84A12070-7A87-4896-AE4A-A1E9AC280F99}" fieldid="HeaderText" updated="20151213T073518Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Quantity" key="Quantity" itemid="{84A12070-7A87-4896-AE4A-A1E9AC280F99}" fieldid="__Display name" updated="20151213T073518Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Price" key="Price" itemid="{020B7662-CC7A-4C94-A4E3-10DF6D4A589D}" fieldid="HeaderAlignment" updated="20151216T113542Z">
+    <ja-JP>{D6AD4470-B309-4558-BE16-2B4B4C9BC8D8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Price" key="Price" itemid="{020B7662-CC7A-4C94-A4E3-10DF6D4A589D}" fieldid="HeaderText" updated="20151216T113542Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Commerce/Commerce Subtabs/ShoppingCarts/ShoppingCartPanel/CartUpdates/Price" key="Price" itemid="{020B7662-CC7A-4C94-A4E3-10DF6D4A589D}" fieldid="__Display name" updated="20151216T113542Z">
+    <ja-JP>価格</ja-JP>
+  </phrase>
+</sitecore>

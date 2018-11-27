@@ -1,0 +1,371 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Overview" key="Overview" itemid="{EA1E0718-C51C-45AC-93F3-03A5A19FD1A4}" fieldid="BrowserTitle" updated="20160822T055928Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Overview" key="Overview" itemid="{EA1E0718-C51C-45AC-93F3-03A5A19FD1A4}" fieldid="__Display name" updated="20160822T055928Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Overview/PageSettings" key="PageSettings" itemid="{53D9CB33-C507-41EE-951B-2A7903E26660}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders" key="Orders" itemid="{B27DE2EE-97FC-465C-83E4-A8AB88557FBD}" fieldid="BrowserTitle" updated="20160823T103709Z">
+    <ja-JP>注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders" key="Orders" itemid="{B27DE2EE-97FC-465C-83E4-A8AB88557FBD}" fieldid="__Display name" updated="20160823T103709Z">
+    <ja-JP>注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings" key="PageSettings" itemid="{6CA2A2C8-89B2-4DDB-B79F-8DE6E83CA7E4}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Lifetime sales" key="Lifetime sales" itemid="{699BC3F4-A0E9-4A93-86A7-D76C070DC601}" fieldid="Title" updated="20160823T104507Z">
+    <ja-JP>注文数、すべての注文の量と平均注文の量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Number Order placed over time" key="Number Order placed over time" itemid="{B2A1ED5C-6DD8-419D-9737-91EC6695E70B}" fieldid="Tooltip" updated="20160630T141455Z">
+    <ja-JP>オーダー数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Number Order placed over time" key="Number Order placed over time" itemid="{B2A1ED5C-6DD8-419D-9737-91EC6695E70B}" fieldid="Title" updated="20160630T141455Z">
+    <ja-JP>オーダー数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Order totals over time" key="Order totals over time" itemid="{A8241D23-E4DE-49E6-9A11-B1525D90A5E9}" fieldid="Tooltip" updated="20160630T141148Z">
+    <ja-JP>注文数合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Order totals over time" key="Order totals over time" itemid="{A8241D23-E4DE-49E6-9A11-B1525D90A5E9}" fieldid="Title" updated="20160630T141148Z">
+    <ja-JP>注文数合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Top N biggest orders by order total" key="Top N biggest orders by order total" itemid="{1717F772-9CD6-42F6-9E20-E71B240EC046}" fieldid="Tooltip" updated="20160630T141312Z">
+    <ja-JP>量の多い注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Top N biggest orders by order total" key="Top N biggest orders by order total" itemid="{1717F772-9CD6-42F6-9E20-E71B240EC046}" fieldid="Title" updated="20160630T141312Z">
+    <ja-JP>量の多い注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Top N biggest orders by quantity of products" key="Top N biggest orders by quantity of products" itemid="{17E68A56-2CEF-4626-BDBB-D4A598F66299}" fieldid="Tooltip" updated="20160630T141359Z">
+    <ja-JP>数量の多い注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Orders/PageSettings/Top N biggest orders by quantity of products" key="Top N biggest orders by quantity of products" itemid="{17E68A56-2CEF-4626-BDBB-D4A598F66299}" fieldid="Title" updated="20160630T141359Z">
+    <ja-JP>数量の多い注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns" key="Campaigns" itemid="{1ECC448E-DEA7-460F-B3BD-C1ADE0605D93}" fieldid="BrowserTitle" updated="20160822T055959Z">
+    <ja-JP>キャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns" key="Campaigns" itemid="{1ECC448E-DEA7-460F-B3BD-C1ADE0605D93}" fieldid="__Display name" updated="20160822T055959Z">
+    <ja-JP>キャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns/PageSettings" key="PageSettings" itemid="{8F9F57BD-8A0D-4882-A6D2-E8E0A3959557}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns/PageSettings/Top N campaigns by order values placed" key="Top N campaigns by order values placed" itemid="{350552BA-0D3D-4D5D-978C-B8FE9B7836E3}" fieldid="Tooltip" updated="20160630T141815Z">
+    <ja-JP>注文の量の多いキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns/PageSettings/Top N campaigns by order values placed" key="Top N campaigns by order values placed" itemid="{350552BA-0D3D-4D5D-978C-B8FE9B7836E3}" fieldid="Title" updated="20160630T141815Z">
+    <ja-JP>注文の量の多いキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns/PageSettings/Top N campaigns by orders placed" key="Top N campaigns by orders placed" itemid="{2978C7E2-EEE7-4F78-BFCC-C9D00A2F994A}" fieldid="Tooltip" updated="20160630T141752Z">
+    <ja-JP>注文数の多いキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Campaigns/PageSettings/Top N campaigns by orders placed" key="Top N campaigns by orders placed" itemid="{2978C7E2-EEE7-4F78-BFCC-C9D00A2F994A}" fieldid="Title" updated="20160630T141752Z">
+    <ja-JP>注文数の多いキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products" key="Products" itemid="{83487FD6-78C6-4414-8E1B-C15CC5745A87}" fieldid="BrowserTitle" updated="20160822T060818Z">
+    <ja-JP>製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products" key="Products" itemid="{83487FD6-78C6-4414-8E1B-C15CC5745A87}" fieldid="__Display name" updated="20160822T060818Z">
+    <ja-JP>製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings" key="PageSettings" itemid="{31227B4E-F0F1-4685-A3ED-83E3862E7990}" fieldid="__Display name" updated="20160517T135237Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Product detail view over time" key="Product detail view over time" itemid="{91C2205C-761A-4A9F-8369-6CE4E11815A7}" fieldid="Tooltip" updated="20160630T141951Z">
+    <ja-JP>製品詳細 - 参照数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Product detail view over time" key="Product detail view over time" itemid="{91C2205C-761A-4A9F-8369-6CE4E11815A7}" fieldid="Title" updated="20160630T141951Z">
+    <ja-JP>製品詳細 - 参照数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N most visited products" key="Top N most visited products" itemid="{B00AD0B0-C38F-4694-B103-19A6BC738A97}" fieldid="Tooltip" updated="20160630T142202Z">
+    <ja-JP>最も参照された製品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N most visited products" key="Top N most visited products" itemid="{B00AD0B0-C38F-4694-B103-19A6BC738A97}" fieldid="Title" updated="20160630T142202Z">
+    <ja-JP>最も参照された製品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N most visited products table" key="Top N most visited products table" itemid="{F1CD3CE6-F5D4-4D20-B27E-967FD7A17A34}" fieldid="Tooltip" updated="20160630T142244Z">
+    <ja-JP>最も参照された製品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N most visited products table" key="Top N most visited products table" itemid="{F1CD3CE6-F5D4-4D20-B27E-967FD7A17A34}" fieldid="Title" updated="20160630T142244Z">
+    <ja-JP>最も参照された製品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N products purchased" key="Top N products purchased" itemid="{6662FFB3-F128-4472-801A-1E64D9611FB8}" fieldid="Tooltip" updated="20160630T142105Z">
+    <ja-JP>最も注文された製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Products/PageSettings/Top N products purchased" key="Top N products purchased" itemid="{6662FFB3-F128-4472-801A-1E64D9611FB8}" fieldid="Title" updated="20160630T142105Z">
+    <ja-JP>Bestsellers</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories" key="Categories" itemid="{BB18E01C-8194-4976-B00F-58618359BB42}" fieldid="BrowserTitle" updated="20160822T060029Z">
+    <ja-JP>カテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories" key="Categories" itemid="{BB18E01C-8194-4976-B00F-58618359BB42}" fieldid="__Display name" updated="20160822T060029Z">
+    <ja-JP>カテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings" key="PageSettings" itemid="{990B347B-ED9E-4ACD-BD30-6F79466C96A4}" fieldid="__Display name" updated="20160518T125242Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Category detail view over time" key="Category detail view over time" itemid="{B6ECA6E5-8D97-488E-B1B4-440B11BF93E1}" fieldid="Tooltip" updated="20160630T142537Z">
+    <ja-JP>カテゴリ 参照数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Category detail view over time" key="Category detail view over time" itemid="{B6ECA6E5-8D97-488E-B1B4-440B11BF93E1}" fieldid="Title" updated="20160630T142537Z">
+    <ja-JP>カテゴリ 参照数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Top N most visited categories" key="Top N most visited categories" itemid="{BDCC6823-2A4B-4661-AEBC-6F52ACF2E033}" fieldid="Tooltip" updated="20160630T142608Z">
+    <ja-JP>最も参照されたカテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Top N most visited categories" key="Top N most visited categories" itemid="{BDCC6823-2A4B-4661-AEBC-6F52ACF2E033}" fieldid="Title" updated="20160630T142608Z">
+    <ja-JP>最も参照されたカテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Top N most visited categories table" key="Top N most visited categories table" itemid="{FDE7DB3D-89A0-488F-B9E5-C36F29113785}" fieldid="Tooltip" updated="20160630T142615Z">
+    <ja-JP>最も参照されたカテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Categories/PageSettings/Top N most visited categories table" key="Top N most visited categories table" itemid="{FDE7DB3D-89A0-488F-B9E5-C36F29113785}" fieldid="Title" updated="20160630T142615Z">
+    <ja-JP>最も参照されたカテゴリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Abandoned carts" key="Abandoned carts" itemid="{E229D534-7A11-4B1B-B771-36757382D0F4}" fieldid="BrowserTitle" updated="20160822T060056Z">
+    <ja-JP>破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Abandoned carts" key="Abandoned carts" itemid="{E229D534-7A11-4B1B-B771-36757382D0F4}" fieldid="__Display name" updated="20160822T060056Z">
+    <ja-JP>破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Abandoned carts/PageSettings" key="PageSettings" itemid="{4A3E9B31-8172-44E0-BA32-FA266D057C81}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers" key="Customers" itemid="{6C8C7004-C1D5-4A07-9EAF-FF941C8BA543}" fieldid="BrowserTitle" updated="20160822T060109Z">
+    <ja-JP>カスタマー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers" key="Customers" itemid="{6C8C7004-C1D5-4A07-9EAF-FF941C8BA543}" fieldid="__Display name" updated="20160822T060109Z">
+    <ja-JP>カスタマー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings" key="PageSettings" itemid="{D666F997-9730-4855-975C-B218D674B124}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Lifetime user registrations" key="Lifetime user registrations" itemid="{38EA4439-793C-41E8-A9E9-C019CCFEC36E}" fieldid="Tooltip" updated="20160630T143133Z">
+    <ja-JP>アカウント登録数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Lifetime user registrations" key="Lifetime user registrations" itemid="{38EA4439-793C-41E8-A9E9-C019CCFEC36E}" fieldid="Title" updated="20160630T143133Z">
+    <ja-JP>登録数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by number of orders Table" key="Biggest contact by number of orders Table" itemid="{0CF68650-77C5-4A1F-91D5-C7CA4143B2A9}" fieldid="Tooltip" updated="20160630T144326Z">
+    <ja-JP>注文数の多いコンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by number of orders Table" key="Biggest contact by number of orders Table" itemid="{0CF68650-77C5-4A1F-91D5-C7CA4143B2A9}" fieldid="Title" updated="20160630T144326Z">
+    <ja-JP>注文数の多いコンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by order totals Table" key="Biggest contact by order totals Table" itemid="{7395D8EE-64D3-46E8-B799-BC2FFC7555C7}" fieldid="Tooltip" updated="20160630T144304Z">
+    <ja-JP>注文量の多いコンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by order totals Table" key="Biggest contact by order totals Table" itemid="{7395D8EE-64D3-46E8-B799-BC2FFC7555C7}" fieldid="Title" updated="20160630T144304Z">
+    <ja-JP>注文量の多いコンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by number of orders Table" key="Biggest customers by number of orders Table" itemid="{C1655531-E433-4D70-BAA4-45BE760171FB}" fieldid="Tooltip" updated="20160630T144132Z">
+    <ja-JP>Customers by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by number of orders Table" key="Biggest customers by number of orders Table" itemid="{C1655531-E433-4D70-BAA4-45BE760171FB}" fieldid="Title" updated="20160630T144132Z">
+    <ja-JP>Customers by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by order totals Table" key="Biggest customers by order totals Table" itemid="{16DF0535-FF0D-4B63-B3F9-7C449874D08A}" fieldid="Tooltip" updated="20160630T144104Z">
+    <ja-JP>Customers by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by order totals Table" key="Biggest customers by order totals Table" itemid="{16DF0535-FF0D-4B63-B3F9-7C449874D08A}" fieldid="Title" updated="20160630T144104Z">
+    <ja-JP>Customers by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/User registrations over time" key="User registrations over time" itemid="{CF39534F-D0C7-4792-80E9-CA6BCC2C1846}" fieldid="Tooltip" updated="20160630T143139Z">
+    <ja-JP>Visitor account registrations</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/User registrations over time" key="User registrations over time" itemid="{CF39534F-D0C7-4792-80E9-CA6BCC2C1846}" fieldid="Title" updated="20160630T143139Z">
+    <ja-JP>Registrations</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by number of orders" key="Biggest contact by number of orders" itemid="{208C3732-284C-4689-A2F0-4B03FA6A3B54}" fieldid="Tooltip" updated="20160630T144238Z">
+    <ja-JP>Top contacts by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by number of orders" key="Biggest contact by number of orders" itemid="{208C3732-284C-4689-A2F0-4B03FA6A3B54}" fieldid="Title" updated="20160630T144238Z">
+    <ja-JP>Top contacts by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by order totals" key="Biggest contact by order totals" itemid="{68593372-DAAC-4632-9BFE-7FBF38280C49}" fieldid="Tooltip" updated="20160630T144218Z">
+    <ja-JP>Top contacts by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest contact by order totals" key="Biggest contact by order totals" itemid="{68593372-DAAC-4632-9BFE-7FBF38280C49}" fieldid="Title" updated="20160630T144218Z">
+    <ja-JP>Top contacts by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by number of orders" key="Biggest customers by number of orders" itemid="{9C3686E3-9840-461F-BCBB-704E6C4C8F1C}" fieldid="Tooltip" updated="20160630T143634Z">
+    <ja-JP>Top customers by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by number of orders" key="Biggest customers by number of orders" itemid="{9C3686E3-9840-461F-BCBB-704E6C4C8F1C}" fieldid="Title" updated="20160630T143634Z">
+    <ja-JP>Top customers by number of orders</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by order totals" key="Biggest customers by order totals" itemid="{40B791D9-86BE-4BE1-B61A-1CF4A5E31EAB}" fieldid="Tooltip" updated="20160630T143522Z">
+    <ja-JP>Top customers by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Customers/PageSettings/Biggest customers by order totals" key="Biggest customers by order totals" itemid="{40B791D9-86BE-4BE1-B61A-1CF4A5E31EAB}" fieldid="Title" updated="20160630T143522Z">
+    <ja-JP>Top customers by total order amount</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines" key="Cart lines" itemid="{614DE126-43E2-439F-9873-4A981290590A}" fieldid="BrowserTitle" updated="20160630T144552Z">
+    <ja-JP>カートアクティビティ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines" key="Cart lines" itemid="{614DE126-43E2-439F-9873-4A981290590A}" fieldid="__Display name" updated="20160630T144552Z">
+    <ja-JP>カートの活動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings" key="PageSettings" itemid="{EC0C31F6-5A3E-450B-9433-0247FC522CF1}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products added to the cart" key="Top N most frequent products added to the cart" itemid="{543A0C3F-F051-4B46-B331-5EE356825217}" fieldid="Tooltip" updated="20160630T144717Z">
+    <ja-JP>Products most frequently added to the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products added to the cart" key="Top N most frequent products added to the cart" itemid="{543A0C3F-F051-4B46-B331-5EE356825217}" fieldid="Title" updated="20160630T144717Z">
+    <ja-JP>Products most frequently added to the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products removed from the cart" key="Top N most frequent products removed from the cart" itemid="{596B1B8C-12D5-4331-BB46-22068766312F}" fieldid="Tooltip" updated="20160630T144647Z">
+    <ja-JP>Products most frequently removed from the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products removed from the cart" key="Top N most frequent products removed from the cart" itemid="{596B1B8C-12D5-4331-BB46-22068766312F}" fieldid="Title" updated="20160630T144647Z">
+    <ja-JP>Products most frequently removed from the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products updated on the cart" key="Top N most frequent products updated on the cart" itemid="{A3C0AA7C-8018-4ECB-9021-0B2D2C9CBD9C}" fieldid="Tooltip" updated="20160630T144805Z">
+    <ja-JP>Products most frequently updated on the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Cart lines/PageSettings/Top N most frequent products updated on the cart" key="Top N most frequent products updated on the cart" itemid="{A3C0AA7C-8018-4ECB-9021-0B2D2C9CBD9C}" fieldid="Title" updated="20160630T144805Z">
+    <ja-JP>Products most frequently updated on the cart</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Navigation" key="Navigation" itemid="{4EB8AE0B-3FC8-4AD9-8846-DF8AC5DB4B29}" fieldid="BrowserTitle" updated="20160629T125940Z">
+    <ja-JP>フィルターと並べ替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Navigation" key="Navigation" itemid="{4EB8AE0B-3FC8-4AD9-8846-DF8AC5DB4B29}" fieldid="__Display name" updated="20160629T125940Z">
+    <ja-JP>ナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Navigation/PageSettings" key="PageSettings" itemid="{1C01CCE1-F4AF-47D2-B3F6-F912983CCEAD}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Navigation/PageSettings/Top N most frequent facets applied" key="Top N most frequent facets applied" itemid="{0F7058F9-2FF3-4701-B4B3-9DA25D96C8C9}" fieldid="Tooltip" updated="20160630T144937Z">
+    <ja-JP>Facets most frequently applied </ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Navigation/PageSettings/Top N most frequent sort options applied" key="Top N most frequent sort options applied" itemid="{8A460555-F03A-43B9-9270-7D0BFD69DAA2}" fieldid="Tooltip" updated="20160630T144957Z">
+    <ja-JP>Sort options most frequently applied</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Regional settings" key="Regional settings" itemid="{5242E9C2-8A34-474F-847E-B08C6977A49C}" fieldid="BrowserTitle" updated="20160822T060133Z">
+    <ja-JP>地域設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Regional settings" key="Regional settings" itemid="{5242E9C2-8A34-474F-847E-B08C6977A49C}" fieldid="__Display name" updated="20160822T060133Z">
+    <ja-JP>地域設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Regional settings/PageSettings" key="PageSettings" itemid="{416EA83C-B796-4731-84F9-F49F9E5015E5}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Regional settings/PageSettings/Top N most frequent cultures selected" key="Top N most frequent cultures selected" itemid="{690931A5-B8E8-4E1B-93E4-7524D8174C44}" fieldid="Tooltip" updated="20160630T150458Z">
+    <ja-JP>Regional settings most frequently applied</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Regional settings/PageSettings/Top N most frequent cultures selected" key="Top N most frequent cultures selected" itemid="{690931A5-B8E8-4E1B-93E4-7524D8174C44}" fieldid="Title" updated="20160630T150458Z">
+    <ja-JP>Regional settings most frequently applied</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search" key="Search" itemid="{557FF308-A723-4EC1-8A5B-3AAF16B2AEAF}" fieldid="BrowserTitle" updated="20160630T150557Z">
+    <ja-JP>サイト内検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search" key="Search" itemid="{557FF308-A723-4EC1-8A5B-3AAF16B2AEAF}" fieldid="__Display name" updated="20160630T150557Z">
+    <ja-JP>検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings" key="PageSettings" itemid="{C57ECE7B-D706-45C8-8639-16666AB7254F}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top internal keywords by purchase outcome per visit" key="Top internal keywords by purchase outcome per visit" itemid="{8EFB082B-2688-47DD-B33D-5C806DD304FC}" fieldid="Tooltip" updated="20160630T150736Z">
+    <ja-JP>Top internal keywords that gave the highest revenue</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top internal keywords by purchase outcome per visit" key="Top internal keywords by purchase outcome per visit" itemid="{8EFB082B-2688-47DD-B33D-5C806DD304FC}" fieldid="Title" updated="20160630T150736Z">
+    <ja-JP>Top internal keywords that gave the highest revenue</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top N search terms resulting in the least hits" key="Top N search terms resulting in the least hits" itemid="{51E8C31E-529D-4677-80E8-7FF588743297}" fieldid="Tooltip" updated="20160630T150649Z">
+    <ja-JP>Top internal keywords that gave the fewest results</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top N search terms resulting in the least hits" key="Top N search terms resulting in the least hits" itemid="{51E8C31E-529D-4677-80E8-7FF588743297}" fieldid="Title" updated="20160630T150649Z">
+    <ja-JP>Top internal keywords that gave the fewest results</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top N search terms resulting in the most hits" key="Top N search terms resulting in the most hits" itemid="{DA333B68-5472-423E-8F40-794C7A11455C}" fieldid="Tooltip" updated="20160630T150711Z">
+    <ja-JP>Top internal keywords that gave the most results</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Search/PageSettings/Top N search terms resulting in the most hits" key="Top N search terms resulting in the most hits" itemid="{DA333B68-5472-423E-8F40-794C7A11455C}" fieldid="Title" updated="20160630T150711Z">
+    <ja-JP>Top internal keywords that gave the most results</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment" key="Payment" itemid="{9D743D6C-8FE3-4426-ABE7-1944D86EBCC3}" fieldid="BrowserTitle" updated="20160630T151037Z">
+    <ja-JP>支払いと発送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment" key="Payment" itemid="{9D743D6C-8FE3-4426-ABE7-1944D86EBCC3}" fieldid="__Display name" updated="20160630T151037Z">
+    <ja-JP>支払い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings" key="PageSettings" itemid="{067275F9-3F94-4FDC-92FE-A27D4C3488CD}" fieldid="__Display name" updated="20160518T125250Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Top N most popular payment methods" key="Top N most popular payment methods" itemid="{7B855354-2475-4970-8F7B-3412694C3360}" fieldid="Tooltip" updated="20160630T150935Z">
+    <ja-JP>Most popular payment methods</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Top N most popular payment methods" key="Top N most popular payment methods" itemid="{7B855354-2475-4970-8F7B-3412694C3360}" fieldid="Title" updated="20160630T150935Z">
+    <ja-JP>Most popular payment methods</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Top N most popular shipping methods" key="Top N most popular shipping methods" itemid="{8569AFEE-5B86-4523-942D-DA1A719E9764}" fieldid="Tooltip" updated="20160630T150913Z">
+    <ja-JP>Most popular shipping methods</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Top N most popular shipping methods" key="Top N most popular shipping methods" itemid="{8569AFEE-5B86-4523-942D-DA1A719E9764}" fieldid="Title" updated="20160630T150913Z">
+    <ja-JP>Most popular shipping methods</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Purchase by gift card over time" key="Purchase by gift card over time" itemid="{5B12F84C-6146-47AB-8F16-429158B05D5C}" fieldid="Tooltip" updated="20160630T150959Z">
+    <ja-JP>Payment by gift card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Purchase by gift card over time" key="Purchase by gift card over time" itemid="{5B12F84C-6146-47AB-8F16-429158B05D5C}" fieldid="Title" updated="20160630T150959Z">
+    <ja-JP>Payment by gift card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Purchase by loyalty card over time" key="Purchase by loyalty card over time" itemid="{AF3472A3-C2B5-4194-B94F-4B91E11FB325}" fieldid="Tooltip" updated="20160630T151014Z">
+    <ja-JP>Payment by loyalty card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Payment/PageSettings/Purchase by loyalty card over time" key="Purchase by loyalty card over time" itemid="{AF3472A3-C2B5-4194-B94F-4B91E11FB325}" fieldid="Title" updated="20160630T151014Z">
+    <ja-JP>Payment by loyalty card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines" key="Wish list lines" itemid="{A2E37200-3F5F-4037-BB79-0E4ED5D8DD61}" fieldid="BrowserTitle" updated="20160630T151155Z">
+    <ja-JP>ほしい物リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines" key="Wish list lines" itemid="{A2E37200-3F5F-4037-BB79-0E4ED5D8DD61}" fieldid="__Display name" updated="20160630T151155Z">
+    <ja-JP>ほしい物リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings" key="PageSettings" itemid="{3795925D-EDE7-4D49-9493-74FD6B45A1B1}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products added to the wish list" key="Top N most frequent products added to the wish list" itemid="{95E3032D-1CAB-45F7-BCDF-6D3032F8A571}" fieldid="Tooltip" updated="20160630T151239Z">
+    <ja-JP>Products most frequently added to the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products added to the wish list" key="Top N most frequent products added to the wish list" itemid="{95E3032D-1CAB-45F7-BCDF-6D3032F8A571}" fieldid="Title" updated="20160630T151239Z">
+    <ja-JP>Products most frequently added to the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products removed from the wish list" key="Top N most frequent products removed from the wish list" itemid="{6C0C8C3C-BE1D-4E26-82C9-62A24EFB41DD}" fieldid="Tooltip" updated="20160630T151222Z">
+    <ja-JP>Products most frequently removed from the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products removed from the wish list" key="Top N most frequent products removed from the wish list" itemid="{6C0C8C3C-BE1D-4E26-82C9-62A24EFB41DD}" fieldid="Title" updated="20160630T151222Z">
+    <ja-JP>Products most frequently removed from the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products updated on the wish list" key="Top N most frequent products updated on the wish list" itemid="{0490D5E1-6320-429B-8D5B-8A9D66E2FDE7}" fieldid="Tooltip" updated="20160630T151258Z">
+    <ja-JP>Products most frequently updated in the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Wish list lines/PageSettings/Top N most frequent products updated on the wish list" key="Top N most frequent products updated on the wish list" itemid="{0490D5E1-6320-429B-8D5B-8A9D66E2FDE7}" fieldid="Title" updated="20160630T151258Z">
+    <ja-JP>Products most frequently updated in the wish list</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs" key="Loyalty programs" itemid="{1A43BC3A-4E75-4FBE-9D76-DE8708E84CDD}" fieldid="BrowserTitle" updated="20160822T060156Z">
+    <ja-JP>会員プログラム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs" key="Loyalty programs" itemid="{1A43BC3A-4E75-4FBE-9D76-DE8708E84CDD}" fieldid="__Display name" updated="20160822T060156Z">
+    <ja-JP>会員プログラム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs/PageSettings" key="PageSettings" itemid="{A668950B-ACC8-4C06-B4EA-07A9D04BDF79}" fieldid="__Display name" updated="20160525T064452Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs/PageSettings/Top N loyalty programs joined" key="Top N loyalty programs joined" itemid="{B2930921-814E-4AF1-88BE-845F73140564}" fieldid="Tooltip" updated="20160630T151434Z">
+    <ja-JP>Most popular loyalty programs</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs/PageSettings/Top N loyalty programs joined" key="Top N loyalty programs joined" itemid="{B2930921-814E-4AF1-88BE-845F73140564}" fieldid="Title" updated="20160630T151434Z">
+    <ja-JP>Most popular loyalty programs</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs/PageSettings/Loyalty programs joined over time" key="Loyalty programs joined over time" itemid="{304698BF-D703-4B95-BB95-224B0C75A556}" fieldid="Tooltip" updated="20160630T151352Z">
+    <ja-JP>Loyalty program enrollment</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Commerce/Loyalty programs/PageSettings/Loyalty programs joined over time" key="Loyalty programs joined over time" itemid="{304698BF-D703-4B95-BB95-224B0C75A556}" fieldid="Title" updated="20160630T151352Z">
+    <ja-JP>Loyalty program enrollment</ja-JP>
+  </phrase>
+</sitecore>
