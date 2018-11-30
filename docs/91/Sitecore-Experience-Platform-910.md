@@ -32,7 +32,7 @@ Solr のインストール前に以下のモジュールをインストールし
 
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
-* 作業フォルダ : `c:\projects\sif`
+* 作業フォルダ : `c:\projects\solr`
 * コピーするファイル： [install-solr-7.2.1-java-1.8.0-191.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
 
 スクリプトを上記のフォルダにコピーをして、実行することで Solr 7.2.1 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
