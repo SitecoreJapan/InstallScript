@@ -28,7 +28,7 @@ GO
 
 Solr のインストール前に以下のモジュールをインストールします。
 * [Java 64bit](https://www.java.com/ja/download/manual.jsp)
-* [Win64 OpenSSL v1.1.0g](http://slproweb.com/products/Win32OpenSSL.html)
+* [Win64 OpenSSL v1.1.1a](http://slproweb.com/products/Win32OpenSSL.html)
 
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
@@ -50,7 +50,7 @@ Install-Module SitecoreInstallFramework
 ```
 以下コマンドでインストールができていることを確認します
 ```
-PS C:\Users\Sitecore> Get-Module -ListAvailable Sitecore*
+PS C:\Users\Administrator> Get-Module -ListAvailable Sitecore*
 
 
     ディレクトリ: C:\Program Files\WindowsPowerShell\Modules
@@ -74,19 +74,20 @@ PS C:\Users\Administrator>
 
 ## 関連モジュールのインストール
 
-関連モジュールを一括でインストールするためのスクリプトが用意されています。すでにダウンロードしているファイルを `c:\projects\sif` に展開します。展開したファイルの中に含まれている XP0 Configuration files 9.1.0 rev. 001564.zip もインストールします。
+関連モジュールを一括でインストールするためのスクリプトが用意されています。すでにダウンロードしているファイルを `c:\projects\sif` に展開します。展開したファイルの中に含まれている XP0 Configuration files 9.1.0 rev. 001564.zip も改めて展開をします。
 
 ```
-PS C:\projects\sif> dir
+PS C:\Projects\sif> dir
 
 
-    ディレクトリ: C:\projects\sif
+    ディレクトリ: C:\Projects\sif
 
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
 ------       2018/10/31     12:27           3797 createcert.json
 ------       2018/10/31     12:27          13042 IdentityServer.json
+-a----       2018/08/08     12:24          65522 license.xml
 ------       2018/10/31     12:27          18158 Prerequisites.json
 ------       2018/11/01     12:07      266793116 Sitecore 9.1.0 rev. 001564 (OnPrem)_single.scwdp.zip
 ------       2018/11/01     12:07       29433870 Sitecore 9.1.0 rev. 001564 (OnPrem)_xp0xconnect.scwdp.zip
@@ -101,16 +102,34 @@ Mode                LastWriteTime         Length Name
 -a----       2018/11/02     11:59           3596 XP0-SingleDeveloper.ps1
 
 
-PS C:\projects\sif>
+PS C:\Projects\sif>
 ```
 
-このフォルダで、以下のスクリプトを実行すると必要なモジュールをダウンロード、インストールが走ります。
+このフォルダにあるファイルを使って、必要なモジュールをダウンロード、インストールすることができます。
 
 ```
-Install-SitecoreConfiguration -Path .\Prerequisites.json
+PS C:\projects\sif> Install-SitecoreConfiguration -Path .\Prerequisites.json
+警告: スクリプト 'Invoke-RemoveSqlDatabaseTask.ps1' を実行できません。このスクリプトの #requires
+ステートメントで指定された次のモジュールがありません: SqlServer。
+                                          ************************************
+                                               Sitecore Install Framework
+                                                     Version - 2.0.0
+                                          ************************************
+
+
+WorkingDirectory       : C:\projects\sif
+WhatIf                 : False
+Verbose                : SilentlyContinue
+Configuration          : C:\projects\sif\Prerequisites.json
+Debug                  : SilentlyContinue
+AutoRegisterExtensions : False
+WarningAction          : Continue
+ErrorAction            : Stop
+InformationAction      : Continue
+
 ```
 
-以下のモジュールに関してはインストールガイドに記載されているため、気になる方はガイドをご覧ください。
+各モジュールに関してはインストールガイドに記載されているため、気になる方はガイドをご覧ください。
 
 ## Sitecore Experience Platform 9.1 のインストール
 
@@ -118,49 +137,61 @@ Install-SitecoreConfiguration -Path .\Prerequisites.json
 * [My-XP0-SingleDeveloper.ps1](https://github.com/SitecoreJapan/InstallScript/blob/master/910/)
 
 以下、ファイルを展開する場所に関しては `c:\projects\sif` を想定して記載していきます。  
-1. ダウンロードした `InstallScript.ps1` を `c:\projects\sif` にコピーします。
+1. ダウンロードした `My-XP0-SingleDeveloper.ps1` を `c:\projects\sif` にコピーします。
 2. ライセンスファイルを `c:\projects\sif` にコピーします
-3. 
+
+なお、この `My-XP0-SingleDeveloper.ps1` のファイルはもともと含まれていた `XP0-SingleDeveloper.ps1` を元に作っているため、コピーをせずに自分で設定を決めていただくこともできます。
 
 ディレクトリ `c:\projects\sif` に入っているファイルが以下のようになっているのを確認します。
 ```
-PS C:\Projects\sif> dir
+PS C:\projects\sif> dir
 
 
-    ディレクトリ: C:\Projects\sif
+    ディレクトリ: C:\projects\sif
 
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
--a----       2018/06/21     12:30           2393 InstallScript.ps1
--a----       2018/06/21     12:33          77988 license.xml
-------       2018/06/04     15:10      251526982 Sitecore 9.0.2 rev. 180604 (OnPrem)_single.scwdp.zip
-------       2018/06/04     15:11       35503845 Sitecore 9.0.2 rev. 180604 (OnPrem)_xp0xconnect.scwdp.zip
-------       2018/06/01     20:39          15951 sitecore-solr.json
-------       2018/06/01     20:39          24853 sitecore-XP0.json
-------       2018/06/01     20:39           2572 xconnect-createcert.json
-------       2018/06/01     20:39           5084 xconnect-solr.json
-------       2018/06/01     20:39          31189 xconnect-xp0.json
+------       2018/10/31     12:27           3797 createcert.json
+------       2018/10/31     12:27          13042 IdentityServer.json
+-a----       2018/08/08     12:24          65522 license.xml
+-a----       2018/12/07     10:37           3606 My-XP0-SingleDeveloper.ps1
+------       2018/10/31     12:27          18158 Prerequisites.json
+------       2018/11/01     12:07      266793116 Sitecore 9.1.0 rev. 001564 (OnPrem)_single.scwdp.zip
+------       2018/11/01     12:07       29433870 Sitecore 9.1.0 rev. 001564 (OnPrem)_xp0xconnect.scwdp.zip
+------       2018/10/31     12:27          16918 sitecore-solr.json
+------       2018/10/31     12:27          31080 sitecore-XP0.json
+-a----       2018/11/05     16:37       12590364 Sitecore.IdentityServer 2.0.0 rev. 00157 (OnPrem)_identityserver.scwdp
+                                                 .zip
+------       2018/10/31     12:27           4088 xconnect-solr.json
+------       2018/10/31     12:27          44488 xconnect-xp0.json
+-a----       2018/11/02     20:22          23212 XP0 Configuration files 9.1.0 rev. 001564.zip
+------       2018/10/31     12:27          30084 XP0-SingleDeveloper.json
+-a----       2018/11/02     11:59           3596 XP0-SingleDeveloper.ps1
 
-PS C:\projects\sif>
 ```
-続いて、InstallScript.ps1 を環境に合わせてセットアップします。
+続いて、`XP0-SingleDeveloper.ps1` もしくは `My-XP0-SingleDeveloper.ps1` を環境に合わせてセットアップします。なお、Sitecore 9.1 からはデフォルトのパスワードの設定が必須となっています。
 ```
-$prefix = "xp0"
-$PSScriptRoot = "C:\Projects\sif"
+$Prefix = "sc910"
+$SitecoreAdminPassword = "P@ssword"
+$SCInstallRoot = "C:\projects\sif"
 $XConnectCollectionService = "$prefix.xconnect"
 $sitecoreSiteName = "$prefix.sc"
+$XConnectSiteName = "$prefix.xconnect"
+$IdentityServerSiteName = "$prefix.identityserver"
+$SolrRoot = "C:\solr\solr-7.2.1"
 $SolrUrl = "https://localhost:8983/solr"
-$SolrRoot = "C:\solr\solr-6.6.2"
-$SolrService = "Solr-6.6.2"
+$SolrService = "Solr-7.2.1"
 $SqlServer = "."
 $SqlAdminUser = "sa"
 $SqlAdminPassword="pleasechangepassword"
 ```
 インスタンス名の変更をする必要がない場合は、上記の `$SqlAdminPassword` だけ変更するだけでインストールを実行できます。
 
+あとはインストールスクリプトを実行してください。
+
 ```
-PS C:\projects\sif> .\InstallScript.ps1
+PS C:\projects\sif> .\XP0-SingleDeveloper.ps1
 ```
 これでインストール作業は完了しました。
 
@@ -171,8 +202,7 @@ PS C:\projects\sif> .\InstallScript.ps1
 * 日本語リソースのインポート
 * インデックスの再構築
 * Core / Master データベースのリンクデータの Rebuild
-* Marketing Difinision の Deploy 
 
 以上でインストールは完了となります。
 
-[目次に戻る](../Home.md)
+[目次に戻る](../readme.md)
