@@ -1,4 +1,7 @@
 ﻿<sitecore>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms" key="Commerce Terms" itemid="{9926FE63-798B-4EAB-9AD1-CD512FCEEEF9}" fieldid="__Display name" updated="20161127T132318Z">
+    <ja-JP>Commerce 用語</ja-JP>
+  </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools" key="BusinessTools" itemid="{21C9524D-D505-4B3E-9C98-5C11FE69F02B}" fieldid="__Display name" updated="20160815T191850Z">
     <ja-JP>ビジネスツール</ja-JP>
   </phrase>
@@ -6,28 +9,31 @@
     <ja-JP>ベネフィット名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartAnyItemSubtotalAmountOffAction" key="CartAnyItemSubtotalAmountOffAction" itemid="{BCD15920-EE15-4532-A2CA-616A5BFC104F}" fieldid="Value" updated="20161212T202834Z">
-    <ja-JP>Get Cart Any Item Subtotal [specific] Amount Off</ja-JP>
+    <ja-JP>カートのすべてのアイテムの小計から [specific] オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartAnyItemSubtotalPercentOffAction" key="CartAnyItemSubtotalPercentOffAction" itemid="{36628062-93ED-4693-897E-C634D79B049C}" fieldid="Value" updated="20161212T202808Z">
-    <ja-JP>Get Cart Any Item Subtotal [specific] Percent Off</ja-JP>
+    <ja-JP>カートのすべてのアイテムの小計から [specific] %オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartFreeShippingAction" key="CartFreeShippingAction" itemid="{DE16049D-2234-4BDA-86E3-E31767FCC903}" fieldid="Value" updated="20161212T210505Z">
     <ja-JP>送料無料</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartItemSellPriceAction" key="CartItemSellPriceAction" itemid="{CCA0F028-CD7D-438A-9A58-0C204D1A2DA7}" fieldid="Value" updated="20170814T164004Z">
-    <ja-JP>Get Cart Any Item Sell Price</ja-JP>
+    <ja-JP>カートのすべてのアイテムの販売価格</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartItemSubtotalAmountOffAction" key="CartItemSubtotalAmountOffAction" itemid="{B665CB18-07B1-4393-A77F-29B115C79180}" fieldid="Value" updated="20161212T202633Z">
-    <ja-JP>Get Cart Item Subtotal [specific] Amount Off</ja-JP>
+    <ja-JP>カートのアイテムの小計から [specific] オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartItemSubtotalPercentOffAction" key="CartItemSubtotalPercentOffAction" itemid="{C2B46910-CD0D-4A75-B154-E1968901E69B}" fieldid="Value" updated="20161212T202608Z">
-    <ja-JP>Get Cart Item Subtotal [specific] Percent Off</ja-JP>
+    <ja-JP>カートのアイテムの小計から [specific] %オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartSubtotalAmountOffAction" key="CartSubtotalAmountOffAction" itemid="{5DBB03DA-DE81-4B73-8D03-F3B1CBCE5CA0}" fieldid="Value" updated="20161212T202332Z">
-    <ja-JP>Get Cart Subtotal [specific] Amount Off</ja-JP>
+    <ja-JP>カートの小計から [specific] オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Actions/CartSubtotalPercentOffAction" key="CartSubtotalPercentOffAction" itemid="{8911D21C-DC16-4CBA-9E55-D5B9D48CA45C}" fieldid="Value" updated="20161222T210508Z">
-    <ja-JP>Get Cart Subtotal [specific] Percent Off</ja-JP>
+    <ja-JP>カートの小計から [specific] %オフ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options" key="Category Delete Options" itemid="{FC989175-3E16-4216-9A9D-4D4743915E0F}" fieldid="__Display name" updated="20180312T132200Z">
+    <ja-JP>カテゴリー削除オプション</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Delete" key="Delete" itemid="{675773D2-F13B-420F-A912-AE405812F849}" fieldid="Value" updated="20180403T143935Z">
     <ja-JP>削除</ja-JP>
@@ -35,29 +41,38 @@
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Delete" key="Delete" itemid="{675773D2-F13B-420F-A912-AE405812F849}" fieldid="Description" updated="20180403T143935Z">
     <ja-JP>カテゴリーの削除</ja-JP>
   </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Delete" key="Delete" itemid="{675773D2-F13B-420F-A912-AE405812F849}" fieldid="__Display name" updated="20180403T143935Z">
+    <ja-JP>削除</ja-JP>
+  </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Disassociate" key="Disassociate" itemid="{B5575EFB-2871-4F6F-B24E-BCC1EFC4570A}" fieldid="Value" updated="20180403T144011Z">
     <ja-JP>関連付けを解除</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Disassociate" key="Disassociate" itemid="{B5575EFB-2871-4F6F-B24E-BCC1EFC4570A}" fieldid="Description" updated="20180403T144011Z">
     <ja-JP>カテゴリーの関連付け解除</ja-JP>
   </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Disassociate" key="Disassociate" itemid="{B5575EFB-2871-4F6F-B24E-BCC1EFC4570A}" fieldid="__Display name" updated="20180403T144011Z">
+    <ja-JP>関連付けを解除</ja-JP>
+  </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Reparent" key="Reparent" itemid="{A8A3549E-8004-4D8F-8117-B34AAEFE148C}" fieldid="Value" updated="20180403T144043Z">
-    <ja-JP>Reparent</ja-JP>
+    <ja-JP>関連付け</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Reparent" key="Reparent" itemid="{A8A3549E-8004-4D8F-8117-B34AAEFE148C}" fieldid="Description" updated="20180403T144043Z">
-    <ja-JP>Reparent children to another category or catalog</ja-JP>
+    <ja-JP>ほかのカテゴリやカタログの親を指定する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Category Delete Options/Reparent" key="Reparent" itemid="{A8A3549E-8004-4D8F-8117-B34AAEFE148C}" fieldid="__Display name" updated="20180403T144043Z">
+    <ja-JP>関連付け</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions" key="Conditions" itemid="{CBA44A1C-9802-48AB-A008-0D08B72DEEDF}" fieldid="__Display name" updated="20161212T212015Z">
-    <ja-JP>Qualifications Names</ja-JP>
+    <ja-JP>条件の名前</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartAnyItemHasTagCondition" key="CartAnyItemHasTagCondition" itemid="{6401BAB0-A16B-4ED7-B92D-01C1B52133A5}" fieldid="Value" updated="20180116T161623Z">
-    <ja-JP>Cart Any Item Has [Tag]?</ja-JP>
+    <ja-JP>カートのアイテムに [Tag] のタグが含まれるか？</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartAnyItemSubtotalCondition" key="CartAnyItemSubtotalCondition" itemid="{0F26ED27-B34D-46C6-905F-C2C4729B2013}" fieldid="Value" updated="20161212T201708Z">
-    <ja-JP>Cart Any Item Subtotal [compares] to [specific value]?</ja-JP>
+    <ja-JP>カートの小計が [compares] と [specific value]?</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartHasFulfillmentCondition" key="CartHasFulfillmentCondition" itemid="{BD4529ED-2881-49CA-B157-64F5653D93E2}" fieldid="Value" updated="20161212T205556Z">
-    <ja-JP>Cart Has Fulfillment?</ja-JP>
+    <ja-JP>カートに配送情報があるか？</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartHasItemsCondition" key="CartHasItemsCondition" itemid="{6E57A304-E0A1-4032-9B02-744F852B909A}" fieldid="Value" updated="20161222T180738Z">
     <ja-JP>カートにアイテムがあるか？</ja-JP>
@@ -66,91 +81,91 @@
     <ja-JP>カートに [count] 個のアイテムがあるか？ </ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartItemQuantityCondition" key="CartItemQuantityCondition" itemid="{8392E9A9-168A-41EB-BF62-45A702BA46C9}" fieldid="Value" updated="20161212T201939Z">
-    <ja-JP>Cart Item Quantity  [compares] to [specific value]?</ja-JP>
+    <ja-JP>カートに入っている数が  [compares] で [specific value] か？</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartItemQuantityRangeCondition" key="CartItemQuantityRangeCondition" itemid="{ADCCF545-DF97-4A6E-A0E2-0D46F697CB1C}" fieldid="Value" updated="20161212T202114Z">
-    <ja-JP>Cart Item Quantity is in [min] [max] Range?</ja-JP>
+    <ja-JP>カートのアイテムの数が [min] から [max] の範囲</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartItemSubtotalCondition" key="CartItemSubtotalCondition" itemid="{B00B6059-ED18-44FE-8C43-350194173884}" fieldid="Value" updated="20161212T202120Z">
-    <ja-JP>Cart Item Subtotal  [compares] to [specific value]?</ja-JP>
+    <ja-JP>カートのアイテム数が [specific value] の値と  [compares] する場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CartSubtotalCondition" key="CartSubtotalCondition" itemid="{0F7731D0-94B7-4F27-AA7C-CB58FAB4EDEF}" fieldid="Value" updated="20161212T202124Z">
-    <ja-JP>Cart Subtotal [compares] to [specific value]?</ja-JP>
+    <ja-JP>カートの小計が [specific value] と [compares] する場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CurrentCustomerHasPurchaseItemCondition" key="CurrentCustomerHasPurchaseItemCondition" itemid="{B5D77414-9A5E-46E2-B822-BDDD81E6E64C}" fieldid="Value" updated="20161212T203756Z">
-    <ja-JP>Current Customer Has Purchased [specific] Item?</ja-JP>
+    <ja-JP>現在の訪問者の注文に [specific] が含まれる場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CurrentCustomerOrdersCountCondition" key="CurrentCustomerOrdersCountCondition" itemid="{5C051E84-E592-4A6D-8EA5-249B33380E99}" fieldid="Value" updated="20161212T203725Z">
-    <ja-JP>Current Customer Orders Count [compares] to [specific value]?</ja-JP>
+    <ja-JP>現在の訪問者の注文数が  [specific value] と [compares] する場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CurrentCustomerOrdersTotalCondition" key="CurrentCustomerOrdersTotalCondition" itemid="{67D0802A-ADA7-4F6A-8345-3409F1D7A415}" fieldid="Value" updated="20161212T203606Z">
-    <ja-JP>Current Customer Orders Total [compares] to [specific value]?</ja-JP>
+    <ja-JP>現在の訪問している注文の合計が [specific value]  と [compares] する場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CurrentDateHasPassedCondition" key="CurrentDateHasPassedCondition" itemid="{818057A7-775F-46DF-95E7-2416B3558A23}" fieldid="Value" updated="20161212T204056Z">
-    <ja-JP>Current Date Has Passed?</ja-JP>
+    <ja-JP>現在の日付が過ぎている場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/CustomerBoughtItemWithTagCondition" key="CustomerBoughtItemWithTagCondition" itemid="{10F324C3-5C32-4A05-8D26-DAAEE6105029}" fieldid="Value" updated="20161212T212642Z">
-    <ja-JP>Current Customer Has Purchased Item With [specific] Tag?</ja-JP>
+    <ja-JP>現在の訪問者の発注する製品に [specific] のタグが含まれる場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/InventoryStockCountInLocationCondition" key="InventoryStockCountInLocationCondition" itemid="{2F25ACA9-25DC-4879-952D-FA7EB365099E}" fieldid="Value" updated="20161212T212957Z">
-    <ja-JP>Inventory Item Stock Count In [specific] Location [compares] to [specific value]?</ja-JP>
+    <ja-JP>商品の在庫数が [specific] 倉庫にある [specific value] と [compares] する場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartContactCurrencyCondition" key="IsCartContactCurrencyCondition" itemid="{C8ACCC37-F2B6-40C6-9694-69EA9C65B058}" fieldid="Value" updated="20161212T202133Z">
-    <ja-JP>Is Cart Contact Currency [specific value]?</ja-JP>
+    <ja-JP>現在の訪問者の通貨が [specific value] の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartContactCustomerIdCondition" key="IsCartContactCustomerIdCondition" itemid="{5888A56E-D7D9-43C2-B1BC-9B6C073975C6}" fieldid="Value" updated="20161212T202141Z">
-    <ja-JP>Is Cart Contact Customer Id [specific value]?</ja-JP>
+    <ja-JP>カートの顧客IDが [specific value] と同じ場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartContactLanguageCondition" key="IsCartContactLanguageCondition" itemid="{19241857-78CF-4450-AB5F-AC78769192FB}" fieldid="Value" updated="20161212T202204Z">
-    <ja-JP>Is Cart Contact Language [specific value]?</ja-JP>
+    <ja-JP>コンタクトの言語が [specific value] の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartContactRegisteredCondition" key="IsCartContactRegisteredCondition" itemid="{4AA56A3C-971E-4E6E-B606-D1B601D1DB9B}" fieldid="Value" updated="20161212T200902Z">
-    <ja-JP>Is Cart Contact Registered?</ja-JP>
+    <ja-JP>カートのコンタクトが登録ユーザーの場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartLineItemAvailableCondition" key="IsCartLineItemAvailableCondition" itemid="{D888B787-CE9F-4A05-8767-B47CE3ED2466}" fieldid="Value" updated="20161212T203009Z">
-    <ja-JP>Is Cart Item Available?</ja-JP>
+    <ja-JP>カートの商品が有効な場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCartLineItemQuantityAvailableCondition" key="IsCartLineItemQuantityAvailableCondition" itemid="{CDEEAB14-C324-4B3C-A0DD-A1B29703AD7D}" fieldid="Value" updated="20161212T203039Z">
-    <ja-JP>Is Cart Item [specific] Quantity Available?</ja-JP>
+    <ja-JP>カートアイテムが [specific] の数有効な場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCurrentDayCondition" key="IsCurrentDayCondition" itemid="{8E13DD3E-4F2F-46BE-B982-9B456F77FD71}" fieldid="Value" updated="20161212T204211Z">
-    <ja-JP>Is Current Day?</ja-JP>
+    <ja-JP>本日のアクセスの場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsCurrentMonthCondition" key="IsCurrentMonthCondition" itemid="{677382E3-3652-43D8-B611-728553EAF177}" fieldid="Value" updated="20161212T204225Z">
-    <ja-JP>Is Current Month?</ja-JP>
+    <ja-JP>今月のアクセスの場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemBackorderableCondition" key="IsItemBackorderableCondition" itemid="{2ACC3A7D-5028-424F-820D-0CF0D16B11C5}" fieldid="Value" updated="20170131T172341Z">
-    <ja-JP>Is Item Back-orderable?</ja-JP>
+    <ja-JP>バックオーダーが有効なアイテム</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemBackorderableInLocationCondition" key="IsItemBackorderableInLocationCondition" itemid="{36D5EDA2-6A64-4960-9DF3-1E6F503C9BF9}" fieldid="Value" updated="20170131T172323Z">
-    <ja-JP>Is Item Back-orderable  in [specific] Location?</ja-JP>
+    <ja-JP>バックオーダーが有効で [specific] の地域の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemInStockCondition" key="IsItemInStockCondition" itemid="{0A184F32-4317-4F0C-8771-E26E325E3C60}" fieldid="Value" updated="20170131T172152Z">
     <ja-JP>アイテムは在庫があるか？</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemInStockInLocationCondition" key="IsItemInStockInLocationCondition" itemid="{68B743BB-C6FD-489F-B8C3-62EBADF94D9E}" fieldid="Value" updated="20170131T172220Z">
-    <ja-JP>Is Item In Stock in [specific] Location?</ja-JP>
+    <ja-JP>商品が [specific] の倉庫に在庫がある場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemOutOfStockCondition" key="IsItemOutOfStockCondition" itemid="{9E9D1251-A8B0-4049-AB5D-F7073E8C3533}" fieldid="Value" updated="20170131T172516Z">
-    <ja-JP>Is Item Out Of Stock?</ja-JP>
+    <ja-JP>在庫がない場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemOutOfStockInLocationCondition" key="IsItemOutOfStockInLocationCondition" itemid="{721C364F-AA59-4E74-9CE1-8C948ABAD8A1}" fieldid="Value" updated="20170131T172251Z">
-    <ja-JP>Is Item Out Of Stock in [specific] Location?</ja-JP>
+    <ja-JP>商品に関して [specific] の倉庫の在庫がない場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemPreorderableCondition" key="IsItemPreorderableCondition" itemid="{97C13941-4066-499D-AD49-3CA9DE5DDD1E}" fieldid="Value" updated="20170131T172428Z">
-    <ja-JP>Is Item Pre-orderable?</ja-JP>
+    <ja-JP>予約注文が可能な場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsItemPreorderableInLocationCondition" key="IsItemPreorderableInLocationCondition" itemid="{BBB87688-0B4E-4A04-811C-C0E1A4A357B5}" fieldid="Value" updated="20170131T172409Z">
-    <ja-JP>Is Item Pre-orderable in [specific] Location?</ja-JP>
+    <ja-JP>[specific] の地域で予約注文が可能な場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsShopCurrencyCondition" key="IsShopCurrencyCondition" itemid="{CA36F8DA-5080-4792-883D-D523D6675C30}" fieldid="Value" updated="20161212T203935Z">
-    <ja-JP>Is Shop Currency [specific value]?</ja-JP>
+    <ja-JP>ショップの通貨が [specific value] の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsShopLanguageCondition" key="IsShopLanguageCondition" itemid="{D401890F-B168-41BF-B075-43F60BA41EB5}" fieldid="Value" updated="20161212T203953Z">
-    <ja-JP>Is Shop Language [specific value]?</ja-JP>
+    <ja-JP>ショップの言語が [specific value] の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/IsShopNameCondition" key="IsShopNameCondition" itemid="{ED8E1C7D-0ADB-4A52-BC28-AD22AFBEC987}" fieldid="Value" updated="20161212T203908Z">
-    <ja-JP>Is Shop Name [specific value]?</ja-JP>
+    <ja-JP>ショップ名が [specific value] の場合</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/Conditions/ItemsCollectionCondition" key="ItemsCollectionCondition" itemid="{6DA90F98-54F3-47F8-AD37-80AA6FE163D4}" fieldid="Value" updated="20161219T221052Z">
     <ja-JP>アイテム コレクション</ja-JP>
@@ -294,7 +309,7 @@
     <ja-JP>Adds a item</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddLineItem" key="AddLineItem" itemid="{321E1368-0CA5-41F0-A35C-2340E8B67508}" fieldid="Value" updated="20161212T175411Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddLineItem" key="AddLineItem" itemid="{321E1368-0CA5-41F0-A35C-2340E8B67508}" fieldid="Description" updated="20161212T175411Z">
     <ja-JP>Adds a line</ja-JP>
@@ -306,43 +321,43 @@
     <ja-JP>Adds min-max property constraint</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPayment" key="AddPayment" itemid="{6E928293-DD1B-4568-B883-5306492DAD7E}" fieldid="Value" updated="20161212T175416Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPayment" key="AddPayment" itemid="{6E928293-DD1B-4568-B883-5306492DAD7E}" fieldid="Description" updated="20161212T175416Z">
     <ja-JP>Adds a payment</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceBook" key="AddPriceBook" itemid="{8F98C42B-B8A5-4461-8BD8-B5B052AC7407}" fieldid="Value" updated="20161212T175309Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceBook" key="AddPriceBook" itemid="{8F98C42B-B8A5-4461-8BD8-B5B052AC7407}" fieldid="Description" updated="20161212T175309Z">
     <ja-JP>Adds a price book</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceCard" key="AddPriceCard" itemid="{FAD19E39-813F-481B-A285-5E61A933A41A}" fieldid="Value" updated="20161212T175424Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceCard" key="AddPriceCard" itemid="{FAD19E39-813F-481B-A285-5E61A933A41A}" fieldid="Description" updated="20161212T175424Z">
     <ja-JP>Adds a price card</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceSnapshot" key="AddPriceSnapshot" itemid="{F78323E5-4078-4FF4-834C-2BCA2142E8DF}" fieldid="Value" updated="20161212T175434Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceSnapshot" key="AddPriceSnapshot" itemid="{F78323E5-4078-4FF4-834C-2BCA2142E8DF}" fieldid="Description" updated="20161212T175434Z">
     <ja-JP>Adds a price snapshot</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceTag" key="AddPriceTag" itemid="{29C43DCD-48DA-42B8-8D80-361B34E2501D}" fieldid="Value" updated="20161212T175443Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPriceTag" key="AddPriceTag" itemid="{29C43DCD-48DA-42B8-8D80-361B34E2501D}" fieldid="Description" updated="20161212T175443Z">
     <ja-JP>Adds a tag</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPrivateCoupon" key="AddPrivateCoupon" itemid="{49A3700F-3124-493F-A18A-8BAEDE02F11D}" fieldid="Value" updated="20161212T175450Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPrivateCoupon" key="AddPrivateCoupon" itemid="{49A3700F-3124-493F-A18A-8BAEDE02F11D}" fieldid="Description" updated="20161212T175450Z">
     <ja-JP>Adds a private coupon</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPromotion" key="AddPromotion" itemid="{CBAC5CEA-1CFD-4256-B684-CE08DF924412}" fieldid="Value" updated="20161212T175454Z">
-    <ja-JP>Add</ja-JP>
+    <ja-JP>追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddPromotion" key="AddPromotion" itemid="{CBAC5CEA-1CFD-4256-B684-CE08DF924412}" fieldid="Description" updated="20161212T175454Z">
     <ja-JP>Adds a promotion</ja-JP>
@@ -396,7 +411,7 @@
     <ja-JP>Add an image</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddSellableItemListPrice" key="AddSellableItemListPrice" itemid="{A6AFE77E-00DB-4B5A-B941-F02484543871}" fieldid="Value" updated="20170927T205213Z">
-    <ja-JP>Add List Price</ja-JP>
+    <ja-JP>リストプライスの追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/AddSellableItemListPrice" key="AddSellableItemListPrice" itemid="{A6AFE77E-00DB-4B5A-B941-F02484543871}" fieldid="Description" updated="20170927T205213Z">
     <ja-JP>Adds a list price</ja-JP>
@@ -537,7 +552,7 @@
     <ja-JP>Deletes a entitlement</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/DeleteLineItem" key="DeleteLineItem" itemid="{9FAEF1FA-3439-4E8F-9A3B-D98A2089C3D0}" fieldid="Value" updated="20161212T175949Z">
-    <ja-JP>Delete</ja-JP>
+    <ja-JP>削除</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/DeleteLineItem" key="DeleteLineItem" itemid="{9FAEF1FA-3439-4E8F-9A3B-D98A2089C3D0}" fieldid="Description" updated="20161212T175949Z">
     <ja-JP>Deletes a line</ja-JP>
@@ -681,7 +696,7 @@
     <ja-JP>Edits an inventory set</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/EditLineItem" key="EditLineItem" itemid="{20AA7BDE-1A6E-4BB2-B0C1-D62EEAE45577}" fieldid="Value" updated="20161212T180237Z">
-    <ja-JP>Edit</ja-JP>
+    <ja-JP>編集</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/EditLineItem" key="EditLineItem" itemid="{20AA7BDE-1A6E-4BB2-B0C1-D62EEAE45577}" fieldid="Description" updated="20161212T180237Z">
     <ja-JP>Edits a line</ja-JP>
@@ -813,7 +828,7 @@
     <ja-JP>Gets a country's regions</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/GetCountryRegionsForFulfillment" key="GetCountryRegionsForFulfillment" itemid="{C99542B3-0A74-45F0-8F56-BDDB24AEE996}" fieldid="Value" updated="20161212T180357Z">
-    <ja-JP>Get Regions</ja-JP>
+    <ja-JP>地域の取得</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/GetCountryRegionsForFulfillment" key="GetCountryRegionsForFulfillment" itemid="{C99542B3-0A74-45F0-8F56-BDDB24AEE996}" fieldid="Description" updated="20161212T180357Z">
     <ja-JP>Gets a country's regions</ja-JP>
@@ -825,7 +840,7 @@
     <ja-JP>Gets a country's regions</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/GetFulfillmentMethods" key="GetFulfillmentMethods" itemid="{B0109B09-65B0-4EBB-82E1-563C581EF898}" fieldid="Value" updated="20161212T180410Z">
-    <ja-JP>Get Methods</ja-JP>
+    <ja-JP>手順の取得</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/GetFulfillmentMethods" key="GetFulfillmentMethods" itemid="{B0109B09-65B0-4EBB-82E1-563C581EF898}" fieldid="Description" updated="20161212T180410Z">
     <ja-JP>Gets fulfillment methods</ja-JP>
@@ -969,7 +984,7 @@
     <ja-JP>Removes an image</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/RemoveSellableItemListPrice" key="RemoveSellableItemListPrice" itemid="{1E29C7AE-A354-47FD-A931-2C5F0C2BC121}" fieldid="Value" updated="20170927T205306Z">
-    <ja-JP>Remove List Price</ja-JP>
+    <ja-JP>リストプライスの削除</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/RemoveSellableItemListPrice" key="RemoveSellableItemListPrice" itemid="{1E29C7AE-A354-47FD-A931-2C5F0C2BC121}" fieldid="Description" updated="20170927T205306Z">
     <ja-JP>Removes a list price</ja-JP>
@@ -1077,7 +1092,7 @@
     <ja-JP>Selects a Currency</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/SelectFulfillmentOption" key="SelectFulfillmentOption" itemid="{B96457E1-3CC6-4381-AA98-C5503B23508A}" fieldid="Value" updated="20161212T182034Z">
-    <ja-JP>Select Option</ja-JP>
+    <ja-JP>オプションの選択</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/SelectFulfillmentOption" key="SelectFulfillmentOption" itemid="{B96457E1-3CC6-4381-AA98-C5503B23508A}" fieldid="Description" updated="20161212T182034Z">
     <ja-JP>Selects a fulfillment option</ja-JP>
@@ -1101,7 +1116,7 @@
     <ja-JP>Selects a qualification</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/SetFulfillment" key="SetFulfillment" itemid="{AFA3B0BB-F22F-4A71-9964-605DE561B263}" fieldid="Value" updated="20161212T182228Z">
-    <ja-JP>Set Fulfillment</ja-JP>
+    <ja-JP>配送の設定</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewActionNames/SetFulfillment" key="SetFulfillment" itemid="{AFA3B0BB-F22F-4A71-9964-605DE561B263}" fieldid="Description" updated="20161212T182228Z">
     <ja-JP>Sets fulfillment</ja-JP>
@@ -1179,7 +1194,7 @@
     <ja-JP>Add Content Path</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/AddLineItem" key="AddLineItem" itemid="{3728954A-9177-4AAC-9870-7CBFB95491C2}" fieldid="Value" updated="20160815T143627Z">
-    <ja-JP>Add Line Item</ja-JP>
+    <ja-JP>ラインアイテムに追加</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/AddMinMaxPropertyConstraint" key="AddMinMaxPropertyConstraint" itemid="{CA14ACA3-1C55-4228-A7EE-ECB80EB81584}" fieldid="Value" updated="20170908T202331Z">
     <ja-JP>Add Min-Max Property Constraint</ja-JP>
@@ -1191,7 +1206,7 @@
     <ja-JP>Address Details</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Addresses" key="Addresses" itemid="{6C3E8F26-45E5-443C-84EA-9F2BCB1C923B}" fieldid="Value" updated="20161209T170909Z">
-    <ja-JP>Addresses</ja-JP>
+    <ja-JP>住所</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/AddSelectionOptionPropertyConstraint" key="AddSelectionOptionPropertyConstraint" itemid="{E5677DDF-1F8E-43E6-A8D5-6358C41A1DDD}" fieldid="Value" updated="20170908T202321Z">
     <ja-JP>Add Selection Option Property Constraint</ja-JP>
@@ -1206,7 +1221,7 @@
     <ja-JP>Adjustment</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Adjustments" key="Adjustments" itemid="{3681EC26-4432-4A58-81A9-AF6C4C09936F}" fieldid="Value" updated="20170303T205007Z">
-    <ja-JP>Adjustments</ja-JP>
+    <ja-JP>調整</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/AllocationDetails" key="AllocationDetails" itemid="{A6E45421-1CEC-47B2-9472-EDBBF49042E3}" fieldid="Value" updated="20170823T143140Z">
     <ja-JP>Allocation Details</ja-JP>
@@ -1230,7 +1245,7 @@
     <ja-JP>Benefit Details</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Benefits" key="Benefits" itemid="{FC2E523F-B4D6-41B1-B36A-328D7D86E06A}" fieldid="Value" updated="20160815T143236Z">
-    <ja-JP>Benefits</ja-JP>
+    <ja-JP>ベネフィット</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/BusinessUserDashboard" key="BusinessUserDashboard" itemid="{99AD2453-42D3-448B-8A9B-903C9295492E}" fieldid="Value" updated="20170824T195106Z">
     <ja-JP>Settings</ja-JP>
@@ -1239,7 +1254,7 @@
     <ja-JP>カタログ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Categories" key="Categories" itemid="{79F16664-DD1B-43A1-A7B9-3096F2507CF7}" fieldid="Value" updated="20170524T184023Z">
-    <ja-JP>Categories</ja-JP>
+    <ja-JP>カテゴリー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CategoryToAssociate" key="CategoryToAssociate" itemid="{66214BD0-2626-474F-B0A0-4F0D30CEC022}" fieldid="Value" updated="20171201T221533Z">
     <ja-JP>Category To Associate</ja-JP>
@@ -1287,28 +1302,28 @@
     <ja-JP>Customer Entitlement Details</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CustomerEntitlements" key="CustomerEntitlements" itemid="{BF3CC6C0-1595-43B2-8453-CDFC1363BD92}" fieldid="Value" updated="20161208T190220Z">
-    <ja-JP>Customer Entitlements</ja-JP>
+    <ja-JP>顧客の資格</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CustomerOrders" key="CustomerOrders" itemid="{0BCC8BA9-C606-404D-89F1-1B942009A847}" fieldid="Value" updated="20161209T170947Z">
     <ja-JP>顧客のオーダー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CustomerReviews" key="CustomerReviews" itemid="{FD27F6E7-230E-4C64-BB56-A45D0209C1B2}" fieldid="Value" updated="20170721T181643Z">
-    <ja-JP>Customer Reviews</ja-JP>
+    <ja-JP>カスタマー レビュー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Customers" key="Customers" itemid="{3EBD407B-7817-4D5E-89BB-F4FABB1984DE}" fieldid="Value" updated="20171024T175330Z">
-    <ja-JP>Most Recent Customers</ja-JP>
+    <ja-JP>最近参照したカスタマー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Customers" key="Customers" itemid="{3EBD407B-7817-4D5E-89BB-F4FABB1984DE}" fieldid="Description" updated="20171024T175330Z">
-    <ja-JP>Most Recent Customers</ja-JP>
+    <ja-JP>最近参照したカスタマー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CustomersDashboard" key="CustomersDashboard" itemid="{B4787879-7445-4841-8BB0-83CC206C2432}" fieldid="Value" updated="20170523T174400Z">
-    <ja-JP>Customers</ja-JP>
+    <ja-JP>カスタマー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/CustomersDashboard" key="CustomersDashboard" itemid="{B4787879-7445-4841-8BB0-83CC206C2432}" fieldid="Description" updated="20170523T174400Z">
-    <ja-JP>Customers Dashboard</ja-JP>
+    <ja-JP>カスタマー ダッシュボード</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Details" key="Details" itemid="{211D4904-EC7F-4924-B326-351535161960}" fieldid="Value" updated="20160815T140712Z">
-    <ja-JP>Details</ja-JP>
+    <ja-JP>詳細</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/DisplayProperties" key="DisplayProperties" itemid="{69F7ACED-1BB3-4204-B801-26217F78A431}" fieldid="Value" updated="20170721T181611Z">
     <ja-JP>Display Properties</ja-JP>
@@ -1326,7 +1341,7 @@
     <ja-JP>Edit Inventory</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/EditLineItem" key="EditLineItem" itemid="{95F1D03B-0E4F-467B-BDAB-7BCE4B6A8C02}" fieldid="Value" updated="20160815T143612Z">
-    <ja-JP>Edit Line Item</ja-JP>
+    <ja-JP>ラインアイテムの編集</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/EditTimeFormats" key="EditTimeFormats" itemid="{F13ADDC4-87ED-4CE4-8C4B-0782C082E162}" fieldid="Value" updated="20170824T195315Z">
     <ja-JP>Edit Time Formats</ja-JP>
@@ -1359,7 +1374,7 @@
     <ja-JP>カタログ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/InventorySets" key="InventorySets" itemid="{C7E9264F-4A53-4787-BD80-CBBB053946E1}" fieldid="Value" updated="20170713T162943Z">
-    <ja-JP>Inventory Sets</ja-JP>
+    <ja-JP>在庫セット</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/InventorySetSellableItems" key="InventorySetSellableItems" itemid="{9D85197A-D464-4947-9058-06654A29C858}" fieldid="Value" updated="20170713T163053Z">
     <ja-JP>販売アイテム</ja-JP>
@@ -1374,7 +1389,7 @@
     <ja-JP>アイテム</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/ItemSpecifications" key="ItemSpecifications" itemid="{B48CB6EA-D365-4A74-8A92-CEA75EBF9300}" fieldid="Value" updated="20170721T181802Z">
-    <ja-JP>Item Specifications</ja-JP>
+    <ja-JP>アイテムの特徴</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Line" key="Line" itemid="{887F8872-43C8-4FB4-97EA-32972F0E6BD1}" fieldid="Value" updated="20160816T131858Z">
     <ja-JP>Line</ja-JP>
@@ -1383,7 +1398,7 @@
     <ja-JP>Line Fulfillment</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/LineItemDetails" key="LineItemDetails" itemid="{BC1AB1B2-5367-4B51-9DCE-385B9889C8C5}" fieldid="Value" updated="20180214T211429Z">
-    <ja-JP>Line Item Details</ja-JP>
+    <ja-JP>商品アイテム 詳細</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Lines" key="Lines" itemid="{A47E6DCE-EF01-4AE4-85AC-2BA06D2DE220}" fieldid="Value" updated="20161015T145230Z">
     <ja-JP>Line Items</ja-JP>
@@ -1431,7 +1446,7 @@
     <ja-JP>注文のフルフィルメント</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/OrderFulfillmentDetails" key="OrderFulfillmentDetails" itemid="{6270608B-87D1-419C-9FA7-C3D25B431FDA}" fieldid="Value" updated="20161031T012750Z">
-    <ja-JP>Order Fulfillment Details</ja-JP>
+    <ja-JP>注文配送の詳細</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/OrderFulfillments" key="OrderFulfillments" itemid="{F1BC491E-06CA-4C70-A211-CC6D77D40B5D}" fieldid="Value" updated="20161015T144559Z">
     <ja-JP>フルフィルメント</ja-JP>
@@ -1545,7 +1560,7 @@
     <ja-JP>Qualification Details</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Qualifications" key="Qualifications" itemid="{BDFD988F-B70F-488B-9E5E-3C3C9D5A3752}" fieldid="Value" updated="20160815T143026Z">
-    <ja-JP>Qualifications</ja-JP>
+    <ja-JP>条件</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/RegisteredContentPaths" key="RegisteredContentPaths" itemid="{9AAE9D80-474D-4409-AA25-EA119140448E}" fieldid="Value" updated="20170918T200525Z">
     <ja-JP>Registered Content Paths</ja-JP>
@@ -1614,7 +1629,7 @@
     <ja-JP>Shipment</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/Shipments" key="Shipments" itemid="{516D3EFB-87E6-4DD1-AB80-7C29F06B3815}" fieldid="Value" updated="20160815T143902Z">
-    <ja-JP>Shipments</ja-JP>
+    <ja-JP>出荷</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewNames/SitecoreIntegration" key="SitecoreIntegration" itemid="{1DFBE36F-A064-4B8A-AD14-871BDE3C7F02}" fieldid="Value" updated="20170918T200250Z">
     <ja-JP>Sitecore 統合</ja-JP>
@@ -1644,10 +1659,10 @@
     <ja-JP>View Property Names</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AccountNumber" key="AccountNumber" itemid="{1FB1EC8D-1BF5-4106-9124-0BA4F2B70BE0}" fieldid="Value" updated="20161213T191358Z">
-    <ja-JP>Account Number</ja-JP>
+    <ja-JP>アカウント番号</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AccountStatus" key="AccountStatus" itemid="{C2151541-E1F7-483D-87DE-64E4E7265B9F}" fieldid="Value" updated="20170609T215839Z">
-    <ja-JP>Account Status</ja-JP>
+    <ja-JP>アカウントのステータス</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Action" key="Action" itemid="{3897E64E-7BB8-4301-922C-340717E1E8CF}" fieldid="Value" updated="20160815T150552Z">
     <ja-JP>アクション</ja-JP>
@@ -1656,10 +1671,10 @@
     <ja-JP>有効化</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ActivityAmount" key="ActivityAmount" itemid="{4C47F8EB-4521-4FC7-9FFB-A2341F20F740}" fieldid="Value" updated="20170110T143314Z">
-    <ja-JP>Activity Amount</ja-JP>
+    <ja-JP>アカウントの有効</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ActualShipDate" key="ActualShipDate" itemid="{41C2CAA2-ED66-4C06-BA66-CA3ED300EDF0}" fieldid="Value" updated="20160815T164223Z">
-    <ja-JP>Actual Ship Date</ja-JP>
+    <ja-JP>出荷予定日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Address1" key="Address1" itemid="{7F4B0E28-84CC-411D-8873-3F8C1E0FD6CD}" fieldid="Value" updated="20160815T161926Z">
     <ja-JP>住所 1</ja-JP>
@@ -1668,16 +1683,16 @@
     <ja-JP>住所 2</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AddressName" key="AddressName" itemid="{6EFE8009-1EB6-4855-B89D-B379A1DCBEA6}" fieldid="Value" updated="20170106T223700Z">
-    <ja-JP>住所名</ja-JP>
+    <ja-JP>アカウント名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Adjustment" key="Adjustment" itemid="{131F56A4-A684-4B24-9E1A-16364E316A8F}" fieldid="Value" updated="20170303T205127Z">
     <ja-JP>Adjustment</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Adjustments" key="Adjustments" itemid="{1B17E2F0-9E9C-4F35-AA3C-F1B94EEE3B19}" fieldid="Value" updated="20160815T153817Z">
-    <ja-JP>Adjustments</ja-JP>
+    <ja-JP>調整</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AdjustmentsTotal" key="AdjustmentsTotal" itemid="{752A4B40-FBBF-4CA4-9E99-7C7FEC36ED2E}" fieldid="Value" updated="20161209T173043Z">
-    <ja-JP>Adjustments Total</ja-JP>
+    <ja-JP>調整合計</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Allocated" key="Allocated" itemid="{C506BCD4-4A05-46C4-A7D3-993583E5A939}" fieldid="Value" updated="20161208T214339Z">
     <ja-JP>Allocated</ja-JP>
@@ -1689,7 +1704,7 @@
     <ja-JP>Amount</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AmountOff" key="AmountOff" itemid="{9710C208-DCC9-4047-BBFF-2AB57CB906CB}" fieldid="Value" updated="20161209T172848Z">
-    <ja-JP>Amount Off</ja-JP>
+    <ja-JP>割引</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Approve" key="Approve" itemid="{C56B1E37-B142-4B1F-A15B-3050E81D9A6B}" fieldid="Value" updated="20180420T182231Z">
     <ja-JP>承認</ja-JP>
@@ -1698,7 +1713,7 @@
     <ja-JP>承認済</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AreaCode" key="AreaCode" itemid="{2B5AD579-2B09-42A2-A429-64C2DE515898}" fieldid="Value" updated="20161209T174446Z">
-    <ja-JP>Area Code</ja-JP>
+    <ja-JP>エリアコード</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AreaServed" key="AreaServed" itemid="{FE5ACC1A-B73B-48DF-A0C1-F701AEA4C9C9}" fieldid="Value" updated="20170721T180354Z">
     <ja-JP>Area Served</ja-JP>
@@ -1716,22 +1731,22 @@
     <ja-JP>承認待ち</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AwaitingAvailabilityOrders" key="AwaitingAvailabilityOrders" itemid="{006F6AC4-9865-46B9-9590-F7715240FED0}" fieldid="Value" updated="20170523T175603Z">
-    <ja-JP>Awaiting Availability</ja-JP>
+    <ja-JP>承認待ち</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/AwardingBlock" key="AwardingBlock" itemid="{EC526A02-ABDC-4701-9EDE-B06F9C7CCC07}" fieldid="Value" updated="20170303T205401Z">
-    <ja-JP>Awarding Block</ja-JP>
+    <ja-JP>対象となるブロック</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Backorderable" key="Backorderable" itemid="{64BEEE22-D9C3-4784-BA52-1D0629E18230}" fieldid="Value" updated="20170713T163542Z">
-    <ja-JP>Backorderable</ja-JP>
+    <ja-JP>バックオーダー可能</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BackorderAvailabilityDate" key="BackorderAvailabilityDate" itemid="{F6147AAB-442E-45C0-9DCA-41A038C76CC1}" fieldid="Value" updated="20170713T163600Z">
-    <ja-JP>Backorder Availability Date</ja-JP>
+    <ja-JP>バックオーダーの日付</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Backordered" key="Backordered" itemid="{50F6024F-BC3C-40D1-880F-74B14530212E}" fieldid="Value" updated="20170717T174653Z">
-    <ja-JP>Backordered</ja-JP>
+    <ja-JP>バックオーダー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BackorderLimit" key="BackorderLimit" itemid="{89EECA64-3D71-4C26-A495-0EEBA3201EC4}" fieldid="Value" updated="20170713T163645Z">
-    <ja-JP>Backorder Limit</ja-JP>
+    <ja-JP>バックオーダー数</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Balance" key="Balance" itemid="{05792200-D48A-4507-8CA7-4C396B7C3CEF}" fieldid="Value" updated="20170523T212516Z">
     <ja-JP>バランス</ja-JP>
@@ -1742,20 +1757,20 @@
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BookId" key="BookId" itemid="{C9086DA9-41B8-4B57-95DF-3B307B490411}" fieldid="Value" updated="20160815T145519Z">
     <ja-JP>Book Id</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BookName" key="BookName" itemid="{B0D340DC-1E90-4272-819B-8B9804AD7741}" fieldid="Value" updated="20160815T145459Z">
-    <ja-JP>Book Name</ja-JP>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BookName" key="BookName" itemid="{B0D340DC-1E90-4272-819B-8B9804AD7741}" fieldid="Value" updated="20181119T085515Z">
+    <ja-JP>ブック名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Brand" key="Brand" itemid="{1BCA8AC4-205B-4AD7-8180-ECFDA2902E27}" fieldid="Value" updated="20170721T175623Z">
-    <ja-JP>Brand</ja-JP>
+    <ja-JP>ブランド</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/BusinessName" key="BusinessName" itemid="{65FA3976-3DA4-4387-8434-2E738A4A099E}" fieldid="Value" updated="20161209T174511Z">
-    <ja-JP>Business Name</ja-JP>
+    <ja-JP>ビジネス名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CanRequestRma" key="CanRequestRma" itemid="{7728C61F-A62E-4699-907E-0CED7AB96FC1}" fieldid="Value" updated="20170324T134638Z">
     <ja-JP>Can Request RMA?</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CardType" key="CardType" itemid="{D5E57974-F1A4-4DAA-B806-5D69E14DE937}" fieldid="Value" updated="20161208T214137Z">
-    <ja-JP>Card Type</ja-JP>
+    <ja-JP>カードタイプ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Catalog" key="Catalog" itemid="{11A29AFF-7B51-4CD9-A85E-F0D8D6EBF03D}" fieldid="Value" updated="20171201T221238Z">
     <ja-JP>カタログ</ja-JP>
@@ -1773,31 +1788,31 @@
     <ja-JP>市区町村</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ClientToken" key="ClientToken" itemid="{C353741C-A54D-4CA9-B6BB-48DC91D942B9}" fieldid="Value" updated="20161215T140657Z">
-    <ja-JP>Client Token</ja-JP>
+    <ja-JP>クライアント トークン</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Code" key="Code" itemid="{5149E1A3-4558-4DA0-A950-F584A6ECD7A8}" fieldid="Value" updated="20161208T214329Z">
-    <ja-JP>Code</ja-JP>
+    <ja-JP>コード</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Codes" key="Codes" itemid="{18ADAE58-2454-4DAB-AAFA-7E61E0E32B52}" fieldid="Value" updated="20170823T143022Z">
-    <ja-JP>Codes</ja-JP>
+    <ja-JP>コード</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Color" key="Color" itemid="{FD06E41B-36C1-4243-9C7A-4FB29987D7F9}" fieldid="Value" updated="20160815T154246Z">
-    <ja-JP>Color</ja-JP>
+    <ja-JP>色</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Command" key="Command" itemid="{FAFF7B29-76A2-4296-9D49-55EAA08861EE}" fieldid="Value" updated="20180420T121959Z">
-    <ja-JP>Command</ja-JP>
+    <ja-JP>コマンド</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Comment" key="Comment" itemid="{6455DDD9-FBC7-49D3-AD19-DB43C2D3E359}" fieldid="Value" updated="20161031T023309Z">
-    <ja-JP>Comment</ja-JP>
+    <ja-JP>コメント</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CompletedOrders" key="CompletedOrders" itemid="{C4E76B3D-6454-4C15-A981-26880A295BEB}" fieldid="Value" updated="20170523T175637Z">
     <ja-JP>完了</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Condition" key="Condition" itemid="{046C0682-2912-450B-BA2E-C49BF23D6028}" fieldid="Value" updated="20160815T152153Z">
-    <ja-JP>Condition</ja-JP>
+    <ja-JP>条件</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ConditionOperator" key="ConditionOperator" itemid="{BCA1589E-B8FF-45BE-BE37-D1FD548558FA}" fieldid="Value" updated="20160815T152346Z">
-    <ja-JP>Condition Operator</ja-JP>
+    <ja-JP>条件の運用</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Count" key="Count" itemid="{91A75D88-C434-468B-96D1-CFC16852834C}" fieldid="Value" updated="20161208T214303Z">
     <ja-JP>Count</ja-JP>
@@ -1812,7 +1827,7 @@
     <ja-JP>国名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CouponUsed" key="CouponUsed" itemid="{10BBD593-F2AC-4C0A-9246-6F1819889DCA}" fieldid="Value" updated="20161208T214428Z">
-    <ja-JP>Coupon Used</ja-JP>
+    <ja-JP>クーポン利用</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Currency" key="Currency" itemid="{4E125E84-0842-4974-83FC-C1FC80B3615F}" fieldid="Value" updated="20160815T145744Z">
     <ja-JP>通貨</ja-JP>
@@ -1827,10 +1842,10 @@
     <ja-JP>通貨</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CurrentState" key="CurrentState" itemid="{8E5AB794-BBA9-4A92-BA31-32AE11CF1DCD}" fieldid="Value" updated="20180420T121936Z">
-    <ja-JP>Current workflow state</ja-JP>
+    <ja-JP>通貨ワークフロー状態</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Customer" key="Customer" itemid="{4D23BEC9-CEFF-413C-A28E-AD80AB1D58A5}" fieldid="Value" updated="20170814T120150Z">
-    <ja-JP>Customer</ja-JP>
+    <ja-JP>顧客</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/CustomerAverageRating" key="CustomerAverageRating" itemid="{12DAA8C4-5FDF-493C-94AA-1CA9A6FACB86}" fieldid="Value" updated="20170721T180306Z">
     <ja-JP>CustomerAverageRating</ja-JP>
@@ -1842,22 +1857,22 @@
     <ja-JP>Customer</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Database" key="Database" itemid="{9EC8EF4C-BD97-4C82-BACD-91216371187C}" fieldid="Value" updated="20170918T202826Z">
-    <ja-JP>Database</ja-JP>
+    <ja-JP>データベース</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DateCreated" key="DateCreated" itemid="{B8BF7732-4F02-4291-A8E6-512773E62C27}" fieldid="Value" updated="20170801T194225Z">
     <ja-JP>作成日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DateFormat" key="DateFormat" itemid="{008DCE7E-4A82-4550-98BE-7C366C38B51D}" fieldid="Value" updated="20170824T195456Z">
-    <ja-JP>Date Format</ja-JP>
+    <ja-JP>日付フォーマット</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DateToCompare" key="DateToCompare" itemid="{4AD24A01-1EB3-4E56-92CC-B4E510F08197}" fieldid="Value" updated="20160815T171107Z">
-    <ja-JP>Date To Compare</ja-JP>
+    <ja-JP>日付の比較</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DateUpdated" key="DateUpdated" itemid="{6133DFC7-0105-4474-B7B9-248003AB0CE2}" fieldid="Value" updated="20170801T194229Z">
-    <ja-JP>Updated</ja-JP>
+    <ja-JP>更新日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Day" key="Day" itemid="{83D9BE96-1C76-49DE-808C-35D649F01605}" fieldid="Value" updated="20161209T174807Z">
-    <ja-JP>Day</ja-JP>
+    <ja-JP>日付</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DayInMonth" key="DayInMonth" itemid="{52B76B63-8820-4DD8-AB55-182DFE90F2F9}" fieldid="Value" updated="20161209T174732Z">
     <ja-JP>Day In Month</ja-JP>
@@ -1872,16 +1887,16 @@
     <ja-JP>Default Time Zone</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DeleteOption" key="DeleteOption" itemid="{58E97873-1C6D-46A1-AE9D-B8BDF2D5F674}" fieldid="Value" updated="20180329T143536Z">
-    <ja-JP>Delete Option</ja-JP>
+    <ja-JP>削除オプション</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Description" key="Description" itemid="{1C012A99-8A75-4EA3-9DB6-05BB3F6717E0}" fieldid="Value" updated="20160815T144837Z">
     <ja-JP>説明</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Details" key="Details" itemid="{F99DF957-2EDB-4AA8-8064-D084A71E9CBD}" fieldid="Value" updated="20161208T214622Z">
-    <ja-JP>Details</ja-JP>
+    <ja-JP>詳細</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DigitalProperties" key="DigitalProperties" itemid="{E0593644-E1CA-4CC5-95FF-4E6B74C85A2D}" fieldid="Value" updated="20170721T180447Z">
-    <ja-JP>Digital Properties</ja-JP>
+    <ja-JP>デジタルプロパティ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Dimensions" key="Dimensions" itemid="{2826E54B-EAD7-47BE-B61B-8AF1D8191C06}" fieldid="Value" updated="20180116T170244Z">
     <ja-JP>Dimensions</ja-JP>
@@ -1896,7 +1911,7 @@
     <ja-JP>Disambiguating Description</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DisplayCartText" key="DisplayCartText" itemid="{607B1070-D428-457D-97A2-ACF9506825A9}" fieldid="Value" updated="20170814T114904Z">
-    <ja-JP>Display Cart Text</ja-JP>
+    <ja-JP>カートテキストの表示</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DisplayInProductList" key="DisplayInProductList" itemid="{8EACCE43-C77F-4964-904D-5B23ED9F2148}" fieldid="Value" updated="20170721T181342Z">
     <ja-JP>Display In Product List</ja-JP>
@@ -1908,16 +1923,16 @@
     <ja-JP>Display On Site</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DisplayText" key="DisplayText" itemid="{BD49C082-1B9C-47C0-8988-4DBE358BD02E}" fieldid="Value" updated="20170814T114838Z">
-    <ja-JP>Display Text</ja-JP>
+    <ja-JP>テキストの表示</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DnsAddress" key="DnsAddress" itemid="{C223EDFC-B0E7-4B91-BA7B-E0056B1B72EA}" fieldid="Value" updated="20161209T174534Z">
     <ja-JP>DNS Address</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Domain" key="Domain" itemid="{0DC6909B-9C89-4197-A480-8D3EE19F67E7}" fieldid="Value" updated="20170918T202812Z">
-    <ja-JP>Domain</ja-JP>
+    <ja-JP>ドメイン</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Draft" key="Draft" itemid="{7152CF61-249D-4483-8B49-73E15B7864F6}" fieldid="Value" updated="20180420T182148Z">
-    <ja-JP>Draft</ja-JP>
+    <ja-JP>ドラフト</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/DuplicateCardName" key="DuplicateCardName" itemid="{5B3B9AE6-2156-4CC4-97C4-7D3AA7EB9BA4}" fieldid="Value" updated="20161208T191306Z">
     <ja-JP>Duplicate Card Name</ja-JP>
@@ -1938,7 +1953,7 @@
     <ja-JP>ID</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/EntityVersion" key="EntityVersion" itemid="{B87AE4B0-00CA-4666-BC2F-0C8BFA502BD0}" fieldid="Value" updated="20180425T134607Z">
-    <ja-JP>Entity Version</ja-JP>
+    <ja-JP>実際のバージョン</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Excluded" key="Excluded" itemid="{2DD1329C-6EED-4D85-BD3F-6F57C95ADDA5}" fieldid="Value" updated="20160815T150035Z">
     <ja-JP>Excluded</ja-JP>
@@ -1950,10 +1965,10 @@
     <ja-JP>Expected Ship Date</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ExpiresMonth" key="ExpiresMonth" itemid="{59649FA4-AC53-40EE-88AD-1D47593BA2C9}" fieldid="Value" updated="20161031T012352Z">
-    <ja-JP>Expiration Month</ja-JP>
+    <ja-JP>有効期限 月</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ExpiresYear" key="ExpiresYear" itemid="{A2EBF992-A79B-4F93-8A34-FF71D87DD7B9}" fieldid="Value" updated="20161031T012403Z">
-    <ja-JP>Expiration Year</ja-JP>
+    <ja-JP>有効期限 年</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ExternalId" key="ExternalId" itemid="{6AD3D592-EB5C-4136-9BAB-4D0953D09AF6}" fieldid="Value" updated="20170710T183019Z">
     <ja-JP>External Id</ja-JP>
@@ -1962,16 +1977,16 @@
     <ja-JP>フィルター</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/FirstName" key="FirstName" itemid="{64A0C704-6DBF-4440-91DD-C6C8D6196485}" fieldid="Value" updated="20160815T161326Z">
-    <ja-JP>First Name</ja-JP>
+    <ja-JP>名前</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/FulfillmentMethodName" key="FulfillmentMethodName" itemid="{2C5ECF3F-F1C7-4908-BA1D-B67430FBCB13}" fieldid="Value" updated="20161209T174114Z">
-    <ja-JP>Fulfillment Method Name</ja-JP>
+    <ja-JP>配送手順名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/FulfillmentOptionId" key="FulfillmentOptionId" itemid="{8A8A33AD-1513-4804-A817-9EFEC4B55569}" fieldid="Value" updated="20161208T191852Z">
-    <ja-JP>Fulfillment Option Id</ja-JP>
+    <ja-JP>配送オプション Id</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/FulfillmentOptionName" key="FulfillmentOptionName" itemid="{44FA4F2D-B68B-4223-832A-69E8AC69ACD8}" fieldid="Value" updated="20161208T192416Z">
-    <ja-JP>Fulfillment Option Name</ja-JP>
+    <ja-JP>配送オプション名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/GiftCardAmount" key="GiftCardAmount" itemid="{8B04C10A-1030-4457-B64C-26CF6A59BB54}" fieldid="Value" updated="20161208T214856Z">
     <ja-JP>GiftCardAmount</ja-JP>
@@ -2004,16 +2019,16 @@
     <ja-JP>Id</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Image" key="Image" itemid="{DB5E3776-12EE-4B01-86AF-4DA7F8176858}" fieldid="Value" updated="20170912T115924Z">
-    <ja-JP>Image</ja-JP>
+    <ja-JP>画像</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ImageList" key="ImageList" itemid="{87E0E908-54EB-4491-85A6-F8E787382485}" fieldid="Value" updated="20170721T180215Z">
-    <ja-JP>ImageList</ja-JP>
+    <ja-JP>画像リスト</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/IncludedTags" key="IncludedTags" itemid="{AA5CD3F7-C9A1-4AEE-9A6F-CC0355887F03}" fieldid="Value" updated="20170808T173740Z">
     <ja-JP>Included Tags</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/IncludeInGrandTotal" key="IncludeInGrandTotal" itemid="{0ECB9383-5F9D-4B3C-81C4-45581CE52665}" fieldid="Value" updated="20170303T205325Z">
-    <ja-JP>Include in Grand Total</ja-JP>
+    <ja-JP>合計に含む</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/InventorySet" key="InventorySet" itemid="{F2AD6FAA-CFA0-450A-BFEC-A52F315FF791}" fieldid="Value" updated="20170713T163817Z">
     <ja-JP>在庫セット</ja-JP>
@@ -2033,8 +2048,8 @@
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ISBN" key="ISBN" itemid="{215464A0-4AB9-4706-ADF2-90ADC2258B36}" fieldid="Value" updated="20170721T175854Z">
     <ja-JP>ISBN</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/IsExclusive" key="IsExclusive" itemid="{44B57EB4-336C-4021-B8CC-9F27C2EE633C}" fieldid="Value" updated="20161208T190824Z">
-    <ja-JP>Is Exclusive</ja-JP>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/IsExclusive" key="IsExclusive" itemid="{44B57EB4-336C-4021-B8CC-9F27C2EE633C}" fieldid="Value" updated="20181119T102521Z">
+    <ja-JP>排他的</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/IsFacetable" key="IsFacetable" itemid="{2D655D3D-8AA4-4CBA-88F4-406DC1B314D5}" fieldid="Value" updated="20170728T142817Z">
     <ja-JP>Is Facetable</ja-JP>
@@ -2067,13 +2082,13 @@
     <ja-JP>アイテム</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ItemDefinition" key="ItemDefinition" itemid="{DFFFB64A-3FF3-4B4E-972C-06CA9C0A9A49}" fieldid="Value" updated="20180327T184419Z">
-    <ja-JP>Item Definition</ja-JP>
+    <ja-JP>アイテム定義</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ItemDefinition" key="ItemDefinition" itemid="{DFFFB64A-3FF3-4B4E-972C-06CA9C0A9A49}" fieldid="Description" updated="20180327T184419Z">
     <ja-JP>Item Definition</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ItemDefinitions" key="ItemDefinitions" itemid="{7AED9FE6-AABF-4208-AAB7-072EB9876569}" fieldid="Value" updated="20180327T184324Z">
-    <ja-JP>Item Definitions</ja-JP>
+    <ja-JP>アイテム定義</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ItemDefinitions" key="ItemDefinitions" itemid="{7AED9FE6-AABF-4208-AAB7-072EB9876569}" fieldid="Description" updated="20180327T184324Z">
     <ja-JP>Item Definitions</ja-JP>
@@ -2085,13 +2100,13 @@
     <ja-JP>アイテム</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ItemsReturnedDate" key="ItemsReturnedDate" itemid="{9ADE6A36-F0FE-47E7-9625-63A993C9E71C}" fieldid="Value" updated="20170609T131049Z">
-    <ja-JP>Items Returned Date</ja-JP>
+    <ja-JP>アイテム返品日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Language" key="Language" itemid="{08701CB7-FE91-4462-953D-DE1005326824}" fieldid="Value" updated="20161209T173539Z">
     <ja-JP>言語</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/LastName" key="LastName" itemid="{BC194B72-5CC5-4743-816F-AE59F16B617C}" fieldid="Value" updated="20160815T161655Z">
-    <ja-JP>Last Name</ja-JP>
+    <ja-JP>名字</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Latitude" key="Latitude" itemid="{A21739F0-835B-4C14-B530-A1B4F8A503F3}" fieldid="Value" updated="20161209T173550Z">
     <ja-JP>Latitude</ja-JP>
@@ -2109,16 +2124,16 @@
     <ja-JP>Line Id</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/LineItemId" key="LineItemId" itemid="{D6F80A87-766B-4F3F-9B9C-D9A0903C649E}" fieldid="Value" updated="20170130T143904Z">
-    <ja-JP>Item Id</ja-JP>
+    <ja-JP>アイテム Id</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/LineTotal" key="LineTotal" itemid="{9FE50AE0-7B0A-4DAA-99E4-FBC84EAF4002}" fieldid="Value" updated="20160815T154037Z">
-    <ja-JP>Line Total</ja-JP>
+    <ja-JP>アイテム合計</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/LinkedEntities" key="LinkedEntities" itemid="{A2044777-8816-4C8D-910F-B0579E825C5A}" fieldid="Value" updated="20180220T205309Z">
     <ja-JP>Linked Entities</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ListPrice" key="ListPrice" itemid="{072ABBE8-16C0-4798-9546-CC9193D4F732}" fieldid="Value" updated="20160815T153446Z">
-    <ja-JP>List Price</ja-JP>
+    <ja-JP>リストプライス</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/LocalizableProperty" key="LocalizableProperty" itemid="{A5DBCD43-1447-4CDB-BA14-D1F60FF185E2}" fieldid="Value" updated="20170814T115224Z">
     <ja-JP>Localizable Property</ja-JP>
@@ -2136,7 +2151,7 @@
     <ja-JP>Longitude</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Manufacturer" key="Manufacturer" itemid="{62D43F74-2B93-4315-A911-4394FD1ECFDD}" fieldid="Value" updated="20170721T175708Z">
-    <ja-JP>Manufacturer</ja-JP>
+    <ja-JP>製造</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Maximum" key="Maximum" itemid="{54D78772-0F4D-496C-9F50-D64DE06F827A}" fieldid="Value" updated="20170908T130908Z">
     <ja-JP>Maximum</ja-JP>
@@ -2163,7 +2178,7 @@
     <ja-JP>Month</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Name" key="Name" itemid="{749BE206-309C-4A72-BA90-55CC5E207A7E}" fieldid="Value" updated="20160815T144645Z">
-    <ja-JP>Name</ja-JP>
+    <ja-JP>名前</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/NameOnCard" key="NameOnCard" itemid="{555EDA8E-72CD-444B-8316-B6D29DB174A2}" fieldid="Value" updated="20161031T012318Z">
     <ja-JP>Name On Card</ja-JP>
@@ -2181,49 +2196,49 @@
     <ja-JP>Number</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OnHoldOrders" key="OnHoldOrders" itemid="{B2C3DC9C-B495-42FB-A20F-E6B33CF78CE6}" fieldid="Value" updated="20170523T175617Z">
-    <ja-JP>On Hold</ja-JP>
+    <ja-JP>ホールド</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OnSale" key="OnSale" itemid="{52EAEE39-8AD6-4082-A89F-54A2DDB18CEC}" fieldid="Value" updated="20170914T202014Z">
-    <ja-JP>On Sale</ja-JP>
+    <ja-JP>オンセール</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Operator" key="Operator" itemid="{FEC2A30B-45A3-496E-A5A6-112ABAB6EBEC}" fieldid="Value" updated="20161209T172920Z">
-    <ja-JP>Operator</ja-JP>
+    <ja-JP>オペレーター</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Option" key="Option" itemid="{50844977-3FE0-47AD-B3CD-DDD4EAD2CFEF}" fieldid="Value" updated="20160815T161042Z">
-    <ja-JP>Option</ja-JP>
+    <ja-JP>オプション</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OptionName" key="OptionName" itemid="{F4F81114-2393-4B9A-BAB0-77A5C40169B5}" fieldid="Value" updated="20180220T210430Z">
-    <ja-JP>Option Display Name</ja-JP>
+    <ja-JP>オプション表示名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OptionValue" key="OptionValue" itemid="{ABB00D90-9161-4A9F-AFD7-CDE326329280}" fieldid="Value" updated="20170908T131633Z">
-    <ja-JP>Option Value</ja-JP>
+    <ja-JP>オプションの値</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Order" key="Order" itemid="{D0013404-A393-42E5-8E80-1047DD480294}" fieldid="Value" updated="20170523T212605Z">
-    <ja-JP>Order</ja-JP>
+    <ja-JP>オーダー</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderAdjustmentsTotal" key="OrderAdjustmentsTotal" itemid="{30C63137-EAC4-45A1-B257-10A08FB52C8A}" fieldid="Value" updated="20170801T194338Z">
-    <ja-JP>Adjustments</ja-JP>
+    <ja-JP>調整</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderBy" key="OrderBy" itemid="{FE595F6C-12B9-429C-9650-062D3FAE49DE}" fieldid="Value" updated="20170713T121918Z">
     <ja-JP>Order By</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderConfirmationId" key="OrderConfirmationId" itemid="{BAB7F771-DEC4-4D42-9AC6-F7ED7412055C}" fieldid="Value" updated="20170801T194002Z">
-    <ja-JP>Confirmation</ja-JP>
+    <ja-JP>確認</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderGrandTotal" key="OrderGrandTotal" itemid="{4BBA3AA2-A644-45D1-A1E3-3945F69814FA}" fieldid="Value" updated="20170801T194356Z">
-    <ja-JP>Grand Total</ja-JP>
+    <ja-JP>合計</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderPaymentsTotal" key="OrderPaymentsTotal" itemid="{C8E1334F-E076-4923-A84F-3C2E0C56C255}" fieldid="Value" updated="20170801T194417Z">
-    <ja-JP>Payments</ja-JP>
+    <ja-JP>支払い</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderPlacedDate" key="OrderPlacedDate" itemid="{E840EADC-CE11-4C5A-83E8-1B76C058530B}" fieldid="Value" updated="20170801T194058Z">
     <ja-JP>Placed</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Orders" key="Orders" itemid="{24435843-6958-49D1-A049-DBC253D42D90}" fieldid="Value" updated="20170523T175541Z">
-    <ja-JP>Orders</ja-JP>
+    <ja-JP>注文</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderSubTotal" key="OrderSubTotal" itemid="{B3699F28-B2D8-49DC-ACCA-4AECE74B9BCD}" fieldid="Value" updated="20170801T194323Z">
-    <ja-JP>Subtotal</ja-JP>
+    <ja-JP>小計</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/OrderTotal" key="OrderTotal" itemid="{37D6B796-5EDE-42B7-8CCC-14B2004D8FD9}" fieldid="Value" updated="20170801T194327Z">
     <ja-JP>Total</ja-JP>
@@ -2250,7 +2265,7 @@
     <ja-JP>Path</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PaymentMethodName" key="PaymentMethodName" itemid="{3DD8E5E4-7454-47B8-9BBA-15909CE11C64}" fieldid="Value" updated="20161209T174347Z">
-    <ja-JP>Payment Method Name</ja-JP>
+    <ja-JP>支払い手続き名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PaymentMethodNonce" key="PaymentMethodNonce" itemid="{86CCDCB3-CC70-4DE2-9459-8A42199CEC3E}" fieldid="Value" updated="20161213T212429Z">
     <ja-JP>Payment Method Nonce </ja-JP>
@@ -2259,70 +2274,70 @@
     <ja-JP>Payment Option Id</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PaymentOptionName" key="PaymentOptionName" itemid="{821166B0-50B3-48D5-8A97-11A22805BA22}" fieldid="Value" updated="20161208T214940Z">
-    <ja-JP>Payment Option Name</ja-JP>
+    <ja-JP>支払いオプション名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Payments" key="Payments" itemid="{A4D0F96B-02F9-4286-BB8E-00F1FE5D32B0}" fieldid="Value" updated="20170814T120140Z">
-    <ja-JP>Payments</ja-JP>
+    <ja-JP>支払い</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PaymentStatus" key="PaymentStatus" itemid="{3230EAAC-EF0E-41BA-9058-A40792C8519E}" fieldid="Value" updated="20170110T143136Z">
-    <ja-JP>Payment Status</ja-JP>
+    <ja-JP>支払いステータス</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PendingOrders" key="PendingOrders" itemid="{6B556426-143E-46D0-9E21-EFBEB85759C3}" fieldid="Value" updated="20170523T175553Z">
-    <ja-JP>Pending</ja-JP>
+    <ja-JP>ペンディング</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PendingShipments" key="PendingShipments" itemid="{FEF0A706-8785-4418-8F60-5B19131CD26D}" fieldid="Value" updated="20170523T175715Z">
-    <ja-JP>Pending Shipments</ja-JP>
+    <ja-JP>発送保留中</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PercentOff" key="PercentOff" itemid="{3E656925-B827-4A28-AAEC-D0A2A52159CE}" fieldid="Value" updated="20160815T165839Z">
-    <ja-JP>Percent Off</ja-JP>
+    <ja-JP>パーセント オフ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PhoneNumber" key="PhoneNumber" itemid="{680B0DAD-EB95-4A20-8F78-94B1DCC1769A}" fieldid="Value" updated="20161031T012658Z">
-    <ja-JP>Phone</ja-JP>
+    <ja-JP>電話番号</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PostalCode" key="PostalCode" itemid="{ADCD5AFA-F7DD-43C1-AE66-DFBAE5FF73E8}" fieldid="Value" updated="20161209T174202Z">
-    <ja-JP>Postal Code</ja-JP>
+    <ja-JP>郵便番号</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Prefix" key="Prefix" itemid="{612DB40B-E55E-4247-805F-FC6754A6F710}" fieldid="Value" updated="20161208T214445Z">
     <ja-JP>Prefix</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Preorderable" key="Preorderable" itemid="{D0653406-A905-4D80-8B1C-60B29D05236E}" fieldid="Value" updated="20170713T163453Z">
-    <ja-JP>Preorderable</ja-JP>
+    <ja-JP>注文可能</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PreorderAvailabilityDate" key="PreorderAvailabilityDate" itemid="{D1465ADD-FB49-4A62-A86A-1BE0526ED214}" fieldid="Value" updated="20170713T163510Z">
-    <ja-JP>Preorder Availability Date</ja-JP>
+    <ja-JP>注文開始日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Preordered" key="Preordered" itemid="{FD9006A3-C8FD-43B4-859A-F8F99164C8EB}" fieldid="Value" updated="20170713T163726Z">
-    <ja-JP>Preordered</ja-JP>
+    <ja-JP>選考注文</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PreorderLimit" key="PreorderLimit" itemid="{50315119-FA08-4B00-A7A8-BB0E239F1AE2}" fieldid="Value" updated="20170713T163525Z">
-    <ja-JP>Preorder Limit</ja-JP>
+    <ja-JP>注文制限</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Price" key="Price" itemid="{CEEEFD01-B3BB-483F-9773-FDFFEB78FF46}" fieldid="Value" updated="20160815T150329Z">
-    <ja-JP>Price</ja-JP>
+    <ja-JP>価格</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PriceBookName" key="PriceBookName" itemid="{C481EFC4-D601-45C1-A5C2-51AF18234EEB}" fieldid="Value" updated="20170524T184723Z">
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PriceBookName" key="PriceBookName" itemid="{C481EFC4-D601-45C1-A5C2-51AF18234EEB}" fieldid="Value" updated="20181119T085411Z">
     <ja-JP>プライス ブック名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PriceCardName" key="PriceCardName" itemid="{12CC4EEA-10FE-496C-B38D-6FCE9ED1DCF4}" fieldid="Value" updated="20170914T202002Z">
     <ja-JP>Price Card Name</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProblemOrders" key="ProblemOrders" itemid="{F750D401-59BB-42EB-A40D-51B5ABC7251A}" fieldid="Value" updated="20170523T175646Z">
-    <ja-JP>Problem</ja-JP>
+    <ja-JP>問題</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Product" key="Product" itemid="{527CD606-3A92-4728-8283-5E0D1604FC2A}" fieldid="Value" updated="20160815T152647Z">
     <ja-JP>Product</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductColor" key="ProductColor" itemid="{F97F041E-C96A-4991-9C66-8518A1936883}" fieldid="Value" updated="20161209T173114Z">
-    <ja-JP>Color</ja-JP>
+    <ja-JP>色</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductId" key="ProductId" itemid="{A6C61B70-85B7-4AB0-96BD-AFE779999837}" fieldid="Value" updated="20161209T173128Z">
-    <ja-JP>Product Id</ja-JP>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductId" key="ProductId" itemid="{A6C61B70-85B7-4AB0-96BD-AFE779999837}" fieldid="Value" updated="20181119T064353Z">
+    <ja-JP>製品 ID</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductImage" key="ProductImage" itemid="{0EC0EED2-1B37-48CF-8E03-387A3E7CC2FD}" fieldid="Value" updated="20170721T180152Z">
-    <ja-JP>Product Image</ja-JP>
+    <ja-JP>製品画像</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductItemType" key="ProductItemType" itemid="{2BDA0482-355F-474F-9A13-A66BED2620FD}" fieldid="Value" updated="20161209T173150Z">
-    <ja-JP>Product Item Type</ja-JP>
+    <ja-JP>製品アイテムタイプ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductName" key="ProductName" itemid="{899F7649-048B-4A12-A0AA-9231E2D075DC}" fieldid="Value" updated="20161209T173211Z">
     <ja-JP>製品名</ja-JP>
@@ -2331,12 +2346,12 @@
     <ja-JP>製品サイズ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductStyle" key="ProductStyle" itemid="{4FA10C2A-E32E-4BF8-A25F-62183A662D9D}" fieldid="Value" updated="20161209T173252Z">
-    <ja-JP>Product Style</ja-JP>
+    <ja-JP>製品スタイル</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ProductTemplate" key="ProductTemplate" itemid="{A924AF6D-B35C-4B9B-A95C-A026BA3ECCCA}" fieldid="Value" updated="20161209T173305Z">
     <ja-JP>製品テンプレート</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PromotionBookName" key="PromotionBookName" itemid="{D3DB2F8C-609E-4910-8995-E09761858902}" fieldid="Value" updated="20170524T184739Z">
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PromotionBookName" key="PromotionBookName" itemid="{D3DB2F8C-609E-4910-8995-E09761858902}" fieldid="Value" updated="20181119T085354Z">
     <ja-JP>プロモーション ブック名</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/PromotionDuplicateName" key="PromotionDuplicateName" itemid="{949C587A-719B-42AF-9D95-BC23A0A0CA06}" fieldid="Value" updated="20161208T190736Z">
@@ -2361,7 +2376,7 @@
     <ja-JP>公開済</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Quantity" key="Quantity" itemid="{1FA2EEB8-0F70-4620-8B61-3E1DFDF6A6E8}" fieldid="Value" updated="20160815T150108Z">
-    <ja-JP>Quantity</ja-JP>
+    <ja-JP>数</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/RefundTotal" key="RefundTotal" itemid="{C0622658-B489-4138-8E5C-A8309892C63C}" fieldid="Value" updated="20170313T135140Z">
     <ja-JP>Refund Total</ja-JP>
@@ -2376,7 +2391,7 @@
     <ja-JP>拒否</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ReleasedOrders" key="ReleasedOrders" itemid="{0F56BEA6-1FDE-4362-8FF5-F272F0E584CF}" fieldid="Value" updated="20170523T175628Z">
-    <ja-JP>Released</ja-JP>
+    <ja-JP>リリース</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/RenderList" key="RenderList" itemid="{34D7351C-A5C5-4CFF-8DF6-3F7505D85E7D}" fieldid="Value" updated="20171011T185819Z">
     <ja-JP>Render List Automatically</ja-JP>
@@ -2400,7 +2415,7 @@
     <ja-JP>ロール</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/SalesActivities" key="SalesActivities" itemid="{53A285DB-E79F-4F49-9E20-FEE7D2D6EEDD}" fieldid="Value" updated="20170523T175700Z">
-    <ja-JP>Sales Activities</ja-JP>
+    <ja-JP>販売活動</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/SellableItem" key="SellableItem" itemid="{2211BB06-8C24-4EED-BFAB-9BEB3B13FD90}" fieldid="Value" updated="20170713T163415Z">
     <ja-JP>販売アイテム</ja-JP>
@@ -2409,10 +2424,10 @@
     <ja-JP>販売価格</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Shipment" key="Shipment" itemid="{0ABC9700-E00E-45A8-9071-43FF2C82CFE4}" fieldid="Value" updated="20160815T164027Z">
-    <ja-JP>Shipment</ja-JP>
+    <ja-JP>発送</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Shipments" key="Shipments" itemid="{F3325FC6-D01D-4E91-B0F1-265E8291A336}" fieldid="Value" updated="20170523T175724Z">
-    <ja-JP>Shipments</ja-JP>
+    <ja-JP>出荷</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Shop" key="Shop" itemid="{7496F9CD-45F7-423C-8307-3C71C019696E}" fieldid="Value" updated="20170822T144437Z">
     <ja-JP>ショップ</ja-JP>
@@ -2445,13 +2460,13 @@
     <ja-JP>Source Type</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/State" key="State" itemid="{FB54B936-7E83-49B8-9C02-920C67BBE643}" fieldid="Value" updated="20160815T162531Z">
-    <ja-JP>State</ja-JP>
+    <ja-JP>都道府県</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/StateCode" key="StateCode" itemid="{F7C4DCE0-3783-4C4B-9BB2-0A5259117E32}" fieldid="Value" updated="20160815T162840Z">
     <ja-JP>State Code</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Status" key="Status" itemid="{6D58221A-8A9B-4282-A119-FA38D09F038B}" fieldid="Value" updated="20161208T191003Z">
-    <ja-JP>Status</ja-JP>
+    <ja-JP>ステータス</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/StockCount" key="StockCount" itemid="{9BD55ECF-8395-4F92-A73B-5345C312E439}" fieldid="Value" updated="20161209T174248Z">
     <ja-JP>Stock Count</ja-JP>
@@ -2499,7 +2514,7 @@
     <ja-JP>ターゲット タイプ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Taxable" key="Taxable" itemid="{29AD87B3-E907-41BF-A563-686575FB1EBF}" fieldid="Value" updated="20170303T205207Z">
-    <ja-JP>Taxable</ja-JP>
+    <ja-JP>税金</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/TaxID" key="TaxID" itemid="{94B9C805-2A94-4791-86E8-71347F62A9E7}" fieldid="Value" updated="20170721T180509Z">
     <ja-JP>TaxID</ja-JP>
@@ -2523,7 +2538,7 @@
     <ja-JP>合計</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/TransactionStatus" key="TransactionStatus" itemid="{A4519D1F-966D-4348-9BB3-9D9FAE30B8DE}" fieldid="Value" updated="20161208T214113Z">
-    <ja-JP>Transaction Status</ja-JP>
+    <ja-JP>トランザクション ステータス</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Type" key="Type" itemid="{957BE415-C62C-486D-81D7-7E6CFD458D5E}" fieldid="Value" updated="20160815T164447Z">
     <ja-JP>タイプ</ja-JP>
@@ -2541,16 +2556,16 @@
     <ja-JP>Url</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/UserName" key="UserName" itemid="{E98364DF-FF69-45CA-9F50-65BE184B77AE}" fieldid="Value" updated="20180523T185814Z">
-    <ja-JP>Fully Qualified Name </ja-JP>
+    <ja-JP>確認された名前</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/UtcOffset" key="UtcOffset" itemid="{38758D45-93B0-407A-978C-C474B2828612}" fieldid="Value" updated="20170824T195541Z">
     <ja-JP>Utc Offset</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ValidFrom" key="ValidFrom" itemid="{BEFE50E4-5C58-4AF3-AC4E-77BA05CCB803}" fieldid="Value" updated="20160815T151652Z">
-    <ja-JP>Valid From</ja-JP>
+    <ja-JP>開始日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/ValidTo" key="ValidTo" itemid="{BD011B45-2D8D-44FE-8A80-0A966008E104}" fieldid="Value" updated="20160815T151722Z">
-    <ja-JP>Valid To</ja-JP>
+    <ja-JP>終了日</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Value" key="Value" itemid="{0F6B3E81-EC29-453D-B824-47B2AE6629F0}" fieldid="Value" updated="20170918T203101Z">
     <ja-JP>Value</ja-JP>
@@ -2565,13 +2580,13 @@
     <ja-JP>Variant Ids List</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Variation" key="Variation" itemid="{8A544772-1369-4F21-952F-CD55D1E3D5E1}" fieldid="Value" updated="20160815T152903Z">
-    <ja-JP>Variation</ja-JP>
+    <ja-JP>種類</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/VariationProperties" key="VariationProperties" itemid="{F75E821D-1862-442D-A227-591563DBA627}" fieldid="Value" updated="20180118T005303Z">
-    <ja-JP>Variation Properties</ja-JP>
+    <ja-JP>種類プロパティ</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/Version" key="Version" itemid="{C30BA73A-BC86-484B-B979-0EF83C6A3421}" fieldid="Value" updated="20161213T184429Z">
-    <ja-JP>Version</ja-JP>
+    <ja-JP>バージョン</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/BusinessTools/ViewPropertyNames/WantToContinue" key="WantToContinue" itemid="{5F93190B-FC9B-494E-BFDC-F21A9F62FBBF}" fieldid="Value" updated="20170313T135231Z">
     <ja-JP>Want To Continue?</ja-JP>
@@ -2636,11 +2651,11 @@
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/BookCyclicInheritance" key="BookCyclicInheritance" itemid="{8B219FCE-945C-4BEB-9EFA-8A642B8CCA5A}" fieldid="Value" updated="20160708T181649Z">
     <ja-JP>Book {0} cannot inherit from {1} because of cyclic inheritance.</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/BookNameAlreadyInUse" key="BookNameAlreadyInUse" itemid="{58487594-8A05-4702-A7B9-D79FFC57953C}" fieldid="Value" updated="20160628T150402Z">
-    <ja-JP>Book name {0} is already in use.</ja-JP>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/BookNameAlreadyInUse" key="BookNameAlreadyInUse" itemid="{58487594-8A05-4702-A7B9-D79FFC57953C}" fieldid="Value" updated="20181119T085335Z">
+    <ja-JP>ブック名 {0} はすでに利用されています。</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/BookNameNotFound" key="BookNameNotFound" itemid="{601A4A8E-5CDA-4458-BC1B-A4F141E84AF2}" fieldid="Value" updated="20160915T142737Z">
-    <ja-JP>Book name was not found.</ja-JP>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/BookNameNotFound" key="BookNameNotFound" itemid="{601A4A8E-5CDA-4458-BC1B-A4F141E84AF2}" fieldid="Value" updated="20181119T085444Z">
+    <ja-JP>ブック名が見つかりません</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/CacheStoreCacheNotFound" key="CacheStoreCacheNotFound" itemid="{EAEC7204-06FC-4FBC-8C5A-BFEEAECE8CBC}" fieldid="Value" updated="20170120T194735Z">
     <ja-JP>Cache '{0}' within cache store '{1}' was not found.</ja-JP>
@@ -2811,13 +2826,10 @@
     <ja-JP>Incorrect refund amount requested for the order {0} payment {1}. </ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/ImageAlreadyAdded" key="ImageAlreadyAdded" itemid="{C5E6A046-B0B1-415E-B03F-E4CDC5EBE8D9}" fieldid="Value" updated="20170915T114510Z">
-    <ja-JP>Image already added.</ja-JP>
+    <ja-JP>画像はすでに追加されています</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/IndexablePolicyNotFound" key="IndexablePolicyNotFound" itemid="{8FC063C0-0734-4060-A6AC-D1C3D920EB41}" fieldid="Value" updated="20170810T193620Z">
     <ja-JP>Indexable policy for index '{0}' was not found.</ja-JP>
-  </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/IndexablePolicyNotFound" key="IndexablePolicyNotFound" itemid="{8FC063C0-0734-4060-A6AC-D1C3D920EB41}" fieldid="Description" updated="20170810T193620Z">
-    <en />
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/IndexAlreadyExist" key="IndexAlreadyExist" itemid="{C54DFE75-1340-4317-8254-B9392E736406}" fieldid="Value" updated="20170721T201717Z">
     <ja-JP>Search Index '{0}' already exists, cannot create.</ja-JP>
@@ -3194,7 +3206,7 @@
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/ShopNotSpecified" key="ShopNotSpecified" itemid="{55809505-FDB6-4D96-BFF7-31D5A8649831}" fieldid="Value" updated="20160404T172337Z">
     <ja-JP>No Shop has been specified.</ja-JP>
   </phrase>
-  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/StatusCannotBeChanged" key="StatusCannotBeChanged" itemid="{4BFA4BEC-4C9A-4F0E-AEB8-BDD3309F1ED9}" fieldid="Value" updated="20161004T154502Z">
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/StatusCannotBeChanged" key="StatusCannotBeChanged" itemid="{4BFA4BEC-4C9A-4F0E-AEB8-BDD3309F1ED9}" fieldid="Value" updated="20181119T085236Z">
     <ja-JP>Status cannot be changed because {0} is active.</ja-JP>
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/TagAlreadyExists" key="TagAlreadyExists" itemid="{190FCE8E-9515-41E9-B0E1-DEEE39F3518B}" fieldid="Value" updated="20180216T170022Z">
@@ -3235,5 +3247,197 @@
   </phrase>
   <phrase path="/sitecore/Commerce/Commerce Control Panel/Commerce Engine Settings/Commerce Terms/System Messages/WorkflowStateNotFound" key="WorkflowStateNotFound" itemid="{1EF2982E-DD80-4337-83DB-38CA2650CFE2}" fieldid="Value" updated="20180522T150327Z">
     <ja-JP>Could not find workflow state '{0}' in workflow '{1}'.</ja-JP>
+  </phrase>
+    <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Commerce - Cart/Where Cart Has Been Manipulated" key="Where Cart Has Been Manipulated" itemid="{47134E14-C9FF-4C9A-816D-7CFD92E7616D}" fieldid="Text" updated="20180418T172852Z">
+    <ja-JP>コンタクトのカートが操作された</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Commerce - Cart/Where Contact Cart Is Empty" key="Where Contact Cart Is Empty" itemid="{A3362146-1F26-4046-BC25-FE51415EB78D}" fieldid="Text" updated="20180418T172907Z">
+    <ja-JP>コンタクトのカートが空っぽ</ja-JP>
+  </phrase>
+    <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings" key="CommerceConnect Conditional Renderings" itemid="{9643F053-9A0C-4815-A6F8-A69192D3FCA5}" fieldid="__Display name" updated="20140618T024942Z">
+    <ja-JP>Commerce Connect</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Total Product Quantity Condition" key="Total Product Quantity Condition" itemid="{F534DDB9-D2C7-44B5-AA28-3E03878F4A58}" fieldid="Text" updated="20170823T181202Z">
+    <ja-JP>ユーザーのカート内のすべての製品の数量が [TotalProductQuantity,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の値] と [operatorid,Operator,,比較する] 場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Specific Product Quantity Condition" key="Specific Product Quantity Condition" itemid="{9D3B7B5B-48BA-4B54-A522-166FFDEAC33D}" fieldid="Text" updated="20170823T130039Z">
+    <ja-JP>ユーザのカート内の製品の [ProductId,,defaultValue=&amp;amp;validationText=Please enter a valid product code.,製品ID] の量が [ProductQuantity,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の値] と [operatorid,Operator,,比較する] 場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Current Product Stock Count" key="Current Product Stock Count" itemid="{ACA64C13-AD8E-41BB-A3D0-39D22FAD2A2A}" fieldid="Text" updated="20170823T131217Z">
+    <ja-JP>現在の製品は、在庫数が [StockCount,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の在庫数] と [operatorid,Operator,,比較する] 場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Current Product Stock Count By Location" key="Current Product Stock Count By Location" itemid="{57B5DDEE-E532-4E5C-A8AB-DF846E86622C}" fieldid="Text" updated="20170823T131243Z">
+    <ja-JP>現在の商品には、[Location,Text,defaultValue=&amp;amp;validationText=Please enter a valid location., 特定の場所] と等しい [StockCount,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の在庫数] と [operatorid,Operator,,比較した] 在庫数がある場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Current Product Stock Status" key="Current Product Stock Status" itemid="{61F194D1-BE9A-47E2-8402-689886B2DB00}" fieldid="Text" updated="20170823T131251Z">
+    <ja-JP>現在の商品は、在庫状況が [StockStatus,Text,defaultValue=&amp;amp;validationText=Please enter a valid stock status do not use dashes.,特定の在庫状況] に等しい</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Current Product Stock Status By Location" key="Current Product Stock Status By Location" itemid="{AC639DAE-597B-48B6-867D-4FCDC2ED6F64}" fieldid="Text" updated="20170823T131303Z">
+    <ja-JP>現在の商品は、在庫状況が [StockStatus,Text,defaultValue=&amp;amp;validationText=Please enter a valid stock status do not use dashes.,特定の在庫状況] と同じ地域内の [Location,Text,defaultValue=&amp;amp;validationText=Please enter a valid location., 特定の在庫状況] と同じである</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Log Product Viewed" key="Log Product Viewed" itemid="{84598A8E-CE3F-44D4-86BC-DBEAA30DA6CD}" fieldid="Text" updated="20140615T232413Z">
+    <ja-JP>製品を参照したログ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Specific Product Stock Count" key="Specific Product Stock Count" itemid="{0D8A4F8B-41CD-4527-B4C2-BFB43FD8F824}" fieldid="Text" updated="20170823T131319Z">
+    <ja-JP>固有商品IDを持つ [ProductId,,defaultValue=&amp;amp;validationText=Please enter a valid product code.,特定の商品ID] は、在庫数が [StockCount,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の在庫数] と [operatorid,Operator,,比較する] 場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/CommerceConnect Conditional Renderings/Specific Product Stock Count By Location" key="Specific Product Stock Count By Location" itemid="{309E571C-A418-4790-ACDB-5ACB53C6B976}" fieldid="Text" updated="20170823T131335Z">
+    <ja-JP>商品IDを持つ　[ProductId,,defaultValue=&amp;amp;validationText=Please enter a valid product code.,特定の商品ID] の商品は、在庫数が　[Location,Text,defaultValue=&amp;amp;validationText=Please enter a valid location., 特定の場所] と等しい [StockCount,PositiveInteger,defaultValue=&amp;amp;validationText=Please enter a valid positive integer value.,特定の在庫数] を　[operatorid,Operator,, 比較する] 場合</ja-JP>
+  </phrase>
+    <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account" key="Commerce Account" itemid="{B2EC0F8B-DD05-4964-8B46-D1232BFBFC2E}" fieldid="__Display name" updated="20180124T072603Z">
+    <ja-JP>Commerce アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Address Editor" key="Address Editor" itemid="{ECF139E2-C760-4EF1-847D-3B1A7718A051}" fieldid="__Display name" updated="20180322T032830Z">
+    <ja-JP>アドレス帳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Address List" key="Address List" itemid="{C7363F74-D4A6-44A6-828B-86119F24C163}" fieldid="__Display name" updated="20180322T032848Z">
+    <ja-JP>住所リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Change Password" key="Change Password" itemid="{D05C410D-AAAF-4295-A5BE-47DB5B011F4D}" fieldid="__Display name" updated="20171211T082923Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Forgot Password" key="Forgot Password" itemid="{ABB029F6-990F-42ED-8B4C-5C2D28D0A4B1}" fieldid="__Display name" updated="20171211T082930Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Login" key="Login" itemid="{97D8D8DA-E6FD-4983-BDB6-ABD28C6E0209}" fieldid="__Display name" updated="20180103T065248Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Profile Editor" key="Profile Editor" itemid="{845BE183-8C33-443A-A396-257B87BBC2BE}" fieldid="__Display name" updated="20171211T083005Z">
+    <ja-JP>プロファイル編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Profile View" key="Profile View" itemid="{C212B24C-5A0C-47CF-A91A-18C0B08970DD}" fieldid="__Display name" updated="20171211T083012Z">
+    <ja-JP>プロファイル表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Account/Registration" key="Registration" itemid="{8088A650-0910-4CE0-802A-3D5E757F1254}" fieldid="__Display name" updated="20171211T083018Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart" key="Commerce Cart" itemid="{66DD1E03-3207-41D1-A84E-C71E8E679FD9}" fieldid="__Display name" updated="20180124T072603Z">
+    <ja-JP>Commerce カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Add To Cart" key="Add To Cart" itemid="{93BC3DB7-582A-48EE-ADE8-F410561FA411}" fieldid="__Display name" updated="20171211T083025Z">
+    <ja-JP>カートに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Minicart" key="Minicart" itemid="{04B9A10C-2092-4E29-BDA3-79571F5F19FC}" fieldid="__Display name" updated="20171211T083031Z">
+    <ja-JP>ミニ カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Promotion Codes" key="Promotion Codes" itemid="{AB1E2893-6556-49D5-9095-B7AAF09B8BEF}" fieldid="__Display name" updated="20171211T083045Z">
+    <ja-JP>プロモーション コード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{3E8F1BDD-037D-4AD7-953C-D39E9191C5FD}" fieldid="__Display name" updated="20171211T083059Z">
+    <ja-JP>ショッピングカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Cart/Shopping Cart Total" key="Shopping Cart Total" itemid="{062251D0-4C83-43BE-8119-B33DAF14DF2F}" fieldid="__Display name" updated="20171211T083105Z">
+    <ja-JP>ショッピングタートル合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog" key="Commerce Catalog" itemid="{7E57CE9B-7895-442E-B0C8-521E7D5BD987}" fieldid="__Display name" updated="20180124T072617Z">
+    <ja-JP>Commerce カタログ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Catalog Item Container" key="Catalog Item Container" itemid="{A4946E81-2A46-48D6-988D-81033CC7044B}" fieldid="__Display name" updated="20171006T081739Z">
+    <ja-JP>カタログ アイテム コンテナ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Category Navigation" key="Category Navigation" itemid="{7F30A08E-92A2-4C33-B9CF-0AA6AEB064C3}" fieldid="__Display name" updated="20170725T035656Z">
+    <ja-JP>カテゴリ ナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Facets" key="Product Facets" itemid="{57DDDA93-8C79-452E-8D7E-6F828B97F8C2}" fieldid="__Display name" updated="20170725T032032Z">
+    <ja-JP>製品ファセット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Images" key="Product Images" itemid="{24A792CF-1F2A-4A0D-9CEE-89B6BC696C55}" fieldid="__Display name" updated="20170725T032132Z">
+    <ja-JP>製品イメージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Information" key="Product Information" itemid="{C4222625-2637-43FE-82D7-341009A277CA}" fieldid="__Display name" updated="20171211T083128Z">
+    <ja-JP>製品情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Inventory" key="Product Inventory" itemid="{B79DF484-3464-441A-811C-DC1BFEED8CA1}" fieldid="__Display name" updated="20171211T083137Z">
+    <ja-JP>製品在庫</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List" key="Product List" itemid="{54729A57-6D74-4A3D-A870-174F70FC6288}" fieldid="__Display name" updated="20171211T083143Z">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Items per Page" key="Product List Items per Page" itemid="{9CA5EB05-780A-438F-AABE-18B09C97D5FD}" fieldid="__Display name" updated="20171127T065956Z">
+    <ja-JP>製品リスト ページ表示数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Page Info" key="Product List Page Info" itemid="{C1DE5434-8570-46CB-BF87-FC33DBDFD89E}" fieldid="__Display name" updated="20171211T083159Z">
+    <ja-JP>製品リスト ページ情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Pager" key="Product List Pager" itemid="{2A6D6B26-5912-4AD1-B396-47669C2AEBEE}" fieldid="__Display name" updated="20171211T083210Z">
+    <ja-JP>製品リスト ページャー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product List Sorting" key="Product List Sorting" itemid="{EA89C258-F47F-4A76-A9E2-DF450985B897}" fieldid="__Display name" updated="20171211T083226Z">
+    <ja-JP>製品リスト 並び替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Price" key="Product Price" itemid="{32C08A8F-1576-4DED-905D-DDAB77466027}" fieldid="__Display name" updated="20170720T034252Z">
+    <ja-JP>製品価格</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Variants" key="Product Variants" itemid="{63B19D58-0764-495A-80CB-4B06C99C3F70}" fieldid="__Display name" updated="20171211T083238Z">
+    <ja-JP>製品の種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Promoted Products" key="Promoted Products" itemid="{AB50BF90-23E9-4452-8FA5-DF7A293CB6BE}" fieldid="__Display name" updated="20171214T033504Z">
+    <ja-JP>製品のプロモーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Search Initiated" key="Search Initiated" itemid="{8EB4ECE6-E52A-4175-82E6-8182CDD93414}" fieldid="__Display name" updated="20180604T011441Z">
+    <ja-JP>検索でアクセス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Visited Category Page" key="Visited Category Page" itemid="{318A2CD5-A87B-4583-91AB-F66F572947FB}" fieldid="__Display name" updated="20180601T110213Z">
+    <ja-JP>訪問したカテゴリーページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Visited Product Page" key="Visited Product Page" itemid="{8136E17F-7B43-4B1E-BA17-6521B05F58D0}" fieldid="__Display name" updated="20180601T110258Z">
+    <ja-JP>訪問した商品ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Subcategory Navigation" key="Subcategory Navigation" itemid="{E3E0051B-CF20-4014-9373-5F96297DF2A5}" fieldid="__Display name" updated="20170725T031939Z">
+    <ja-JP>サブカテゴリ ナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout" key="Commerce Checkout" itemid="{7F71CAD2-1AAB-406A-8E35-A04E2B86632D}" fieldid="__Display name" updated="20180124T072624Z">
+    <ja-JP>Commerce チェックアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Billing" key="Billing" itemid="{5DFBBA2F-736F-4185-8FA5-C9107A3647B0}" fieldid="__Display name" updated="20171211T083255Z">
+    <ja-JP>支払い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Delivery" key="Delivery" itemid="{33DF6C8F-BB50-447B-8CF8-ED84F665B2BA}" fieldid="__Display name" updated="20171211T083302Z">
+    <ja-JP>配送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Order Confirmation" key="Order Confirmation" itemid="{E4D1D252-5689-4F23-8655-B9AC90D36F15}" fieldid="__Display name" updated="20171211T083308Z">
+    <ja-JP>オーダーの確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Review" key="Review" itemid="{9D1D9DB3-EE59-4AAA-862E-65FFFB097FD3}" fieldid="__Display name" updated="20171211T083314Z">
+    <ja-JP>レビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Start Checkout" key="Start Checkout" itemid="{7AE14FB7-E165-49CA-85FB-B45E4B14B955}" fieldid="__Display name" updated="20171211T083329Z">
+    <ja-JP>チェックアウトの開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Checkout/Step Indicator" key="Step Indicator" itemid="{3034FC89-896C-4A55-A72A-E3BC92A67BC6}" fieldid="__Display name" updated="20171211T083338Z">
+    <ja-JP>オーダー手順の確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders" key="Commerce Orders" itemid="{CF6F6728-83F7-4893-B36F-4897D4AA403E}" fieldid="__Display name" updated="20180124T072641Z">
+    <ja-JP>Commerce オーダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Header" key="Order Header" itemid="{136EA27E-7ED0-4EB8-8C5E-A85E7272D61D}" fieldid="__Display name" updated="20171211T083348Z">
+    <ja-JP>注文ヘッダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order History" key="Order History" itemid="{CE39AB87-34C6-46F8-A5E2-B532158B10EF}" fieldid="__Display name" updated="20171211T083357Z">
+    <ja-JP>注文履歴</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Lines" key="Order Lines" itemid="{31AF62B3-42D5-411C-A3ED-98541134D003}" fieldid="__Display name" updated="20171211T083403Z">
+    <ja-JP>注文ライン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Order Totals" key="Order Totals" itemid="{49EF85FC-FBDD-4FE8-AE43-A5C9C1DF7959}" fieldid="__Display name" updated="20171211T083410Z">
+    <ja-JP>注文合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Orders/Recent Orders" key="Recent Orders" itemid="{7BAC69BC-19F8-487E-A6AA-29A145934C6C}" fieldid="__Display name" updated="20171211T083421Z">
+    <ja-JP>最近の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared" key="Commerce Shared" itemid="{A9E7129A-E6F4-414C-8452-D873EB68BFC2}" fieldid="__Display name" updated="20180124T072701Z">
+    <ja-JP>Commerce 共有</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Language Selector" key="Language Selector" itemid="{EAF925D2-529E-4A5B-90DE-87184D3BA735}" fieldid="__Display name" updated="20170725T032934Z">
+    <ja-JP>言語切り替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Message Summary" key="Message Summary" itemid="{A6AEE2E8-BFB1-4D86-BA02-5E73C723B38E}" fieldid="__Display name" updated="20170626T083143Z">
+    <ja-JP>メッセージ概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Search Bar" key="Search Bar" itemid="{29E9F4F9-F2AC-4AB1-80E5-EBB3CFF7E9F2}" fieldid="__Display name" updated="20171211T075024Z">
+    <ja-JP>検索バー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Shared/Top Bar Links" key="Top Bar Links" itemid="{18F9EE55-D1CB-41E2-9238-78DB8BDB1AE2}" fieldid="__Display name" updated="20171211T075005Z">
+    <ja-JP>トップバー リンク</ja-JP>
   </phrase>
 </sitecore>

@@ -182,36 +182,36 @@ Export-Certificate -Cert cert:\localMachine\my\{Thumbprint} -FilePath 'C:\projec
 
 ## xConnect は稼働させる
 
-Sitecore Commerce 9.0.1 まではここで xConnect を停止させる手順でしたが、Sitecore Commerce 9.0.2 ではインストール中は xConnect のインスタンスを稼働させる必要があるため、動いていればそのままにしてください。
+Sitecore Commerce 9.0.1 まではここで xConnect を停止させる手順でしたが、Sitecore Commerce 9.0.2 以降はインストール中は xConnect のインスタンスを稼働させる必要があるため、動いていればそのままにしてください。
 
 ## インストールスクリプトを実行
 
 あとは PowerShell でスクリプトを実行することで、Solr や Sitecore のプロセスなどがインストールされます。
 
 ```
-PS C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14> dir *.ps1
+PS C:\projects\sc903\SIF.Sitecore.Commerce.1.4.7> dir *.ps1
 
 
-    ディレクトリ: C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14
+    ディレクトリ: C:\projects\sc903\SIF.Sitecore.Commerce.1.4.7
 
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
-------       2018/06/14     13:51          13303 Deploy-Sitecore-Commerce.ps1
--a----       2018/07/26     13:58          13373 MyDeploy-Sitecore-Commerce.ps1
+------       2018/12/03      6:17          13303 Deploy-Sitecore-Commerce.ps1
+-a----       2018/12/11     17:58          13272 MyDeploy-Sitecore-Commerce.ps1
 
 
-PS C:\projects\sc902\SIF.Sitecore.Commerce.1.2.14> .\MyDeploy-Sitecore-Commerce.ps1
+PS C:\projects\sc903\SIF.Sitecore.Commerce.1.4.7>
 
 ```
 
 ## インストール後の処理
 
-Sitecore Experience Commerce 9.0.2 のインストールが完了したあと、以下の手順で日本語リソースをインポートしてください。
+Sitecore Experience Commerce 9.0.3 のインストールが完了したあと、以下の手順で日本語リソースをインポートしてください。
 
 - Sitecore の日本語リソースの適用（ https://dev.sitecore.net からダウンロードした Sitecore 9.0.2 rev. 180604 (ja-JP).zip をアップロード）
-- Sitecore Experience Acceleartor 1.7 update の日本語リソースの適用（ temp/SXAtranslations/ja-jp.xml にファイルがあります）
-- Github で展開している Sitecore Commerce Experience 9.0.2 リソースファイル、Commerce-core-ja-jp.xml を Core データベースに、Commerce-master-ja-jp.xml を Master データベースに適用します
+- Sitecore Experience Acceleartor 1.8 の日本語リソースの適用（ temp/SXAtranslations/ja-jp.xml にファイルがあります）
+- Github で展開している Sitecore Commerce Experience 9.0.3 リソースファイル、Commerce-core-ja-jp.xml を Core データベースに、Commerce-master-ja-jp.xml を Master データベースに適用します
 
 Sitecore Experience Commerce のビジネスツールの日本語リソースは従来の管理と異なり、Master データベースで変更してリソースデータベースをクリアする、という手順になっています。このため SQL Server Management Tool を起動してサーバーに接続、SitecoreCommerce9_SharedEnvironments のデータベースにある ContentEntities のテーブルのデータをクリアしてください。
 
