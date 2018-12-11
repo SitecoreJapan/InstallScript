@@ -8,6 +8,7 @@
 以下のモジュールを追加インストールします。
 * [.NET Core SDK v2.2.100 (Installer for Windows x64)](https://www.microsoft.com/net/download)
 * [.NET Core Windows Server Hosting 2.0.0](https://aka.ms/dotnetcore-2-windowshosting)
+* [ASP.NET MVC 4](https://www.microsoft.com/ja-jp/download/details.aspx?id=30683)
 
 またインストールに必要な Braintree のアカウントを用意します
 * Braintree の Sandbox アカウント（[Braintree](https://www.braintreepayments.com/sandbox) のサイトから無料で取得できます）
