@@ -17,7 +17,7 @@ SQL Server 2016 SP1 に関しては、管理ツールを利用してインスト
 
 以下のモジュールをインストールします。
 * [Java 64bit](https://www.java.com/ja/download/manual.jsp)
-* [Win64 OpenSSL v1.1.0g](http://slproweb.com/products/Win32OpenSSL.html)
+* [Win64 OpenSSL v1.1.1a](http://slproweb.com/products/Win32OpenSSL.html)
 * [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
 
 Web Platform Installer をインストールした後、以下のモジュールをインストールします。
@@ -28,33 +28,84 @@ Web Platform Installer をインストールした後、以下のモジュール
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
 * 作業フォルダ : c:\project\solr
-* コピーするファイル： [InstallSolr.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
+* コピーするファイル： [install-solr-1.8.0_191.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
 
 スクリプトを上記のフォルダにコピーをして、実行することで Solr 6.6.2 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
 
 ## Sitecore Installation Framework のインストール
 
-PowerShell のコンソールを開いて、Nuget のプロバイダーに SitecoreGallery を以下のように追加します
+今回は Siecore Install Framework 1.2 をマニュアルインストールします。以下のページから、Sitecore Installation Framework および Sitecore Fundamentals をダウンロードします。
+
+* [Sitecore Installation Framework 1.2](https://dev.sitecore.net/Downloads/Sitecore_Installation_Framework/1x/Sitecore_Installation_Framework_12.aspx)
+
+ダウンロードした Zip ファイルのプロパティを開き、それぞれブロックを解除します。
+
+上記のモジュールは、それぞれ以下のフォルダに展開をしてください。
+
+`C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals`
+`C:\Program Files\WindowsPowerShell\Modules\SitecoreInstallFramework`
+
+展開後のディレクトリを確認すると以下のようになります。
 
 ```
-Register-PSRepository -Name "SitecoreGallery" -SourceLocation "https://sitecore.myget.org/F/sc-powershell/api/v2/" -InstallationPolicy Trusted
-```
-上記の手続きが完了していれば、以下のコマンドで Sitecore Installation Framework のインストールが完了します。
-```
-Install-Module SitecoreInstallFramework
-```
-以下コマンドでインストールができていることを確認します
-```
-PS C:\Users\Sitecore> Get-Module -ListAvailable Sitecore*
+PS C:\Users\Administrator> cd "C:\Program Files\WindowsPowerShell\Modules\SitecoreInstallFramework"
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreInstallFramework> dir
 
-    Directory: C:\Program Files\WindowsPowerShell\Modules
+
+    ディレクトリ: C:\Program Files\WindowsPowerShell\Modules\SitecoreInstallFramework
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2018/12/10     22:56                docs
+d-----       2018/12/10     22:56                en-US
+d-----       2018/12/10     22:56                lib
+d-----       2018/12/10     22:56                Private
+d-----       2018/12/10     22:56                Public
+------       2018/02/12      9:34          16171 SitecoreInstallFramework.psd1
+------       2018/02/12      9:33           9202 SitecoreInstallFramework.psm1
+------       2018/02/12      9:33          11712 SitecoreInstallFramework.types.ps1xml
+
+
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreInstallFramework> cd "C:\Program Files\WindowsPowerShell\Modules\S
+itecoreFundamentals"
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals> dir
+
+
+    ディレクトリ: C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       2018/12/10     22:56                Content
+d-----       2018/12/10     22:56                docs
+d-----       2018/12/10     22:56                en-US
+d-----       2018/12/10     22:56                Private
+d-----       2018/12/10     22:56                Public
+------       2017/12/08     15:45          14376 SitecoreFundamentals.psd1
+------       2017/12/08     15:45          10150 SitecoreFundamentals.psm1
+
+
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals>
+
+```
+ `Get-Module -ListAvailable Sitecore*` を実行して、コマンドを認識できていれば、インストールは完了です。
+
+```
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals>  Get-Module -ListAvailable Sitecore*
+
+
+    ディレクトリ: C:\Program Files\WindowsPowerShell\Modules
+
 
 ModuleType Version    Name                                ExportedCommands
 ---------- -------    ----                                ----------------
 Script     1.1.0      SitecoreFundamentals                {Get-WebFeature, Add-WebFeatureHSTS, Remove-WebFeatureHSTS...
-Script     1.2.1      SitecoreInstallFramework            {Export-WebDeployParameters, Get-SitecoreInstallExtension,...
+Script     1.2.0      SitecoreInstallFramework            {Export-WebDeployParameters, Get-SitecoreInstallExtension,...
+
+
+PS C:\Program Files\WindowsPowerShell\Modules\SitecoreFundamentals>
 ```
-これで準備が完了となります。
 
 ## Sitecore Experience Platform 9.0.2
 パッケージを Web サイトからダウンロードします。

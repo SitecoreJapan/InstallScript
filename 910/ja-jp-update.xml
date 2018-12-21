@@ -14,9 +14,6 @@
   <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Security" key="Security" itemid="{B8CE3C9D-2B0B-4015-8F40-9E7E54DA4FF7}" fieldid="RowsNumber" updated="20160412T114348Z">
     <ja-JP>2</ja-JP>
   </phrase>
-  <phrase path="/sitecore/system/Dictionary/O/Open" key="Open" itemid="{C44B5D40-34DC-4D1B-AA87-57E737AF4D54}" fieldid="Phrase" updated="20081114T045828Z">
-    <ja-JP>開く</ja-JP>
-  </phrase>
   <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations" key="Automations" itemid="{FFF79FC9-22BC-4013-AFAC-9217B38AFBF8}" fieldid="__Display name" updated="20170731T040108Z">
     <ja-JP>マーケティング オートメーション キャンペーン</ja-JP>
   </phrase>
