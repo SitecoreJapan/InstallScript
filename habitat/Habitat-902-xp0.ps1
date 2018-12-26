@@ -1,5 +1,5 @@
 ﻿# パラメーターの設定
-$prefix = "habitat"
+$prefix = "dev.local"
 $PSScriptRoot = "C:\Projects\sif"
 $XConnectCollectionService = "habitathome_xconnect.dev.local"
 $sitecoreSiteName = "habitathome.dev.local"
