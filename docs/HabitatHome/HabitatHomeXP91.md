@@ -40,14 +40,15 @@ Sitecore のクリーンインストールが完了すると、 http://habitatho
 
 * Sitecore PowerShell Extensions-5.0.zip 
 * Sitecore Experience Accelerator 1.8 rev. 181112 for 9.1.zip
+
+Data Exchange Framework は任意でインストールすることができます。
+
 * Data Exchange Framework 2.1.0 rev. 181113.zip 
 * Sitecore Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
 * SQL Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
 * XConnect Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
 * Dynamics Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
 * Connect for Microsoft Dynamics 2.1.0 rev. 181113.zip
-
-<img src="images/module_install1.PNG" alt="モジュール一覧" width="450" >
 
 /App_Config/connectionstrings.config に Dynamics につなげるための Connection Strings を追加してください。
 
@@ -57,7 +58,7 @@ Sitecore のクリーンインストールが完了すると、 http://habitatho
 
 id
 password
-org
+organization
 
 Dynamics 365 のパラメーターを利用してください。
 
@@ -88,7 +89,7 @@ Sitecore の環境が整ったところで、GitHub で提供されているサ�
 
 以下の内容がデフォルトの設定となっています。
 
-**Project location**		`c:\projects\sitecore.habitathome.content\`
+**Project location**		`c:\projects\sitecore.habitathome.plathome\`
 **Habitat Site domain**				`habitathome.dev.local`
 **Web Root**						`c:\inetpub\wwwroot`
 **Host Suffix**						`dev.local`
@@ -97,7 +98,7 @@ Sitecore の環境が整ったところで、GitHub で提供されているサ�
 build.ps1 を実行
 
 ```
-PS C:\projects\Sitecore.HabitatHome.Content> build.ps1
+PS C:\projects\sitecore.habitathome.plathome> build.ps1
 
 [13:14:20]
 [13:14:20]
