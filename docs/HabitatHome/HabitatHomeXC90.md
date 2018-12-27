@@ -8,11 +8,12 @@
 
 ## インストール環境の確認
 
-Sitecore Experience Platform 9.0 update 2を利用しています。
+Sitecore Experience Platform 9.0 update 2 および Sitecore Experience Commerce 9.0 update 2 を利用しています。
 
+### Sitecore Experience Platform 9.0.2 のインストール
 デモ環境は、Sitecore のインストール環境としては、以下の設定が標準で設定されています。
 
-この製品の <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Platform-902.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [HabitatHomeXC90.md](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) からダウンロードできます。
+詳細は <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Platform-902.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [Habitat-902-xp0.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902) からダウンロードできます。
 
 **プロジェクトの場所**		`c:\projects\Sitecore.HabitatHome.Platform\`
 **Habitat サイトドメイン**				`habitathome.dev.local`
@@ -35,12 +36,26 @@ $xconnectHostName = "habitathome_xconnect.dev.local"
 
 Sitecore のクリーンインストールが完了すると、 http://habitathome.dev.local/ でアクセスができるようになり、また /sitecore と入力するとログイン画面が表示されます。
 
+### 証明書の適用
+
+デモを展開をするにあたって https で habitathome.dev.local を利用するにあたって自己証明書を作成する必要があります。
+
+[habitatdevhome.cert.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902)
+
+を c:\projects\sif にコピーして実行することで証明書が作成されますので、IIS の設定で証明書をバインドしてください。
+
+### Sitecore Experience Commerce 9.0.2 のインストール
+
+詳細なインストール手順に関しては <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Commerce-902.html" target="_blank">こちら</a> を参照してください。デフォルトと異なるのはインストール先のインスタンス名となります。
+
+[HabitatCommerceInstall.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902)
+
+を c:\projects\sc902\SIF.Sitecore.Commerce.1.2.14\ にコピーして実行することで　Sitecore Experience Commerce 9.0.2 のインストールが完了します。
+
 # モジュールのインストール
 
 デモサイトで必要なモジュールをインストールしていきます。モジュールは以下の順番でインストールを進めてください。
 
-* Sitecore PowerShell Extensions-4.7.2 for Sitecore 8.zip 
-* Sitecore Experience Accelerator 1.7.1 rev. 180604 for 9.0.zip
 * Data Exchange Framework 2.0.1 rev. 180108.zip 
 * Sitecore Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
 * SQL Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
@@ -63,11 +78,6 @@ organization
 Dynamics 365 のパラメーターを利用してください。
 
 
-展開をするにあたって https で habitathome.dev.local を利用するにあたって自己証明書を作成する必要があります。
-
-habitatdevhome.cert.ps1
-
-を c:\projects\sif にコピーして実行することで証明書が作成されますので、IIS の設定で証明書をバインドしてください。
 
 
 # リポジトリのクローン
