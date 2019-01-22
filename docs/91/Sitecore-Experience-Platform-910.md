@@ -8,6 +8,11 @@
 * SQL Server 2017 + [SQL Server Management Studio](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 * IIS 10.0
 * .NET Framework 4.7.1
+* [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
+
+Web Platform Installer をインストールした後、以下のモジュールをインストールします。
+* URL Rewrite 2.1
+* Web Deploy 3.6 for Hosting
 
 SQL Server 2017 に関しては、Microsoft Machine Learning Server も一緒にインストールをしてください。
 
