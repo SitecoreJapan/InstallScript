@@ -5,9 +5,10 @@
 今回は以下の環境で構築をします。
 
 * Windows Server 2016 Standard
-* SQL Server 2017 + [SQL Server Management Studio](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
+* SQL Server 2017 Standard + [SQL Server Management Studio](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 * IIS 10.0
-* .NET Framework 4.7.1
+* [.NET Framework 4.7.1](https://dotnet.microsoft.com/download/dotnet-framework-runtime/net471)
+* [.NET Core 2.2 SDK](https://dotnet.microsoft.com/download)
 * [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)
 
 Web Platform Installer をインストールした後、以下のモジュールをインストールします。
