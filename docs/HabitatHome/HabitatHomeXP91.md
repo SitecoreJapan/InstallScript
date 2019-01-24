@@ -10,7 +10,7 @@ Sitecore Experience Platform 9.1 Initial Release を利用しています。
 
 デモ環境は、Sitecore のインストール環境としては、以下の設定が標準で設定されています。
 
-この製品の <a href="https://github.com/SitecoreJapan/InstallScript/blob/master/docs/91/Sitecore-Experience-Platform-910.md" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](Habitat-91-XP0.ps1) からダウンロードできます。
+この製品の <a href="https://github.com/SitecoreJapan/InstallScript/blob/master/docs/91/Sitecore-Experience-Platform-910.md" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) の Habitat-910-XP0.ps1 を利用してください。
 
 **プロジェクトの場所**		`c:\projects\Sitecore.HabitatHome.Platform\`
 **Habitat サイトドメイン**				`habitathome.dev.local`
@@ -75,27 +75,33 @@ Web.config には以下の設定を追加する必要があります。
       </dependentAssembly>
 ```
 
+# 証明書の追加
+
+[ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) にある habitatdevhome.cert.ps1 のファイルを c:\projects\sif のフォルダにコピーをして実行してください。自己証明書が生成されたあと、 IIS にて https://habitathome.dev.local/ でアクセスできることを確認します。
+
+https での接続でもログインができるようにするために、 Identity Server の設定を変更する必要があります。
+
+C:\inetpub\wwwroot\habitathome.identityserver\Config\production にある Sitecore.IdentityServer.Host.xml のファイルを開いて、対象となる URL に関して http から https に変更してください。
+
 # リポジトリのクローン
 
-* Git for Windows
+https://github.com/Sitecore/Sitecore.HabitatHome.Platform のリポジトリのクローンを作成してください。Build を実行するにあたっては、以下の2つのファイルが設定ファイルになっています。
 
-Sitecore の環境が整ったところで、GitHub で提供されているサンプルを適用していきます。ここでは、Visual Studio 2017 の環境実行しています。
+* cake-config.json
+* publishsettings.targets
 
-1. チームエクスプローラを開き、GitHub のリポジトリの URL を利用してクローンを作成します。作成先は c:\projects\sitecore.habitathome.plathome です。
+Sitecore Experience Platform のインストール環境に合わせて、パラメーターを変更してください。
 
-<img src="images/Github1.PNG" alt="クローンの作成" />
+# 必要なツールのインストール
 
-2. インストールに関する設定変更
+以下のツールをインストールしてください。
 
-以下の内容がデフォルトの設定となっています。
+* [Node.js](https://nodejs.org/ja/) 推奨版をインストールします
+* [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2017 の中に含まれています
 
-**Project location**		`c:\projects\sitecore.habitathome.plathome\`
-**Habitat Site domain**				`habitathome.dev.local`
-**Web Root**						`c:\inetpub\wwwroot`
-**Host Suffix**						`dev.local`
-**xConnectRoot** 	`habitat_xconnect.dev.local`
+# ソリューションを構築する
 
-build.ps1 を実行
+上記の準備が完了したあと、準備されている build.ps1 を実行してください。
 
 ```
 PS C:\projects\sitecore.habitathome.plathome> build.ps1
