@@ -75,6 +75,10 @@ Web.config には以下の設定を追加する必要があります。
       </dependentAssembly>
 ```
 
+# 日本語リソースの追加
+
+Sitecore Experience Platform 9.1 Initial Release の日本語リソースの追加および SXA の日本語リソースを追加してください。追加の手順は、[Youtube の動画](https://www.youtube.com/watch?v=iJGBN0wj10s) が参考になります。
+
 # 証明書の追加
 
 [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) にある habitatdevhome.cert.ps1 のファイルを c:\projects\sif のフォルダにコピーをして実行してください。自己証明書が生成されたあと、 IIS にて https://habitathome.dev.local/ でアクセスできることを確認します。
@@ -97,7 +101,7 @@ Sitecore Experience Platform のインストール環境に合わせて、パラ
 以下のツールをインストールしてください。
 
 * [Node.js](https://nodejs.org/ja/) 推奨版をインストールします
-* [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2017 の中に含まれています
+* [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2017 の中に含まれています。
 
 # ソリューションを構築する
 
@@ -127,5 +131,12 @@ PS C:\projects\sitecore.habitathome.plathome> build.ps1
 [13:14:20]
 ```
 
+# インストール後の作業
+
+インストールが完了したあと、以下の手順を実行してください。
+
+- 全コンテンツの Republish
+- インデックスの再構築
+
 ---
-[目次に戻る](./readme.md)
+[目次に戻る](../readme.md)
