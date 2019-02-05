@@ -8,11 +8,12 @@
 
 ## インストール環境の確認
 
-Sitecore Experience Platform 9.0 update 2を利用しています。
+Sitecore Experience Platform 9.0 update 2 および Sitecore Experience Commerce 9.0 update 2 を利用しています。
 
+### Sitecore Experience Platform 9.0.2 のインストール
 デモ環境は、Sitecore のインストール環境としては、以下の設定が標準で設定されています。
 
-この製品の <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Platform-902.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [HabitatHomeXC90.md](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) からダウンロードできます。
+詳細は <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Platform-902.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [Habitat-902-xp0.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902) からダウンロードできます。
 
 **プロジェクトの場所**		`c:\projects\Sitecore.HabitatHome.Platform\`
 **Habitat サイトドメイン**				`habitathome.dev.local`
@@ -35,18 +36,32 @@ $xconnectHostName = "habitathome_xconnect.dev.local"
 
 Sitecore のクリーンインストールが完了すると、 http://habitathome.dev.local/ でアクセスができるようになり、また /sitecore と入力するとログイン画面が表示されます。
 
+### 証明書の適用
+
+デモを展開をするにあたって https で habitathome.dev.local を利用するにあたって自己証明書を作成する必要があります。
+
+[habitatdevhome.cert.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902)
+
+を c:\projects\sif にコピーして実行することで証明書が作成されますので、IIS の設定で証明書をバインドしてください。
+
+### Sitecore Experience Commerce 9.0.2 のインストール
+
+詳細なインストール手順に関しては <a href="https://sitecorejapan.github.io/InstallScript/90/Sitecore-Experience-Commerce-902.html" target="_blank">こちら</a> を参照してください。デフォルトと異なるのはインストール先のインスタンス名となります。
+
+[HabitatCommerceInstall.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/demo/HabitatCommerce902)
+
+を c:\projects\sc902\SIF.Sitecore.Commerce.1.2.14\ にコピーして実行することで　Sitecore Experience Commerce 9.0.2 のインストールが完了します。
+
 # モジュールのインストール
 
 デモサイトで必要なモジュールをインストールしていきます。モジュールは以下の順番でインストールを進めてください。
 
-* Sitecore PowerShell Extensions-5.0.zip 
-* Sitecore Experience Accelerator 1.8 rev. 181112 for 9.1.zip
-* Data Exchange Framework 2.1.0 rev. 181113.zip 
-* Sitecore Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* SQL Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* XConnect Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Dynamics Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Connect for Microsoft Dynamics 2.1.0 rev. 181113.zip
+* Data Exchange Framework 2.0.1 rev. 180108.zip 
+* Sitecore Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
+* SQL Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
+* xConnect Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
+* Dynamics Provider for Data Exchange Framework 2.0.1 rev. 180108.zip
+* Connect for Microsoft Dynamics 2.0.1 rev. 180108.zip
 
 <img src="images/module_install1.PNG" alt="モジュール一覧" width="450" >
 
@@ -58,22 +73,12 @@ Sitecore のクリーンインストールが完了すると、 http://habitatho
 
 id
 password
-org
+organization
 
 Dynamics 365 のパラメーターを利用してください。
 
-Web.config には以下の設定を追加する必要があります。
 
-```
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Xrm.Sdk" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Crm.Sdk.Proxy" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-```
+
 
 # リポジトリのクローン
 
@@ -95,30 +100,77 @@ Sitecore の環境が整ったところで、GitHub で提供されているサ�
 **Host Suffix**						`dev.local`
 **xConnectRoot** 	`habitat_xconnect.dev.local`
 
-build.ps1 を実行
+Commerce を展開するため、build.ps1 のコマンドで Quick-Deploy をつけて実行します。
+
+.\build.ps1 -Target "Quick-Deploy"
 
 ```
-PS C:\projects\Sitecore.HabitatHome.Content> build.ps1
+PS C:\projects\Sitecore.HabitatHome.Platform> .\build.ps1 -Target "Quick-Deploy"
+Preparing to run build script...
+Running build script...
+The assembly 'Cake.Http, Version=0.5.0.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.26.1).
+For best compatibility it should target Cake.Core version 0.28.0.
+The assembly 'Cake.Json, Version=3.0.1.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.26.0).
+For best compatibility it should target Cake.Core version 0.28.0.
+(2705,12): warning CS1701: Assuming assembly reference 'Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToke
+n=30ad4fe6b2a6aeed' used by 'Cake.Json' matches identity 'Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyT
+oken=30ad4fe6b2a6aeed' of 'Newtonsoft.Json', you may need to supply runtime policy
+(2711,12): warning CS1701: Assuming assembly reference 'Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToke
+n=30ad4fe6b2a6aeed' used by 'Cake.Json' matches identity 'Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyT
+oken=30ad4fe6b2a6aeed' of 'Newtonsoft.Json', you may need to supply runtime policy
 
-[13:14:20]
-[13:14:20]
-[13:14:20]    ) )       /\
-[13:14:20]   =====     /  \
-[13:14:20]  _|___|____/ __ \____________
-[13:14:20] |:::::::::/ ==== \:::::::::::|
-[13:14:20] |:::::::::/ ====  \::::::::::|
-[13:14:20] |::::::::/__________:::::::::|
-[13:14:20] |_________|  ____  |_________|
-[13:14:20] | ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
-[13:14:20] ||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
-[13:14:20] ||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
-[13:14:20] ||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
-[13:14:20] |======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
-[13:14:20] (^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
-[13:14:20] (,, , ,, , |______|,,,, ,, ,)
-[13:14:20] ','',,,,'  |______|,,,',',;;
-[13:14:20]
-[13:14:20]
+----------------------------------------
+Setup
+----------------------------------------
+
+
+   ) )       /\
+  =====     /  \
+ _|___|____/ __ \____________
+|:::::::::/ ==== \:::::::::::|
+|:::::::::/ ====  \::::::::::|
+|::::::::/__________\:::::::::|
+|_________|  ____  |_________|
+| ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
+||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
+||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
+||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
+|======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
+(^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
+(,, , ,, , |______|,,,, ,, ,)
+','',,,,'  |______|,,,',',;;
+
+
+ --------------------  ------------------
+   The Habitat Home source code, tools and processes are examples of Sitecore Features.
+   Habitat Home is not supported by Sitecore and should be used at your own risk.
+
+中略
+
+
+========================================
+Quick-Deploy
+========================================
+
+Task                          Duration
+--------------------------------------------------
+Setup                         00:00:00.1395423
+Clean                         00:00:01.4029839
+Modify-PublishSettings        00:00:00.0280371
+Build-Solution                00:02:40.2691083
+Publish-Foundation-Projects   00:00:17.5088956
+Publish-Feature-Projects      00:00:13.0039602
+Publish-Project-Projects      00:00:05.7886071
+Apply-Xml-Transform           00:00:00.9522365
+Modify-Unicorn-Source-Folder  00:00:00.0059750
+Publish-Transforms            00:00:00.7723915
+Publish-xConnect-Project      00:00:00.7384235
+--------------------------------------------------
+Total:                        00:03:20.6200163
+PS C:\projects\Sitecore.HabitatHome.Platform>
+
 ```
 
 ---
