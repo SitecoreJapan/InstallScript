@@ -1,0 +1,23 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Marketing" key="Marketing" itemid="{52EF09CC-610F-46AE-801D-696E43CF3AA1}" fieldid="RowsNumber" updated="20160412T114318Z">
+    <ja-JP>3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Analytics" key="Analytics" itemid="{496503A2-59FD-41AA-BC35-D2AEEDD5B6BB}" fieldid="RowsNumber" updated="20170505T141215Z">
+    <ja-JP>3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/ContentEditing" key="ContentEditing" itemid="{11FEE71B-C63E-42C8-9319-8883A9A9DD20}" fieldid="RowsNumber" updated="20160412T114330Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools" key="Tools" itemid="{E8ED70BA-1401-4BCF-B3F9-5A60FE67C8F5}" fieldid="RowsNumber" updated="20160412T114339Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Security" key="Security" itemid="{B8CE3C9D-2B0B-4015-8F40-9E7E54DA4FF7}" fieldid="RowsNumber" updated="20160412T114348Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations" key="Automations" itemid="{FFF79FC9-22BC-4013-AFAC-9217B38AFBF8}" fieldid="__Display name" updated="20170731T040108Z">
+    <ja-JP>マーケティング オートメーション キャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations/AutomationsPanel/EngagementPlans" key="EngagementPlans" itemid="{A0515394-EA52-476E-96C0-579AA946E3F5}" fieldid="EmptyText" updated="20170801T025730Z">
+    <ja-JP>マーケティングオートメーションキャンペーンが見つかりません</ja-JP>
+  </phrase>
+</sitecore>
