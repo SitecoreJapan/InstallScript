@@ -4,7 +4,8 @@
 
 ## Sitecore Experience Cloud 9.1
 * [Sitecore Experience Platform 9.1.0](91/Sitecore-Experience-Platform-910.md)
-* [Sitecore Experience Platform 9.1.1](91/Sitecore-Experience-Platform-911.md)
+* Sitecore Experience Platform 9.1 update 1
+* Sitecore Experience Commerce 9.1 Initial Release
 
 ## Sitecore Experience Cloud 9.0
 * [Sitecore Experience Platform 9.0.1](90/Sitecore-Experience-Platform-901.md)
