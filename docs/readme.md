@@ -17,3 +17,4 @@
 ## Habitat Home Demo
 
 * [Sitecore.Habitathome.Platform 9.1](HabitatHome/HabitatHomeXP91.md)
+* [xGenerator](xGenerator/README.md)
