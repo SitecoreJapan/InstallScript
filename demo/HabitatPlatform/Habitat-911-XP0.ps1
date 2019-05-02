@@ -1,13 +1,13 @@
 # The Prefix that will be used on SOLR, Website and Database instances.
-$Prefix = "XP0"
+$Prefix = "habitathome"
 # The Password for the Sitecore Admin User. This will be regenerated if left on the default.
 $SitecoreAdminPassword = "P@ssword"
 # The root folder with the license file and WDP files.
 $SCInstallRoot = "C:\projects\sif"
 # The name for the XConnect service.
-$XConnectSiteName = "$prefix.xconnect"
+$XConnectSiteName = "habitathome_xconnect.dev.local"
 # The Sitecore site instance name.
-$SitecoreSiteName = "$prefix.sc"
+$SitecoreSiteName = "$prefix.dev.local"
 # Identity Server site name
 $IdentityServerSiteName = "$prefix.identityserver"
 # The Path to the license file
