@@ -6,7 +6,7 @@
 * Sitecore Experience Platform 9.1.1 （[インストール手順](Sitecore-Experience-Platform-911.md) )
 
 以下のモジュールを追加インストールします。
-* [.NET Core SDK v2.2.103 (Installer for Windows x64)](https://www.microsoft.com/net/download)
+* [.NET Core SDK v2.1.103 (Installer for Windows x64)](https://www.microsoft.com/net/download)
 * [.NET Core Windows Server Hosting 2.1.10](https://dotnet.microsoft.com/download/thank-you/dotnet-runtime-2.1.10-windows-hosting-bundle-installer)
 * [ASP.NET MVC 4](https://www.microsoft.com/ja-jp/download/details.aspx?id=30683)
 

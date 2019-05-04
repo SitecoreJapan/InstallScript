@@ -1,92 +1,100 @@
 #Requires -Version 3
 param(
-    [string]$SiteName = "habitathome.dev.local",	
-	[string]$SiteHostHeaderName = "sxa.storefront.com",	
-	[string]$SqlDbPrefix = "dev.local",
-	[string]$CommerceSearchProvider = "SOLR"
+	[string]$SiteName = "habitathome.dev.local",
+	[string]$SiteHostHeaderName = "habitathome.dev.local",
+	[string]$SqlDbPrefix = "habitathome",
+	[string]$CommerceSearchProvider = "SOLR",
+	[string]$IdentityServerSiteName = "identityserver-habitathome.dev.local"
 )
 
-$global:DEPLOYMENT_DIRECTORY=Split-Path $MyInvocation.MyCommand.Path
-$modulesPath=( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "Modules" )
-if ($env:PSModulePath -notlike "*$modulesPath*")
-{
-    $p = $env:PSModulePath + ";" + $modulesPath
-    [Environment]::SetEnvironmentVariable("PSModulePath",$p)
-}
+Import-Module SitecoreInstallFramework
 
+$global:DEPLOYMENT_DIRECTORY = Split-Path $MyInvocation.MyCommand.Path
+$modulesPath = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "Modules" )
+if ($env:PSModulePath -notlike "*$modulesPath*") 
+{
+	$p = $env:PSModulePath + ";" + $modulesPath
+	[Environment]::SetEnvironmentVariable("PSModulePath", $p)
+}
 
 $params = @{
-        Path = Resolve-Path '.\Configuration\Commerce\Master_SingleServer.json'	
-		SiteName = $SiteName
-		SiteHostHeaderName = $SiteHostHeaderName 
-		InstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$SiteName"
-		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\habitathome_xconnect.dev.local"
-		CertificateName = $SiteName
-		CommerceServicesDbServer = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
-		CommerceServicesDbName = "SitecoreCommerce9_SharedEnvironments"
-		CommerceServicesGlobalDbName = "SitecoreCommerce9_Global"		
-        SitecoreDbServer = $($Env:COMPUTERNAME)            #OR "SQLServerName\SQLInstanceName"
-		SitecoreCoreDbName = "$($SqlDbPrefix)_Core"
-		SitecoreUsername = "sitecore\admin"
-		SitecoreUserPassword = "b"
-		CommerceSearchProvider = $CommerceSearchProvider
-		SolrUrl = "https://localhost:8983/solr"
-		SolrRoot = "c:\\solr\\solr-6.6.2"
-		SolrService = "Solr-6.6.2"
-		SolrSchemas = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SolrSchemas" )
-		SearchIndexPrefix = ""
-		AzureSearchServiceName = ""
-		AzureSearchAdminKey = ""
-		AzureSearchQueryKey = ""
-		CommerceEngineDacPac = Resolve-Path -Path "..\assets\Sitecore.Commerce.Engine.DB.dacpac"	   
-		CommerceOpsServicesPort = "5015"
-		CommerceShopsServicesPort = "5005"
-		CommerceAuthoringServicesPort = "5000"
-		CommerceMinionsServicesPort = "5010"		
-		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.2*.zip"		
-		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1*"		
-		SitecoreIdentityServerZipPath = Resolve-Path -Path "..\Sitecore.IdentityServer.1.*.zip"
-		CommerceEngineCertificatePath = Resolve-Path -Path "..\assets\storefront.engine.cer"		
-        SiteUtilitiesSrc = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SiteUtilityPages" )	
-        HabitatImagesModuleFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Habitat.Images-*.zip"	
-        AdvImagesModuleFullPath = Resolve-Path -Path "..\Adventure Works Images.zip"	
-		CommerceConnectModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Connect*.zip"	
-		CommercexProfilesModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceProfile Core *.zip"	
-		CommercexAnalyticsModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceAnalytics Core *.zip"	
-		CommerceMAModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation Core *.zip"	
-		CommerceMAForAutomationEngineModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation for AutomationEngine *.zip"	
-        CEConnectPackageFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.Connect*.update"
-        PowerShellExtensionsModuleFullPath = Resolve-Path -Path "..\assets\Sitecore PowerShell Extensions*.zip"
-        SXAModuleFullPath = Resolve-Path -Path "..\assets\Sitecore Experience Accelerator*.zip"
-        SXACommerceModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator 1.*.zip"
-		SXAStorefrontModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront 1.*.zip"
-        SXAStorefrontThemeModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront Themes*.zip"
-		SXAStorefrontCatalogModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Habitat Catalog*.zip"
-		MergeToolFullPath = Resolve-Path -Path "..\MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3\tools\VSToolsPath\Web\Microsoft.Web.XmlTransform.dll"
-		UserAccount = @{
-			Domain = $Env:COMPUTERNAME
-			UserName = 'CSFndRuntimeUser'
-			Password = 'Pu8azaCr'
+		Path                                        = Resolve-Path '.\Configuration\Commerce\Master_SingleServer.json'
+		BaseConfigurationFolder                     = Resolve-Path '.\Configuration'
+		SiteName                                    = $SiteName
+		SiteHostHeaderName                          = $SiteHostHeaderName
+		InstallDir                                  = "c:\inetpub\wwwroot\habitathome.dev.local"
+		XConnectInstallDir                          = "c:\inetpub\wwwroot\habitathome_xconnect.dev.local"
+		CommerceInstallRoot                         = "c:\inetpub\wwwroot\"        
+		CommerceServicesDbServer                    = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
+		CommerceServicesDbName                      = "habitathome_SharedEnvironments"
+		CommerceServicesGlobalDbName                = "habitathome_Global"
+		SitecoreDbServer                            = $($Env:COMPUTERNAME)            #OR "SQLServerName\SQLInstanceName"
+		SitecoreCoreDbName                          = "$($SqlDbPrefix)_Core"
+		SitecoreUsername                            = "sitecore\admin"
+		SitecoreUserPassword                        = "b"
+		CommerceSearchProvider                      = $CommerceSearchProvider
+		SolrUrl                                     = "https://localhost:8983/solr"
+		SolrRoot                                    = "c:\solr\solr-7.2.1"
+		SolrService                                 = "solr-7.2.1"
+		SolrSchemas                                 = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SolrSchemas" )
+		CommerceServicesPostfix                     = "habitathome"
+		CommerceServicesHostPostfix                 = "sc9.qa"
+		SearchIndexPrefix                           = "sitecore"
+		EnvironmentsPrefix                          = "Habitat"
+		Environments                                = @('AdventureWorksAuthoring', 'HabitatAuthoring')
+		AzureSearchServiceName                      = ""
+		AzureSearchAdminKey                         = ""
+		AzureSearchQueryKey                         = ""
+		CommerceEngineDacPac                        = Resolve-Path -Path "..\Sitecore.Commerce.Engine.SDK.*\Sitecore.Commerce.Engine.DB.dacpac"
+		CommerceOpsServicesPort                     = "5015"
+		CommerceShopsServicesPort                   = "5005"
+		CommerceAuthoringServicesPort               = "5000"
+		CommerceMinionsServicesPort                 = "5010"
+		SitecoreBizFxPort                           = "4200"
+		SitecoreCommerceEnginePath                  = Resolve-Path -Path "..\Sitecore.Commerce.Engine.*.zip"
+		SitecoreBizFxServicesContentPath            = Resolve-Path -Path "..\Sitecore.BizFX.2*"
+		CommerceEngineCertificateName               = "storefront.engine"
+		SiteUtilitiesSrc                            = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SiteUtilityPages" )
+		HabitatImagesModuleFullPath                 = Resolve-Path -Path "..\Sitecore.Commerce.Habitat.Images-*.zip"
+		AdvImagesModuleFullPath                     = Resolve-Path -Path "..\Adventure Works Images.zip"
+		CommerceConnectModuleFullPath               = Resolve-Path -Path "..\Sitecore Commerce Connect*.zip"
+		CommercexProfilesModuleFullPath             = Resolve-Path -Path "..\Sitecore Commerce ExperienceProfile Core *.zip"
+		CommercexAnalyticsModuleFullPath            = Resolve-Path -Path "..\Sitecore Commerce ExperienceAnalytics Core *.zip"
+		CommerceMAModuleFullPath                    = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation Core *.zip"
+		CommerceMAForAutomationEngineModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation for AutomationEngine *.zip"
+		CEConnectModuleFullPath                     = Resolve-Path -Path "..\Sitecore Commerce Engine Connect*.zip"
+		PowerShellExtensionsModuleFullPath          = Resolve-Path -Path "..\assets\Sitecore PowerShell Extensions*.zip"
+		SXAModuleFullPath                           = Resolve-Path -Path "..\assets\Sitecore Experience Accelerator*.zip"
+		SXACommerceModuleFullPath                   = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator 2.*.zip"
+		SXAStorefrontModuleFullPath                 = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront 2.*.zip"
+		SXAStorefrontThemeModuleFullPath            = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront Themes*.zip"
+		SXAStorefrontCatalogModuleFullPath          = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Habitat Catalog*.zip"
+		MergeToolFullPath                           = Resolve-Path -Path "..\MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3\tools\VSToolsPath\Web\Microsoft.Web.XmlTransform.dll"
+		UserDomain                                  = $Env:COMPUTERNAME
+		UserName                                    = 'CSFndRuntimeUser'
+		UserPassword                                = 'Pu8azaCr'                          
+
+		BraintreeAccount                            = @{
+			MerchantId = ''
+			PublicKey = ''
+			PrivateKey = ''
 		}
-		BraintreeAccount = @{
-			MerchantId = 'c36w95m65f9t2zps'
-			PublicKey = 'ccgwnp7whv8pc6yt'
-			PrivateKey = '1149582924a491cdc4fc82feab85e3cb'
-		}
-		SitecoreIdentityServerName = "SitecoreIdentityServer"		
-    }
+		SitecoreBizFxServerName                     = "SitecoreBizFx_habitathome.dev.local"
+		SitecoreIdentityServerApplicationName       = $IdentityServerSiteName
+		SitecoreIdentityServerHostName              = $IdentityServerSiteName
+	}
 
 if ($CommerceSearchProvider -eq "SOLR") {
-	Install-SitecoreConfiguration @params
+	Install-SitecoreConfiguration @params -Verbose *>&1 | Tee-Object "$PSScriptRoot\XC-Install.log"
 }
-elseif ($CommerceSearchProvider -eq "AZURE"){
+elseif ($CommerceSearchProvider -eq "AZURE") {
 	Install-SitecoreConfiguration @params -Skip InstallSolrCores
 }
 # SIG # Begin signature block
 # MIIXwQYJKoZIhvcNAQcCoIIXsjCCF64CAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU2A4zbikI1U2u89We6OodK+3R
-# VQ+gghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUUZP+ua22VF9f624H1FnB2AKm
+# 45CgghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
 # AQUFADCBizELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIG
 # A1UEBxMLRHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhh
 # d3RlIENlcnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcg
@@ -192,22 +200,22 @@ elseif ($CommerceSearchProvider -eq "AZURE"){
 # bTExMC8GA1UEAxMoRGlnaUNlcnQgU0hBMiBBc3N1cmVkIElEIENvZGUgU2lnbmlu
 # ZyBDQQIQB6Zc7QsNL9EyTYMCYZHvVTAJBgUrDgMCGgUAoHAwEAYKKwYBBAGCNwIB
 # DDECMAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO
-# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFFhL5ZmCLq9hUiVOrIhi7tNi
-# NKdiMA0GCSqGSIb3DQEBAQUABIIBAH/rxB1j9CVdi/h3Z5ID/mjQbwHTOfchRIjf
-# Zbar9Os6ApXTt1BucBvWvjnuhBitrglg3Ye34VKfcrCwpwDMB9yYefVqhcQt6nmN
-# j6jZ/jAbpQ1NUfacVp4j0vSJzdYJx6hBSvkCDOsYI8dE41dY9KG1qGO6ENeph7hN
-# FlenP5jAvSgI7cP9SwSLhXqAYkafISStBoEDVDoImcebsqzdCLrI2vEfrJykekZJ
-# bzLYTIdSBA239FLPLgfSi8JMxmR91buc9FxX5KuSBsBQ5WVAn7Zv35MIJ5YJ9/hC
-# nfH7iYcDvbuK7UKW+qJ8/WeuXRtTQeYn7Rkr3pgED1vC0DcbBxOhggILMIICBwYJ
+# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFDwXJCb2uXmQCzqd5mBs9/+M
+# 430qMA0GCSqGSIb3DQEBAQUABIIBAJvrhtLlrPG5g8V5YAKkapg7al4TGAjaAJhT
+# 0TmT+oPlbEuWbQ5GEPflJ1TXlClZPnvFuYIrFpSxv07TsyKneo15Qq2l2xMqAJnW
+# PN5RW3jB/QmgV+c727e2RJsikrgUJh16MrP1x37FzqucO3w7xDgCuZUv1jb+Gqlb
+# YrceowgJE/P/JgvsFYFfbRa6D2nf/TJTTVQN0Hsm+QXoIhO0K9YQ4CEz76l35KfH
+# WC2F38NpRLqbFj9PHXFNw1ZaDztDuiN73Iwk83Yvx3wa1GOx2ShknYVzrifFSlD4
+# v1EfnSKVumw/plhmJbziDMT66vMT9AKEzdGBCDn6ykolqqgpFsqhggILMIICBwYJ
 # KoZIhvcNAQkGMYIB+DCCAfQCAQEwcjBeMQswCQYDVQQGEwJVUzEdMBsGA1UEChMU
 # U3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRpbWUgU3Rh
 # bXBpbmcgU2VydmljZXMgQ0EgLSBHMgIQDs/0OMj+vzVuBNhqmBsaUDAJBgUrDgMC
 # GgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
-# MTgwNjE0MTc1MTQwWjAjBgkqhkiG9w0BCQQxFgQU4dRV4mrmlmo23fz23U6f5lkM
-# xjAwDQYJKoZIhvcNAQEBBQAEggEAe2TShd9FJInWxz/vZmn/mBW8zhOXCHPGgSz8
-# pJr3BG0aBJ1wOoglnqwS9fEdHjs/RLHdXEKVBo5KSaPWeC2fYGLR43sTCcqwNTsX
-# LEAfg9DrbiJLcB49od00oge74MXvfCb6eqBPVbCPTcgjlt+UyJ3ldRo/gUVH5Mly
-# GRVlrdRXxGIvTrCxJdQ4u8zMhHSie4R2aWzv6L0TF63uIIFoVxpnzQNGKNftn3jt
-# 2UU34gYl4I8e1vPpAoFfPLHWMi/qr7mqjg4LVQnNMpRyJuzGmoBXMFmBnLgkPecu
-# tjnbFxotTOEywlOHvIg9F4JRRQ7TSya7+I56fWz7M2b7vWx8hg==
+# MTkwNDA0MTcxMTMzWjAjBgkqhkiG9w0BCQQxFgQUyZgW2pOKhF8Af8ug1KPs92So
+# 6b4wDQYJKoZIhvcNAQEBBQAEggEAIW1Gcw1u/T4ydUU+sPo9/VFM3yckuft8Njhw
+# y2TWTiBMV/+kpPlCG1D7qsIArK70GCDv/ClWeS8vEoJAAQo1A5hhAkDIwlyNXN7j
+# W7chjvVKhuPbjeMU64yi4WTRzI1+HO4vlwAqFeUmXAwjZj2jNYrVp4ch7BR+q8pP
+# Q8nJl62SLx7Wy/Od/ge2KbNxC/g57N5iu5cWcJwq3dOY5euuZ1QDDTc54T5CnfV3
+# Q0f9v0pN3CeNXHKl+VYKzvimP4rvU+AtCjPdvF7OZG4mKHx4TzV/4+fvcVAeYr1o
+# FNT3jto7CayxyDN/328bRnVIPgyeliAmes7tKY6FInEDonrVjw==
 # SIG # End signature block
