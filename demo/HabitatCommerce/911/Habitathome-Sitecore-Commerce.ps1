@@ -4,7 +4,7 @@ param(
 	[string]$SiteHostHeaderName = "habitathome.dev.local",
 	[string]$SqlDbPrefix = "habitathome",
 	[string]$CommerceSearchProvider = "SOLR",
-	[string]$IdentityServerSiteName = "identityserver-habitathome.dev.local"
+	[string]$IdentityServerSiteName = "habitathome-identityserver.dev.local"
 )
 
 Import-Module SitecoreInstallFramework
@@ -38,7 +38,7 @@ $params = @{
 		SolrService                                 = "solr-7.2.1"
 		SolrSchemas                                 = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SolrSchemas" )
 		CommerceServicesPostfix                     = "habitathome"
-		CommerceServicesHostPostfix                 = "sc9.qa"
+		CommerceServicesHostPostfix                 = "habitathome.dev.local"
 		SearchIndexPrefix                           = "sitecore"
 		EnvironmentsPrefix                          = "Habitat"
 		Environments                                = @('AdventureWorksAuthoring', 'HabitatAuthoring')

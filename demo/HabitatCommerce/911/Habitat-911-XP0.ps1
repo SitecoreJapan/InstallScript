@@ -7,9 +7,9 @@ $SCInstallRoot = "C:\projects\sif"
 # The name for the XConnect service.
 $XConnectSiteName = "habitathome_xconnect.dev.local"
 # The Sitecore site instance name.
-$SitecoreSiteName = "$prefix.dev.local"
+$SitecoreSiteName = "habitathome.dev.local"
 # Identity Server site name
-$IdentityServerSiteName = "identityserver-habitathome.dev.local"
+$IdentityServerSiteName = "habitathome-identityserver.dev.local"
 # The Path to the license file
 $LicenseFile = "$SCInstallRoot\license.xml"
 # The URL of the Solr Server
