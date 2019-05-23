@@ -2,9 +2,9 @@
 param(
 	[string]$SiteName = "sxa.storefront.com",
 	[string]$SiteHostHeaderName = "sxa.storefront.com",
-	[string]$SqlDbPrefix = "xc910",
+	[string]$SqlDbPrefix = "SC910",
 	[string]$CommerceSearchProvider = "SOLR",
-	[string]$IdentityServerSiteName = "xc910.identityserver"
+	[string]$IdentityServerSiteName = "sxastorefront-identityserver"
 )
 
 Import-Module SitecoreInstallFramework
@@ -23,7 +23,7 @@ $params = @{
 		SiteName                                    = $SiteName
 		SiteHostHeaderName                          = $SiteHostHeaderName
 		InstallDir                                  = "c:\inetpub\wwwroot\$SiteName"
-		XConnectInstallDir                          = "c:\inetpub\wwwroot\xc910.xconnect"
+		XConnectInstallDir                          = "c:\inetpub\wwwroot\SC910.xconnect"
 		CommerceInstallRoot                         = "c:\inetpub\wwwroot\"        
 		CommerceServicesDbServer                    = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
 		CommerceServicesDbName                      = "SitecoreCommerce9_SharedEnvironments"

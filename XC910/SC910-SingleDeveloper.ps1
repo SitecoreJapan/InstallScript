@@ -1,5 +1,5 @@
 # The Prefix that will be used on SOLR, Website and Database instances.
-$Prefix = "xc910"
+$Prefix = "SC910"
 # The Password for the Sitecore Admin User. This will be regenerated if left on the default.
 $SitecoreAdminPassword = "b"
 # The root folder with the license file and WDP files.
@@ -9,13 +9,13 @@ $XConnectSiteName = "$prefix.xconnect"
 # The Sitecore site instance name.
 $SitecoreSiteName = "sxa.storefront.com"
 # Identity Server site name
-$IdentityServerSiteName = "$prefix.identityserver"
+$IdentityServerSiteName = "sxastorefront-identityserver"
 # The Path to the license file
 $LicenseFile = "$SCInstallRoot\license.xml"
 # The URL of the Solr Server
 $SolrUrl = "https://localhost:8983/solr"
 # The Folder that Solr has been installed to.
-$SolrRoot = "C:\Solr\solr-7.2.1"
+$SolrRoot = "C:\solr\solr-7.2.1"
 # The Name of the Solr Service.
 $SolrService = "Solr-7.2.1"
 # The DNS name or IP of the SQL Instance.
