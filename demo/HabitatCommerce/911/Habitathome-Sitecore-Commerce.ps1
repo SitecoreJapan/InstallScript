@@ -75,9 +75,9 @@ $params = @{
 		UserPassword                                = 'Pu8azaCr'                          
 
 		BraintreeAccount                            = @{
-			MerchantId = ''
-			PublicKey = ''
-			PrivateKey = ''
+			MerchantId = 'c36w95m65f9t2zps'
+			PublicKey = 'ccgwnp7whv8pc6yt'
+			PrivateKey = '1149582924a491cdc4fc82feab85e3cb'
 		}
 		SitecoreBizFxServerName                     = "SitecoreBizFx_habitathome.dev.local"
 		SitecoreIdentityServerApplicationName       = $IdentityServerSiteName

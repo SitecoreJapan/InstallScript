@@ -1,0 +1,170 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets" key="Facets" itemid="{0B42DC05-5CF9-4DD5-9A3A-8BDF11BE2B88}" fieldid="__Display name" updated="20140113T031230Z">
+    <ja-JP>ファセット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Author" key="Author" itemid="{63AF4405-7F65-4079-8C62-5D09C705545B}" fieldid="Name" updated="20130228T010843Z">
+    <ja-JP>作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Author" key="Author" itemid="{63AF4405-7F65-4079-8C62-5D09C705545B}" fieldid="__Display name" updated="20130228T010843Z">
+    <ja-JP>作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Author Template" key="Author Template" itemid="{0E85C8BF-6F59-4907-9E6D-FC603573A798}" fieldid="Name" updated="20130227T033526Z">
+    <ja-JP>作成者テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Author Template" key="Author Template" itemid="{0E85C8BF-6F59-4907-9E6D-FC603573A798}" fieldid="__Display name" updated="20130227T033526Z">
+    <ja-JP>作成者テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Bucket" key="Bucket" itemid="{A9649925-64C2-4EF9-AA66-CF20D6925929}" fieldid="Name" updated="20130717T042833Z">
+    <ja-JP>バケット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Bucket" key="Bucket" itemid="{A9649925-64C2-4EF9-AA66-CF20D6925929}" fieldid="__Display name" updated="20130717T042833Z">
+    <ja-JP>バケット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Brand" key="Commerce Brand" itemid="{F80AC325-FE72-4242-8543-E421F0CD6E74}" fieldid="Name" updated="20130920T012306Z">
+    <ja-JP>Commerce ブランド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Brand" key="Commerce Brand" itemid="{F80AC325-FE72-4242-8543-E421F0CD6E74}" fieldid="DisplayName" updated="20130920T012306Z">
+    <ja-JP>ブランド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Brand" key="Commerce Brand" itemid="{F80AC325-FE72-4242-8543-E421F0CD6E74}" fieldid="__Display name" updated="20130920T012306Z">
+    <ja-JP>Commerce ブランド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Search Item Type" key="Commerce Search Item Type" itemid="{9EBE8AB2-B474-4C22-81FE-F464BB9E8A98}" fieldid="Name" updated="20130920T012445Z">
+    <ja-JP>Commerce 検索アイテム タイプ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Search Item Type" key="Commerce Search Item Type" itemid="{9EBE8AB2-B474-4C22-81FE-F464BB9E8A98}" fieldid="DisplayName" updated="20130920T012445Z">
+    <ja-JP>アイテム タイプ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Search Item Type" key="Commerce Search Item Type" itemid="{9EBE8AB2-B474-4C22-81FE-F464BB9E8A98}" fieldid="__Display name" updated="20130920T012445Z">
+    <ja-JP>Commerce アイテム形式</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Tags" key="Commerce Tags" itemid="{2926F57A-8998-40D4-86AE-CB9F8CCE08E9}" fieldid="Name" updated="20180124T212347Z">
+    <ja-JP>Commerce タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Tags" key="Commerce Tags" itemid="{2926F57A-8998-40D4-86AE-CB9F8CCE08E9}" fieldid="DisplayName" updated="20180124T212347Z">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Commerce Tags" key="Commerce Tags" itemid="{2926F57A-8998-40D4-86AE-CB9F8CCE08E9}" fieldid="__Display name" updated="20180124T212347Z">
+    <ja-JP>Commerce タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/InStock Locations" key="InStock Locations" itemid="{CB928897-1D1E-4635-8423-860B7AACBFCB}" fieldid="Name" updated="20140528T235942Z">
+    <ja-JP>在庫あり店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/InStock Locations" key="InStock Locations" itemid="{CB928897-1D1E-4635-8423-860B7AACBFCB}" fieldid="DisplayName" updated="20140528T235942Z">
+    <ja-JP>在庫あり店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/InStock Locations" key="InStock Locations" itemid="{CB928897-1D1E-4635-8423-860B7AACBFCB}" fieldid="__Display name" updated="20140528T235942Z">
+    <ja-JP>在庫あり店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Orderable Locations" key="Orderable Locations" itemid="{AE6B53F9-16F1-49B9-B8F8-360FD21DD59E}" fieldid="Name" updated="20140529T002141Z">
+    <ja-JP>注文可能店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Orderable Locations" key="Orderable Locations" itemid="{AE6B53F9-16F1-49B9-B8F8-360FD21DD59E}" fieldid="DisplayName" updated="20140529T002141Z">
+    <ja-JP>注文可能店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Orderable Locations" key="Orderable Locations" itemid="{AE6B53F9-16F1-49B9-B8F8-360FD21DD59E}" fieldid="__Display name" updated="20140529T002141Z">
+    <ja-JP>注文可能店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/OutOfStock Locations" key="OutOfStock Locations" itemid="{E44EE688-13DB-48C0-9C69-133B4C938280}" fieldid="Name" updated="20140529T002144Z">
+    <ja-JP>在庫なし店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/OutOfStock Locations" key="OutOfStock Locations" itemid="{E44EE688-13DB-48C0-9C69-133B4C938280}" fieldid="DisplayName" updated="20140529T002144Z">
+    <ja-JP>在庫なし店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/OutOfStock Locations" key="OutOfStock Locations" itemid="{E44EE688-13DB-48C0-9C69-133B4C938280}" fieldid="__Display name" updated="20140529T002144Z">
+    <ja-JP>在庫なし店舗</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Preorderable" key="Preorderable" itemid="{DD195103-53E1-48ED-9990-42D9FB2969DE}" fieldid="Name" updated="20140529T002148Z">
+    <ja-JP>予約可能</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Preorderable" key="Preorderable" itemid="{DD195103-53E1-48ED-9990-42D9FB2969DE}" fieldid="DisplayName" updated="20140529T002148Z">
+    <ja-JP>予約可能</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/CommerceConnect/Inventory/Preorderable" key="Preorderable" itemid="{DD195103-53E1-48ED-9990-42D9FB2969DE}" fieldid="__Display name" updated="20140529T002148Z">
+    <ja-JP>予約可能</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Create Date Author" key="Create Date Author" itemid="{AD375467-6234-4D71-8737-34D4CD21BD27}" fieldid="Name" updated="20130423T181945Z">
+    <ja-JP>作成日と作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Create Date Author" key="Create Date Author" itemid="{AD375467-6234-4D71-8737-34D4CD21BD27}" fieldid="__Display name" updated="20130423T181945Z">
+    <ja-JP>作成日と作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Date Range" key="Date Range" itemid="{7146F1A4-45FB-4CEC-9855-C95E9E595827}" fieldid="Name" updated="20130117T134944Z">
+    <ja-JP>日時の範囲</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Date Range" key="Date Range" itemid="{7146F1A4-45FB-4CEC-9855-C95E9E595827}" fieldid="DisplayName" updated="20130117T134944Z">
+    <ja-JP>日時の範囲</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Date Range" key="Date Range" itemid="{7146F1A4-45FB-4CEC-9855-C95E9E595827}" fieldid="__Display name" updated="20130117T134944Z">
+    <ja-JP>日時の範囲</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/File Size" key="File Size" itemid="{E344C026-8575-496D-8CDF-7741891D0786}" fieldid="Name" updated="20121114T024443Z">
+    <ja-JP>ファイルの種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/File Size" key="File Size" itemid="{E344C026-8575-496D-8CDF-7741891D0786}" fieldid="__Display name" updated="20121114T024443Z">
+    <ja-JP>ファイル サイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/File Type" key="File Type" itemid="{0AF8E472-0EE7-443B-AF60-6E4576D6B56D}" fieldid="Name" updated="20121031T044300Z">
+    <ja-JP>ファイルの種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/File Type" key="File Type" itemid="{0AF8E472-0EE7-443B-AF60-6E4576D6B56D}" fieldid="__Display name" updated="20121031T044300Z">
+    <ja-JP>ファイルの種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Image Dimensions" key="Image Dimensions" itemid="{05EF282C-54DE-49B5-9EF3-0EB3008080C6}" fieldid="Name" updated="20121114T024453Z">
+    <ja-JP>サイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Image Dimensions" key="Image Dimensions" itemid="{05EF282C-54DE-49B5-9EF3-0EB3008080C6}" fieldid="__Display name" updated="20121114T024453Z">
+    <ja-JP>画像のサイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/In Workflow" key="In Workflow" itemid="{EF5A298D-610A-4539-8612-35051B835FB8}" fieldid="Name" updated="20121031T044309Z">
+    <ja-JP>ワークフローの途中</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/In Workflow" key="In Workflow" itemid="{EF5A298D-610A-4539-8612-35051B835FB8}" fieldid="__Display name" updated="20121031T044309Z">
+    <ja-JP>ワークフローの途中</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Language" key="Language" itemid="{BC06ED64-C4A1-4EE2-9835-541E1CC4CCC9}" fieldid="Name" updated="20130117T073211Z">
+    <ja-JP>言語</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Language" key="Language" itemid="{BC06ED64-C4A1-4EE2-9835-541E1CC4CCC9}" fieldid="__Display name" updated="20130117T073211Z">
+    <ja-JP>言語</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Language Template" key="Language Template" itemid="{8355EB8A-44EC-47FC-8FFD-6412C400A397}" fieldid="Name" updated="20150706T115438Z">
+    <ja-JP>言語テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Language Template" key="Language Template" itemid="{8355EB8A-44EC-47FC-8FFD-6412C400A397}" fieldid="__Display name" updated="20150706T115438Z">
+    <ja-JP>言語テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Location" key="Location" itemid="{96ABAC42-67D6-46E0-91A9-8F46FF9EAC25}" fieldid="Name" updated="20121121T043827Z">
+    <ja-JP>地域</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Location" key="Location" itemid="{96ABAC42-67D6-46E0-91A9-8F46FF9EAC25}" fieldid="__Display name" updated="20121121T043827Z">
+    <ja-JP>地域</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Tags" key="Tags" itemid="{56EF9816-35AD-4160-B5DC-ECA7FE7DCFC2}" fieldid="Name" updated="20130209T011635Z">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Tags" key="Tags" itemid="{56EF9816-35AD-4160-B5DC-ECA7FE7DCFC2}" fieldid="DisplayName" updated="20130209T011635Z">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Tags" key="Tags" itemid="{56EF9816-35AD-4160-B5DC-ECA7FE7DCFC2}" fieldid="__Display name" updated="20130209T011635Z">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Template" key="Template" itemid="{154DC6DA-89C4-4704-8CDA-95994D794BEA}" fieldid="Name" updated="20130131T111151Z">
+    <ja-JP>テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Template" key="Template" itemid="{154DC6DA-89C4-4704-8CDA-95994D794BEA}" fieldid="__Display name" updated="20130131T111151Z">
+    <ja-JP>テンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Template Author" key="Template Author" itemid="{5B3E125B-0F02-4EA3-9C3C-8BDC9CE34A3B}" fieldid="Name" updated="20130131T111156Z">
+    <ja-JP>テンプレート作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Template Author" key="Template Author" itemid="{5B3E125B-0F02-4EA3-9C3C-8BDC9CE34A3B}" fieldid="__Display name" updated="20130131T111156Z">
+    <ja-JP>テンプレート作成者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Updated Date" key="Updated Date" itemid="{87A830FB-4E2F-4F76-896B-F20CFA2374DD}" fieldid="Name" updated="20130527T054021Z">
+    <ja-JP>更新日時</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Buckets/Facets/Updated Date" key="Updated Date" itemid="{87A830FB-4E2F-4F76-896B-F20CFA2374DD}" fieldid="__Display name" updated="20130527T054021Z">
+    <ja-JP>更新日時</ja-JP>
+  </phrase>
+</sitecore>

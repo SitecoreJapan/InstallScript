@@ -1,0 +1,671 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account" key="Account" itemid="{F7829E6C-7957-4E54-9644-787873FF8AD6}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order Date Label Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order Date Label Text" updated="20190531T140144Z">
+    <ja-JP>注文日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order ID Label Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文確認番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order Status Label Text" updated="20190531T140144Z">
+    <ja-JP>注文ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order Status Label Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="Order ID Label Text" updated="20190531T140144Z">
+    <ja-JP>注文番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Header" key="Order Header" itemid="{A6D549AD-54C9-4ADF-A5E3-7DBD0864A06C}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>注文ヘッダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Order ID Column Header" updated="20190531T140145Z">
+    <ja-JP>注文番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="No Order Message" updated="20190531T140145Z">
+    <ja-JP>まだ注文していません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Order Status Column Header Tooltip" updated="20190531T140145Z">
+    <ja-JP>注文ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Order Status Column Header" updated="20190531T140145Z">
+    <ja-JP>ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Date Column Header" updated="20190531T140145Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Order ID Column Header Tooltip" updated="20190531T140145Z">
+    <ja-JP>注文番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Date Column Header Tooltip" updated="20190531T140145Z">
+    <ja-JP>注文日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="Order Details Column Header Tooltip" updated="20190531T140145Z">
+    <ja-JP> 注文の詳細を表示するにはクリックしてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order History" key="Order History" itemid="{2C1A4647-F067-46E9-A380-908AEE38AC0E}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>注文履歴</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Quantity Label" updated="20190531T140144Z">
+    <ja-JP>??</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Order Lines Delivery Label" updated="20190531T140144Z">
+    <ja-JP>配送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Unit Price Label" updated="20190531T140144Z">
+    <ja-JP>単価</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Order Lines Bundle Quantity Label" updated="20190531T140144Z">
+    <ja-JP>{0} Bundle of {1} items</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Product Details Label" updated="20190531T140144Z">
+    <ja-JP>製品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Order Lines Header Label" updated="20190531T140144Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Total Label" updated="20190531T140144Z">
+    <ja-JP>??</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Order Lines Discount Label" updated="20190531T140144Z">
+    <ja-JP>割引</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="Order Lines Header Tooltip" updated="20190531T140144Z">
+    <ja-JP>この注文の製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Lines" key="Order Lines" itemid="{73498BFF-9834-4AE9-B365-18B90EFB8A6E}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>注文ライン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Totals" key="Order Totals" itemid="{E1D396F3-4685-435C-A009-10AEEF1AF9F8}" fieldid="Order Total Text" updated="20190531T140145Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Totals" key="Order Totals" itemid="{E1D396F3-4685-435C-A009-10AEEF1AF9F8}" fieldid="Order Total Header Label" updated="20190531T140145Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Order Totals" key="Order Totals" itemid="{E1D396F3-4685-435C-A009-10AEEF1AF9F8}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>注文合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Order ID Column Header Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="View All Orders Tooltip" updated="20190531T140144Z">
+    <ja-JP>すべての注文を表示する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Recent Orders Tooltip" updated="20190531T140144Z">
+    <ja-JP>最近 30 日の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Order Details Column Header Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文の詳細を確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Recent Orders Header Label" updated="20190531T140144Z">
+    <ja-JP>最近の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Date Column Header" updated="20190531T140144Z">
+    <ja-JP>日付</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="View All Orders Text" updated="20190531T140144Z">
+    <ja-JP>すべての注文を確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="No Order Message" updated="20190531T140144Z">
+    <ja-JP>最近 30 日の注文はありません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Date Column Header Tooltip" updated="20190531T140144Z">
+    <ja-JP>注文日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Order ID Column Header" updated="20190531T140144Z">
+    <ja-JP>注文番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Order Status Column Header" updated="20190531T140144Z">
+    <ja-JP>ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="Order Status Column Header Tooltip" updated="20190531T140144Z">
+    <ja-JP>ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Recent Orders" key="Recent Orders" itemid="{53339B9B-C90A-4746-8AAC-362E022854D3}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>最近の注文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile View" key="Profile View" itemid="{B6D6BE61-262C-40A1-8FBC-AEF9D55FF8D8}" fieldid="Profile View Tooltip" updated="20190531T140145Z">
+    <ja-JP>アカウント詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile View" key="Profile View" itemid="{B6D6BE61-262C-40A1-8FBC-AEF9D55FF8D8}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>プロファイル ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address List" key="Address List" itemid="{6AC1A349-D945-4147-AE5C-E7F94756DA81}" fieldid="Address Header" updated="20190531T140145Z">
+    <ja-JP>住所: </ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address List" key="Address List" itemid="{6AC1A349-D945-4147-AE5C-E7F94756DA81}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>アドレス帳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Change Password" key="Change Password" itemid="{FA5A6D6B-2486-43CC-B447-E33FEAA4E0ED}" fieldid="Current Password Hint Text" updated="20190531T140145Z">
+    <ja-JP>現在のパスワード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Change Password" key="Change Password" itemid="{FA5A6D6B-2486-43CC-B447-E33FEAA4E0ED}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="Email Address Invalid Message" updated="20190531T140144Z">
+    <ja-JP>有効なメールアドレスを入力してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="Email Address Max Length Message" updated="20190531T140144Z">
+    <ja-JP>メールアドレスは {0} 文字を超えないでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="Email Address Missing Message" updated="20190531T140144Z">
+    <ja-JP>メールアドレスが必要です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="Email Address Label" updated="20190531T140144Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="Email Address Hint Text" updated="20190531T140144Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Forgot Password" key="Forgot Password" itemid="{04BA1663-FCF8-43D7-B02C-259B06477B9B}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address Editor" key="Address Editor" itemid="{1B3998BB-0CD8-41A5-8F9A-B7C8455DEAD5}" fieldid="City Hint Text" updated="20190531T140145Z">
+    <ja-JP>市町村</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address Editor" key="Address Editor" itemid="{1B3998BB-0CD8-41A5-8F9A-B7C8455DEAD5}" fieldid="Change Address Label" updated="20190531T140145Z">
+    <ja-JP>保存されている住所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address Editor" key="Address Editor" itemid="{1B3998BB-0CD8-41A5-8F9A-B7C8455DEAD5}" fieldid="City Label" updated="20190531T140145Z">
+    <ja-JP>市町村</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Address Editor" key="Address Editor" itemid="{1B3998BB-0CD8-41A5-8F9A-B7C8455DEAD5}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>アドレスの編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Last Name Missing Message" updated="20190531T140144Z">
+    <ja-JP>名は必須です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="First Name Missing Message" updated="20190531T140144Z">
+    <ja-JP>姓は必須です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Repeat Email Address Hint Text" updated="20190531T140144Z">
+    <ja-JP>メールアドレスを再入力</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Emails Do Not Match Message" updated="20190531T140144Z">
+    <ja-JP>メールアドレスと再入力したメールアドレスがマッチしません。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Email Address Missing Message" updated="20190531T140144Z">
+    <ja-JP>メールアドレスが必要です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Email Address Label" updated="20190531T140144Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="First Name Label" updated="20190531T140144Z">
+    <ja-JP>姓</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Last Name Hint Text" updated="20190531T140144Z">
+    <ja-JP>名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Email Address Max Length Message" updated="20190531T140144Z">
+    <ja-JP>メールアドレスは {0} 文字を超えないでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="First Name Hint Text" updated="20190531T140144Z">
+    <ja-JP>姓</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Email Address Invalid Message" updated="20190531T140144Z">
+    <ja-JP>有効なメールアドレスを入力してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Last Name Label" updated="20190531T140144Z">
+    <ja-JP>名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Repeat Email Address Label" updated="20190531T140144Z">
+    <ja-JP>メールアドレスを再入力</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="Email Address Hint Text" updated="20190531T140144Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Profile Editor" key="Profile Editor" itemid="{9793D695-1448-4B41-9B04-44651DE0FC58}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>プロファイルの編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="Email Address Max Length Message" updated="20190531T140145Z">
+    <ja-JP>メールアドレスは {0} 文字を超えないでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="Email Address Invalid Message" updated="20190531T140145Z">
+    <ja-JP>有効なメールアドレスを入力してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="Email Address Label" updated="20190531T140145Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="Email Address Hint Text" updated="20190531T140145Z">
+    <ja-JP>メールアドレスを入力</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="Email Address Missing Message" updated="20190531T140145Z">
+    <ja-JP>メールアドレスが必要です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Login" key="Login" itemid="{9CEF2DD3-F945-45D2-A1AC-E3379B91D0B5}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Password Hint Text" updated="20190531T140145Z">
+    <ja-JP>パスワード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Email Address Max Length Message" updated="20190531T140145Z">
+    <ja-JP>メールアドレスは {0} 文字を超えないでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Email Address Hint Text" updated="20190531T140145Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Email Address Invalid Message" updated="20190531T140145Z">
+    <ja-JP>有効なメールアドレスを入力してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Password Label" updated="20190531T140145Z">
+    <ja-JP>パスワード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Email Address Label" updated="20190531T140145Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="Email Address Missing Message" updated="20190531T140145Z">
+    <ja-JP>メールアドレスが必要です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Account/Registration" key="Registration" itemid="{9966060E-4400-436F-9A2B-59DEE9AF88D8}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart" key="Cart" itemid="{D3CB4D5B-B5A1-441C-A226-B9A6B64B8FF8}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Promotion Codes" key="Promotion Codes" itemid="{8CD9D2A6-E00B-4A5F-8345-778B957A1095}" fieldid="Title Message" updated="20190531T140145Z">
+    <ja-JP>割引コードは持っていますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Promotion Codes" key="Promotion Codes" itemid="{8CD9D2A6-E00B-4A5F-8345-778B957A1095}" fieldid="Promotion Code Input Label" updated="20190531T140145Z">
+    <ja-JP>割引コードの入力</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Promotion Codes" key="Promotion Codes" itemid="{8CD9D2A6-E00B-4A5F-8345-778B957A1095}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>プロモーション コード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="Product Details Label" updated="20190531T140145Z">
+    <ja-JP>商品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="Style Label" updated="20190531T140145Z">
+    <ja-JP>スタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="Size Label" updated="20190531T140145Z">
+    <ja-JP>サイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="Delivery Label" updated="20190531T140145Z">
+    <ja-JP>配送:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="Address Label" updated="20190531T140145Z">
+    <ja-JP>住所:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Lines" key="Shopping Cart Lines" itemid="{D8A3B33A-D48A-44A8-9741-D846BDC551F6}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>カートの行</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Total" key="Shopping Cart Total" itemid="{4C95BC54-FE4E-40ED-B857-09C1D8D1972D}" fieldid="VAT Label" updated="20190531T140145Z">
+    <ja-JP>税金</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Total" key="Shopping Cart Total" itemid="{4C95BC54-FE4E-40ED-B857-09C1D8D1972D}" fieldid="Order Total Header" updated="20190531T140145Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Shopping Cart Total" key="Shopping Cart Total" itemid="{4C95BC54-FE4E-40ED-B857-09C1D8D1972D}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>カートの合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Add To Cart" key="Add To Cart" itemid="{17426A3E-78CA-4F99-813E-E8911E1EABEC}" fieldid="Quantity Label" updated="20190531T140145Z">
+    <ja-JP>数量:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Add To Cart" key="Add To Cart" itemid="{17426A3E-78CA-4F99-813E-E8911E1EABEC}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>カートに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="View Cart Link Tooltip" updated="20190531T140145Z">
+    <ja-JP>カートを参照する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="Total Label" updated="20190531T140145Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="Top Text Label" updated="20190531T140145Z">
+    <ja-JP>カートの商品数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="Checkout Link Text" updated="20190531T140145Z">
+    <ja-JP>チェックアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="View Cart Link Text" updated="20190531T140145Z">
+    <ja-JP>カートの参照</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="Checkout Link Tooltip" updated="20190531T140145Z">
+    <ja-JP>チェックアウトをクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Cart/Minicart" key="Minicart" itemid="{D6625F50-9BBE-4F36-8FC1-4ACACCC3E325}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>ミニ カート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog" key="Catalog" itemid="{464A6510-B173-46D8-A763-D4573F6E8256}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>カタログ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Home Page Promoted Products" key="Home Page Promoted Products" itemid="{876DA1DF-0061-4770-9D8C-69B04A9D8CA4}" fieldid="Show More Products Tooltip" updated="20190531T140145Z">
+    <ja-JP>さらに商品を表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Home Page Promoted Products" key="Home Page Promoted Products" itemid="{876DA1DF-0061-4770-9D8C-69B04A9D8CA4}" fieldid="Relationship Titles" updated="20190531T140145Z">
+    <ja-JP>Related=%E9%96%A2%E9%80%A3%E5%95%86%E5%93%81&amp;Warranty=%E4%BF%9D%E8%A8%BC%E3%81%AE%E6%8F%90%E4%BE%9B&amp;Installation=%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%20%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Home Page Promoted Products" key="Home Page Promoted Products" itemid="{876DA1DF-0061-4770-9D8C-69B04A9D8CA4}" fieldid="Price Starting From Text" updated="20190531T140145Z">
+    <ja-JP>開始日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Home Page Promoted Products" key="Home Page Promoted Products" itemid="{876DA1DF-0061-4770-9D8C-69B04A9D8CA4}" fieldid="Show More Products Text" updated="20190531T140145Z">
+    <ja-JP>さらに表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Home Page Promoted Products" key="Home Page Promoted Products" itemid="{876DA1DF-0061-4770-9D8C-69B04A9D8CA4}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>ホームページ プロモーション製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Bundle" key="Product Bundle" itemid="{8F4104BA-9CCD-47F0-8F53-6FCD694138DD}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>製品組み合わせ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Information" key="Product Information" itemid="{9BE164EF-7142-4497-85CA-FB53F509516C}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>商品情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Information - Gift Card" key="Product Information - Gift Card" itemid="{1BD131DC-F83C-4667-A024-048360F0432F}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>製品情報 - ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Inventory" key="Product Inventory" itemid="{82F5250C-1122-43BD-A5BD-6959376CFFC3}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>商品在庫</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Inventory - Gift Card" key="Product Inventory - Gift Card" itemid="{486B2794-F028-40CF-B33F-01046E16E4F9}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>製品在庫 - ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List" key="Product List" itemid="{16DD5B6B-A8E7-40E4-AD29-A08BDA93F556}" fieldid="Show More Products Tooltip" updated="20190531T140145Z">
+    <ja-JP>もっと製品を見る</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List" key="Product List" itemid="{16DD5B6B-A8E7-40E4-AD29-A08BDA93F556}" fieldid="Show More Products Text" updated="20190531T140145Z">
+    <ja-JP>もっと見る</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List" key="Product List" itemid="{16DD5B6B-A8E7-40E4-AD29-A08BDA93F556}" fieldid="Price Starting From Text" updated="20190531T140145Z">
+    <ja-JP>開始日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List" key="Product List" itemid="{16DD5B6B-A8E7-40E4-AD29-A08BDA93F556}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Items per Page" key="Product List Items per Page" itemid="{1F414CAF-AB86-4423-95C5-64A154539DE3}" fieldid="Results per Page" updated="20190531T140145Z">
+    <ja-JP>ページ表示数:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Items per Page" key="Product List Items per Page" itemid="{1F414CAF-AB86-4423-95C5-64A154539DE3}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>製品リスト ページ表示数</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Page Info" key="Product List Page Info" itemid="{BBE422B1-5B81-4F46-A445-A672967BE9D9}" fieldid="Showing" updated="20190531T140146Z">
+    <ja-JP>表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Page Info" key="Product List Page Info" itemid="{BBE422B1-5B81-4F46-A445-A672967BE9D9}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>製品リスト ページ情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Sorting" key="Product List Sorting" itemid="{F23358E9-C734-4BE2-BE47-A469758A8699}" fieldid="Descending" updated="20190531T140145Z">
+    <ja-JP>(降順)</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Sorting" key="Product List Sorting" itemid="{F23358E9-C734-4BE2-BE47-A469758A8699}" fieldid="Ascending" updated="20190531T140145Z">
+    <ja-JP>(昇順)</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Sorting" key="Product List Sorting" itemid="{F23358E9-C734-4BE2-BE47-A469758A8699}" fieldid="Sort by" updated="20190531T140145Z">
+    <ja-JP>並び替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Sorting" key="Product List Sorting" itemid="{F23358E9-C734-4BE2-BE47-A469758A8699}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>製品リスト 並び替え</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Variants" key="Product Variants" itemid="{E679D02C-76B3-4B37-ADF1-7F8E510FC44E}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>製品種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product Variants - Gift Card" key="Product Variants - Gift Card" itemid="{ECF9E20C-3A58-47C3-8D43-E1114E0EB8CE}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>製品種類 - ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Save Percent Lead" updated="20190531T140145Z">
+    <ja-JP>最大割引</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Show More Products Tooltip" updated="20190531T140145Z">
+    <ja-JP>????????</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Category" updated="20190531T140145Z">
+    <ja-JP>カテゴリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Price Starting From Text" updated="20190531T140145Z">
+    <ja-JP>開始日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Show More Products Text" updated="20190531T140145Z">
+    <ja-JP>?????</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="Product Page Link Text" updated="20190531T140145Z">
+    <ja-JP>詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Promoted Products" key="Promoted Products" itemid="{856116A0-1B54-41CD-B414-8EEEF78ACFC0}" fieldid="__Display name" updated="20190531T140145Z">
+    <ja-JP>関連プロモーション商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Related Products" key="Related Products" itemid="{279239AE-082D-4945-8C58-159CA2A4240E}" fieldid="Show More Products Tooltip" updated="20190531T140146Z">
+    <ja-JP>さらに商品を表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Related Products" key="Related Products" itemid="{279239AE-082D-4945-8C58-159CA2A4240E}" fieldid="Price Starting From Text" updated="20190531T140146Z">
+    <ja-JP>開始日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Related Products" key="Related Products" itemid="{279239AE-082D-4945-8C58-159CA2A4240E}" fieldid="Show More Products Text" updated="20190531T140146Z">
+    <ja-JP>さらに表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Related Products" key="Related Products" itemid="{279239AE-082D-4945-8C58-159CA2A4240E}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>関連商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Catalog/Product List Pager" key="Product List Pager" itemid="{0FEAF12A-5867-48E3-A86B-051C68FE2FCA}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>製品リスト ページャー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout" key="Checkout" itemid="{6C346C07-69D0-4757-90DB-27C28F115157}" fieldid="__Display name" updated="20190531T140127Z">
+    <ja-JP>チェックアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Delivery" key="Delivery" itemid="{45993EA5-0C1D-45FC-A8C0-1480A9451B6A}" fieldid="Variant Text" updated="20190531T140146Z">
+    <ja-JP>種類</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Delivery" key="Delivery" itemid="{45993EA5-0C1D-45FC-A8C0-1480A9451B6A}" fieldid="Name Label" updated="20190531T140146Z">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Delivery" key="Delivery" itemid="{45993EA5-0C1D-45FC-A8C0-1480A9451B6A}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>配送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Order Confirmation" key="Order Confirmation" itemid="{D1295EC1-D072-4D65-AC3A-F5CBAC66F066}" fieldid="Status Label" updated="20190531T140146Z">
+    <ja-JP>注文のステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Order Confirmation" key="Order Confirmation" itemid="{D1295EC1-D072-4D65-AC3A-F5CBAC66F066}" fieldid="Confirmation Number Label" updated="20190531T140146Z">
+    <ja-JP>注文確認番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Order Confirmation" key="Order Confirmation" itemid="{D1295EC1-D072-4D65-AC3A-F5CBAC66F066}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>注文の確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Step Indicator" key="Step Indicator" itemid="{9637DEA0-77C6-4906-BC29-410066FFCCCF}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>ステップの表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Step Indicator" key="Step Indicator" itemid="{9637DEA0-77C6-4906-BC29-410066FFCCCF}" fieldid="Step Name and Labels" updated="20190531T140146Z">
+    <ja-JP>カート=%E3%82%AB%E3%83%BC%E3%83%88&amp;配送=%E9%85%8D%E9%80%81%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3&amp;支払い=%E6%94%AF%E6%89%95%E3%81%84%E3%81%A8%E6%B1%BA%E6%B8%88&amp;確認=%E7%A2%BA%E8%AA%8D</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Checkout" key="Checkout" itemid="{410D76DD-61E1-4A6C-A696-EC44FCD3140D}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>チェックアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Payment Methods Header" updated="20190531T140146Z">
+    <ja-JP>支払い方法</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Discount Label" updated="20190531T140146Z">
+    <ja-JP>割引:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Subtotal Label" updated="20190531T140146Z">
+    <ja-JP>小計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Order Information Header" updated="20190531T140146Z">
+    <ja-JP>注文情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Billing Address Header" updated="20190531T140146Z">
+    <ja-JP>請求住所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Savings Label" updated="20190531T140146Z">
+    <ja-JP>合計割引</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Next Button Label" updated="20190531T140146Z">
+    <ja-JP>注文の確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Variant Label" updated="20190531T140146Z">
+    <ja-JP>種類:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Previous Button Label" updated="20190531T140146Z">
+    <ja-JP>支払いに戻る</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Credit Card Label" updated="20190531T140146Z">
+    <ja-JP>クレジットカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Edit Billing Address Text" updated="20190531T140146Z">
+    <ja-JP>請求住所の編集宇</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Next Button In-Progress Label" updated="20190531T140146Z">
+    <ja-JP>処理中</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Edit Payment Methods Text" updated="20190531T140146Z">
+    <ja-JP>支払い方法の編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Edit Shipping Address Text" updated="20190531T140146Z">
+    <ja-JP>発送先住所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Gift Cards Header" updated="20190531T140146Z">
+    <ja-JP>ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Delivery Label" updated="20190531T140146Z">
+    <ja-JP>配送:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Taxes Label" updated="20190531T140146Z">
+    <ja-JP>税金</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Shipping Address Header" updated="20190531T140146Z">
+    <ja-JP>配送住所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Total Header" updated="20190531T140146Z">
+    <ja-JP>合計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Quantity Header" updated="20190531T140146Z">
+    <ja-JP>数量</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Shipping Cost Label" updated="20190531T140146Z">
+    <ja-JP>配送</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Unit Price Header" updated="20190531T140146Z">
+    <ja-JP>単価</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="Product Details Header" updated="20190531T140146Z">
+    <ja-JP>商品詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Review" key="Review" itemid="{3CC6B88D-912B-49D4-BF25-21231246E773}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>レビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Billing" key="Billing" itemid="{DB1CC358-376A-40D8-8FA8-657B6226720F}" fieldid="Billing Information Header" updated="20190531T140146Z">
+    <ja-JP>支払い情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Billing" key="Billing" itemid="{DB1CC358-376A-40D8-8FA8-657B6226720F}" fieldid="Email Address Label" updated="20190531T140146Z">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Billing" key="Billing" itemid="{DB1CC358-376A-40D8-8FA8-657B6226720F}" fieldid="Confirm Email Address Label" updated="20190531T140146Z">
+    <ja-JP>メール アドレスを確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Billing" key="Billing" itemid="{DB1CC358-376A-40D8-8FA8-657B6226720F}" fieldid="Billing Name Label" updated="20190531T140146Z">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Checkout/Billing" key="Billing" itemid="{DB1CC358-376A-40D8-8FA8-657B6226720F}" fieldid="__Display name" updated="20190531T140146Z">
+    <ja-JP>支払い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists" key="Product Lists" itemid="{E1B36626-2FB2-45A8-AEC5-7E47C7F88C0D}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Fitness" key="Fitness" itemid="{308C80E4-12F9-4B4D-A913-1B56E86D33B2}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Foodie Products" key="Foodie Products" itemid="{E3A70BD6-DADC-43CA-9941-EEC8F3E02B93}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>Your Foodie Recommendations</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Health Page - Fitness Personalized" key="Health Page - Fitness Personalized" itemid="{43243E9E-160C-4930-8698-A9138CDFC95D}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>To Fit Your Fitness Needs</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Mira Laptops" key="Mira Laptops" itemid="{81F43BC0-BE37-4724-9808-36AFD9DF9906}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>Mira ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Mira Laptops" key="Mira Laptops" itemid="{81F43BC0-BE37-4724-9808-36AFD9DF9906}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>Mira ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Named Search" key="Named Search" itemid="{1FB86359-337A-4CF1-B86A-A4842E493FD9}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>名前で検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Named Search" key="Named Search" itemid="{1FB86359-337A-4CF1-B86A-A4842E493FD9}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>名前で検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/On Sale Televisions" key="On Sale Televisions" itemid="{0A28A36B-3136-423F-946B-142135C10565}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>テレビのセール中</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/On Sale Televisions" key="On Sale Televisions" itemid="{0A28A36B-3136-423F-946B-142135C10565}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>テレビのセール中</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Lists/Promoted Products List" key="Promoted Products List" itemid="{9511ED7D-11C4-4F03-A747-0DD94AAD7589}" fieldid="Title" updated="20190531T140144Z">
+    <ja-JP>プロモーション商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="Link" updated="20190531T140204Z">
+    <ja-JP>&lt;link text="How To Videos" linktype="external" url="https://youtu.be/Sn3NHjHI91A" anchor="" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="Title" updated="20190531T140204Z">
+    <ja-JP>How To Video</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="Tags" updated="20190531T140204Z">
+    <ja-JP>Installation,bundles,games</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="Description" updated="20190531T140204Z">
+    <ja-JP>This is a description for the how to video.</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="Thumbnail" updated="20190531T140204Z">
+    <ja-JP>&lt;image mediaid="{828C0990-DC46-43A4-8C65-5BA5002B69DC}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/How To Video" key="How To Video" itemid="{1E40F7D5-58DB-469D-A2F9-6B736C9B5418}" fieldid="ContentType" updated="20190531T140204Z">
+    <ja-JP>YouTube Video</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="Link" updated="20190531T140204Z">
+    <ja-JP>&lt;link linktype="media" target="" id="{C2189939-54B2-492D-BE0E-6B7DFF0DA9B2}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="Title" updated="20190531T140204Z">
+    <ja-JP>Software Installation Document</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="Tags" updated="20190531T140204Z">
+    <ja-JP>Installation,laptops,games</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="Description" updated="20190531T140204Z">
+    <ja-JP>This is a description for the installation document.</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="Thumbnail" updated="20190531T140204Z">
+    <ja-JP>&lt;image mediaid="{69477A58-B83C-4DCE-99BD-23C1F944325F}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Product Related Content/6042183/Installation Guide" key="Installation Guide" itemid="{D131044B-C47E-4C89-9D87-9A38275E653D}" fieldid="ContentType" updated="20190531T140204Z">
+    <ja-JP>PDF</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships" key="Relationships" itemid="{8CCCF6A4-215F-467B-AE12-C8D173A6D24A}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>関連性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Installation Product" key="Installation Product" itemid="{E9C6B322-2728-4127-AE5A-9FD825F22BE9}" fieldid="Relation Title" updated="20190531T140144Z">
+    <ja-JP>設置商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Installation Product" key="Installation Product" itemid="{E9C6B322-2728-4127-AE5A-9FD825F22BE9}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>設置製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Related Product" key="Related Product" itemid="{EA35B8FE-57BB-41C1-9DB0-7E99E13AEF83}" fieldid="Relation Title" updated="20190531T140144Z">
+    <ja-JP>関連商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Related Product" key="Related Product" itemid="{EA35B8FE-57BB-41C1-9DB0-7E99E13AEF83}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>関連製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Training Product" key="Training Product" itemid="{F33AF8AA-24CE-4016-BE4C-BDF2B7DBCA62}" fieldid="Relation Title" updated="20190531T140144Z">
+    <ja-JP>トレーニング商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Training Product" key="Training Product" itemid="{F33AF8AA-24CE-4016-BE4C-BDF2B7DBCA62}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>トレーニング製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Warranty Product" key="Warranty Product" itemid="{A941F33A-DF31-465A-872B-E92415DAF533}" fieldid="Relation Title" updated="20190531T140144Z">
+    <ja-JP>保証商品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Relationships/Warranty Product" key="Warranty Product" itemid="{A941F33A-DF31-465A-872B-E92415DAF533}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>保証製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Search Bar" key="Search Bar" itemid="{32A0CBD6-E199-4D43-8387-4468BF7130B5}" fieldid="__Display name" updated="20190531T140126Z">
+    <ja-JP>検索バー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Search Bar/Search Bar" key="Search Bar" itemid="{BD8047AA-3B4A-4B4C-9FF9-2A64FB9B5243}" fieldid="Search Hint Text" updated="20190531T140144Z">
+    <ja-JP>検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Search Bar/Search Bar" key="Search Bar" itemid="{BD8047AA-3B4A-4B4C-9FF9-2A64FB9B5243}" fieldid="Search Button Tooltip" updated="20190531T140144Z">
+    <ja-JP>クリックして検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Search Bar/Search Bar" key="Search Bar" itemid="{BD8047AA-3B4A-4B4C-9FF9-2A64FB9B5243}" fieldid="__Display name" updated="20190531T140144Z">
+    <ja-JP>検索バー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Habitat SXA Sites/Habitat Home/Data/Commerce/Top Bar Links/Header Top Bar Links" key="Header Top Bar Links" itemid="{91AB9232-89EE-4136-9BC2-DFBAF482C940}" fieldid="Quick Links" updated="20190531T140144Z">
+    <ja-JP>{8422D672-AC58-47F2-8926-46682BAADB73}|{E90FE3F9-0148-4A7F-A1DC-D4E2C31572E5}|{83FA951D-DB46-4C0D-87D4-B65D2DE93B63}|{797CA136-3EDA-4CFF-82C5-49F9A38641A2}</ja-JP>
+  </phrase>
+</sitecore>
