@@ -1,0 +1,98 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Stylelabs/M_AdminOnlyText" key="M_AdminOnlyText" itemid="{DE04FD8C-4206-4F92-8638-92DAAC46AE8A}" fieldid="Text" updated="20181207T103656Z">
+    <ja-JP>アクションは、ログインしている管理者のみが実行できます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_ClientIdRequiredText" key="M_ClientIdRequiredText" itemid="{47066303-122F-4D21-8571-ABC53B2E078E}" fieldid="Text" updated="20181207T104319Z">
+    <ja-JP>Client ID を入力してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_ClientIdText" key="M_ClientIdText" itemid="{54BA6AC5-A83E-4690-A343-36E8DED3D931}" fieldid="Text" updated="20181207T120340Z">
+    <ja-JP>Client ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_InstanceRequiredText" key="M_InstanceRequiredText" itemid="{34EC7A96-7F7D-4C64-9DBF-A3D0025563E7}" fieldid="Text" updated="20181207T104055Z">
+    <ja-JP>M Instance URL を入力してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_InstanceText" key="M_InstanceText" itemid="{B6A3F66A-F999-461C-BF3B-87A83084BBCE}" fieldid="Text" updated="20181207T105702Z">
+    <ja-JP>M Instance</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_SavedText" key="M_SavedText" itemid="{F7E6D610-925E-44D1-A48E-58A8C674E50B}" fieldid="Text" updated="20181207T104320Z">
+    <ja-JP>保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_SaveText" key="M_SaveText" itemid="{3D1BA9C6-331F-498C-9E4F-E62ECC5769D2}" fieldid="Text" updated="20181207T110346Z">
+    <ja-JP>保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_SearchPageRequiredText" key="M_SearchPageRequiredText" itemid="{9752557B-F98D-42D8-A46D-411A0AF749EF}" fieldid="Text" updated="20181207T104120Z">
+    <ja-JP>検索ページ URL を入力してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/M_SearchPageText" key="M_SearchPageText" itemid="{C1945FD6-EBA5-416F-A2DF-AB80C7FA6A21}" fieldid="Text" updated="20181207T104319Z">
+    <ja-JP>検索ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp" key="MApp" itemid="{8E7A1235-03C6-4D33-A4F2-486FF2998691}" fieldid="BrowserTitle" updated="20181220T101028Z">
+    <ja-JP>M コンテンツ検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/DownloadText" key="DownloadText" itemid="{3EE09F20-183F-4330-87F1-280C5D4885C4}" fieldid="Text" updated="20181213T105803Z">
+    <ja-JP>ダウンロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/MContentSearch" key="MContentSearch" itemid="{17B15EEE-E8FA-4F16-BE6C-B0D0E292B8E8}" fieldid="Text" updated="20181130T111421Z">
+    <ja-JP>M コンテンツ検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/MySelections" key="MySelections" itemid="{BFE39BD7-0724-42AF-A8F5-A088DB9D1EE2}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>My セレクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/AddAsset" key="AddAsset" itemid="{578BA16C-1B13-4184-8478-478234B3DF08}" fieldid="Text" updated="20181203T092424Z">
+    <ja-JP>アセットの追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/MySavedSearches" key="MySavedSearches" itemid="{7D383576-5395-4509-AF1B-D53443AD573A}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>保存した My サーチ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/PublicLinks" key="PublicLinks" itemid="{712BB1D1-773B-458E-9286-D2B784B9ECE4}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>公開リンク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/Ok" key="Ok" itemid="{3088627C-FB15-48D0-B6CC-7773615ADC43}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>OK</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/Cancel" key="Cancel" itemid="{00ED5C7F-649A-4A9B-9915-C81487E05E88}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>取消</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/ShowInWorkspace" key="ShowInWorkspace" itemid="{062F42C2-D6B4-472E-9071-277714579550}" fieldid="Text" updated="20181207T153548Z">
+    <ja-JP>M で表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/ShowMoreResults" key="ShowMoreResults" itemid="{7AA79CB4-B647-4C75-BDEB-5C8E90B37C40}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>もっと結果を表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/SearchTheMarketingContentHub" key="SearchTheMarketingContentHub" itemid="{B8B46135-AF11-44E8-8141-04286CAA2197}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>Content Hub で検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/HasPublicLinks" key="HasPublicLinks" itemid="{C3AE64E2-DE9A-4116-8D50-938D8C8748F9}" fieldid="Text" updated="20181130T111422Z">
+    <ja-JP>公開リンクあり</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/HasNoPublicLinks" key="HasNoPublicLinks" itemid="{087F1B3D-F775-4EF0-A3BE-C169C3250F5F}" fieldid="Text" updated="20181130T111451Z">
+    <ja-JP>公開リンク無し</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/NoResults" key="NoResults" itemid="{2526934E-D0D6-4444-A144-2905C8E19752}" fieldid="Text" updated="20181130T114748Z">
+    <ja-JP>結果無し</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/SavedSelection" key="SavedSelection" itemid="{EF995F9B-5E8D-4C14-9E12-01AE42AC1B59}" fieldid="Text" updated="20181130T112814Z">
+    <ja-JP>保存されたセレクション : {0}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/Search" key="Search" itemid="{E3EA402B-5A53-4617-A39F-C72B3FACBDF6}" fieldid="Text" updated="20181130T114238Z">
+    <ja-JP>検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/ShowMoreSavedSearches" key="ShowMoreSavedSearches" itemid="{583377F9-89B6-45AA-A5E3-B86ED9C3A217}" fieldid="Text" updated="20181130T111654Z">
+    <ja-JP>保存された検索をもっと表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/ShowMoreSavedSelections" key="ShowMoreSavedSelections" itemid="{9AFED1E8-73D1-4285-9F3D-219DBF5950F1}" fieldid="Text" updated="20181130T114652Z">
+    <ja-JP>保存されたセレクションをもっと表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/FullText" key="FullText" itemid="{334D52EE-9175-41A2-B625-FF6A8B3D3F02}" fieldid="Text" updated="20181130T114220Z">
+    <ja-JP>フルテキスト : {0}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Stylelabs/MApp/PageSettings/SavedSearch" key="SavedSearch" itemid="{9FDFB90D-0B25-4278-AF48-1A90F0834729}" fieldid="Text" updated="20181130T112750Z">
+    <ja-JP>保存された検索 : {0}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/Simple Types/Image/Menu/Browse M" key="Browse M" itemid="{63F3D3A1-D37C-46C7-90A9-38F01555D3C3}" fieldid="__Display name" updated="20181115T101453Z">
+    <ja-JP>M 参照</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/Simple Types/Image/Menu/Browse M" key="Browse M" itemid="{63F3D3A1-D37C-46C7-90A9-38F01555D3C3}" fieldid="Display name" updated="20181115T101453Z">
+    <ja-JP>M 参照</ja-JP>
+  </phrase>
+</sitecore>
