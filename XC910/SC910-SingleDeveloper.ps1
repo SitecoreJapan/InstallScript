@@ -1,92 +1,88 @@
-#Requires -Version 3
-param(
-    [string]$SiteName = "habitathome.dev.local",	
-	[string]$SiteHostHeaderName = "sxa.storefront.com",	
-	[string]$SqlDbPrefix = "dev.local",
-	[string]$CommerceSearchProvider = "SOLR"
-)
+# The Prefix that will be used on SOLR, Website and Database instances.
+$Prefix = "SC910"
+# The Password for the Sitecore Admin User. This will be regenerated if left on the default.
+$SitecoreAdminPassword = "b"
+# The root folder with the license file and WDP files.
+$SCInstallRoot = "C:\projects\sif"
+# The name for the XConnect service.
+$XConnectSiteName = "$prefix.xconnect"
+# The Sitecore site instance name.
+$SitecoreSiteName = "sxa.storefront.com"
+# Identity Server site name
+$IdentityServerSiteName = "sxastorefront-identityserver"
+# The Path to the license file
+$LicenseFile = "$SCInstallRoot\license.xml"
+# The URL of the Solr Server
+$SolrUrl = "https://localhost:8983/solr"
+# The Folder that Solr has been installed to.
+$SolrRoot = "C:\solr\solr-7.2.1"
+# The Name of the Solr Service.
+$SolrService = "Solr-7.2.1"
+# The DNS name or IP of the SQL Instance.
+$SqlServer = "localhost"
+# A SQL user with sysadmin privileges.
+$SqlAdminUser = "sa"
+# The password for $SQLAdminUser.
+$SqlAdminPassword = "Pleasechang3p@ssword"
+# The path to the XConnect Package to Deploy.
+$XConnectPackage = (Get-ChildItem "$SCInstallRoot\Sitecore 9* rev. * (OnPrem)_xp0xconnect.scwdp.zip").FullName
+# The path to the Sitecore Package to Deploy.
+$SitecorePackage = (Get-ChildItem "$SCInstallRoot\Sitecore 9* rev. * (OnPrem)_single.scwdp.zip").FullName
+# The path to the Identity Server Package to Deploy.
+$IdentityServerPackage = (Get-ChildItem "$SCInstallRoot\Sitecore.IdentityServer * rev. * (OnPrem)_identityserver.scwdp.zip").FullName
+# The Identity Server password recovery URL, this should be the URL of the CM Instance
+$PasswordRecoveryUrl = "http://$SitecoreSiteName"
+# The URL of the Identity Server
+$SitecoreIdentityAuthority = "https://$IdentityServerSiteName"
+# The URL of the XconnectService
+$XConnectCollectionService = "https://$XConnectSiteName"
+# The random string key used for establishing connection with IdentityService. This will be regenerated if left on the default.
+$ClientSecret = "SIF-Default"
+# Pipe-separated list of instances (URIs) that are allowed to login via Sitecore Identity.
+$AllowedCorsOrigins = "http://$SitecoreSiteName"
 
-$global:DEPLOYMENT_DIRECTORY=Split-Path $MyInvocation.MyCommand.Path
-$modulesPath=( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "Modules" )
-if ($env:PSModulePath -notlike "*$modulesPath*")
-{
-    $p = $env:PSModulePath + ";" + $modulesPath
-    [Environment]::SetEnvironmentVariable("PSModulePath",$p)
+
+# Install XP0 via combined partials file.
+$singleDeveloperParams = @{
+    Path = "$SCInstallRoot\XP0-SingleDeveloper.json"
+    SqlServer = $SqlServer
+    SqlAdminUser = $SqlAdminUser
+    SqlAdminPassword = $SqlAdminPassword
+    SitecoreAdminPassword = $SitecoreAdminPassword
+    SolrUrl = $SolrUrl
+    SolrRoot = $SolrRoot
+    SolrService = $SolrService
+    Prefix = $Prefix
+    XConnectCertificateName = $XConnectSiteName
+    IdentityServerCertificateName = $IdentityServerSiteName
+    IdentityServerSiteName = $IdentityServerSiteName
+    LicenseFile = $LicenseFile
+    XConnectPackage = $XConnectPackage
+    SitecorePackage = $SitecorePackage
+    IdentityServerPackage = $IdentityServerPackage
+    XConnectSiteName = $XConnectSiteName
+    SitecoreSitename = $SitecoreSiteName
+    PasswordRecoveryUrl = $PasswordRecoveryUrl
+    SitecoreIdentityAuthority = $SitecoreIdentityAuthority
+    XConnectCollectionService = $XConnectCollectionService
+    ClientSecret = $ClientSecret
+    AllowedCorsOrigins = $AllowedCorsOrigins
 }
 
+Push-Location $SCInstallRoot
 
-$params = @{
-        Path = Resolve-Path '.\Configuration\Commerce\Master_SingleServer.json'	
-		SiteName = $SiteName
-		SiteHostHeaderName = $SiteHostHeaderName 
-		InstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\$SiteName"
-		XConnectInstallDir = "$($Env:SYSTEMDRIVE)\inetpub\wwwroot\habitathome_xconnect.dev.local"
-		CertificateName = $SiteName
-		CommerceServicesDbServer = $($Env:COMPUTERNAME)    #OR "SQLServerName\SQLInstanceName"
-		CommerceServicesDbName = "SitecoreCommerce9_SharedEnvironments"
-		CommerceServicesGlobalDbName = "SitecoreCommerce9_Global"		
-        SitecoreDbServer = $($Env:COMPUTERNAME)            #OR "SQLServerName\SQLInstanceName"
-		SitecoreCoreDbName = "$($SqlDbPrefix)_Core"
-		SitecoreUsername = "sitecore\admin"
-		SitecoreUserPassword = "b"
-		CommerceSearchProvider = $CommerceSearchProvider
-		SolrUrl = "https://localhost:8983/solr"
-		SolrRoot = "c:\\solr\\solr-6.6.2"
-		SolrService = "Solr-6.6.2"
-		SolrSchemas = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SolrSchemas" )
-		SearchIndexPrefix = ""
-		AzureSearchServiceName = ""
-		AzureSearchAdminKey = ""
-		AzureSearchQueryKey = ""
-		CommerceEngineDacPac = Resolve-Path -Path "..\assets\Sitecore.Commerce.Engine.DB.dacpac"	   
-		CommerceOpsServicesPort = "5015"
-		CommerceShopsServicesPort = "5005"
-		CommerceAuthoringServicesPort = "5000"
-		CommerceMinionsServicesPort = "5010"		
-		SitecoreCommerceEngineZipPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.2*.zip"		
-		SitecoreBizFxServicesContentPath = Resolve-Path -Path "..\Sitecore.BizFX.1*"		
-		SitecoreIdentityServerZipPath = Resolve-Path -Path "..\Sitecore.IdentityServer.1.*.zip"
-		CommerceEngineCertificatePath = Resolve-Path -Path "..\assets\storefront.engine.cer"		
-        SiteUtilitiesSrc = ( Join-Path -Path $DEPLOYMENT_DIRECTORY -ChildPath "SiteUtilityPages" )	
-        HabitatImagesModuleFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Habitat.Images-*.zip"	
-        AdvImagesModuleFullPath = Resolve-Path -Path "..\Adventure Works Images.zip"	
-		CommerceConnectModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Connect*.zip"	
-		CommercexProfilesModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceProfile Core *.zip"	
-		CommercexAnalyticsModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce ExperienceAnalytics Core *.zip"	
-		CommerceMAModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation Core *.zip"	
-		CommerceMAForAutomationEngineModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Marketing Automation for AutomationEngine *.zip"	
-        CEConnectPackageFullPath = Resolve-Path -Path "..\Sitecore.Commerce.Engine.Connect*.update"
-        PowerShellExtensionsModuleFullPath = Resolve-Path -Path "..\assets\Sitecore PowerShell Extensions*.zip"
-        SXAModuleFullPath = Resolve-Path -Path "..\assets\Sitecore Experience Accelerator*.zip"
-        SXACommerceModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator 1.*.zip"
-		SXAStorefrontModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront 1.*.zip"
-        SXAStorefrontThemeModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Storefront Themes*.zip"
-		SXAStorefrontCatalogModuleFullPath = Resolve-Path -Path "..\Sitecore Commerce Experience Accelerator Habitat Catalog*.zip"
-		MergeToolFullPath = Resolve-Path -Path "..\MSBuild.Microsoft.VisualStudio.Web.targets.14.0.0.3\tools\VSToolsPath\Web\Microsoft.Web.XmlTransform.dll"
-		UserAccount = @{
-			Domain = $Env:COMPUTERNAME
-			UserName = 'CSFndRuntimeUser'
-			Password = 'Pu8azaCr'
-		}
-		BraintreeAccount = @{
-			MerchantId = 'c36w95m65f9t2zps'
-			PublicKey = 'ccgwnp7whv8pc6yt'
-			PrivateKey = '1149582924a491cdc4fc82feab85e3cb'
-		}
-		SitecoreIdentityServerName = "SitecoreIdentityServer"		
-    }
+Install-SitecoreConfiguration @singleDeveloperParams *>&1 | Tee-Object XP0-SingleDeveloper.log
 
-if ($CommerceSearchProvider -eq "SOLR") {
-	Install-SitecoreConfiguration @params
-}
-elseif ($CommerceSearchProvider -eq "AZURE"){
-	Install-SitecoreConfiguration @params -Skip InstallSolrCores
-}
+# Uncomment the below line and comment out the above if you want to remove the XP0 SingleDeveloper Config
+#Uninstall-SitecoreConfiguration @singleDeveloperParams *>&1 | Tee-Object XP0-SingleDeveloper-Uninstall.log
+
+Pop-Location
+
 # SIG # Begin signature block
 # MIIXwQYJKoZIhvcNAQcCoIIXsjCCF64CAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQU2A4zbikI1U2u89We6OodK+3R
-# VQ+gghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUScLKS+boG7s0kPExqeNY6Fzk
+# 3EigghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
 # AQUFADCBizELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIG
 # A1UEBxMLRHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhh
 # d3RlIENlcnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcg
@@ -192,22 +188,22 @@ elseif ($CommerceSearchProvider -eq "AZURE"){
 # bTExMC8GA1UEAxMoRGlnaUNlcnQgU0hBMiBBc3N1cmVkIElEIENvZGUgU2lnbmlu
 # ZyBDQQIQB6Zc7QsNL9EyTYMCYZHvVTAJBgUrDgMCGgUAoHAwEAYKKwYBBAGCNwIB
 # DDECMAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO
-# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFFhL5ZmCLq9hUiVOrIhi7tNi
-# NKdiMA0GCSqGSIb3DQEBAQUABIIBAH/rxB1j9CVdi/h3Z5ID/mjQbwHTOfchRIjf
-# Zbar9Os6ApXTt1BucBvWvjnuhBitrglg3Ye34VKfcrCwpwDMB9yYefVqhcQt6nmN
-# j6jZ/jAbpQ1NUfacVp4j0vSJzdYJx6hBSvkCDOsYI8dE41dY9KG1qGO6ENeph7hN
-# FlenP5jAvSgI7cP9SwSLhXqAYkafISStBoEDVDoImcebsqzdCLrI2vEfrJykekZJ
-# bzLYTIdSBA239FLPLgfSi8JMxmR91buc9FxX5KuSBsBQ5WVAn7Zv35MIJ5YJ9/hC
-# nfH7iYcDvbuK7UKW+qJ8/WeuXRtTQeYn7Rkr3pgED1vC0DcbBxOhggILMIICBwYJ
+# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFBbZmYns3wAqXpyM6zahBmwG
+# RnJCMA0GCSqGSIb3DQEBAQUABIIBAFqYc0n7BW8bMITJpldggZepJh2J2nMFbyIv
+# fwW0cbEZZuXnrcdNVDTfZSN4C7N0RodSthbbE4iU55ZMwW4FUfdCVgDrcM5AoFe1
+# ROKYhvtYJ6iEzN902gGEISv3vS17gw5VtpVmRgLkeFWB49HXTGN549LedK+tBq2K
+# KHhQhX1LpYtxv2zeTo6p1+nGVjcq7RKX6W1s7iSuwWOBsoonDYuVa+/3LFG+jEDD
+# OtYCXvo0z+3aPvtJf7mSBBRKbdImYqOzd6vyPthCIRPn8OpGM1YCfipW34+8Npeq
+# Q+nLVSXNo+IuhncTLdx4/FeFNwbOTDTfJFcvesVcpO+XHNvjTOOhggILMIICBwYJ
 # KoZIhvcNAQkGMYIB+DCCAfQCAQEwcjBeMQswCQYDVQQGEwJVUzEdMBsGA1UEChMU
 # U3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRpbWUgU3Rh
 # bXBpbmcgU2VydmljZXMgQ0EgLSBHMgIQDs/0OMj+vzVuBNhqmBsaUDAJBgUrDgMC
 # GgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
-# MTgwNjE0MTc1MTQwWjAjBgkqhkiG9w0BCQQxFgQU4dRV4mrmlmo23fz23U6f5lkM
-# xjAwDQYJKoZIhvcNAQEBBQAEggEAe2TShd9FJInWxz/vZmn/mBW8zhOXCHPGgSz8
-# pJr3BG0aBJ1wOoglnqwS9fEdHjs/RLHdXEKVBo5KSaPWeC2fYGLR43sTCcqwNTsX
-# LEAfg9DrbiJLcB49od00oge74MXvfCb6eqBPVbCPTcgjlt+UyJ3ldRo/gUVH5Mly
-# GRVlrdRXxGIvTrCxJdQ4u8zMhHSie4R2aWzv6L0TF63uIIFoVxpnzQNGKNftn3jt
-# 2UU34gYl4I8e1vPpAoFfPLHWMi/qr7mqjg4LVQnNMpRyJuzGmoBXMFmBnLgkPecu
-# tjnbFxotTOEywlOHvIg9F4JRRQ7TSya7+I56fWz7M2b7vWx8hg==
+# MTkwMzIxMTQwNjQzWjAjBgkqhkiG9w0BCQQxFgQUhjBEJ3GAEFm272HQco0GuWUH
+# 3l8wDQYJKoZIhvcNAQEBBQAEggEAO4BBRwat/GZ31DaXAOP+/YVdHuwdXhszcdLn
+# nxAiC24pm3DoHuSIr8pRThzuDgcld6XUF6UDOPlkVBNWMy5FgvlltXts2lJsrvg7
+# 8aBkGUCYvDFGZeWvhgEua/d1zQVMWscQWRdcxy/7bZ19jIr0gV/5zZCAUXBSJZxC
+# j6mcEP0HypUNCYlWAVImC+xwsikiSbjFRcKBxQCHueB5akLkjnaBQtElow4MymH5
+# Wx3ZZZuvUL705HGGxQ1iocNLzLSS9gs7BKXm9f0U7v/lXgW7M3r72CFEhcCH+soa
+# 3Qg3sHqSKEdG0xf1sqRwRE7k6hdkcpF0csEN3EZ35pEj66hehw==
 # SIG # End signature block

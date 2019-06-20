@@ -1,0 +1,83 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Cache" key="Commerce Cache" itemid="{DCDD82CA-7D9F-47CF-A00E-974D52348E8A}" fieldid="Header" updated="20140621T071200Z">
+    <ja-JP>キャッシュ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Cache" key="Commerce Cache" itemid="{DCDD82CA-7D9F-47CF-A00E-974D52348E8A}" fieldid="__Display name" updated="20140621T071200Z">
+    <ja-JP>Commerce キャッシュ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Cache/Refresh Commerce Cache" key="Refresh Commerce Cache" itemid="{A2934106-7016-45B8-8044-57DB50E1DF9E}" fieldid="Header" updated="20171212T204417Z">
+    <ja-JP>Commerce キャッシュの更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Cache/Refresh Commerce Cache" key="Refresh Commerce Cache" itemid="{A2934106-7016-45B8-8044-57DB50E1DF9E}" fieldid="__Display name" updated="20171212T204417Z">
+    <ja-JP>Commerce キャッシュの更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Commerce" key="Commerce" itemid="{B1D01A70-E9BB-43A9-BC5E-B34442E5AB85}" fieldid="Title" updated="20171023T185148Z">
+    <ja-JP>Commerce</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Commerce/BusinessTools" key="BusinessTools" itemid="{C19BA3CD-6290-4C68-9A5D-2008A16FDBEF}" fieldid="Text" updated="20171228T144303Z">
+    <ja-JP>ビジネス ツール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/CommerceApps/Commerce Editor" key="Commerce Editor" itemid="{E2733D8D-2B9F-4870-871B-48D12ECB1D20}" fieldid="Display name" updated="20131119T072522Z">
+    <ja-JP>Commerce Editor</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization" key="Product Synchronization" itemid="{80B181AF-8E8E-4433-B9F7-B17B697A5D33}" fieldid="__Display name" updated="20130923T051446Z">
+    <ja-JP>製品情報の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization" key="Product Synchronization" itemid="{023C8989-4B5B-4DE6-BA47-9989A0504D63}" fieldid="Header" updated="20130923T051942Z">
+    <ja-JP>製品情報の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization" key="Product Synchronization" itemid="{023C8989-4B5B-4DE6-BA47-9989A0504D63}" fieldid="__Display name" updated="20130923T051942Z">
+    <ja-JP>製品情報の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Language" key="Language" itemid="{E432DFD5-6D2E-42B4-80C7-7D25207D4B35}" fieldid="__Display name" updated="20131009T035721Z">
+    <ja-JP>言語</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization" key="Product Synchronization" itemid="{DAF3010B-604D-49B7-A8CC-1676E568FCE7}" fieldid="Header" updated="20130923T051935Z">
+    <ja-JP>製品情報の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization" key="Product Synchronization" itemid="{DAF3010B-604D-49B7-A8CC-1676E568FCE7}" fieldid="__Display name" updated="20130923T051935Z">
+    <ja-JP>製品情報の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize All Products" key="Synchronize All Products" itemid="{44D5D917-DDC8-4910-9FBF-E64132E29CB6}" fieldid="Header" updated="20130923T080133Z">
+    <ja-JP>すべての製品を同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize All Products" key="Synchronize All Products" itemid="{44D5D917-DDC8-4910-9FBF-E64132E29CB6}" fieldid="__Display name" updated="20130923T080133Z">
+    <ja-JP>すべての製品を同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize Artifacts" key="Synchronize Artifacts" itemid="{CE5360ED-D5D8-4840-B77E-68E73459FF34}" fieldid="Header" updated="20130923T084831Z">
+    <ja-JP>対象製品の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize Artifacts" key="Synchronize Artifacts" itemid="{CE5360ED-D5D8-4840-B77E-68E73459FF34}" fieldid="__Display name" updated="20130923T084831Z">
+    <ja-JP>対象製品の同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize Current Product" key="Synchronize Current Product" itemid="{4CE673B8-FE2C-4231-92BF-361BCEFCE4F2}" fieldid="Header" updated="20130924T064116Z">
+    <ja-JP>現在の製品を同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Contextual Ribbons/Product Synchronization/Product Synchronization/Product Synchronization/Synchronize Current Product" key="Synchronize Current Product" itemid="{4CE673B8-FE2C-4231-92BF-361BCEFCE4F2}" fieldid="__Display name" updated="20130924T064116Z">
+    <ja-JP>現在の製品を同期</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog" key="Commerce Catalog" itemid="{7E4D4D09-9FC3-431C-B02E-394BD55CCBCB}" fieldid="Header" updated="20140331T050504Z">
+    <ja-JP>挿入</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog" key="Commerce Catalog" itemid="{7E4D4D09-9FC3-431C-B02E-394BD55CCBCB}" fieldid="__Display name" updated="20140331T050504Z">
+    <ja-JP>Commerce カタログ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Delete Data Templates" key="Delete Data Templates" itemid="{E7695D06-E05E-4506-A928-852D5F6EEBE7}" fieldid="Tooltip" updated="20140416T060551Z">
+    <ja-JP>フォルダーを追加します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Delete Data Templates" key="Delete Data Templates" itemid="{E7695D06-E05E-4506-A928-852D5F6EEBE7}" fieldid="Header" updated="20140416T060551Z">
+    <ja-JP>データテンプレートの削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Delete Data Templates" key="Delete Data Templates" itemid="{E7695D06-E05E-4506-A928-852D5F6EEBE7}" fieldid="__Display name" updated="20140416T060551Z">
+    <ja-JP>データテンプレートの削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Folder" key="Folder" itemid="{A5789AA6-03B4-473D-A0D9-05A150B18E62}" fieldid="Tooltip" updated="20140416T060835Z">
+    <ja-JP>フォルダーを追加します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Folder" key="Folder" itemid="{A5789AA6-03B4-473D-A0D9-05A150B18E62}" fieldid="Header" updated="20140416T060835Z">
+    <ja-JP>データテンプレートの更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Commerce Catalog/Folder" key="Folder" itemid="{A5789AA6-03B4-473D-A0D9-05A150B18E62}" fieldid="__Display name" updated="20140416T060835Z">
+    <ja-JP>データテンプレートの更新</ja-JP>
+  </phrase>
+</sitecore>
