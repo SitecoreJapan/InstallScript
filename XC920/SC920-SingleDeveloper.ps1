@@ -1,5 +1,5 @@
 # The Prefix that will be used on SOLR, Website and Database instances.
-$Prefix = "SC910"
+$Prefix = "xp0"
 # The Password for the Sitecore Admin User. This will be regenerated if left on the default.
 $SitecoreAdminPassword = "b"
 # The root folder with the license file and WDP files.
@@ -9,15 +9,15 @@ $XConnectSiteName = "$prefix.xconnect"
 # The Sitecore site instance name.
 $SitecoreSiteName = "sxa.storefront.com"
 # Identity Server site name
-$IdentityServerSiteName = "sxastorefront-identityserver"
+$IdentityServerSiteName = "$Prefix.IdentityServer"
 # The Path to the license file
 $LicenseFile = "$SCInstallRoot\license.xml"
 # The URL of the Solr Server
 $SolrUrl = "https://localhost:8983/solr"
 # The Folder that Solr has been installed to.
-$SolrRoot = "C:\solr\solr-7.2.1"
+$SolrRoot = "C:\solr\solr-7.5.0"
 # The Name of the Solr Service.
-$SolrService = "Solr-7.2.1"
+$SolrService = "Solr-7.5.0"
 # The DNS name or IP of the SQL Instance.
 $SqlServer = "localhost"
 # A SQL user with sysadmin privileges.
@@ -81,8 +81,8 @@ Pop-Location
 # SIG # Begin signature block
 # MIIXwQYJKoZIhvcNAQcCoIIXsjCCF64CAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
-# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUScLKS+boG7s0kPExqeNY6Fzk
-# 3EigghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
+# AgEAAgEAAgEAAgEAAgEAMCEwCQYFKw4DAhoFAAQUKbtvVX/6a2FWZ6fkaomj2ibr
+# +SGgghL8MIID7jCCA1egAwIBAgIQfpPr+3zGTlnqS5p31Ab8OzANBgkqhkiG9w0B
 # AQUFADCBizELMAkGA1UEBhMCWkExFTATBgNVBAgTDFdlc3Rlcm4gQ2FwZTEUMBIG
 # A1UEBxMLRHVyYmFudmlsbGUxDzANBgNVBAoTBlRoYXd0ZTEdMBsGA1UECxMUVGhh
 # d3RlIENlcnRpZmljYXRpb24xHzAdBgNVBAMTFlRoYXd0ZSBUaW1lc3RhbXBpbmcg
@@ -188,22 +188,22 @@ Pop-Location
 # bTExMC8GA1UEAxMoRGlnaUNlcnQgU0hBMiBBc3N1cmVkIElEIENvZGUgU2lnbmlu
 # ZyBDQQIQB6Zc7QsNL9EyTYMCYZHvVTAJBgUrDgMCGgUAoHAwEAYKKwYBBAGCNwIB
 # DDECMAAwGQYJKoZIhvcNAQkDMQwGCisGAQQBgjcCAQQwHAYKKwYBBAGCNwIBCzEO
-# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFBbZmYns3wAqXpyM6zahBmwG
-# RnJCMA0GCSqGSIb3DQEBAQUABIIBAFqYc0n7BW8bMITJpldggZepJh2J2nMFbyIv
-# fwW0cbEZZuXnrcdNVDTfZSN4C7N0RodSthbbE4iU55ZMwW4FUfdCVgDrcM5AoFe1
-# ROKYhvtYJ6iEzN902gGEISv3vS17gw5VtpVmRgLkeFWB49HXTGN549LedK+tBq2K
-# KHhQhX1LpYtxv2zeTo6p1+nGVjcq7RKX6W1s7iSuwWOBsoonDYuVa+/3LFG+jEDD
-# OtYCXvo0z+3aPvtJf7mSBBRKbdImYqOzd6vyPthCIRPn8OpGM1YCfipW34+8Npeq
-# Q+nLVSXNo+IuhncTLdx4/FeFNwbOTDTfJFcvesVcpO+XHNvjTOOhggILMIICBwYJ
+# MAwGCisGAQQBgjcCARUwIwYJKoZIhvcNAQkEMRYEFPraalGxob+kI3jtsyfARjEu
+# A2v1MA0GCSqGSIb3DQEBAQUABIIBAJNqmoQ651KBrzGVp7nq5XwPEGtD8ToZRu1c
+# qiZMREXnms+ucGTImIeBzseXStbX6cfRNVWsmazU2zgucK5BtFSKotqWOZAoj36u
+# qjRdyng8QMbsSrkOWdqKfY2fFM1ERPy02QJCW+4BgHBs4HcQDVIi2saF9Ulp7tng
+# 7IpNfUNo2VigXd2JgyxWFg3hQvBzRptMBGu2d2ZoqQ2SJasus2nshs2PkyLRIb60
+# zH7PJ0wpmekwsyq9uE4WE2UdkFJEo1CltKftvZcysND+TvjrUZkz0Hka825jtJO8
+# IhE55OZkT24+GY13ny28KhrJ2yjiXh+KWJReDc2D8rTh67oQgaGhggILMIICBwYJ
 # KoZIhvcNAQkGMYIB+DCCAfQCAQEwcjBeMQswCQYDVQQGEwJVUzEdMBsGA1UEChMU
 # U3ltYW50ZWMgQ29ycG9yYXRpb24xMDAuBgNVBAMTJ1N5bWFudGVjIFRpbWUgU3Rh
 # bXBpbmcgU2VydmljZXMgQ0EgLSBHMgIQDs/0OMj+vzVuBNhqmBsaUDAJBgUrDgMC
 # GgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcN
-# MTkwMzIxMTQwNjQzWjAjBgkqhkiG9w0BCQQxFgQUhjBEJ3GAEFm272HQco0GuWUH
-# 3l8wDQYJKoZIhvcNAQEBBQAEggEAO4BBRwat/GZ31DaXAOP+/YVdHuwdXhszcdLn
-# nxAiC24pm3DoHuSIr8pRThzuDgcld6XUF6UDOPlkVBNWMy5FgvlltXts2lJsrvg7
-# 8aBkGUCYvDFGZeWvhgEua/d1zQVMWscQWRdcxy/7bZ19jIr0gV/5zZCAUXBSJZxC
-# j6mcEP0HypUNCYlWAVImC+xwsikiSbjFRcKBxQCHueB5akLkjnaBQtElow4MymH5
-# Wx3ZZZuvUL705HGGxQ1iocNLzLSS9gs7BKXm9f0U7v/lXgW7M3r72CFEhcCH+soa
-# 3Qg3sHqSKEdG0xf1sqRwRE7k6hdkcpF0csEN3EZ35pEj66hehw==
+# MTkwNDI1MTMxODMzWjAjBgkqhkiG9w0BCQQxFgQUaggsacAS/6ky/kNvgi4P7zY4
+# PhcwDQYJKoZIhvcNAQEBBQAEggEAk0nXhl4ZCzcxDKjH8F6RX5q0bPg5+09pqJTw
+# +T/6AND7j8c7EYnoPd8VTgi88dDsCQE0q6dg3VS5Yb96rZzMFldxTVd/HKxzPLea
+# OSbZLEoA14wdqQcJ5f0Qv6BJP75l9eULVo1dJXk63FFCpYtkO5Wv1llnfX2VGBT+
+# 6yUKkmUyE9OlxtrO/I6yL81HlyE/oUMY4NFJdjJBnZqvBLXnZK30cpsP3gwVU9BO
+# AHdazX0rKUC9HCiggWzQJUS1t31ZjS35w7/yX2Arpjr2n2VdLiwCs7RO3s1jgROh
+# Cc/6xYgtEZR80o3xH53a0mABEt9wz4PROE9voSuc+vvv07WWOA==
 # SIG # End signature block
