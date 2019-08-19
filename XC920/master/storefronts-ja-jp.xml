@@ -1,0 +1,38 @@
+﻿<sitecore>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront" key="CommerceEngineDefaultStorefront" itemid="{E4CACBBC-B342-4D77-9346-B9E34B4EF6DA}" fieldid="Title" updated="20171124T143755Z">
+    <ja-JP>Commerce エンジン デフォルト Storefront</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront" key="CommerceEngineDefaultStorefront" itemid="{E4CACBBC-B342-4D77-9346-B9E34B4EF6DA}" fieldid="__Display name" updated="20171124T143755Z">
+    <ja-JP>Commerce エンジン デフォルト Storefront</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Country-Region configuration" key="Country-Region configuration" itemid="{FB6E3E1B-2EB6-4CC8-8BFC-A33C89D415E4}" fieldid="__Display name" updated="20190601T111004Z">
+    <ja-JP>国-地域 設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Currencies Display Adjustments" key="Currencies Display Adjustments" itemid="{22A77CA6-FBBE-4ED4-878B-04271DB4BBC4}" fieldid="__Display name" updated="20171124T134620Z">
+    <ja-JP>通貨表示調整</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Currencies Display Adjustments/JPY" key="JPY" itemid="{3E44CF03-D72F-4678-8179-4BB867E6FD17}" fieldid="Currency Description" updated="20190601T111338Z">
+    <ja-JP>円</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Currencies Display Adjustments/USD" key="USD" itemid="{660CC841-A131-4E0A-8B85-AC7A7F6E50DB}" fieldid="Currency Description" updated="20171123T163540Z">
+    <ja-JP>USドル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Currency Configuration" key="Currency Configuration" itemid="{89BD1555-0339-4B57-836D-2A45F0FC5580}" fieldid="__Display name" updated="20171124T134700Z">
+    <ja-JP>通貨設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Fulfillment Configuration" key="Fulfillment Configuration" itemid="{8508BF4A-772D-4008-B028-E1AF894EFFF9}" fieldid="__Display name" updated="20171124T134714Z">
+    <ja-JP>フルフィルメント設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Language Configuration" key="Language Configuration" itemid="{55713CE7-76F8-4804-AB5B-FE5C787BD1EF}" fieldid="__Display name" updated="20171124T134726Z">
+    <ja-JP>言語設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/CommerceEngineDefaultStorefront/Payment Configuration" key="Payment Configuration" itemid="{BD07AFCF-6DBD-4DD3-84EB-152AB2EFF6F7}" fieldid="__Display name" updated="20171124T134815Z">
+    <ja-JP>支払い設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/HabitatHome" key="HabitatHome" itemid="{2F395077-DA43-4935-B85C-29AE53A62F50}" fieldid="Title" updated="20190531T140107Z">
+    <ja-JP>Habitat ホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Commerce/Commerce Control Panel/Storefront Settings/Storefronts/HabitatHome/Currencies Display Adjustments/JPY" key="JPY" itemid="{50359FE7-C785-4129-AEE4-41FAFAC3E889}" fieldid="Currency Description" updated="20190601T111525Z">
+    <ja-JP>円</ja-JP>
+  </phrase>
+</sitecore>
