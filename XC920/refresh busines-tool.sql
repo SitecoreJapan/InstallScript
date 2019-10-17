@@ -1,1 +1,1 @@
-delete FROM [SitecoreCommerce9_SharedEnvironments].[dbo].[ContentEntities]
+delete FROM [sitecore_commerce_storage].[ContentEntities]
