@@ -174,4 +174,4 @@ PS C:\projects\Sitecore.HabitatHome.Platform>
 ```
 
 ---
-[目次に戻る](./readme.md)
+[目次に戻る](./)

@@ -33,15 +33,15 @@ GO
 ## Solr のインストール
 
 Solr のインストール前に以下のモジュールをインストールします。
-* [Java 64bit](https://www.java.com/ja/download/manual.jsp)
+* [OpenJDK 64bit](https://openjdk.java.net/)
 * [Win64 OpenSSL v1.1.1a](http://slproweb.com/products/Win32OpenSSL.html)
 
 Solr のインストールに関しては PowerShell を利用してサービス化することができます。
 
 * 作業フォルダ : `c:\projects\solr`
-* コピーするファイル： [install-solr-7.2.1-java-1.8.0-191.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
+* コピーするファイル： [install-solr-7.5.0.ps1](https://github.com/SitecoreJapan/InstallScript/tree/master/solr/)
 
-スクリプトを上記のフォルダにコピーをして、実行することで Solr 7.2.1 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
+スクリプトを上記のフォルダにコピーをして、実行することで Solr 7.5.0 のサービス設定が完了します。なお、keytool.exe でエラーが出る場合は、Java の Home パスが設定されていない可能性があります。環境設定で Path に追加することでエラーを回避できます。
 
 ## Sitecore Installation Framework のインストール
 
@@ -56,70 +56,67 @@ Install-Module SitecoreInstallFramework
 ```
 以下コマンドでインストールができていることを確認します
 ```
-PS C:\Users\Administrator> Get-Module -ListAvailable Sitecore*
+PS C:\Users\Sitecore> Get-Module -ListAvailable Sitecore*
 
 
-    ディレクトリ: C:\Program Files\WindowsPowerShell\Modules
+    Directory: C:\Program Files\WindowsPowerShell\Modules
 
 
 ModuleType Version    Name                                ExportedCommands
 ---------- -------    ----                                ----------------
-Script     2.0.0      SitecoreInstallFramework            {Export-WebDeployParameters, Get-SitecoreInstallExtension,...
+Script     2.1.0      SitecoreInstallFramework            {Export-WebDeployParameters, Get-SitecoreInstallExtension,...
 
 
-PS C:\Users\Administrator>
+PS C:\Users\Sitecore>
 ```
 これで準備が完了となります。
 
-## Sitecore Experience Platform 9.1 のダウンロード
+## Sitecore Experience Platform 9.2.0 のダウンロード
 
 パッケージを Web サイトからダウンロードします。
-* [Packages for XP Single](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/91/Sitecore_Experience_Platform_91_Initial_Release.aspx)
+* [Packages for XP Single](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/92/Sitecore_Experience_Platform_92_Initial_Release.aspx)
 
-ファイル名は `Sitecore 9.1.0 rev. 001564 (WDP XP0 packages).zip` となります。
+ファイル名は `Sitecore 9.2.0 rev. 002893 (WDP XP0 packages).zip` となります。
 
 ## 関連モジュールのインストール
 
-関連モジュールを一括でインストールするためのスクリプトが用意されています。すでにダウンロードしているファイルを `c:\projects\sif` に展開します。展開したファイルの中に含まれている XP0 Configuration files 9.1.0 rev. 001564.zip も改めて展開をします。
+関連モジュールを一括でインストールするためのスクリプトが用意されています。すでにダウンロードしているファイルを `c:\projects\sif` に展開します。展開したファイルの中に含まれている XP0 Configuration files 9.2.0 rev. 002893.zip も改めて展開をします。
 
 ```
-PS C:\Projects\sif> dir
+PS C:\projects\sif> dir
 
 
-    ディレクトリ: C:\Projects\sif
+    Directory: C:\projects\sif
 
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
-------       2018/10/31     12:27           3797 createcert.json
-------       2018/10/31     12:27          13042 IdentityServer.json
--a----       2018/08/08     12:24          65522 license.xml
-------       2018/10/31     12:27          18158 Prerequisites.json
-------       2018/11/01     12:07      266793116 Sitecore 9.1.0 rev. 001564 (OnPrem)_single.scwdp.zip
-------       2018/11/01     12:07       29433870 Sitecore 9.1.0 rev. 001564 (OnPrem)_xp0xconnect.scwdp.zip
-------       2018/10/31     12:27          16918 sitecore-solr.json
-------       2018/10/31     12:27          31080 sitecore-XP0.json
--a----       2018/11/05     16:37       12590364 Sitecore.IdentityServer 2.0.0 rev. 00157 (OnPrem)_identityserver.scwdp
-                                                 .zip
-------       2018/10/31     12:27           4088 xconnect-solr.json
-------       2018/10/31     12:27          44488 xconnect-xp0.json
--a----       2018/11/02     20:22          23212 XP0 Configuration files 9.1.0 rev. 001564.zip
-------       2018/10/31     12:27          30084 XP0-SingleDeveloper.json
--a----       2018/11/02     11:59           3596 XP0-SingleDeveloper.ps1
+------        4/25/2019   3:19 PM           3797 createcert.json
+------        4/25/2019   3:19 PM          13835 IdentityServer.json
+------        4/25/2019   3:19 PM          18850 Prerequisites.json
+------        5/10/2019  12:51 PM      241129383 Sitecore 9.2.0 rev. 002893 (OnPrem)_single.scwdp.zip
+------        5/10/2019  12:51 PM       36076244 Sitecore 9.2.0 rev. 002893 (OnPrem)_xp0xconnect.scwdp.zip
+------        4/25/2019   3:19 PM          16918 sitecore-solr.json
+------        4/25/2019   3:19 PM          31080 sitecore-XP0.json
+------        5/10/2019  12:51 PM       16278030 Sitecore.IdentityServer 3.0.0 rev. 00211
+                                                 (OnPrem)_identityserver.scwdp.zip
+------        4/25/2019   3:19 PM           4088 xconnect-solr.json
+------        4/25/2019   3:19 PM          44488 xconnect-xp0.json
+------        5/10/2019  12:51 PM          33802 XP0 Configuration files 9.2.0 rev. 002893.zip
+------        4/25/2019   3:19 PM          30751 XP0-SingleDeveloper.json
+-a----       10/24/2019   2:04 AM          12278 XP0-SingleDeveloper.ps1
 
 
-PS C:\Projects\sif>
+PS C:\projects\sif>
 ```
 
 このフォルダにあるファイルを使って、必要なモジュールをダウンロード、インストールすることができます。
 
 ```
 PS C:\projects\sif> Install-SitecoreConfiguration -Path .\Prerequisites.json
-警告: スクリプト 'Invoke-RemoveSqlDatabaseTask.ps1' を実行できません。このスクリプトの #requires
-ステートメントで指定された次のモジュールがありません: SqlServer。
                                           ************************************
                                                Sitecore Install Framework
-                                                     Version - 2.0.0
+                                                     Version - 2.1.0
                                           ************************************
 
 
@@ -137,10 +134,10 @@ InformationAction      : Continue
 
 各モジュールに関してはインストールガイドに記載されているため、気になる方はガイドをご覧ください。
 
-## Sitecore Experience Platform 9.1 のインストール
+## Sitecore Experience Platform 9.2 のインストール
 
 続いて、サンプルの Install スクリプトをダウンロードします。
-* [My-XP0-SingleDeveloper.ps1](https://github.com/SitecoreJapan/InstallScript/blob/master/910/)
+* [My-XP0-SingleDeveloper.ps1](https://github.com/SitecoreJapan/InstallScript/blob/master/920/)
 
 以下、ファイルを展開する場所に関しては `c:\projects\sif` を想定して記載していきます。  
 1. ダウンロードした `My-XP0-SingleDeveloper.ps1` を `c:\projects\sif` にコピーします。
@@ -153,30 +150,33 @@ InformationAction      : Continue
 PS C:\projects\sif> dir
 
 
-    ディレクトリ: C:\projects\sif
+    Directory: C:\projects\sif
 
 
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
-------       2018/10/31     12:27           3797 createcert.json
-------       2018/10/31     12:27          13042 IdentityServer.json
--a----       2018/08/08     12:24          65522 license.xml
--a----       2018/12/07     10:37           3606 My-XP0-SingleDeveloper.ps1
-------       2018/10/31     12:27          18158 Prerequisites.json
-------       2018/11/01     12:07      266793116 Sitecore 9.1.0 rev. 001564 (OnPrem)_single.scwdp.zip
-------       2018/11/01     12:07       29433870 Sitecore 9.1.0 rev. 001564 (OnPrem)_xp0xconnect.scwdp.zip
-------       2018/10/31     12:27          16918 sitecore-solr.json
-------       2018/10/31     12:27          31080 sitecore-XP0.json
--a----       2018/11/05     16:37       12590364 Sitecore.IdentityServer 2.0.0 rev. 00157 (OnPrem)_identityserver.scwdp
-                                                 .zip
-------       2018/10/31     12:27           4088 xconnect-solr.json
-------       2018/10/31     12:27          44488 xconnect-xp0.json
--a----       2018/11/02     20:22          23212 XP0 Configuration files 9.1.0 rev. 001564.zip
-------       2018/10/31     12:27          30084 XP0-SingleDeveloper.json
--a----       2018/11/02     11:59           3596 XP0-SingleDeveloper.ps1
+------        4/25/2019   3:19 PM           3797 createcert.json
+------        4/25/2019   3:19 PM          13835 IdentityServer.json
+-a----       10/22/2019  10:31 AM          65532 license.xml
+-a----        8/13/2019   5:46 AM          12280 My-XP0-SingleDeveloper.ps1
+------        4/25/2019   3:19 PM          18850 Prerequisites.json
+------        5/10/2019  12:51 PM      241129383 Sitecore 9.2.0 rev. 002893 (OnPrem)_single.scwdp.zip
+------        5/10/2019  12:51 PM       36076244 Sitecore 9.2.0 rev. 002893 (OnPrem)_xp0xconnect.scwdp.zip
+------        4/25/2019   3:19 PM          16918 sitecore-solr.json
+------        4/25/2019   3:19 PM          31080 sitecore-XP0.json
+------        5/10/2019  12:51 PM       16278030 Sitecore.IdentityServer 3.0.0 rev. 00211
+                                                 (OnPrem)_identityserver.scwdp.zip
+------        4/25/2019   3:19 PM           4088 xconnect-solr.json
+------        4/25/2019   3:19 PM          44488 xconnect-xp0.json
+------        5/10/2019  12:51 PM          33802 XP0 Configuration files 9.2.0 rev. 002893.zip
+------        4/25/2019   3:19 PM          30751 XP0-SingleDeveloper.json
+-a----       10/24/2019   2:20 AM          99228 XP0-SingleDeveloper.log
+-a----       10/24/2019   2:04 AM          12278 XP0-SingleDeveloper.ps1
 
+
+PS C:\projects\sif>
 ```
-続いて、`XP0-SingleDeveloper.ps1` もしくは `My-XP0-SingleDeveloper.ps1` を環境に合わせてセットアップします。なお、Sitecore 9.1 からはデフォルトのパスワードの設定が必須となっています。
+続いて、`XP0-SingleDeveloper.ps1` もしくは `My-XP0-SingleDeveloper.ps1` を環境に合わせてセットアップします。なお、Sitecore 9.1 以降からはデフォルトのパスワードの設定が必須となっているため、9.2 でも設定をする必要があります。
 ```
 $Prefix = "sc910"
 $SitecoreAdminPassword = "P@ssword"
@@ -185,9 +185,9 @@ $XConnectCollectionService = "$prefix.xconnect"
 $sitecoreSiteName = "$prefix.sc"
 $XConnectSiteName = "$prefix.xconnect"
 $IdentityServerSiteName = "$prefix.identityserver"
-$SolrRoot = "C:\solr\solr-7.2.1"
+$SolrRoot = "C:\solr\solr-7.5.0"
 $SolrUrl = "https://localhost:8983/solr"
-$SolrService = "Solr-7.2.1"
+$SolrService = "Solr-7.5.0"
 $SqlServer = "."
 $SqlAdminUser = "sa"
 $SqlAdminPassword="pleasechangepassword"
@@ -211,4 +211,4 @@ PS C:\projects\sif> .\XP0-SingleDeveloper.ps1
 
 以上でインストールは完了となります。
 
-[目次に戻る](../readme.md)
+[目次に戻る](../)
