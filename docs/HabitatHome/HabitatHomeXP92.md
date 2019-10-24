@@ -139,4 +139,4 @@ PS C:\projects\sitecore.habitathome.plathome> build.ps1
 - インデックスの再構築
 
 ---
-[目次に戻る](../readme.md)
+[目次に戻る](../)
