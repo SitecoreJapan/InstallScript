@@ -23,3 +23,11 @@
 * [Sitecore.Habitathome.Platform 9.2](HabitatHome/HabitatHomeXP92.md)
 * [Sitecore.Habitathome.Platform 9.1](HabitatHome/HabitatHomeXP91.md)
 * [xGenerator](xGenerator/README.md)
+
+
+## 関連サイト
+* [Sitecore コミュニティサイト](https://sitecorejapan.cmsdemo.jp/)
+* [Sitecore Quick Start Kit](https://sitecorequickstart.cmsdemo.jp/)
+* [Sitecore SXA スターターキット](https://sitecoresxa.cmsdemo.jp/)
+* [Sitecore JavaScript Services スターターキット](https://sitecorejss.cmsdemo.jp/)
+* [Sitecore デモキット](https://sitecoredemo.cmsdemo.jp)
