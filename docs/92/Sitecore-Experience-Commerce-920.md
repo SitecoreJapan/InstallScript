@@ -1,9 +1,9 @@
 # インストール手順
-検証済みのバージョンは Sitecore Experience Commerce 9.1 Initial Release になります。
+検証済みのバージョンは Sitecore Experience Commerce 9.2 Initial Release になります。
 
 ## 環境を整える
 今回は、すでにインストール済みの Sitecore Experience Platform に対してインストールをします。
-* Sitecore Experience Platform 9.1.1 （[インストール手順](Sitecore-Experience-Platform-911.md) )
+* Sitecore Experience Platform 9.2.0 （[インストール手順](Sitecore-Experience-Platform-920.md) )
 
 以下のモジュールを追加インストールします。
 * [.NET Core SDK v2.1.103 (Installer for Windows x64)](https://www.microsoft.com/net/download)
@@ -17,9 +17,9 @@ Sitecore Experience Platform 9.1.1 の環境に関しては、インストール
 
 ## ファイルのダウンロードと展開
 
-今回、インストールをするセットは `c:\projects\sc910` のフォルダを作成して展開していきます。まず、Sitecore Experience Commerce 9.1 Initial Release のページから、`Packages for On Premise 2019.04-3.0.163` ( Sitecore.Commerce.2019.04-3.0.163.zip ) のファイルをダウンロードしてしてください。
+今回、インストールをするセットは `c:\projects\sc920` のフォルダを作成して展開していきます。まず、Sitecore Experience Commerce 9.1 Initial Release のページから、`Packages for On Premise 2019.04-3.0.163` ( Sitecore.Commerce.2019.04-3.0.163.zip ) のファイルをダウンロードしてしてください。
 
-ダウンロードしたファイルは、ブロックされている場合は、先にファイルのプロパティを開いて、ブロック解除をする必要があります。解除していただいた後、`c:\projects\sc910` フォルダに展開します。
+ダウンロードしたファイルは、ブロックされている場合は、先にファイルのプロパティを開いて、ブロック解除をする必要があります。解除していただいた後、`c:\projects\sc920` フォルダに展開します。
 
 ```
 PS C:\projects\sc910> dir
@@ -246,6 +246,5 @@ Index の Rebuild で時間がかかってタイムアウトすることがあ�
     }
   }
   ```
-
 ---
 [目次に戻る](../)

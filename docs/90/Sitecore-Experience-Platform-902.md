@@ -173,4 +173,5 @@ PS C:\projects\sif> .\InstallScript.ps1
 
 以上でインストールは完了となります。
 
-[目次に戻る](../Home.md)
+---
+[目次に戻る](../)
