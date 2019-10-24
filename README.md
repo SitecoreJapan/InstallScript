@@ -16,4 +16,4 @@ Sitecore をインストールする際に便利なスクリプトのサンプ�
 * Sitecore Experience Platform 9.0 update 1, update 2
 * Sitecore Experience Commerce 9.0 update 1, update 2, update 3
 
-詳しい手順については、[インストール ページ](docs/readme.md) にまとめています。
+詳しい手順については、[インストール ページ](https://sitecoreinstall.cmsdemo.jp) にまとめています。

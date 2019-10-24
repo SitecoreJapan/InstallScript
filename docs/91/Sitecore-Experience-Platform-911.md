@@ -211,4 +211,4 @@ PS C:\projects\sif> .\XP0-SingleDeveloper.ps1
 
 以上でインストールは完了となります。
 
-[目次に戻る](../readme.md)
+[目次に戻る](../)
