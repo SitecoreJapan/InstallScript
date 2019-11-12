@@ -6,11 +6,11 @@
 
 ## インストール環境の確認
 
-Sitecore Experience Platform 9.1 Initial Release を利用しています。
+Sitecore Experience Platform 9.2 Initial Release を利用しています。
 
 デモ環境は、Sitecore のインストール環境としては、以下の設定が標準で設定されています。
 
-この製品の <a href="https://github.com/SitecoreJapan/InstallScript/blob/master/docs/91/Sitecore-Experience-Platform-910.md" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) の Habitat-910-XP0.ps1 を利用してください。
+この製品の <a href="https://sitecoreinstall.cmsdemo.jp/92/Sitecore-Experience-Platform-920.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) の Habitat-920-XP0.ps1 を利用してください。
 
 **プロジェクトの場所**		`c:\projects\Sitecore.HabitatHome.Platform\`
 **Habitat サイトドメイン**				`habitathome.dev.local`
@@ -38,46 +38,17 @@ Sitecore のクリーンインストールが完了すると、 http://habitatho
 
 デモサイトで必要なモジュールをインストールしていきます。モジュールは以下の順番でインストールを進めてください。
 
-* Sitecore PowerShell Extensions-5.0.zip 
-* Sitecore Experience Accelerator 1.8 rev. 181112 for 9.1.zip
+* Sitecore PowerShell Extensions-5.0 for 9.2.zip 
+* Sitecore Experience Accelerator 1.9.0 rev. 190528 for 9.2.zip
 
 Data Exchange Framework は任意でインストールすることができます。
 
-* Data Exchange Framework 2.1.0 rev. 181113.zip 
-* Sitecore Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* SQL Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* XConnect Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Dynamics Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Connect for Microsoft Dynamics 2.1.0 rev. 181113.zip
-
-/App_Config/connectionstrings.config に Dynamics につなげるための Connection Strings を追加してください。
-
-```
-  <add name="democrm" connectionString="url=https://sitecore1.crm4.dynamics.com/XRMServices/2011/Organization.svc;user id=crmdemo@demo1.onmicrosoft.com;password=password;organization=org;authentication type=2"/>
-```
-
-id
-password
-organization
-
-Dynamics 365 のパラメーターを利用してください。
-
-Web.config には以下の設定を追加する必要があります。
-
-```
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Xrm.Sdk" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Crm.Sdk.Proxy" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-```
+* [Sitecore Connect for Salesforce CRM 3.0.0](https://sitecorequickstart.cmsdemo.jp/modules/connectsfcrm.html)
+* [https://sitecorequickstart.cmsdemo.jp/modules/connectdcrm.html](https://sitecorequickstart.cmsdemo.jp/modules/connectdcrm.html)
 
 # 日本語リソースの追加
 
-Sitecore Experience Platform 9.1 Initial Release の日本語リソースの追加および SXA の日本語リソースを追加してください。追加の手順は、[Youtube の動画](https://www.youtube.com/watch?v=iJGBN0wj10s) が参考になります。
+Sitecore Experience Platform 9.2 Initial Release の日本語リソースの追加および SXA の日本語リソースを追加してください。追加の手順は、[Youtube の動画](https://www.youtube.com/watch?v=iJGBN0wj10s) が参考になります。
 
 # 証明書の追加
 
