@@ -72,34 +72,52 @@ Sitecore Experience Platform のインストール環境に合わせて、パラ
 以下のツールをインストールしてください。
 
 * [Node.js](https://nodejs.org/ja/) 推奨版をインストールします
-* [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2017 の中に含まれています。
+* [Build Tools for Visual Studio 2019](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2019 の中に含まれています。
+    * Web development build tools をチェック、合わせて .NET Framework 4.7.1 をチェックしてください。
+
+<img src="images/vs2019install.png" alt="インストール">
 
 # ソリューションを構築する
 
 上記の準備が完了したあと、準備されている build.ps1 を実行してください。
 
 ```
-PS C:\projects\sitecore.habitathome.plathome> build.ps1
+PS C:\projects\Sitecore.HabitatHome.Platform> .\build.ps1
+Preparing to run build script...
+Running build script...
+The assembly 'Cake.Azure, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.28.0).
+For best compatibility it should target Cake.Core version 0.33.0.
+The assembly 'Cake.XdtTransform, Version=0.16.0.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.28.1).
+For best compatibility it should target Cake.Core version 0.33.0.
 
-[13:14:20]
-[13:14:20]
-[13:14:20]    ) )       /\
-[13:14:20]   =====     /  \
-[13:14:20]  _|___|____/ __ \____________
-[13:14:20] |:::::::::/ ==== \:::::::::::|
-[13:14:20] |:::::::::/ ====  \::::::::::|
-[13:14:20] |::::::::/__________:::::::::|
-[13:14:20] |_________|  ____  |_________|
-[13:14:20] | ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
-[13:14:20] ||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
-[13:14:20] ||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
-[13:14:20] ||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
-[13:14:20] |======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
-[13:14:20] (^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
-[13:14:20] (,, , ,, , |______|,,,, ,, ,)
-[13:14:20] ','',,,,'  |______|,,,',',;;
-[13:14:20]
-[13:14:20]
+----------------------------------------
+Setup
+----------------------------------------
+
+
+   ) )       /\
+  =====     /  \
+ _|___|____/ __ \____________
+|:::::::::/ ==== \:::::::::::|
+|:::::::::/ ====  \::::::::::|
+|::::::::/__________\:::::::::|
+|_________|  ____  |_________|
+| ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
+||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
+||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
+||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
+|======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
+(^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
+(,, , ,, , |______|,,,, ,, ,)
+','',,,,'  |______|,,,',',;;
+
+
+ --------------------  ------------------
+   The Habitat Home source code, tools and processes are examples of Sitecore Features.
+   Habitat Home is not supported by Sitecore and should be used at your own risk.
+   
 ```
 
 # インストール後の作業
