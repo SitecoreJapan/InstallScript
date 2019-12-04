@@ -1,0 +1,59 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Marketing" key="Marketing" itemid="{52EF09CC-610F-46AE-801D-696E43CF3AA1}" fieldid="RowsNumber" updated="20160412T114318Z">
+    <ja-JP>3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Analytics" key="Analytics" itemid="{496503A2-59FD-41AA-BC35-D2AEEDD5B6BB}" fieldid="RowsNumber" updated="20170505T141215Z">
+    <ja-JP>3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/ContentEditing" key="ContentEditing" itemid="{11FEE71B-C63E-42C8-9319-8883A9A9DD20}" fieldid="RowsNumber" updated="20160412T114330Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools" key="Tools" itemid="{E8ED70BA-1401-4BCF-B3F9-5A60FE67C8F5}" fieldid="RowsNumber" updated="20160412T114339Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Security" key="Security" itemid="{B8CE3C9D-2B0B-4015-8F40-9E7E54DA4FF7}" fieldid="RowsNumber" updated="20160412T114348Z">
+    <ja-JP>2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations" key="Automations" itemid="{FFF79FC9-22BC-4013-AFAC-9217B38AFBF8}" fieldid="__Display name" updated="20170731T040108Z">
+    <ja-JP>マーケティング オートメーション キャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Activity/Activity Subtabs/Automations/AutomationsPanel/EngagementPlans" key="EngagementPlans" itemid="{A0515394-EA52-476E-96C0-579AA946E3F5}" fieldid="EmptyText" updated="20170801T025730Z">
+    <ja-JP>マーケティングオートメーションキャンペーンが見つかりません</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/Chunks/Modes/Preview" key="Preview" itemid="{C87FF9E9-2560-4B6F-B01A-2AB5CB0B2A8A}" fieldid="Header" updated="20190129T053927Z">
+    <ja-JP>プレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/Chunks/Modes/Preview" key="Preview" itemid="{C87FF9E9-2560-4B6F-B01A-2AB5CB0B2A8A}" fieldid="__Display name" updated="20190129T053927Z">
+    <ja-JP>プレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Marketing Automation" key="Marketing Automation" itemid="{6D1520F6-5623-41C5-8DE4-FF00C9F8E9F0}" fieldid="__Display name" updated="20161227T162851Z"  database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Marketing Automation/Activity Types/Campaign Entry" key="Campaign Entry" itemid="{8C92D3C1-2C38-4E8A-92D1-9590E17CCE89}" fieldid="Description" updated="20170815T115328Z"  database="master">
+    <ja-JP>本オートメーション キャンペーンにコンタクトをどのように登録するか定義します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Marketing Automation/Activity Types/Move to another campaign" key="Move to another campaign" itemid="{07A0B752-BB0E-4AB8-92ED-AE9C03BA1301}" fieldid="Description" updated="20170512T064253Z" database="master">
+    <ja-JP>他のオートメーション キャンペーンの開始にコンタクトを移動します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Marketing Automation/Activity Types/Send email" key="Send email" itemid="{51774DB5-B90B-4189-9613-104039723A0B}" fieldid="Description" updated="20170816T154203Z" database="master">
+    <ja-JP>EXM からオートメーションされたEメール キャンペーンをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/ElementGroups/Marketing Automation" key="Marketing Automation" itemid="{EBE0EEAC-437E-4DCB-8335-61B4B86C744D}" fieldid="__Display name" updated="20170310T103154Z" database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/XConnect - Marketing Automation" key="XConnect - Marketing Automation" itemid="{0918ED79-FDF1-49F9-A02B-155227211F08}" fieldid="__Display name" updated="20170912T123154Z" database="master">
+    <ja-JP>XConnect- マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/System/Analytics/Marketing Automation" key="Marketing Automation" itemid="{794F2028-5E4C-4A7C-8764-79F4E8C603D5}" fieldid="__Display name" updated="20161222T143624Z" database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Marketing Automation" key="Marketing Automation" itemid="{6489B458-022D-4973-9E7D-F2CE2C2C01D2}" fieldid="__Display name" updated="20170530T042658Z" database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Tags/Marketing Automation" key="Marketing Automation" itemid="{14550C5C-B182-4FDA-B268-8E691C3B2FCE}" fieldid="__Display name" updated="20170530T043211Z" database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/System/Analytics/Marketing Automation" key="Marketing Automation" itemid="{F8CD2101-92A2-444B-883D-C6D7986A3E2A}" fieldid="__Display name" updated="20161222T112022Z" database="master">
+    <ja-JP>マーケティング オートメーション</ja-JP>
+  </phrase>
+</sitecore>
