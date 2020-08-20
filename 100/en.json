@@ -1,0 +1,273 @@
+{
+  "COMMON": {
+    "CANCEL": "取り消し"
+  },
+  "ERRORS": {
+    "OPERATION_GENERIC": "エラーにより操作が完了しませんでした。",
+    "ITEM_NOT_FOUND": "項目が移動または削除されました。F5を押して画面を更新します。",
+    "CONTEXT_COERCED": "要求された項目を表示することはできません。アイテムが存在しないか、アイテムを表示する権限がありません。",
+    "CONTEXT_NOT_FOUND": "ページが正しく読み込まれませんでした。ページを更新してみてください。エラーが再発する場合は、システム管理者に連絡してください。"
+  },
+  "DEVICE": {
+    "PHONE": "スマートフォン",
+    "TABLET": "タブレット",
+    "DESKTOP": "デスクトップ",
+    "ALL": "すべてのデバイス",
+    "ROTATE": "回転"
+  },
+  "NAV": {
+    "MAIN": "メイン",
+    "WORKSPACE": "ワークスペース",
+    "EDITOR": "ページエディター",
+    "INSIGHTS": "ページ インサイト",
+    "PAGES": "ページ",
+    "LAUNCHPAD": "スタート画面",
+    "HELP": "ヘルプ",
+    "SIMULATOR": "シミュレーター",
+    "UNDO": "元に戻す",
+    "REDO": "やり直す",
+    "EXPAND": "展開",
+    "COLLAPSE": "閉じる",
+    "METADATA": "メタデータ"
+  },
+  "EDITOR": {
+    "ADD_TO_PAGE": "ページ追加",
+    "CREATE_PAGE": "ページ作成",
+    "CREATE_NEW": "新規作成",
+    "CREATE_FOLDER": "フォルダの作成",
+    "CREATE_PAGE_ON_SAME_LEVEL": "同じレベルにページ作成",
+    "ITEM_ALREADY_DEFINED_ON_THIS_LEVEL": "このレベルには {{name}} アイテムが既に存在します。同じレベルに同じ名前のアイテムを 2 つ持つことはできません。",
+    "CREATE_ITEM_NOT_VALID_NAME": "'{{name}}' は有効な名前ではありません。",
+    "CREATE_PAGE_FAILED": "'{{name}}' ページは作成できません。",
+    "CREATE_FOLDER_FAILED": "'{{name}}' フォルダは作成できません。",
+    "CREATE_PAGE_EMPTY_NAME": "ページ名を空欄にすることはできません。",
+    "CREATE_FOLDER_EMPTY_NAME": "フォルダー名を空にすることはできません。",
+    "CREATED_BY": "作成者",
+    "CREATED_AT": "作成日時",
+    "ITEM_NAME": "アイテム名",
+    "DELETE": "削除",
+    "DETAILS": "詳細",
+    "PLACEHOLDER_DETAILS": "プレースホルダー 詳細",
+    "PLACEHOLDER_KEY": "プレースホルダー キー",
+    "ITEM_ID": "アイテム ID",
+    "ITEM_PATH": "アイテムパス",
+    "NEW_PAGE": "新規ページ",
+    "NEW_FOLDER": "新規フォルダ",
+    "NO_INSERT_OPTIONS": "親アイテムには挿入オプションが設定されていません。",
+    "ALL_PAGES": "すべてのページ",
+    "TEMPLATE_PATH": "テンプレートパス",
+    "COMPONENTS": "コンポーネント",
+    "CONTENT_TREE": {
+      "TITLE": "サイトツリー",
+      "MOVE_ITEM_ERROR": "コンテンツツリー内の項目 '{{name}}' の移動にエラーがありました。",
+      "MOVE_ITEM_INTO_SUCCESS": "{{movedItemName}} を {{targetItemName}} に移動しました。",
+      "MOVE_ITEM_BEFORE_SUCCESS": "{{movedItemName}} の前に {{targetItemName}} が移動されました。",
+      "MOVE_ITEM_AFTER_SUCCESS": "{{movedItemName}} の後に {{targetItemName}} が移動しました。"
+    },
+    "SAVE": {
+      "PROGRESS": "保存",
+      "COMPLETE": "{{datetime}} に保存",
+      "ERRORS": {
+        "ERROR_AFTER_NAV": "自動保存中にエラーが発生しました。別のページを開く前に、すべての変更が保存されていることを確認してください。",
+        "ERROR_AFTER_NAV_ACTION": "戻る",
+        "BASE_TEMPLATE_WAS_CHANGED": "現在のテンプレートから1つ以上のベーステンプレートを削除しようとしています。\n\nWベーステンプレートを削除すると、Sitecore は現在のテンプレートに基づいてすべてのアイテムを更新し、削除したベーステンプレートのフィールドに関連付けられているフィールド値をすべてクリアします。これらのフィールド値は、一度削除した後は復元できません。\n\n続行しますか？",
+        "CHANGED_UNVERSIONED_OR_SHARED_FLAG": "バージョン管理していない、もしくは共有フラグを変更しています。\n\nEこれらのフラグのいずれかを無効にすると、バックグラウンド処理が開始されます。\nクリックすると、このテンプレートに基づいてすべての項目が更新されます。\n\nこのプロセスでは、多くのリソースが必要になるかもしれません。\n\nunversioned または shared フラグのいずれかを有効にしている場合、これらのフィールドの以前のバージョンの値は失われます。\n\n続行しますか？",
+        "DATASOURCE_MODIFIED_BY_ANOTHER_USER": "ページまたは関連するコンテンツが他のユーザーによって変更されました。変更内容を保存することはできません。ページを再読み込みして変更内容を失いますか？",
+        "INCORRECT_CLONE_SOURCE": "クローンソースの値が間違っています。'__Source Item' の値 ('Advanced' セクション) を修正して続行してください。",
+        "INTERNAL_ERROR": "内部サーバーエラー。",
+        "ITEM_IS_PROTECTED": "保護されているので編集はできません。",
+        "ITEM_LOCKED_BY_ANOTHER_USER": "対応するコンテンツが他のユーザーによってロックされているため、変更を保存できません。",
+        "ITEM_SHOULD_BE_LOCKED_BEFORE_EDIT": "現在のユーザーによってロックされていないため、アイテムを保存できません。",
+        "NO_WRITE_ACCESS": "書き込み権限がないので編集できません。",
+        "PAGE_DOES_NOT_EXIST": "ページが存在しません。変更内容を保存できません。ページをリロードして変更内容を失いますか？",
+        "PAGE_VERSION_DOES_NOT_EXIST": "ページのバージョンが存在しません。変更内容を保存できません。ページをリロードして変更内容を失いたくありませんか？",
+        "PAGE_WAS_MODIFIED": "他のユーザーによってページが変更されました。変更内容を保存することはできません。ページをリロードして変更内容を失いませんか？",
+        "RELOAD_ACTION_TITLE": "リロード",
+        "VALIDATION_ERROR": "検証に失敗しました。",
+        "UNABLE_TO_SAVE": "保存できません"
+      },
+      "NO_CHANGES": "変更なし"
+    },
+    "CHANGE_DISPLAY_NAME": {
+      "BUTTON_TEXT": "名前の変更",
+      "ERRORS": {
+        "INSUFFICIENT_PRIVILEGES": "ページの名前を変更する権限がありません。",
+        "ITEM_IS_LOCKED": "このアイテムは他のユーザーによってロックされているため、名前を変更することはできません。"
+      }
+    },
+    "RENDERING": {
+      "DATASOURCE": "コンテンツアイテム",
+      "NO_DATASOURCE": "コンテンツアイテムパスの入力",
+      "BROWSE_DATASOURCE": "ブラウズ",
+      "REMOVE_RENDERING": "レンダリングの削除"
+    },
+    "IMAGE": {
+      "ADD": "追加",
+      "ADD_AN_IMAGE": "画像の追加",
+      "ADD_SELECTED": "選択したものを追加",
+      "CHANGE": "変更",
+      "CLEAR": "クリア",
+      "PATH": "画像パス",
+      "PATH_PLACEHOLDER": "画像のパスを指定します。",
+      "NOT_FOUND": "画像は存在しません。",
+      "NOT_A_MEDIA": "アイテムは画像ではありません。",
+      "INVALID_SOURCES": "このフィールドのソースは有効ではありません。サイト管理者に連絡してください。"
+    },
+    "RTE": {
+      "ALIGN": {
+        "CENTER": "中央揃い",
+        "JUSTIFY": "行揃え",
+        "LEFT": "左揃え",
+        "RIGHT": "右揃え"
+      },
+      "FORMAT": {
+        "BOLD": "太字",
+        "ITALIC": "イタリック",
+        "STRIKETHROUGH": "取消線",
+        "UNDERLINE": "下線"
+      },
+      "HEADER": {
+        "NORMAL": "ノーマル",
+        "PREFIX": "ヘッダー"
+      },
+      "INDENT": {
+        "DECREASE": "インデントを減らす",
+        "INCREASE": "インデントを増やす"
+      },
+      "LINK": {
+        "ALT_TEXT": "代替テキスト",
+        "ALT_TEXT_PLACEHOLDER": "代替テキストを入力してください",
+        "HEADER": "リンク詳細",
+        "CREATE_OR_EDIT_LINK": "ハイパーリンクの作成または編集",
+        "NEW_TAB": "新しいタブ/ウィンドウ",
+        "REMOVE_LINK": "リンクの削除",
+        "SAME_TAB": "同じタブ",
+        "TARGET": "ターゲット",
+        "PATH": "パス",
+        "PATH_PLACEHOLDER": "URL の入力",
+        "TEST_URL": "URL のテスト"
+      },
+      "LIST": {
+        "BULLET": "箇条書きリスト",
+        "NUMBERED": "番号リスト"
+      },
+      "MEDIA": {
+        "INSERT": "メディアの挿入"
+      },
+      "REMOVE_FORMATTING": "フォーマットの削除"
+    },
+    "WORKFLOW": {
+      "ACTION": "アクション",
+      "ACTION_TAKEN": "アクションの実行",
+      "CHANGED_BY": "変更者",
+      "COMMENT": "コメント",
+      "CURRENT_STATUS": "カレントステート",
+      "ENTER_A_COMMENT": "コメントを入力",
+      "LATEST_WORKFLOW_CHANGE": "最新のワークフロー変更",
+      "NO_WORKFLOW": "ワークフローなし",
+      "NO_ACCESS_RIGHTS_TO_PUBLISH": "この項目を公開する許可がありません。",
+      "PUBLISHABLE_SETTING_DISABLED": "公開可能の設定が無効になっているため、この項目を公開することはできません。",
+      "PUBLISHING_RESTRICTIONS": "このアイテムには公開制限があり、現在は公開できません。",
+      "PUBLISH": "公開",
+      "PUBLISH_FAILED": "エラーで \"{{itemname}}\" の公開ができなかった。",
+      "PUBLISH_SUCCESSFUL": "アイテム \"{{itemname}}\" は公開しました。",
+      "PUBLISHING": "公開中...",
+      "UPDATING_WORKFLOW_STATE": "ワークフローの状態を更新する",
+      "WORKFLOW": "ワークフロー",
+      "WORKFLOW_STEP": "ワークフローの状態",
+      "WARNINGS": {
+        "DATASOURCE_LOCKED_BY_ANOTHER_USER": "別のユーザーがアイテムまたは関連するコンテンツアイテムをロックしました。",
+        "ITEM_LOCKED_BY_ANOTHER_USER": "他のユーザーがコンテンツ アイテムをロックしたため、変更内容を保存できません。",
+        "NO_WRITE_ACCESS": "書き込み権限がないので編集できません。",
+        "NO_WORKFLOW_WRITE_ACCESS": "この項目を次のワークフロー状態に更新する権限がありません。",
+        "UNKNOWN_SERVER_ERROR": "サーバーは不明なエラーを返しました。"
+      }
+    },
+    "ITEMS_BROWSER": {
+      "HEADER_TEXT": "コンテンツの項目を割り当てる",
+      "ASSIGN": "割り当て"
+    },
+    "WORKSPACE_EMPTY": {
+      "HEADER": "ページを表示することはできません。",
+      "DESCRIPTION": "ウェブサイトのレンダリングホストが設定されていません。システム管理者に問い合わせてください。"
+    }
+  },
+  "INSIGHTS": {
+    "TITLE": "ページ インサイト",
+    "SUBTITLE": {
+      "PHONE": "スマートフォン向けアナリティクス",
+      "TABLET": "タブレット向けアナリティクス",
+      "DESKTOP": "デスクトップ向けアナリティクス",
+      "ALL": "すべてのデバイスのアナリティクス"
+    },
+    "TIMEZONE_INFO": "タイムゾーン: UTC{{value}}",
+    "ERROR": {
+      "TITLE": "カードのロードに失敗しました",
+      "DESCRIPTION": "再試行をクリックしてカードを再読み込みします。",
+      "RETRY_BUTTON_LABEL": "再試行"
+    },
+    "VISITORS_TREND_CHART": {
+      "HEADER": "1日あたりの訪問数と1回あたりの平均値",
+      "VISITS_LABEL": "訪問数",
+      "VALUE_PER_VISIT_LABEL": "1回あたりのバリュー"
+    },
+    "CONVERSION_RATE_CHART": {
+      "HEADER": "日付別のコンバージョン"
+    },
+    "TIME_ON_PAGE_CHART": {
+      "HEADER": "日付ごとのページの時間"
+    },
+    "IMPROVE_PERFORMANCE": {
+      "HEADER": "パフォーマンスの向上",
+      "MESSAGE_NO_ITEMS": "<h2>イェーイ！よくやった！</h2><div>今日はお勧めの改善策はありません。</div>",
+      "VIEW_SUGGESTIONS_ACTION_LABEL": "ヒントを見る",
+      "CLOSE_SUGGESTIONS_BUTTON_LABEL": "よし、わかった",
+      "BOUNCE_RATE": {
+        "HEADER": "バウンス率",
+        "SUGGESTIONS_HEADER": "バウンス率の改善",
+        "MESSAGE_HIGH": "このページは非常に高いバウンス率を持っています: <strong>{{ value }}%</strong>.<br/>バウンス率を改善するためのヒントをご覧ください。",
+        "SUGGESTIONS_HIGH": "高いバウンス率を改善するには: <ul> <li>外部リンクの数を減らすか、新しいタブで開くようにします。</li> <li>ページのナビゲーションと関連するアクションの呼び出しを修正します。</li> <li>MVテストを実行して、最適な体験を確認します。</li> <li>コンテンツのパーソナライズを適用します。</li> <li>ポップアップ広告などの気が散る要素を削除します。</li> <li>ページのロード時間を短縮します。</li> </ul>",
+        "MESSAGE_MEDIUM": "このページはバウンス率が高い: <strong>{{ value }}%</strong>.<br/>バウンス率を改善するためのヒントをご覧ください。",
+        "SUGGESTIONS_MEDIUM": "例えば、以下のような場合、ページのバウンス率を改善することができます。: <ul> <li>外部リンクを減らすか、新しいブラウザタブで開くようにしてください。</li> <li>ページの内容を修正します。</li> <li>ページのナビゲーションと関連するアクションの呼び出しを修正します。</li> <li>パーソナライゼーションを適用します。</li> <li>ページのロード時間を短縮します。</li> <ul>",
+        "MESSAGE_LOW": "このページのバウンス率は低い: <strong>{{ value }}%</strong>.<br/>これからも頑張ってください"
+      },
+      "TIME_ON_PAGE": {
+        "HEADER": "滞在時間",
+        "SUGGESTIONS_HEADER": "訪問者がページに費やす時間を増やす",
+        "MESSAGE_HIGH": "訪問者がこのページに費やす平均時間が低い: <strong>{{ value }}&nbsp;s</strong>.<br />あなたのページに長く滞在するように訪問者を促す方法についてのヒントをご覧ください。",
+        "SUGGESTIONS_HIGH": "ランディングページの1回あたりの平均訪問時間が低いのは一般的です。しかし、訪問者がページに費やす時間を増やしたい場合は、例えば <ul> <li>ページの平均時間が高い他の類似ページと比較してみてください。</li> <li>より魅力的な内容になるように修正してください。</li> <li>より効率的にコンテンツを配信するために、ページのデザインを変更することを検討してください。</li> <li>異なるオーディエンス向けにページのコンテンツをパーソナライズすることを検討してください。</li></ul>",
+        "MESSAGE_LOW": "このページは、ホームページの中でも魅力的なページの一つです。<br/>ページ内の訪問者の平均滞在時間が高い: <strong>{{ value }}&nbsp;s</strong>.<br />これからも頑張ってください"
+      }
+    },
+    "BOUNCE_RATE_CHART": {
+      "HEADER": "日付別バウンス率"
+    }
+  },
+  "SIMULATOR": {
+    "TO": "to",
+    "NO_END_DATE": "終了日無し",
+    "UPDATES": "更新情報"
+  },
+  "MEDIA": {
+    "FILE_NAME": "ファイル名",
+    "FILE_TYPE": "ファイル形式",
+    "FILE_SIZE": "ファイルサイズ",
+    "DIMENSIONS": "サイズ",
+    "PATH": "パス",
+    "ALT_TEXT": "代替テキスト",
+    "DETAILS_EMPTY": "ファイルを選択してプレビューします。",
+    "EMPTY_FOLDER": "このフォルダにはメディアファイルはありません。",
+    "NO_SEARCH_RESULTS": "検索フレーズに一致する結果はありません。<br />もう一度やってみてください。",
+    "LIMIT_REACHED": "最適なパフォーマンスのため、{{limit}} の画像を表示しています。他にも画像がありますので、検索で絞り込むか、別のフォルダを選択してください。",
+    "SEARCH_PLACEHOLDER": "検索",
+    "ERRORS": {
+      "NOT_FOUND": "パスは有効ではありません。",
+      "SOURCE_NOT_FOUND": "このフィールドのソースは有効ではありません。サイト管理者に連絡してください。",
+      "GENERIC": "何かが発生しました。ダイアログをリロードして再試行してください。"
+    }
+  },
+  "SITE_LANGUAGE": {
+    "NO_SITES": "サイトがありません",
+    "NO_LANGUAGES": "言語がありません"
+  }
+}
