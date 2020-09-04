@@ -1,0 +1,71 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand" key="Brand" itemid="{E64D94E0-9690-4F94-A2C2-6573A736AC14}" fieldid="ItemNameField" updated="20161027T122930Z">
+    <ja-JP>{84FE3BEF-0146-4AE5-97FB-175E00D89895}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand" key="Brand" itemid="{E64D94E0-9690-4F94-A2C2-6573A736AC14}" fieldid="TargetTemplate" updated="20161027T122930Z">
+    <ja-JP>{7E4DD69A-8EA9-4014-8650-AEFA99F3D61F}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Fields/Brand" key="Brand" itemid="{235AAF67-B6BD-4579-A3F7-5416FD34B685}" fieldid="InputField" updated="20161027T123132Z">
+    <ja-JP>{84FE3BEF-0146-4AE5-97FB-175E00D89895}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car" key="Car" itemid="{2D096DE6-03B0-4D91-B74F-5A58B9957A3D}" fieldid="ItemNameField" updated="20161027T124150Z">
+    <ja-JP>{5B21B291-F1B2-48C9-8A22-AE9114B20E2F}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car" key="Car" itemid="{2D096DE6-03B0-4D91-B74F-5A58B9957A3D}" fieldid="TargetTemplate" updated="20161027T124150Z">
+    <ja-JP>{9260BFC8-3F46-4541-A29D-A76576590205}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car/Fields/Model" key="Model" itemid="{69D0440E-2BDC-4EFF-827A-A77159ED6530}" fieldid="InputField" updated="20161027T124016Z">
+    <ja-JP>{5B21B291-F1B2-48C9-8A22-AE9114B20E2F}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car/Fields/BodyType" key="BodyType" itemid="{D4D3ADB6-89CE-49E1-B663-241BDBA8EDD6}" fieldid="InputField" updated="20161027T123907Z">
+    <ja-JP>{FD41AACC-FC39-4916-AB0A-83F7D1835697}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car/Fields/Doors" key="Doors" itemid="{F1FD2083-00BE-403C-807D-8F6F164928AA}" fieldid="InputField" updated="20161027T124451Z">
+    <ja-JP>{0722ABD8-1F3E-4195-832C-2CE502018E70}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Maps/Cars Import/Brand/Car/Fields/Price" key="Price" itemid="{CA6C940D-E51B-48B8-B206-6D53C40E3BF8}" fieldid="InputField" updated="20161027T124043Z">
+    <ja-JP>{0F024607-52C7-4B6E-AA93-C277722A9FD5}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/AddVersion" key="AddVersion" itemid="{99F481D0-46CF-40F8-9159-42A237DDBFFD}" fieldid="OptionText" updated="20180303T232210Z">
+    <ja-JP>バージョン追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/AddVersion" key="AddVersion" itemid="{99F481D0-46CF-40F8-9159-42A237DDBFFD}" fieldid="HelpText" updated="20180303T232210Z">
+    <ja-JP>既にアイテムがある場合は新しいバージョンを追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/Skip" key="Skip" itemid="{52B8C505-8B9C-4469-AE9F-5B6929ED8DDA}" fieldid="OptionText" updated="20180303T225120Z">
+    <ja-JP>スキップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/Skip" key="Skip" itemid="{52B8C505-8B9C-4469-AE9F-5B6929ED8DDA}" fieldid="HelpText" updated="20180303T225120Z">
+    <ja-JP>既にアイテムがある場合はスキップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/Update" key="Update" itemid="{706943AC-2612-49D1-BB2A-D07BF331CC99}" fieldid="OptionText" updated="20180303T225125Z">
+    <ja-JP>更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/ExistingItemHandling/Update" key="Update" itemid="{706943AC-2612-49D1-BB2A-D07BF331CC99}" fieldid="HelpText" updated="20180303T225125Z">
+    <ja-JP>既にアイテムがある場合は更新</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/CreateItem" key="CreateItem" itemid="{957F375C-B4A1-4615-B6FC-2DFE6CC38BF2}" fieldid="OptionText" updated="20180303T225132Z">
+    <ja-JP>アイテム作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/CreateItem" key="CreateItem" itemid="{957F375C-B4A1-4615-B6FC-2DFE6CC38BF2}" fieldid="HelpText" updated="20180303T225132Z">
+    <ja-JP>まだアイテムがない場合はアイテムを作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/SetBroken" key="SetBroken" itemid="{A18A1C75-B1FE-4F93-A0C4-BAFD6451AB79}" fieldid="OptionText" updated="20180303T225142Z">
+    <ja-JP>リンク設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/SetBroken" key="SetBroken" itemid="{A18A1C75-B1FE-4F93-A0C4-BAFD6451AB79}" fieldid="HelpText" updated="20180303T225142Z">
+    <ja-JP>リンク切れがある場合は固有のリンクを設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/SetEmpty" key="SetEmpty" itemid="{6A1A0BA8-DAD9-479D-ABE4-218A3B93ABF5}" fieldid="OptionText" updated="20180303T225212Z">
+    <ja-JP>空にする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/SetEmpty" key="SetEmpty" itemid="{6A1A0BA8-DAD9-479D-ABE4-218A3B93ABF5}" fieldid="HelpText" updated="20180303T225212Z">
+    <ja-JP>リンク切れがある場合はリンクは空にする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/Skip" key="Skip" itemid="{84AEED92-D25D-4B1F-A18C-7E1987CE47D6}" fieldid="OptionText" updated="20180303T225218Z">
+    <ja-JP>スキップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/Ez Importer/Options/InvalidLinkHandling/Skip" key="Skip" itemid="{84AEED92-D25D-4B1F-A18C-7E1987CE47D6}" fieldid="HelpText" updated="20180303T225218Z">
+    <ja-JP>リンク切れがある場合は更新をスキップ</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,602 @@
+<sitecore>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework" key="Media Framework" itemid="{D233E948-A4D0-46B0-8609-931210FAF124}" fieldid="__Display name" updated="20130829T030657Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Export Content" key="Export Content" itemid="{9A584F2D-6C7A-4520-871B-270DF3CABF1F}" fieldid="Header" updated="20130902T093109Z">
+    <ja-JP>コンテンツエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Export Content" key="Export Content" itemid="{9A584F2D-6C7A-4520-871B-270DF3CABF1F}" fieldid="__Display name" updated="20130902T093109Z">
+    <ja-JP>コンテンツエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Export Content/Export All" key="Export All" itemid="{4503B610-15FA-463E-9D40-4F1A605ECD9D}" fieldid="Header" updated="20130902T093836Z">
+    <ja-JP>すべてエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Export Content/Export All" key="Export All" itemid="{4503B610-15FA-463E-9D40-4F1A605ECD9D}" fieldid="Tooltip" updated="20130902T093836Z">
+    <ja-JP>メディアエクスポートの実行</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Export Content/Export All" key="Export All" itemid="{4503B610-15FA-463E-9D40-4F1A605ECD9D}" fieldid="__Display name" updated="20130902T093836Z">
+    <ja-JP>すべてエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content" key="Import Content" itemid="{F2951B80-4390-477E-A835-53CA9AC5FC4A}" fieldid="Header" updated="20130724T061712Z">
+    <ja-JP>コンテンツ インポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content" key="Import Content" itemid="{F2951B80-4390-477E-A835-53CA9AC5FC4A}" fieldid="__Display name" updated="20130724T061712Z">
+    <ja-JP>コンテンツ インポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content/Brightcove Import All" key="Brightcove Import All" itemid="{73F34CCD-C300-4675-B00A-F8EA811210FA}" fieldid="Header" updated="20130923T085117Z">
+    <ja-JP>すべてをインポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content/Brightcove Import All" key="Brightcove Import All" itemid="{73F34CCD-C300-4675-B00A-F8EA811210FA}" fieldid="__Display name" updated="20130923T085117Z">
+    <ja-JP>すべてをインポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Import Content/Brightcove Import All" key="Brightcove Import All" itemid="{73F34CCD-C300-4675-B00A-F8EA811210FA}" fieldid="Tooltip" updated="20130923T085117Z">
+    <ja-JP>アカウントからすべてのコンテンツをインポートします</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview" key="Media Preview" itemid="{D89E6577-6C85-4C73-BE48-0200E5B4699D}" fieldid="Tooltip" updated="20130916T040332Z">
+    <ja-JP>メディアプレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview" key="Media Preview" itemid="{D89E6577-6C85-4C73-BE48-0200E5B4699D}" fieldid="Header" updated="20130916T040332Z">
+    <ja-JP>メディアプレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview" key="Media Preview" itemid="{D89E6577-6C85-4C73-BE48-0200E5B4699D}" fieldid="__Display name" updated="20130916T040332Z">
+    <ja-JP>メディアプレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview/Media Preview" key="Media Preview" itemid="{9BA05CB4-C50A-4CB1-902A-084DB17E1EC5}" fieldid="Header" updated="20130916T041235Z">
+    <ja-JP>プレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview/Media Preview" key="Media Preview" itemid="{9BA05CB4-C50A-4CB1-902A-084DB17E1EC5}" fieldid="__Display name" updated="20130916T041235Z">
+    <ja-JP>メディア プレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Media Preview/Media Preview" key="Media Preview" itemid="{9BA05CB4-C50A-4CB1-902A-084DB17E1EC5}" fieldid="Tooltip" updated="20130916T041235Z">
+    <ja-JP>標準のプレイヤーでメディアアイテムのレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration" key="Migration" itemid="{81174F25-448E-46CF-8B87-E7203B507B28}" fieldid="Tooltip" updated="20131028T062619Z">
+    <ja-JP>マイグレーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration" key="Migration" itemid="{81174F25-448E-46CF-8B87-E7203B507B28}" fieldid="Header" updated="20131028T062619Z">
+    <ja-JP>マイグレーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration" key="Migration" itemid="{81174F25-448E-46CF-8B87-E7203B507B28}" fieldid="__Display name" updated="20131028T062619Z">
+    <ja-JP>マイグレーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration/Migrate MediaFramework Version 12" key="Migrate MediaFramework Version 12" itemid="{13B259CB-8D51-4B78-91BE-AB075CDB62C7}" fieldid="Header" updated="20131211T020619Z">
+    <ja-JP>Media Framework 1.2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration/Migrate MediaFramework Version 12" key="Migrate MediaFramework Version 12" itemid="{13B259CB-8D51-4B78-91BE-AB075CDB62C7}" fieldid="__Display name" updated="20131211T020619Z">
+    <ja-JP>メディア フレームワークの移行</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Migration/Migrate MediaFramework Version 12" key="Migrate MediaFramework Version 12" itemid="{13B259CB-8D51-4B78-91BE-AB075CDB62C7}" fieldid="Tooltip" updated="20131211T020619Z">
+    <ja-JP>メディア フレームワークの移行 1.0 から 1.2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Upload" key="Upload" itemid="{CAD141B2-CBBF-41A8-8FF4-028E9385E077}" fieldid="Header" updated="20130806T034718Z">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Upload" key="Upload" itemid="{CAD141B2-CBBF-41A8-8FF4-028E9385E077}" fieldid="__Display name" updated="20130806T034718Z">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Upload/Upload" key="Upload" itemid="{7B2F9679-D70C-4071-AF3E-D567B63F220F}" fieldid="Header" updated="20130806T035403Z">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Upload/Upload" key="Upload" itemid="{7B2F9679-D70C-4071-AF3E-D567B63F220F}" fieldid="__Display name" updated="20130806T035403Z">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Upload/Upload" key="Upload" itemid="{7B2F9679-D70C-4071-AF3E-D567B63F220F}" fieldid="Tooltip" updated="20130806T035403Z">
+    <ja-JP>アップロード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Cleanup Content" key="Cleanup Content" itemid="{8901954D-E5DF-4051-B10E-44F3ADCBD849}" fieldid="Tooltip" updated="20130724T061731Z">
+    <ja-JP>コンテンツのクリーンアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Cleanup Content" key="Cleanup Content" itemid="{8901954D-E5DF-4051-B10E-44F3ADCBD849}" fieldid="Header" updated="20130724T061731Z">
+    <ja-JP>コンテンツのクリーンアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Cleanup Content" key="Cleanup Content" itemid="{8901954D-E5DF-4051-B10E-44F3ADCBD849}" fieldid="__Display name" updated="20130724T061731Z">
+    <ja-JP>コンテンツのクリーンアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Cleanup Content/Brightcove Cleanup All" key="Brightcove Cleanup All" itemid="{484AE2E9-45D4-40FA-B53C-355EFD453CA3}" fieldid="Header" updated="20130724T061041Z">
+    <ja-JP>すべてのクリーンアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Cleanup Content/Brightcove Cleanup All" key="Brightcove Cleanup All" itemid="{484AE2E9-45D4-40FA-B53C-355EFD453CA3}" fieldid="__Display name" updated="20130724T061041Z">
+    <ja-JP>すべてのクリーンアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data" key="Brightcove Manage Data" itemid="{59DB4976-37DC-41FD-9304-5AD9CC4B9309}" fieldid="Tooltip" updated="20160517T131819Z">
+    <ja-JP>データ管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data" key="Brightcove Manage Data" itemid="{59DB4976-37DC-41FD-9304-5AD9CC4B9309}" fieldid="Header" updated="20160517T131819Z">
+    <ja-JP>データ管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data" key="Brightcove Manage Data" itemid="{59DB4976-37DC-41FD-9304-5AD9CC4B9309}" fieldid="__Display name" updated="20160517T131819Z">
+    <ja-JP>Brightcove メディア管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data/Brightcove Custom Fields" key="Brightcove Custom Fields" itemid="{5D1CCDB9-0375-4AD6-B663-8E6610541449}" fieldid="Header" updated="20160517T130612Z">
+    <ja-JP>カスタムフィールド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data/Brightcove Custom Fields" key="Brightcove Custom Fields" itemid="{5D1CCDB9-0375-4AD6-B663-8E6610541449}" fieldid="__Display name" updated="20160517T130612Z">
+    <ja-JP>Brightcove カスタム フィールド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data/Brightcove Custom Fields" key="Brightcove Custom Fields" itemid="{5D1CCDB9-0375-4AD6-B663-8E6610541449}" fieldid="Tooltip" updated="20160517T130612Z">
+    <ja-JP>Brightcove Custom Fields</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data/Brightcove Text Tracks" key="Brightcove Text Tracks" itemid="{59BF2E21-5159-4C3A-972E-1D571646A529}" fieldid="Header" updated="20160517T131421Z">
+    <ja-JP>テキストトラック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Media Framework/Brightcove Manage Data/Brightcove Text Tracks" key="Brightcove Text Tracks" itemid="{59BF2E21-5159-4C3A-972E-1D571646A529}" fieldid="__Display name" updated="20160517T131421Z">
+    <ja-JP>Brightcove テキストトラック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Strips/Media Framework" key="Media Framework" itemid="{9546DDBA-4772-4CC2-B6B0-0E893108E457}" fieldid="Header" updated="20130724T061929Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Strips/Media Framework" key="Media Framework" itemid="{9546DDBA-4772-4CC2-B6B0-0E893108E457}" fieldid="Tooltip" updated="20130724T061929Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Strips/Media Framework" key="Media Framework" itemid="{9546DDBA-4772-4CC2-B6B0-0E893108E457}" fieldid="__Display name" updated="20130724T061929Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework" key="Media Framework" itemid="{B84CB26F-436A-4800-9FFE-13FCBB38F246}" fieldid="__Display name" updated="20150213T101659Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos" key="MostStartedVideos" itemid="{F4DE916D-C90B-4568-8165-A8559F38582C}" fieldid="BrowserTitle" updated="20171211T213911Z">
+    <ja-JP>最も再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos" key="MostStartedVideos" itemid="{F4DE916D-C90B-4568-8165-A8559F38582C}" fieldid="__Display name" updated="20171211T213911Z">
+    <ja-JP>最も再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings" key="PageSettings" itemid="{2D083A08-FE63-4A67-A07C-B8A6F5336D45}" fieldid="__Display name" updated="20141006T093145Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/Most Started Videos" key="Most Started Videos" itemid="{03B419A6-DE8A-4668-AC65-125DABAA0839}" fieldid="Tooltip" updated="20171127T182354Z">
+    <ja-JP>最も再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/Most Started Videos" key="Most Started Videos" itemid="{03B419A6-DE8A-4668-AC65-125DABAA0839}" fieldid="Title" updated="20171127T182354Z">
+    <ja-JP>最も再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/Most Started Videos" key="Most Started Videos" itemid="{03B419A6-DE8A-4668-AC65-125DABAA0839}" fieldid="__Display name" updated="20171127T182354Z">
+    <ja-JP>最も再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/ExperienceAnalytics Stylesheet" key="ExperienceAnalytics Stylesheet" itemid="{DC79D26B-E5C1-4183-B8E0-9C807A0F6C0A}" fieldid="__Display name" updated="20141006T094401Z">
+    <ja-JP>エクスペリエンス アナリティクス スタイルシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/All visits" key="All visits" itemid="{0E338250-89C4-41E7-B1E4-A02A2F592C43}" fieldid="Title" updated="20171128T010108Z">
+    <ja-JP>オンライン インタラクションの訪問数と訪問毎のバリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/All visits" key="All visits" itemid="{0E338250-89C4-41E7-B1E4-A02A2F592C43}" fieldid="Tooltip" updated="20171128T010108Z">
+    <ja-JP>オンライン インタラクションの訪問数と訪問毎のバリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostStartedVideos/PageSettings/All visits" key="All visits" itemid="{0E338250-89C4-41E7-B1E4-A02A2F592C43}" fieldid="__Display name" updated="20171128T010108Z">
+    <ja-JP>すべての訪問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos" key="MostCompletedVideos" itemid="{35206AE2-2D57-4E0E-A5DE-038F2CE29386}" fieldid="BrowserTitle" updated="20171211T215357Z">
+    <ja-JP>最も最後まで再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos" key="MostCompletedVideos" itemid="{35206AE2-2D57-4E0E-A5DE-038F2CE29386}" fieldid="__Display name" updated="20171211T215357Z">
+    <ja-JP>最も最後まで再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings" key="PageSettings" itemid="{B2424528-33F8-42CC-A1FC-093369442679}" fieldid="__Display name" updated="20141006T093145Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/Most Finished Videos" key="Most Finished Videos" itemid="{0C2441E0-A037-4FE1-A1F5-F3FE8A632852}" fieldid="Tooltip" updated="20171127T182438Z">
+    <ja-JP>最も最後まで再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/Most Finished Videos" key="Most Finished Videos" itemid="{0C2441E0-A037-4FE1-A1F5-F3FE8A632852}" fieldid="Title" updated="20171127T182438Z">
+    <ja-JP>最も最後まで再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/Most Finished Videos" key="Most Finished Videos" itemid="{0C2441E0-A037-4FE1-A1F5-F3FE8A632852}" fieldid="__Display name" updated="20171127T182438Z">
+    <ja-JP>最も最後まで再生されたビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/ExperienceAnalytics Stylesheet" key="ExperienceAnalytics Stylesheet" itemid="{B0B677D8-D2D7-46CA-8CB3-648A790CC727}" fieldid="__Display name" updated="20141006T094401Z">
+    <ja-JP>エクスペリエンス アナリティクス スタイルシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/All visits" key="All visits" itemid="{92DFC067-118A-4717-B612-B697D872B29F}" fieldid="Tooltip" updated="20171211T214302Z">
+    <ja-JP>オンライン インタラクションの訪問数と訪問毎のバリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/All visits" key="All visits" itemid="{92DFC067-118A-4717-B612-B697D872B29F}" fieldid="Title" updated="20171211T214302Z">
+    <ja-JP>オンライン インタラクションの訪問数と訪問毎のバリュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostCompletedVideos/PageSettings/All visits" key="All visits" itemid="{92DFC067-118A-4717-B612-B697D872B29F}" fieldid="__Display name" updated="20171211T214302Z">
+    <ja-JP>すべての訪問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostPopularVideosStartedButNotCompleted" key="MostPopularVideosStartedButNotCompleted" itemid="{1FFF9A81-BE3A-45F7-AF34-B5A5C2EBCD80}" fieldid="BrowserTitle" updated="20171211T213911Z">
+    <ja-JP>最後まで再生されていないビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostPopularVideosStartedButNotCompleted" key="MostPopularVideosStartedButNotCompleted" itemid="{1FFF9A81-BE3A-45F7-AF34-B5A5C2EBCD80}" fieldid="__Display name" updated="20171211T213911Z">
+    <ja-JP>最後まで再生されていないビデオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostPopularVideosStartedButNotCompleted/PageSettings" key="PageSettings" itemid="{4AD8DA26-E4FA-4FFC-9C06-CFF44D91B4EC}" fieldid="__Display name" updated="20141006T093145Z">
+    <ja-JP>ページ設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceAnalytics/Dashboard/Media Framework/MostPopularVideosStartedButNotCompleted/PageSettings/ExperienceAnalytics Stylesheet" key="ExperienceAnalytics Stylesheet" itemid="{E14071B1-9F2F-4109-93FA-B5179B910F00}" fieldid="__Display name" updated="20141006T094401Z">
+    <ja-JP>エクスペリエンス アナリティクス スタイルシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/MediaFramework" key="MediaFramework" itemid="{4AE1A863-FFAA-4410-9FB2-6F9C7CA08489}" fieldid="__Display name" updated="20130528T073318Z">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/MediaFramework/ImagePreview" key="ImagePreview" itemid="{AFDADB5F-B7A2-4139-B0A8-F83F4C817AD0}" fieldid="__Display name" updated="20130910T091002Z">
+    <ja-JP>画像プレビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/MediaFramework/ReadOnlyCheckBox" key="ReadOnlyCheckBox" itemid="{1830CF16-ACD9-4EDF-8EBD-C87BF9FD2797}" fieldid="__Display name" updated="20130528T075110Z">
+    <ja-JP>読み取り専用チェックボックス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Field types/MediaFramework/ReadOnlyText" key="ReadOnlyText" itemid="{2BC7F47F-1CB0-4126-AE70-DD28D34444F4}" fieldid="__Display name" updated="20130528T075153Z">
+    <ja-JP>読み取り専用テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics" key="Media Framework Analytics" itemid="{89F24D51-587A-4345-8006-1FF3685E6A06}" fieldid="__Display name" updated="20131111T033639Z" database="master">
+    <ja-JP>メディア フレームワーク アナリティクス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Add Media Item Events" key="Add Media Item Events" itemid="{9850DB80-D70F-410B-9A5C-E825B4DE8F94}" fieldid="Text" updated="20131111T033527Z" database="master">
+    <ja-JP>メディアアイテムイベントの追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Add Media Item Events" key="Add Media Item Events" itemid="{9850DB80-D70F-410B-9A5C-E825B4DE8F94}" fieldid="__Display name" updated="20131111T033527Z" database="master">
+    <ja-JP>メディアアイテムイベントの追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Tags" key="Tags" itemid="{EDC2D998-F1E1-4A78-958F-34D4E89E2657}" fieldid="__Display name" updated="20131111T033256Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Tags/Default" key="Default" itemid="{1DAE8133-C064-46EA-A153-5A9CFA29FAA3}" fieldid="__Display name" updated="20131111T033323Z" database="master">
+    <ja-JP>標準</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Visibility" key="Visibility" itemid="{FDC82E2D-9683-4B87-90A2-8DAE00833128}" fieldid="__Display name" updated="20131111T033256Z" database="master">
+    <ja-JP>表示/非表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Started" key="Trigger Playback Started" itemid="{209A6D7F-D645-4606-8B63-678149DCDB5F}" fieldid="Text" updated="20131111T033839Z" database="master">
+    <ja-JP>トリガー再生開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Started" key="Trigger Playback Started" itemid="{209A6D7F-D645-4606-8B63-678149DCDB5F}" fieldid="__Display name" updated="20131111T033839Z" database="master">
+    <ja-JP>トリガー再生開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Completed" key="Trigger Playback Completed" itemid="{0FD811D2-CEC2-4121-A78C-936E579E2377}" fieldid="Text" updated="20131111T033905Z" database="master">
+    <ja-JP>トリガー再生完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Completed" key="Trigger Playback Completed" itemid="{0FD811D2-CEC2-4121-A78C-936E579E2377}" fieldid="__Display name" updated="20131111T033905Z" database="master">
+    <ja-JP>トリガー再生完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Time Reached" key="Trigger Playback Time Reached" itemid="{E1F038A0-EC3A-41D5-A91D-1033DBC839E8}" fieldid="Text" updated="20131111T033926Z" database="master">
+    <ja-JP>[timepoint,PositiveInteger,,point] に到達したトリガー再生時間</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Time Reached" key="Trigger Playback Time Reached" itemid="{E1F038A0-EC3A-41D5-A91D-1033DBC839E8}" fieldid="__Display name" updated="20131111T033926Z" database="master">
+    <ja-JP>到達したトリガー再生時間</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Percentage Complete Reached" key="Trigger Playback Percentage Complete Reached" itemid="{1400C7C3-2CE0-4BCF-A126-DBBC39B7A0C8}" fieldid="Text" updated="20131111T033944Z" database="master">
+    <ja-JP>トリガー再生 [percentagepoint,PositiveInteger,,level] パーセント完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Percentage Complete Reached" key="Trigger Playback Percentage Complete Reached" itemid="{1400C7C3-2CE0-4BCF-A126-DBBC39B7A0C8}" fieldid="__Display name" updated="20131111T033944Z" database="master">
+    <ja-JP>トリガー再生パーセンテージ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Error" key="Trigger Playback Error" itemid="{DCE8B7D5-1822-44E0-A1C9-96679A9810D3}" fieldid="Text" updated="20131111T034000Z" database="master">
+    <ja-JP>トリガー再生エラー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Analytics/Trigger Playback Error" key="Trigger Playback Error" itemid="{DCE8B7D5-1822-44E0-A1C9-96679A9810D3}" fieldid="__Display name" updated="20131111T034000Z" database="master">
+    <ja-JP>トリガー再生エラー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules" key="Media Framework Command Rules" itemid="{D560404B-55ED-4596-BDF3-343095D01355}" fieldid="__Display name" updated="20131111T035329Z" database="master">
+    <ja-JP>メディア フレームワーク コマンドルール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Command State Statuses" key="Command State Statuses" itemid="{AEF77D80-EE48-4441-8903-E3D93154697E}" fieldid="__Display name" updated="20131111T081835Z" database="master">
+    <ja-JP>コマンド状態ステータス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Command State Statuses/Down" key="Down" itemid="{6CB74323-D108-4B4C-9A3A-67120FAA5812}" fieldid="__Display name" updated="20131111T081835Z" database="master">
+    <ja-JP>下げる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Command State Statuses/Disabled" key="Disabled" itemid="{3082C385-0F59-44F7-86EE-D1423EEA15F1}" fieldid="__Display name" updated="20131111T081835Z" database="master">
+    <ja-JP>無効</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Command State Statuses/Enabled" key="Enabled" itemid="{3F2F8F53-B8BA-476E-B93E-EE38C9E3432C}" fieldid="__Display name" updated="20131111T081835Z" database="master">
+    <ja-JP>有効</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Command State Statuses/Hidden" key="Hidden" itemid="{2036B65A-1CCC-4981-8967-758CBEC1ACEB}" fieldid="__Display name" updated="20131111T081835Z" database="master">
+    <ja-JP>隠す</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Set Command State" key="Set Command State" itemid="{11478F1A-62F2-4DE5-A927-295FFACD934B}" fieldid="Text" updated="20131111T035426Z" database="master">
+    <ja-JP>コマンド状態を [CommandStateId,Tree,root={AEF77D80-EE48-4441-8903-E3D93154697E},特定のコマンド状態]に設定します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Set Command State" key="Set Command State" itemid="{11478F1A-62F2-4DE5-A927-295FFACD934B}" fieldid="__Display name" updated="20131111T035426Z" database="master">
+    <ja-JP>コマンド状態の設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Tags" key="Tags" itemid="{F4AF24AE-EE18-4657-9B91-F72259FDA0AB}" fieldid="__Display name" updated="20131111T035329Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Tags/Default" key="Default" itemid="{555FB535-8B48-4F67-8909-05FE1B22B45C}" fieldid="__Display name" updated="20131111T041222Z" database="master">
+    <ja-JP>標準</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Command Rules/Visibility" key="Visibility" itemid="{0219C422-75A0-433E-BBAE-50B0144DCE69}" fieldid="__Display name" updated="20131111T035329Z" database="master">
+    <ja-JP>表示/非表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common" key="Media Framework Common" itemid="{A0ACE81D-761F-4524-8306-BAED6F070763}" fieldid="__Display name" updated="20131111T063101Z" database="master">
+    <ja-JP>メディア フレームワーク共通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Tags" key="Tags" itemid="{1D0284C4-CAB1-4EB3-8035-BF4AA7C1B1DE}" fieldid="__Display name" updated="20131111T063101Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Tags/Default" key="Default" itemid="{B03A8167-9FF8-469C-A718-FD1F0FE6C239}" fieldid="__Display name" updated="20140203T045704Z" database="master">
+    <ja-JP>標準</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Visibility" key="Visibility" itemid="{7CC1AED6-572D-4B01-9A3B-FD7DC8D98A43}" fieldid="__Display name" updated="20131111T063101Z" database="master">
+    <ja-JP>表示/非表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Account Template" key="Account Template" itemid="{83D94CB1-5123-4F67-9DEE-22586E8F2DE9}" fieldid="Text" updated="20131111T063206Z" database="master">
+    <ja-JP>アカウントテンプレートは [templateid,Tree,root={2C6D024D-30C7-4015-8177-08D619CE28E5},specific template]</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Account Template" key="Account Template" itemid="{83D94CB1-5123-4F67-9DEE-22586E8F2DE9}" fieldid="__Display name" updated="20131111T063206Z" database="master">
+    <ja-JP>アカウントのテンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Export is Allowed" key="Export is Allowed" itemid="{47E9EE27-3642-4EB3-A1A8-A49AE6263E87}" fieldid="Text" updated="20131111T063328Z" database="master">
+    <ja-JP>メディアのエクスポートが許可されている</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/Definitions/Elements/Media Framework Common/Export is Allowed" key="Export is Allowed" itemid="{47E9EE27-3642-4EB3-A1A8-A49AE6263E87}" fieldid="__Display name" updated="20131111T063328Z" database="master">
+    <ja-JP>エクスポートの許可</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/MediaFramework" key="MediaFramework" itemid="{E821C2C4-5827-4757-AA6D-2FABD15F9626}" fieldid="__Display name" updated="20131111T082938Z" database="master">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/MediaFramework/Rules" key="Rules" itemid="{FB70EC4A-20C4-40C0-91CF-F5C00BEE6AE0}" fieldid="__Display name" updated="20131111T083023Z" database="master">
+    <ja-JP>ルール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/MediaFramework/Tags" key="Tags" itemid="{37EC263A-80BE-466F-BC1C-9DA44CE8BD10}" fieldid="__Display name" updated="20131111T083029Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Rules/MediaFramework/Tags/Default" key="Default" itemid="{94E2FDFD-EE1B-4094-BD64-CB75D6B0A361}" fieldid="__Display name" updated="20131111T034215Z" database="master">
+    <ja-JP>標準</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework" key="Media Framework" itemid="{A2BD37BD-1F37-45D7-A35C-1F8B6E1CCF13}" fieldid="__Display name" updated="20171127T201238Z" database="master">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackChanged" key="PlaybackChanged" itemid="{634C87A9-4E01-4C69-9522-215865012DC5}" fieldid="Name" updated="20171127T201231Z" database="master">
+    <ja-JP>再生変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackChanged" key="PlaybackChanged" itemid="{634C87A9-4E01-4C69-9522-215865012DC5}" fieldid="__Display name" updated="20171127T201231Z" database="master">
+    <ja-JP>再生変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackCompleted" key="PlaybackCompleted" itemid="{035B4467-A848-4D57-A465-401B035FDE98}" fieldid="Name" updated="20171127T201223Z" database="master">
+    <ja-JP>再生完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackCompleted" key="PlaybackCompleted" itemid="{035B4467-A848-4D57-A465-401B035FDE98}" fieldid="__Display name" updated="20171127T201223Z" database="master">
+    <ja-JP>再生完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackError" key="PlaybackError" itemid="{5F51C65D-796C-43BE-B9C4-5855159AF18B}" fieldid="Name" updated="20171127T201217Z" database="master">
+    <ja-JP>再生エラー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackError" key="PlaybackError" itemid="{5F51C65D-796C-43BE-B9C4-5855159AF18B}" fieldid="__Display name" updated="20171127T201217Z" database="master">
+    <ja-JP>再生エラー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackStarted" key="PlaybackStarted" itemid="{76B6B0EA-F4BC-41AC-8BBA-CD4BBBF8E438}" fieldid="Name" updated="20171127T201208Z" database="master">
+    <ja-JP>再生開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Settings/Analytics/Page Events/Media Framework/PlaybackStarted" key="PlaybackStarted" itemid="{76B6B0EA-F4BC-41AC-8BBA-CD4BBBF8E438}" fieldid="__Display name" updated="20171127T201208Z" database="master">
+    <ja-JP>再生開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework" key="Media Framework" itemid="{3CEF9AA4-837B-4B00-BE66-B3F1A316A6F1}" fieldid="__Display name" updated="20191031T010347Z" database="master">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account" key="Brightcove Account" itemid="{24A40CEF-BCD5-4407-A9D9-FA203141ECAC}" fieldid="__Display name" updated="20191031T010354Z" database="master">
+    <ja-JP>Brightcove アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account/$name/Media Content" key="Media Content" itemid="{5E3FB41E-52CE-431F-8B72-73184A387EAF}" fieldid="__Display name" updated="20191031T010253Z" database="master">
+    <ja-JP>メディア コンテンツ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account/$name/Players" key="Players" itemid="{94F2FB87-2E4B-48A7-95FE-B6CACC8D5759}" fieldid="__Display name" updated="20191031T010519Z" database="master">
+    <ja-JP>プレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account/$name/Tags" key="Tags" itemid="{E2437395-4E29-459E-8DD4-25CD8A292588}" fieldid="__Display name" updated="20191031T010328Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Account" key="Brightcove Account" itemid="{D0497E69-98E5-421E-ADD4-EEAB4E5B7208}" fieldid="__Display name" updated="20130923T085043Z" database="master">
+    <ja-JP>Brightcove アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Video" key="Brightcove Video" itemid="{1356E0A8-C8DD-4F38-8D17-B5A463027317}" fieldid="__Display name" updated="20130918T020258Z" database="master">
+    <ja-JP>Brightcove アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/Branches/Media Framework/Brightcove/Brightcove Video Player" key="Brightcove Video Player" itemid="{6506FE28-3F57-48B2-B66A-EF50C97714A9}" fieldid="__Display name" updated="20131113T014617Z" database="master">
+    <ja-JP>Brightcove ビデオプレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework" key="MediaFramework" itemid="{A6AA5AAF-BEDF-4B5D-BFFF-F6A9FFC61C93}" fieldid="__Display name" updated="20171120T230432Z" database="master">
+    <ja-JP>メディア フレームワーク</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common" key="Common" itemid="{99DFCDF8-8814-445F-805B-FC5E8F527400}" fieldid="__Display name" updated="20130724T042700Z" database="master">
+    <ja-JP>共通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/AccountSettings" key="AccountSettings" itemid="{B508C806-C0A9-4D19-8F68-DB04D66FF2D3}" fieldid="__Display name" updated="20130815T093013Z" database="master">
+    <ja-JP>アカウント設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/AccountSettings/Analytics" key="Analytics" itemid="{E869D249-3EF4-4260-991D-F4DB40D387C0}" fieldid="__Display name" updated="20131111T090640Z" database="master">
+    <ja-JP>アナリティクス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/AccountSettings/Analytics/PlaybackEventsRules" key="PlaybackEventsRules" itemid="{12112D15-A3DE-4B42-A700-DE1B9666391B}" fieldid="__Display name" updated="20131111T090640Z" database="master">
+    <ja-JP>プレイバック イベント ルール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/AccountSettings/Analytics/PlaybackEventsRules" key="PlaybackEventsRules" itemid="{12112D15-A3DE-4B42-A700-DE1B9666391B}" fieldid="Title" updated="20131111T090640Z" database="master">
+    <ja-JP>プレイバック イベント ルール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/MediaElement" key="MediaElement" itemid="{7C758A18-26A4-48F0-A2AA-068246A27322}" fieldid="__Display name" updated="20130724T065830Z" database="master">
+    <ja-JP>メディア エレメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/MediaElement/Analytics" key="Analytics" itemid="{A36313BE-D838-40BD-9895-10E184F808BD}" fieldid="__Display name" updated="20130820T031536Z" database="master">
+    <ja-JP>アナリティクス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/MediaElement/Analytics/Events" key="Events" itemid="{C923961C-5664-43D2-85D2-D194143197DF}" fieldid="__Display name" updated="20130918T011345Z" database="master">
+    <ja-JP>イベント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/MediaElement/Analytics/Events" key="Events" itemid="{C923961C-5664-43D2-85D2-D194143197DF}" fieldid="Title" updated="20130918T011345Z" database="master">
+    <ja-JP>イベント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent" key="PlaybackEvent" itemid="{3A2C7FC4-BCD6-4B8B-BED7-A45E023B31DB}" fieldid="__Display name" updated="20130820T031119Z" database="master">
+    <ja-JP>プレイバック イベント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent/Data" key="Data" itemid="{AED31AE2-9B10-4060-BB2E-94B14C64FCE5}" fieldid="__Display name" updated="20130820T030919Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent/Data/PageEvent" key="PageEvent" itemid="{7CCB928C-7EB0-465A-A755-D4BD7256BD58}" fieldid="__Display name" updated="20130820T032046Z" database="master">
+    <ja-JP>ページ イベント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent/Data/PageEvent" key="PageEvent" itemid="{7CCB928C-7EB0-465A-A755-D4BD7256BD58}" fieldid="Title" updated="20130820T032046Z" database="master">
+    <ja-JP>ページ イベント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent/Data/Parameter" key="Parameter" itemid="{E1E68B6B-5C30-41D3-B6C9-7089B5CE1B34}" fieldid="__Display name" updated="20130918T011554Z" database="master">
+    <ja-JP>パラメータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Common/PlaybackEvent/Data/Parameter" key="Parameter" itemid="{E1E68B6B-5C30-41D3-B6C9-7089B5CE1B34}" fieldid="Title" updated="20130918T011554Z" database="master">
+    <ja-JP>パラメータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccount/Credentials/PublisherID" key="PublisherID" itemid="{3B2A0B52-EEB1-42A9-989D-DD0F57986E67}" fieldid="Title" updated="20130820T035635Z" database="master">
+    <ja-JP>Publisher ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccount/Credentials/ClientId" key="ClientId" itemid="{E7FCF624-4A36-4BE8-B2F5-D5C30BE677C4}" fieldid="Title" updated="20160504T080504Z" database="master">
+    <ja-JP>Client Id</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccount/Credentials/ClientSecret" key="ClientSecret" itemid="{F537C3A0-152C-4AE1-A21B-EBF69B8EE51B}" fieldid="Title" updated="20160504T080512Z" database="master">
+    <ja-JP>Client Secret</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/Data" key="Data" itemid="{4D82E4C2-0A9D-494E-A328-D79A9F22C59D}" fieldid="__Display name" updated="20130918T014105Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/Data/DefaultVideoPlayer" key="DefaultVideoPlayer" itemid="{F122FBAE-16CF-4D7F-A351-55A0E80A35CA}" fieldid="__Display name" updated="20130912T030324Z" database="master">
+    <ja-JP>標準ビデオプレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/Data/DefaultVideoPlayer" key="DefaultVideoPlayer" itemid="{F122FBAE-16CF-4D7F-A351-55A0E80A35CA}" fieldid="Title" updated="20130912T030324Z" database="master">
+    <ja-JP>標準ビデオプレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/Data/DefaultPlaylistPlayer" key="DefaultPlaylistPlayer" itemid="{F0C25F85-7F6D-44E1-9DF8-86E6A7EE7039}" fieldid="__Display name" updated="20130912T030328Z" database="master">
+    <ja-JP>標準プレイリストプレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveAccountSettings/Data/DefaultPlaylistPlayer" key="DefaultPlaylistPlayer" itemid="{F0C25F85-7F6D-44E1-9DF8-86E6A7EE7039}" fieldid="Title" updated="20130912T030328Z" database="master">
+    <ja-JP>標準プレイリストプレイヤー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ID" key="ID" itemid="{A5B025C5-2F6B-45AF-BEE6-92883D9291D6}" fieldid="Title" updated="20130918T014714Z" database="master">
+    <ja-JP>ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/Name" key="Name" itemid="{437A7D9F-7A50-4955-B3AE-583EBA5AD35A}" fieldid="__Display name" updated="20130918T014744Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/Name" key="Name" itemid="{437A7D9F-7A50-4955-B3AE-583EBA5AD35A}" fieldid="Title" updated="20130918T014744Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ReferenceId" key="ReferenceId" itemid="{A6D7AA5F-97DF-44C7-9AA4-4C7430E2DE2A}" fieldid="Title" updated="20130724T070734Z" database="master">
+    <ja-JP>Reference Id</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ThumbnailURL" key="ThumbnailURL" itemid="{2ECDE5D3-BFDE-4A5F-8D20-7C6DBA2BBFA0}" fieldid="__Display name" updated="20130910T092117Z" database="master">
+    <ja-JP>サムネイル URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ThumbnailURL" key="ThumbnailURL" itemid="{2ECDE5D3-BFDE-4A5F-8D20-7C6DBA2BBFA0}" fieldid="Title" updated="20130910T092117Z" database="master">
+    <ja-JP>サムネイル URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ShortDescription" key="ShortDescription" itemid="{2AF799D0-C019-4518-B166-0513C37218E8}" fieldid="__Display name" updated="20130724T070734Z" database="master">
+    <ja-JP>短い説明文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveMediaElement/Brightcove Media Data/ShortDescription" key="ShortDescription" itemid="{2AF799D0-C019-4518-B166-0513C37218E8}" fieldid="Title" updated="20130724T070734Z" database="master">
+    <ja-JP>短い説明文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/CreationDate" key="CreationDate" itemid="{00270BAC-F30A-4B54-8AA6-614159522F5B}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>作成日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/CreationDate" key="CreationDate" itemid="{00270BAC-F30A-4B54-8AA6-614159522F5B}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>作成日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LongDescription" key="LongDescription" itemid="{42136A7A-FCA2-4F5F-836A-9EC2A0DA2534}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>長い説明文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LongDescription" key="LongDescription" itemid="{42136A7A-FCA2-4F5F-836A-9EC2A0DA2534}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>長い説明文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/PublishedDate" key="PublishedDate" itemid="{4B223FFD-5972-4A8D-8CF7-08793E99BCA2}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>公開日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/PublishedDate" key="PublishedDate" itemid="{4B223FFD-5972-4A8D-8CF7-08793E99BCA2}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>公開日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LastModifiedDate" key="LastModifiedDate" itemid="{87E30397-7707-41D5-A4C9-500B01D80F5E}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>最終編集日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LastModifiedDate" key="LastModifiedDate" itemid="{87E30397-7707-41D5-A4C9-500B01D80F5E}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>最終編集日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/Economics" key="Economics" itemid="{22579C0B-2BB7-47EB-AE54-39CC8D9899C5}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>エコノミック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/Economics" key="Economics" itemid="{22579C0B-2BB7-47EB-AE54-39CC8D9899C5}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>エコノミック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LinkURL" key="LinkURL" itemid="{385F26A8-80DD-4408-A090-5D8A3A759775}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>リンク URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LinkURL" key="LinkURL" itemid="{385F26A8-80DD-4408-A090-5D8A3A759775}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>リンク URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LinkText" key="LinkText" itemid="{FBB25ADD-22F8-4D4A-88A5-F648528FD299}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>リンク テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/LinkText" key="LinkText" itemid="{FBB25ADD-22F8-4D4A-88A5-F648528FD299}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>リンク テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/Tags" key="Tags" itemid="{23250E7A-1548-4D0E-8870-957535235EE4}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/Tags" key="Tags" itemid="{23250E7A-1548-4D0E-8870-957535235EE4}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/VideoStillURL" key="VideoStillURL" itemid="{161A7C32-673B-43DA-9D1F-9D2A2226FCD6}" fieldid="__Display name" updated="20160504T162613Z" database="master">
+    <ja-JP>ビデオの URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/VideoStillURL" key="VideoStillURL" itemid="{161A7C32-673B-43DA-9D1F-9D2A2226FCD6}" fieldid="Title" updated="20160504T162613Z" database="master">
+    <ja-JP>ビデオの URL</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/CustomFields" key="CustomFields" itemid="{1CE3B5F5-FCEF-49C4-88D4-F5FB335E1C74}" fieldid="__Display name" updated="20160531T074411Z" database="master">
+    <ja-JP>カスタムフィールド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideo/Brightcove Video Data/CustomFields" key="CustomFields" itemid="{1CE3B5F5-FCEF-49C4-88D4-F5FB335E1C74}" fieldid="Title" updated="20160531T074411Z" database="master">
+    <ja-JP>カスタムフィールド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data" key="Brightcove Playlist Data" itemid="{C93212FF-8252-43C9-A20F-F5A2F760A233}" fieldid="__Display name" updated="20160504T162736Z" database="master">
+    <ja-JP>Brightcove プレイリスト データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/PlaylistType" key="PlaylistType" itemid="{70059B46-11D1-45F3-B92E-45DF21AF8310}" fieldid="__Display name" updated="20160504T162736Z" database="master">
+    <ja-JP>プレイリスト形式</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/PlaylistType" key="PlaylistType" itemid="{70059B46-11D1-45F3-B92E-45DF21AF8310}" fieldid="Title" updated="20160504T162736Z" database="master">
+    <ja-JP>プレイリスト形式</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/TagInclusion" key="TagInclusion" itemid="{878C3F5B-303E-4F38-B42E-98F107372440}" fieldid="__Display name" updated="20160504T162736Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/TagInclusion" key="TagInclusion" itemid="{878C3F5B-303E-4F38-B42E-98F107372440}" fieldid="Title" updated="20160504T162736Z" database="master">
+    <ja-JP>タグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/FilterTags" key="FilterTags" itemid="{C2B3AEB0-5CA9-4E2B-A75C-D9E5261BA0C1}" fieldid="__Display name" updated="20160504T162736Z" database="master">
+    <ja-JP>フィルタータグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/FilterTags" key="FilterTags" itemid="{C2B3AEB0-5CA9-4E2B-A75C-D9E5261BA0C1}" fieldid="Title" updated="20160504T162736Z" database="master">
+    <ja-JP>フィルタータグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/VideoIds" key="VideoIds" itemid="{1526509E-D99A-48FB-8CCA-246B388B83FB}" fieldid="__Display name" updated="20160504T162736Z" database="master">
+    <ja-JP>ビデオ ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcovePlaylist/Brightcove Playlist Data/VideoIds" key="VideoIds" itemid="{1526509E-D99A-48FB-8CCA-246B388B83FB}" fieldid="Title" updated="20160504T162736Z" database="master">
+    <ja-JP>ビデオ ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveTag/Data" key="Data" itemid="{50B132DE-169C-4D51-87E8-046F2FC67057}" fieldid="__Display name" updated="20130918T015405Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveTag/Data/Name" key="Name" itemid="{24FD815E-EBCE-4D16-90C1-62C66CEC95F2}" fieldid="__Display name" updated="20130918T015432Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveTag/Data/Name" key="Name" itemid="{24FD815E-EBCE-4D16-90C1-62C66CEC95F2}" fieldid="Title" updated="20130918T015432Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Brightcove Data" key="Brightcove Data" itemid="{4F29CF13-C4B5-4805-8D6A-1B7FBC76C752}" fieldid="__Display name" updated="20160524T162829Z" database="master">
+    <ja-JP>Brightcove データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Brightcove Data/ID" key="ID" itemid="{6A3B39AF-C59A-4E3F-86C8-EB0E846CF6E6}" fieldid="Title" updated="20160524T162829Z" database="master">
+    <ja-JP>ID</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Player/ShowPlaylist" key="ShowPlaylist" itemid="{E09287AB-76D7-4F11-A759-58BE886F85A1}" fieldid="__Display name" updated="20160531T082845Z" database="master">
+    <ja-JP>プレイリストの表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Player/ShowPlaylist" key="ShowPlaylist" itemid="{E09287AB-76D7-4F11-A759-58BE886F85A1}" fieldid="Title" updated="20160531T082845Z" database="master">
+    <ja-JP>プレイリストの表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Player/AutoStart" key="AutoStart" itemid="{31E644DE-B18A-4972-96A9-158747B8D79C}" fieldid="__Display name" updated="20160524T162830Z" database="master">
+    <ja-JP>自動再生</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Player/AutoStart" key="AutoStart" itemid="{31E644DE-B18A-4972-96A9-158747B8D79C}" fieldid="Title" updated="20160524T162830Z" database="master">
+    <ja-JP>自動再生</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/templates/MediaFramework/Brightcove/BrightcoveVideoPlayer/Player/CssClass" key="CssClass" itemid="{BEACD02A-B365-468E-83C7-3ADA3C58DB4F}" fieldid="Title" updated="20160531T082846Z" database="master">
+    <ja-JP>CSS Class</ja-JP>
+  </phrase>
+</sitecore>

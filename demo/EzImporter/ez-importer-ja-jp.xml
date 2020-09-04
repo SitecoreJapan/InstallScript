@@ -1,0 +1,17 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Ez Importer" key="Ez Importer" itemid="{456FDC70-532C-4CAA-9195-28C0D24BEEFB}" fieldid="Text" updated="20151220T231328Z">
+    <ja-JP>Ez Importer</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/EzImporter/EzImporterDialog" key="EzImporterDialog" itemid="{E0986455-1512-4409-93C1-7DA72A2AB315}" fieldid="BrowserTitle" updated="20161028T062750Z">
+    <ja-JP>EzImporterDialog</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/EzImporter/EzImporterDialog/PageSettings/DataImportTabs/Data" key="Data" itemid="{27F32DC7-2453-4DEA-A58E-FF3898E3EBE2}" fieldid="Header" updated="20160403T120123Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/EzImporter/EzImporterDialog/PageSettings/DataImportTabs/Options" key="Options" itemid="{F4D43CBA-8D8D-4A87-8176-C3D8FB639DFE}" fieldid="Header" updated="20180303T225342Z">
+    <ja-JP>$name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/EzImporter/EzImporterDialog/PageSettings/DataImportTabs/Mapping" key="Mapping" itemid="{F2E0358B-C765-4B3D-81C5-A0CF8389AC03}" fieldid="Header" updated="20161101T224130Z">
+    <ja-JP>マッピング</ja-JP>
+  </phrase>
+</sitecore>
