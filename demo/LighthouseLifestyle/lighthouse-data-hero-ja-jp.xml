@@ -1,0 +1,613 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros" key="Heros" itemid="{DEA8D1CD-D2DF-4009-88B4-97D6CD53E3A5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros" key="Category Heros" itemid="{3452DB49-6B80-44B7-84AF-AB514F6DADC9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カテゴリー ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health" key="Lighthouse Health" itemid="{27A07D06-DE33-49C6-A8B5-C6C1E64F9786}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ヘルス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Fitness Trackers" key="Fitness Trackers" itemid="{C2E4412B-2FFE-48FB-B642-AFA676E87B24}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブルフィットネストラッカーは、これまで以上にスマートで安価で、それらのカロリーに対する戦争を開始します。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Fitness Trackers" key="Fitness Trackers" itemid="{C2E4412B-2FFE-48FB-B642-AFA676E87B24}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{580ED437-7A14-463D-A81A-0F94FCAA7A92}" alt="フィットネストラッカー" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Fitness Trackers" key="Fitness Trackers" itemid="{C2E4412B-2FFE-48FB-B642-AFA676E87B24}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ファッションと機能</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Fitness Trackers" key="Fitness Trackers" itemid="{C2E4412B-2FFE-48FB-B642-AFA676E87B24}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{2B5C26AA-D32D-424A-90DC-C56F775E618B}" alt="フィットネストラッカー" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Fitness Trackers" key="Fitness Trackers" itemid="{C2E4412B-2FFE-48FB-B642-AFA676E87B24}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネス トラッカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Home Gym" key="Home Gym" itemid="{FD1F08FE-BAE7-4901-9148-63783B3BFCDE}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>高性能トレーニングのための家庭用ジムとホームジムの設備を幅広く購入できます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Home Gym" key="Home Gym" itemid="{FD1F08FE-BAE7-4901-9148-63783B3BFCDE}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5AF2C84C-803F-49BC-B33A-D803AD4A3E14}" alt="ジム機材" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Home Gym" key="Home Gym" itemid="{FD1F08FE-BAE7-4901-9148-63783B3BFCDE}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>フルボディーインパクトと快適性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Home Gym" key="Home Gym" itemid="{FD1F08FE-BAE7-4901-9148-63783B3BFCDE}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{DF4319A1-8516-495C-A23E-BC025B808B91}" alt="エクササイズバイク" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Home Gym" key="Home Gym" itemid="{FD1F08FE-BAE7-4901-9148-63783B3BFCDE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム ジム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Womens Beauty" key="Womens Beauty" itemid="{B51E9DCD-BAF6-4659-A2F6-4D4AD9D35946}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>
+次世代の健康美容製品がここにあります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Womens Beauty" key="Womens Beauty" itemid="{B51E9DCD-BAF6-4659-A2F6-4D4AD9D35946}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{084FAEAF-0356-45DA-96B3-EA8C1C1535A3}" alt="歯磨き" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Womens Beauty" key="Womens Beauty" itemid="{B51E9DCD-BAF6-4659-A2F6-4D4AD9D35946}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>すべての女性をサポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Womens Beauty" key="Womens Beauty" itemid="{B51E9DCD-BAF6-4659-A2F6-4D4AD9D35946}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{FCD12D6D-D76B-4DEF-9E0C-D25E1B8995B6}" alt="歯ブラシ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Womens Beauty" key="Womens Beauty" itemid="{B51E9DCD-BAF6-4659-A2F6-4D4AD9D35946}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>女性の美容</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Mens Grooming" key="Mens Grooming" itemid="{29E5A94B-1947-430D-ACDA-DEDB06A7BCC7}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>あなたが必要とする必須のグルーミングとスキンケア製品を購入しましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Mens Grooming" key="Mens Grooming" itemid="{29E5A94B-1947-430D-ACDA-DEDB06A7BCC7}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{69BAA908-6A3E-42F7-9645-E2C81F96959A}" alt="髭剃り" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Mens Grooming" key="Mens Grooming" itemid="{29E5A94B-1947-430D-ACDA-DEDB06A7BCC7}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>グルーミングルーチンをアップグレードする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Mens Grooming" key="Mens Grooming" itemid="{29E5A94B-1947-430D-ACDA-DEDB06A7BCC7}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{70B8A724-DF20-4EEF-9929-7A404637FE9C}" alt="髭剃り" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Mens Grooming" key="Mens Grooming" itemid="{29E5A94B-1947-430D-ACDA-DEDB06A7BCC7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>男性の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Subscriptions" key="Subscriptions" itemid="{ADB91091-3FCC-4B88-9A38-52F76D7952FD}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>今ハビタットデジタル購読を開始しましょう！</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Subscriptions" key="Subscriptions" itemid="{ADB91091-3FCC-4B88-9A38-52F76D7952FD}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{4E1B5236-26B1-4E7A-B997-8B8E025B9CB5}" alt="ラップトップでエクササイズ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Subscriptions" key="Subscriptions" itemid="{ADB91091-3FCC-4B88-9A38-52F76D7952FD}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>デジタル サブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Subscriptions" key="Subscriptions" itemid="{ADB91091-3FCC-4B88-9A38-52F76D7952FD}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D13F48B7-AEC4-4ED2-80B7-48DB52A03699}" alt="製品イメージ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Lighthouse Health/Subscriptions" key="Subscriptions" itemid="{ADB91091-3FCC-4B88-9A38-52F76D7952FD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go" key="On the Go" itemid="{0920AD50-E282-40B8-9345-83F4AEF5FF26}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>モバイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Mobile" key="Mobile" itemid="{E5891D24-DC59-4547-BBF0-CA4E027E0846}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;どこにいても接続してください。ハビタットの携帯電話やスマートフォンでWebサーフィン、写真撮影、ビジネスを行う。強力なプロセッサーと直観的なインターフェースにより、モバイル体験が向上します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Mobile" key="Mobile" itemid="{E5891D24-DC59-4547-BBF0-CA4E027E0846}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{9295AFA2-E01D-43FB-AF60-9BB6401927F0}" alt="スマートフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Mobile" key="Mobile" itemid="{E5891D24-DC59-4547-BBF0-CA4E027E0846}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>あなたの手のひらの力</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Mobile" key="Mobile" itemid="{E5891D24-DC59-4547-BBF0-CA4E027E0846}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5C23342F-C365-4695-AFD0-2CA58CB72F21}" alt="スマートフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Mobile" key="Mobile" itemid="{E5891D24-DC59-4547-BBF0-CA4E027E0846}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>モバイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Tablets" key="Tablets" itemid="{CF734DE4-40E0-4B72-A774-F8D28720E925}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;タッチスクリーンとアタッチ可能なキーボードは、簡単なナビゲーションと効率的なワープロを意味します。フロントとリアのカメラと使いやすいスタイラスにより、どこからでも作成、再生、作業ができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Tablets" key="Tablets" itemid="{CF734DE4-40E0-4B72-A774-F8D28720E925}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D641BFA2-6363-4D6C-A218-37526BA785A0}" alt="タブレット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Tablets" key="Tablets" itemid="{CF734DE4-40E0-4B72-A774-F8D28720E925}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>タッチ、ゴー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Tablets" key="Tablets" itemid="{CF734DE4-40E0-4B72-A774-F8D28720E925}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E4783610-C608-4293-BA3C-237792CBB5EE}" alt="タブレット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Tablets" key="Tablets" itemid="{CF734DE4-40E0-4B72-A774-F8D28720E925}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Headphones" key="Headphones" itemid="{C86EFD2A-8EFD-4470-A9A9-A7D594AEBE88}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;外出先、ジム、または空中で音楽を聴く。ハビタットのイヤホンとヘッドホンは、小型のプロファイルで優れた音を出します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Headphones" key="Headphones" itemid="{C86EFD2A-8EFD-4470-A9A9-A7D594AEBE88}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E7E63D9E-C6BC-4166-8163-EBFB566C190B}" alt="ヘッドフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Headphones" key="Headphones" itemid="{C86EFD2A-8EFD-4470-A9A9-A7D594AEBE88}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP> あなた自身のビートにグルーヴ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Headphones" key="Headphones" itemid="{C86EFD2A-8EFD-4470-A9A9-A7D594AEBE88}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{04E4A3D4-7CAE-411C-A7EC-918936B73C8B}" alt="ヘッドホン製品" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Headphones" key="Headphones" itemid="{C86EFD2A-8EFD-4470-A9A9-A7D594AEBE88}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヘッドフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Wearables" key="Wearables" itemid="{3DA9ACE7-C267-4483-85B2-BAAA66EF09F1}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F5E11C3E-6AF7-4B25-AF41-08A6F173B45A}" alt="ウエアラブル" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Wearables" key="Wearables" itemid="{3DA9ACE7-C267-4483-85B2-BAAA66EF09F1}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ファッションと機能</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Wearables" key="Wearables" itemid="{3DA9ACE7-C267-4483-85B2-BAAA66EF09F1}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D13F48B7-AEC4-4ED2-80B7-48DB52A03699}" alt="ウェアラブル" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Wearables" key="Wearables" itemid="{3DA9ACE7-C267-4483-85B2-BAAA66EF09F1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Accessories" key="Accessories" itemid="{ADDE76EA-1D5B-4CB1-8FDF-DE423929E389}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ハビタットのモバイルアクセサリーで何かを忘れることはありません。信頼性の高い充電器、頑丈なケース、またはスマートフォンカメラの機能強化が必要な場合でも、Lighthouseには特別な機能があります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Accessories" key="Accessories" itemid="{ADDE76EA-1D5B-4CB1-8FDF-DE423929E389}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D7FC1E3B-8702-4C7D-8373-CB1EC9F2E819}" alt="チャージ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Accessories" key="Accessories" itemid="{ADDE76EA-1D5B-4CB1-8FDF-DE423929E389}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>チャージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Accessories" key="Accessories" itemid="{ADDE76EA-1D5B-4CB1-8FDF-DE423929E389}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5ECD9BCD-F9F5-4BB6-A231-E69D01196836}" alt="充電" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/On the Go/Accessories" key="Accessories" itemid="{ADDE76EA-1D5B-4CB1-8FDF-DE423929E389}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アクセサリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment" key="Entertainment" itemid="{F4B5C05F-647E-4762-9045-3A144F1F3E9C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>エンターテイメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Home Theater" key="Home Theater" itemid="{03F2C4D9-F39D-4B9D-B364-ADE0A6236AEB}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スペースを節約できるサウンドバーや7.1サラウンドシステムが必要な場合でも、Lighthouse Auraは映画、テレビ番組、音楽を最高に引き出します。エレガントなデザインはあなたの家を褒める。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Home Theater" key="Home Theater" itemid="{03F2C4D9-F39D-4B9D-B364-ADE0A6236AEB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{955DDE5C-00D8-4B9F-BC49-913DF38054E1}" alt="ホームシアター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Home Theater" key="Home Theater" itemid="{03F2C4D9-F39D-4B9D-B364-ADE0A6236AEB}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C9B1B0A5-DD09-4DEF-8305-A864CC85D0F7}" alt="ホームシアター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Home Theater" key="Home Theater" itemid="{03F2C4D9-F39D-4B9D-B364-ADE0A6236AEB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホームシアター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Televisions" key="Televisions" itemid="{EA5B68C3-E118-42CE-93AF-E7D93CAF9486}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ハビタットのUHDとHDTVは爆発的な色と鮮明な画像を提供し、大ヒットを飾っています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Televisions" key="Televisions" itemid="{EA5B68C3-E118-42CE-93AF-E7D93CAF9486}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F8454421-62A2-4BEF-8A49-A28C8405DC86}" alt="テレビ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Televisions" key="Televisions" itemid="{EA5B68C3-E118-42CE-93AF-E7D93CAF9486}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>新しい解像度へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Televisions" key="Televisions" itemid="{EA5B68C3-E118-42CE-93AF-E7D93CAF9486}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{AF6ACA8C-6D62-4DAD-A8A5-7E45874F8F59}" alt="テレビ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Televisions" key="Televisions" itemid="{EA5B68C3-E118-42CE-93AF-E7D93CAF9486}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Speakers" key="Speakers" itemid="{C2BCC990-D175-478C-8500-B8DB8811DA1C}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>なめらかなデザインと簡単なセットアップで、Lighthouseのスピーカーラインはホームシアターの勝利をもたらします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Speakers" key="Speakers" itemid="{C2BCC990-D175-478C-8500-B8DB8811DA1C}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C1337CD2-E12D-4DA5-BBA3-49877678023B}" alt="ホームシアター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Speakers" key="Speakers" itemid="{C2BCC990-D175-478C-8500-B8DB8811DA1C}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>素晴らしい音はここから</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Speakers" key="Speakers" itemid="{C2BCC990-D175-478C-8500-B8DB8811DA1C}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C9B1B0A5-DD09-4DEF-8305-A864CC85D0F7}" alt="ホームシアター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Speakers" key="Speakers" itemid="{C2BCC990-D175-478C-8500-B8DB8811DA1C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スピーカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Gaming" key="Gaming" itemid="{C83AE894-69B6-4132-A975-FF38100D9698}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ハビタットが提供する単一のゲームの定期購読の一部にピークを持つ。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Gaming" key="Gaming" itemid="{C83AE894-69B6-4132-A975-FF38100D9698}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{BAE0D9AA-3AEA-4764-B2B5-4CC7D0EAE651}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Gaming" key="Gaming" itemid="{C83AE894-69B6-4132-A975-FF38100D9698}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse のゲームサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Gaming" key="Gaming" itemid="{C83AE894-69B6-4132-A975-FF38100D9698}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ACF43C58-88FC-4DF2-A25D-A5B9D49A4A25}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Gaming" key="Gaming" itemid="{C83AE894-69B6-4132-A975-FF38100D9698}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Car Audio" key="Car Audio" itemid="{0C42B860-6FF6-4565-9992-17BF162EB2FB}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse XSoundシステムで、あなたの車のサウンドシステムをゼロから60まで変えてみませんか。オーディオマニア品質のスピーカーが、あなたのドライビングエクスペリエンスを一変させ、原始的なオーディオであなたを包み込みます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Car Audio" key="Car Audio" itemid="{0C42B860-6FF6-4565-9992-17BF162EB2FB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{CBEAE1E0-DFFD-4C0E-97DB-2ABC55ECDC7D}" alt="カーオーディオ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Car Audio" key="Car Audio" itemid="{0C42B860-6FF6-4565-9992-17BF162EB2FB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>カーオーディオを強化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Car Audio" key="Car Audio" itemid="{0C42B860-6FF6-4565-9992-17BF162EB2FB}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{6DF76C6D-0D28-4A80-8ADC-F7C82EA7BD4D}" alt="カーナビ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Entertainment/Car Audio" key="Car Audio" itemid="{0C42B860-6FF6-4565-9992-17BF162EB2FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カーオーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity" key="Productivity" itemid="{71993896-C04D-47E7-97F1-D578E3E8B7E5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロダクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/All-in-Ones" key="All-in-Ones" itemid="{9E321453-952D-48CF-B1AE-B416431F4DDB}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;誰が、あなたは両方の世界のベストを持つことはできないと言います。ハビタットスパークオールインワンは、あらゆるオフィスにフィットするスリムなプロファイルで、デスクトップのパワー、スピード、そして見事な明快さを提供します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/All-in-Ones" key="All-in-Ones" itemid="{9E321453-952D-48CF-B1AE-B416431F4DDB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{CEC0FA21-6176-49F2-A4EC-FF6D72137192}" alt="オールインワン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/All-in-Ones" key="All-in-Ones" itemid="{9E321453-952D-48CF-B1AE-B416431F4DDB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>強さとスタイルは相互に排他的ではない</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/All-in-Ones" key="All-in-Ones" itemid="{9E321453-952D-48CF-B1AE-B416431F4DDB}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5268D307-E912-468F-88D8-B13BEB544551}" alt="オールインワン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/All-in-Ones" key="All-in-Ones" itemid="{9E321453-952D-48CF-B1AE-B416431F4DDB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オールインワン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Two-in-Ones" key="Two-in-Ones" itemid="{78F78D47-504D-430E-A76C-80760EB9CB85}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;タッチスクリーンとアタッチ可能なキーボードは、簡単なナビゲーションと効率的なワープロを意味します。フロントとリアのカメラと使いやすいスタイラスにより、どこからでも作成、再生、作業ができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Two-in-Ones" key="Two-in-Ones" itemid="{78F78D47-504D-430E-A76C-80760EB9CB85}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D641BFA2-6363-4D6C-A218-37526BA785A0}" alt="タブレット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Two-in-Ones" key="Two-in-Ones" itemid="{78F78D47-504D-430E-A76C-80760EB9CB85}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>タッチ、タイプ、ゴー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Two-in-Ones" key="Two-in-Ones" itemid="{78F78D47-504D-430E-A76C-80760EB9CB85}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E4783610-C608-4293-BA3C-237792CBB5EE}" alt="タブレット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Two-in-Ones" key="Two-in-Ones" itemid="{78F78D47-504D-430E-A76C-80760EB9CB85}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ツーインワン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Laptops" key="Laptops" itemid="{3B0CEF6D-B0FC-4182-B8B2-3BF1DDF29C95}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;光。 Nimble。頑固な。 Lighthouse Miraラップトップは、1TBのハードドライブと最大17時間のバッテリ寿命を備えています。作業を続け、ストリーミングを維持し、最後まで仕上げます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Laptops" key="Laptops" itemid="{3B0CEF6D-B0FC-4182-B8B2-3BF1DDF29C95}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{1A9D27AB-04E9-4376-9706-4B4B7CBB2051}" alt="ラップトップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Laptops" key="Laptops" itemid="{3B0CEF6D-B0FC-4182-B8B2-3BF1DDF29C95}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>遠くまで行くコンピューティング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Laptops" key="Laptops" itemid="{3B0CEF6D-B0FC-4182-B8B2-3BF1DDF29C95}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7A41E3E8-B7BC-4607-AB4E-7EE076CB48F3}" alt="ラップトップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Laptops" key="Laptops" itemid="{3B0CEF6D-B0FC-4182-B8B2-3BF1DDF29C95}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Mobile" key="Mobile" itemid="{5020F426-387C-45FF-A65D-9BA10F4FBF13}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;どこにいても接続してください。ハビタットの携帯電話やスマートフォンでWebサーフィン、写真撮影、ビジネスを行う。強力なプロセッサーと直観的なインターフェースにより、モバイル体験が向上します&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Mobile" key="Mobile" itemid="{5020F426-387C-45FF-A65D-9BA10F4FBF13}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{9295AFA2-E01D-43FB-AF60-9BB6401927F0}" alt="スマートフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Mobile" key="Mobile" itemid="{5020F426-387C-45FF-A65D-9BA10F4FBF13}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>手のひらのパワー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Mobile" key="Mobile" itemid="{5020F426-387C-45FF-A65D-9BA10F4FBF13}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5C23342F-C365-4695-AFD0-2CA58CB72F21}" alt="スマートフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Productivity/Mobile" key="Mobile" itemid="{5020F426-387C-45FF-A65D-9BA10F4FBF13}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>モバイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home" key="At Home" itemid="{FFDC5CBE-7497-4408-91D5-146B89F80F58}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Smart Home" key="Smart Home" itemid="{8813D2EF-1A78-4B95-9E86-E5DEF2F8FC3A}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>First-class safety meets luxe design. Lighthouse Sentinel offers both keyed and keyless entry for smart security. Lock and unlock your door using your smartphone for easy, on-the-go access.</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Smart Home" key="Smart Home" itemid="{8813D2EF-1A78-4B95-9E86-E5DEF2F8FC3A}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5FD5E0EE-2054-4DB8-96F7-7CD0D717D8E1}" alt="タブレット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Smart Home" key="Smart Home" itemid="{8813D2EF-1A78-4B95-9E86-E5DEF2F8FC3A}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>つながりを保つ。安全でいよう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Smart Home" key="Smart Home" itemid="{8813D2EF-1A78-4B95-9E86-E5DEF2F8FC3A}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{22A4330F-028B-494E-809D-421D2DF257C1}" alt="ドアロック" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Smart Home" key="Smart Home" itemid="{8813D2EF-1A78-4B95-9E86-E5DEF2F8FC3A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Security" key="Security" itemid="{61B4C0A7-3755-4809-BCEE-8B300CFDF3A9}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>ファーストクラスの安全性と高級感のあるデザイン。ライトハウスセンチネルは、スマートなセキュリティを実現するために、鍵付きとキーレスエントリーの両方を提供しています。スマートフォンを使ってドアのロックとロック解除を行うことで、外出先からでも簡単にアクセスできます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Security" key="Security" itemid="{61B4C0A7-3755-4809-BCEE-8B300CFDF3A9}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{43B28A99-9CD7-4D47-8BCC-7B5D213ACEEF}" alt="スマートロック" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Security" key="Security" itemid="{61B4C0A7-3755-4809-BCEE-8B300CFDF3A9}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>セキュリティはグランドエントランスを作る</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Security" key="Security" itemid="{61B4C0A7-3755-4809-BCEE-8B300CFDF3A9}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{22A4330F-028B-494E-809D-421D2DF257C1}" alt="スマートロック" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Security" key="Security" itemid="{61B4C0A7-3755-4809-BCEE-8B300CFDF3A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>セキュリティ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Thermostats" key="Thermostats" itemid="{9D155520-E83F-4C02-BDE3-CB67922B551C}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse センチネルのサーモスタットは、あなたの習慣を学習し、最も必要な時に必要な場所で温度を最適化します。私たちはあなたを快適に保ち、同時にエネルギーを節約するのに役立ちます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Thermostats" key="Thermostats" itemid="{9D155520-E83F-4C02-BDE3-CB67922B551C}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{78E09D52-9BD3-4896-980A-95BD1C05786C}" alt="温度計" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Thermostats" key="Thermostats" itemid="{9D155520-E83F-4C02-BDE3-CB67922B551C}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>家はあなたが快適に過ごせる場所だから</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Thermostats" key="Thermostats" itemid="{9D155520-E83F-4C02-BDE3-CB67922B551C}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{02A55A46-C9F5-4B80-A042-CCE7CC507048}" alt="温度計" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Thermostats" key="Thermostats" itemid="{9D155520-E83F-4C02-BDE3-CB67922B551C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サーモスタット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Computers" key="Computers" itemid="{E1BCDBBA-BA7A-4684-B021-980728A745D4}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>超高性能、拡張ストレージ、余裕のあるディスプレイ。これ以上のものはありません。Lighthouse Sparkデスクトップコンピュータは、予算に見合った魅力的な価格帯で提供します。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Computers" key="Computers" itemid="{E1BCDBBA-BA7A-4684-B021-980728A745D4}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C6C42CB9-0CC4-4859-92C1-FB90C45E6776}" alt="デスクトップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Computers" key="Computers" itemid="{E1BCDBBA-BA7A-4684-B021-980728A745D4}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>他に類を見ないパフォーマンスが必要な場合</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Computers" key="Computers" itemid="{E1BCDBBA-BA7A-4684-B021-980728A745D4}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{63AC4DFE-EB17-4696-BEFA-DB860F7E192A}" alt="デスクトップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/At Home/Computers" key="Computers" itemid="{E1BCDBBA-BA7A-4684-B021-980728A745D4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンピューター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances" key="Appliances" itemid="{264B3B17-7CE4-4929-A183-B7848E9EFBB8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Coffee Makers" key="Coffee Makers" itemid="{AEB3C4A6-C5AC-42AD-9D15-C25529DA63BB}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>温かくて淹れたてのコーヒーがあなたを待っています。Lighthouse Dwellのマルチカップコーヒーメーカーは、淹れ方の強さとタイミングをコントロールできます。シングルサーブモデルは、持ち運びに便利で後片付けも簡単です。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Coffee Makers" key="Coffee Makers" itemid="{AEB3C4A6-C5AC-42AD-9D15-C25529DA63BB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{1FB17F4F-2CEA-4DED-9571-552C87328666}" alt="コーヒーメーカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Coffee Makers" key="Coffee Makers" itemid="{AEB3C4A6-C5AC-42AD-9D15-C25529DA63BB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>  パーソナルバリスタのご紹介</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Coffee Makers" key="Coffee Makers" itemid="{AEB3C4A6-C5AC-42AD-9D15-C25529DA63BB}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{3BB43C33-E744-435C-B383-C5C94F8D379E}" alt="コーヒーメーカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Coffee Makers" key="Coffee Makers" itemid="{AEB3C4A6-C5AC-42AD-9D15-C25529DA63BB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コーヒーメーカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Handhelds" key="Handhelds" itemid="{11547F74-86D4-4B82-9B7E-136EF4377D2A}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>最もシンプルな家電製品でも、大きな効果を発揮します。Lighthouse Dwellのスチームモップと掃除機は、汚れ、ホコリ、アレルゲンを取り除き、健康的な家庭を作ります。10速と12速のミキサーは、いつでも完璧な生地を作ることができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Handhelds" key="Handhelds" itemid="{11547F74-86D4-4B82-9B7E-136EF4377D2A}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A0D6F761-0D73-4814-9157-4DC3417A4CB8}" alt="ハンドヘルド" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Handhelds" key="Handhelds" itemid="{11547F74-86D4-4B82-9B7E-136EF4377D2A}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>小さなパッケージに入ったビッグタイムセーバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Handhelds" key="Handhelds" itemid="{11547F74-86D4-4B82-9B7E-136EF4377D2A}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A64296C6-AA42-48FC-A873-534B5CF1E365}" alt="ハンドヘルド" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Handhelds" key="Handhelds" itemid="{11547F74-86D4-4B82-9B7E-136EF4377D2A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ハンドヘルド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Laundry" key="Laundry" itemid="{D8B01E28-AE42-4F45-8497-D804440089D8}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>より白い白、より大胆な色、すべてを記録的な時間で。Lighthouse Gleamウォッシャーには、複数のオプションとサイクルが用意されており、正確な洗浄が可能です。先進の乾燥技術により、洗濯物を35%速く仕上げることができ、より多くの時間を過ごすことができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Laundry" key="Laundry" itemid="{D8B01E28-AE42-4F45-8497-D804440089D8}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{53020A83-A299-45D9-BD21-8C6EC637B12D}" alt="洗濯機" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Laundry" key="Laundry" itemid="{D8B01E28-AE42-4F45-8497-D804440089D8}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>スーパークリーンと超高速の出会い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Laundry" key="Laundry" itemid="{D8B01E28-AE42-4F45-8497-D804440089D8}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{DCC069DF-5B63-4BA2-AD68-B73510EFF8B4}" alt="洗濯機" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Laundry" key="Laundry" itemid="{D8B01E28-AE42-4F45-8497-D804440089D8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>洗濯機</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Microwaves" key="Microwaves" itemid="{143E0EE2-6CDE-4784-82DC-D35D1A005F74}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse Centerpieceの電子レンジは、対流調理が可能なので、セカンドオーブンとしても使えます。プリセットボタンで、ポップコーンを完璧にポップしたり、再加熱したりすることができます。オプションのトリムキットを使えば、ビルトインのような外観になります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Microwaves" key="Microwaves" itemid="{143E0EE2-6CDE-4784-82DC-D35D1A005F74}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F6E2A279-8F3E-47C3-9E9D-48C25FC24BED}" alt="電子レンジ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Microwaves" key="Microwaves" itemid="{143E0EE2-6CDE-4784-82DC-D35D1A005F74}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>効率的な料理、再定義</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Microwaves" key="Microwaves" itemid="{143E0EE2-6CDE-4784-82DC-D35D1A005F74}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F742D556-4BC0-4E2B-A7F8-ECDD16F59568}" alt="電子レンジ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Microwaves" key="Microwaves" itemid="{143E0EE2-6CDE-4784-82DC-D35D1A005F74}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>電子レンジ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Ranges" key="Ranges" itemid="{52CEEE90-DE14-4166-AEC1-7EE5AB2C57BA}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>ライトハウスのセンターピースレンジは、後方から対流して熱を均等に分散させることができます。ガスコンロも電気コンロも、記録的な速さで沸騰させることができます。何よりも優れているのは、互換性のあるアプリでプログラム可能なコントロールができることです。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Ranges" key="Ranges" itemid="{52CEEE90-DE14-4166-AEC1-7EE5AB2C57BA}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{1CC601E9-BC2A-4FB2-A108-D48BAA72E8E2}" alt="料理" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Ranges" key="Ranges" itemid="{52CEEE90-DE14-4166-AEC1-7EE5AB2C57BA}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>より良い調理方法</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Ranges" key="Ranges" itemid="{52CEEE90-DE14-4166-AEC1-7EE5AB2C57BA}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{9540D93A-E131-4C65-9600-6900EF77984F}" alt="料理" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Ranges" key="Ranges" itemid="{52CEEE90-DE14-4166-AEC1-7EE5AB2C57BA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>レンジ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Refrigerators" key="Refrigerators" itemid="{12B2BE9B-A22D-4B2B-BDD3-872C352694B0}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>Helix Viva冷蔵庫は、当社のモバイルアプリを介してホームネットワークに接続します。家族の写真を表示したり、食品の在庫を追跡したり、ボタンを押すだけで温度をコントロールしたりすることができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Refrigerators" key="Refrigerators" itemid="{12B2BE9B-A22D-4B2B-BDD3-872C352694B0}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{30A64D3F-28F5-48BF-873F-4937087C5607}" alt="冷蔵庫" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Refrigerators" key="Refrigerators" itemid="{12B2BE9B-A22D-4B2B-BDD3-872C352694B0}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>良いボタンはここから始まる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Refrigerators" key="Refrigerators" itemid="{12B2BE9B-A22D-4B2B-BDD3-872C352694B0}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{2081B39E-9999-4670-B38E-5698A05E9A5D}" alt="冷蔵庫" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Refrigerators" key="Refrigerators" itemid="{12B2BE9B-A22D-4B2B-BDD3-872C352694B0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>冷蔵庫</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Vacuums" key="Vacuums" itemid="{A6CA7CD2-C61D-49F6-B89D-A338C34447BB}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>ライトハウスのパワフルな掃除機で、ホコリやペットの毛などのアレルゲンにさよならを言いましょう。軽量の直立型モデルであらゆる隙間に届くか、ロボスイープにお任せください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Vacuums" key="Vacuums" itemid="{A6CA7CD2-C61D-49F6-B89D-A338C34447BB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5217F791-1070-478D-912A-7B59EBD92E6A}" alt="掃除機" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Vacuums" key="Vacuums" itemid="{A6CA7CD2-C61D-49F6-B89D-A338C34447BB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>健康的な家庭のためのツール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Vacuums" key="Vacuums" itemid="{A6CA7CD2-C61D-49F6-B89D-A338C34447BB}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7B608630-51CA-4893-B536-A849E144EE6E}" alt="掃除機" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Appliances/Vacuums" key="Vacuums" itemid="{A6CA7CD2-C61D-49F6-B89D-A338C34447BB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>掃除機</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming" key="Gaming" itemid="{4B0E4173-34BC-46D1-ABAB-61B5D5293173}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/NextCube Accessories" key="NextCube Accessories" itemid="{D978F2A4-A718-4D48-8E02-A83DE22F1F7E}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;span style="color: #141919;"&gt;Lighthouse が提供するアクセサリーを見てみましょう。&amp;nbsp;&lt;/span&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/NextCube Accessories" key="NextCube Accessories" itemid="{D978F2A4-A718-4D48-8E02-A83DE22F1F7E}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E532E6D0-9E5E-4BBB-AD65-756C3CD9243E}" alt="パソコン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/NextCube Accessories" key="NextCube Accessories" itemid="{D978F2A4-A718-4D48-8E02-A83DE22F1F7E}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse NextCube アクセサリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/NextCube Accessories" key="NextCube Accessories" itemid="{D978F2A4-A718-4D48-8E02-A83DE22F1F7E}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ACF43C58-88FC-4DF2-A25D-A5B9D49A4A25}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/NextCube Accessories" key="NextCube Accessories" itemid="{D978F2A4-A718-4D48-8E02-A83DE22F1F7E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>NextCube アクセサリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Consoles" key="Consoles" itemid="{BDD71B67-731C-4306-A260-2B8C73075960}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;span style="color: #141919;"&gt;Lighthouse のコンソールを見る&amp;nbsp;&lt;/span&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Consoles" key="Consoles" itemid="{BDD71B67-731C-4306-A260-2B8C73075960}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{BAE0D9AA-3AEA-4764-B2B5-4CC7D0EAE651}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Consoles" key="Consoles" itemid="{BDD71B67-731C-4306-A260-2B8C73075960}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse コンソール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Consoles" key="Consoles" itemid="{BDD71B67-731C-4306-A260-2B8C73075960}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ACF43C58-88FC-4DF2-A25D-A5B9D49A4A25}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Consoles" key="Consoles" itemid="{BDD71B67-731C-4306-A260-2B8C73075960}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse コンソール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Multi-game Subscriptions" key="Multi-game Subscriptions" itemid="{FB967F28-9887-4B91-9B2D-1E77A0AE10F3}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;span style="color: #141919;"&gt;Lighthouse のマルチゲームサブスクリプションをチェック&amp;nbsp;&lt;/span&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Multi-game Subscriptions" key="Multi-game Subscriptions" itemid="{FB967F28-9887-4B91-9B2D-1E77A0AE10F3}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{BAE0D9AA-3AEA-4764-B2B5-4CC7D0EAE651}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Multi-game Subscriptions" key="Multi-game Subscriptions" itemid="{FB967F28-9887-4B91-9B2D-1E77A0AE10F3}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>複数のゲームのサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Multi-game Subscriptions" key="Multi-game Subscriptions" itemid="{FB967F28-9887-4B91-9B2D-1E77A0AE10F3}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ACF43C58-88FC-4DF2-A25D-A5B9D49A4A25}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Multi-game Subscriptions" key="Multi-game Subscriptions" itemid="{FB967F28-9887-4B91-9B2D-1E77A0AE10F3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>複数のゲームのサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Single Game subscriptions" key="Single Game subscriptions" itemid="{46B1ABF0-2089-4DD6-819C-FC35F614CE97}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;span style="color: #141919;"&gt;Lighthouseが提供するシングルゲームのサブスクリプションの一部をご覧ください。&amp;nbsp;&lt;/span&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Single Game subscriptions" key="Single Game subscriptions" itemid="{46B1ABF0-2089-4DD6-819C-FC35F614CE97}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{BAE0D9AA-3AEA-4764-B2B5-4CC7D0EAE651}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Single Game subscriptions" key="Single Game subscriptions" itemid="{46B1ABF0-2089-4DD6-819C-FC35F614CE97}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse シングルゲームのサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Single Game subscriptions" key="Single Game subscriptions" itemid="{46B1ABF0-2089-4DD6-819C-FC35F614CE97}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ACF43C58-88FC-4DF2-A25D-A5B9D49A4A25}" alt="ゲーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Gaming/Single Game subscriptions" key="Single Game subscriptions" itemid="{46B1ABF0-2089-4DD6-819C-FC35F614CE97}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse シングルゲームのサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services" key="Services" itemid="{5FB43D36-EB7D-439C-80CF-B8045C064DC1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Gift Cards" key="Gift Cards" itemid="{42F12A0D-4028-4E2E-BE91-E4E4352C8DA3}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたの友人、家族、同僚に、いつも覚えている贈り物、ハビタットギフトカードをプレゼントしてください。どんな金額でもご利用いただけます。ギフトカードは、愛する人にハビタットの味を提供します。高度なテクノロジーを備えたスタイリッシュな製品、スマートな機能、シームレスなデザインです。それは簡単にうまく生きる贈り物です。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Gift Cards" key="Gift Cards" itemid="{42F12A0D-4028-4E2E-BE91-E4E4352C8DA3}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{627AA15D-190C-46CA-88BB-EBD598E6063F}" alt="カード" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Gift Cards" key="Gift Cards" itemid="{42F12A0D-4028-4E2E-BE91-E4E4352C8DA3}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ハビタットのギフトカードに特別な人を扱う</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Gift Cards" key="Gift Cards" itemid="{42F12A0D-4028-4E2E-BE91-E4E4352C8DA3}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{98981D25-57CD-4DC8-8953-B5B2601D83BF}" alt="ギフトカード" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Gift Cards" key="Gift Cards" itemid="{42F12A0D-4028-4E2E-BE91-E4E4352C8DA3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Warranties and Installation" key="Warranties and Installation" itemid="{11DDF356-141D-4F7F-9DCC-79E6AFB9642D}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;インストールをしましょう。既存のHelixProサービス保証期間を1年間最大3年間延長することで、元の契約プランからあらゆる種類の保護サービスを受けることができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Warranties and Installation" key="Warranties and Installation" itemid="{11DDF356-141D-4F7F-9DCC-79E6AFB9642D}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{73398813-9AB9-46A4-B305-EC7BB7E97A14}" alt="保証" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Warranties and Installation" key="Warranties and Installation" itemid="{11DDF356-141D-4F7F-9DCC-79E6AFB9642D}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>心も背中も楽に</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Warranties and Installation" key="Warranties and Installation" itemid="{11DDF356-141D-4F7F-9DCC-79E6AFB9642D}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F59B8EA3-1188-470E-AAF4-B4B8F41EE043}" alt="保証" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Warranties and Installation" key="Warranties and Installation" itemid="{11DDF356-141D-4F7F-9DCC-79E6AFB9642D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>保障とインストール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Fitness Subscriptions" key="Fitness Subscriptions" itemid="{345D8051-7F97-4BBB-B901-8E897C6A3461}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ハビタットのデジタル購読をチェックしてください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Fitness Subscriptions" key="Fitness Subscriptions" itemid="{345D8051-7F97-4BBB-B901-8E897C6A3461}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D3D2377F-3B87-4A7B-948C-A609B9D8A339}" alt="フィットネス" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Fitness Subscriptions" key="Fitness Subscriptions" itemid="{345D8051-7F97-4BBB-B901-8E897C6A3461}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>デジタルサブスクリプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Fitness Subscriptions" key="Fitness Subscriptions" itemid="{345D8051-7F97-4BBB-B901-8E897C6A3461}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D13F48B7-AEC4-4ED2-80B7-48DB52A03699}" alt="フィットネス" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Services/Fitness Subscriptions" key="Fitness Subscriptions" itemid="{345D8051-7F97-4BBB-B901-8E897C6A3461}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネス購読</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Cameras" key="Cameras" itemid="{99375E3C-5C5C-4B40-91AA-217A2E85BB67}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lighthouse Sentinel Security Cameraは、モーション検出機能と選択可能なズーム機能を搭載し、重要な映像を取得します。複数のプログラムにより、どこからでもあなたのセキュリティシステムに関わり、監視することができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Cameras" key="Cameras" itemid="{99375E3C-5C5C-4B40-91AA-217A2E85BB67}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{51831BF4-8AFE-4F51-B8AF-B8DAECA92A1C}" alt="セキュリティ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Cameras" key="Cameras" itemid="{99375E3C-5C5C-4B40-91AA-217A2E85BB67}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>あなたの最も大切な資産を守るために</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Cameras" key="Cameras" itemid="{99375E3C-5C5C-4B40-91AA-217A2E85BB67}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{56D9D3C5-9511-4386-A7C7-6C14FE02ED98}" alt="セキュリティー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Cameras" key="Cameras" itemid="{99375E3C-5C5C-4B40-91AA-217A2E85BB67}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Health Beauty" key="Health Beauty" itemid="{0AFF8C07-5635-4507-B2CD-5D4B890B7DB4}" fieldid="{E50B8DC2-0EC1-47AF-B1DA-0A6622368986}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;健康と美容とフィットネス&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Health Beauty" key="Health Beauty" itemid="{0AFF8C07-5635-4507-B2CD-5D4B890B7DB4}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D3D2377F-3B87-4A7B-948C-A609B9D8A339}" alt="フィットネス" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Health Beauty" key="Health Beauty" itemid="{0AFF8C07-5635-4507-B2CD-5D4B890B7DB4}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>健康と美容</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Health Beauty" key="Health Beauty" itemid="{0AFF8C07-5635-4507-B2CD-5D4B890B7DB4}" fieldid="{0D089052-245B-4B23-8042-B63D06C8FE64}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D13F48B7-AEC4-4ED2-80B7-48DB52A03699}" alt="トラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Heros/Category Heros/Health Beauty" key="Health Beauty" itemid="{0AFF8C07-5635-4507-B2CD-5D4B890B7DB4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>健康と美容</ja-JP>
+  </phrase>
+</sitecore>

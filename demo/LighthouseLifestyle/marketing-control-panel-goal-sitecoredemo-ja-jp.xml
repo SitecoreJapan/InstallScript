@@ -1,0 +1,107 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo" key="SitecoreDemo" itemid="{0C21F083-63E7-4CDF-AEED-E029996B088B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Sitecore デモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Dollar" key="Clicked Dollar" itemid="{465F8167-4561-4AAD-BD16-A194D225D583}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>金額をクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Dollar" key="Clicked Dollar" itemid="{465F8167-4561-4AAD-BD16-A194D225D583}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>金額をクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Percent" key="Clicked Percent" itemid="{003DE217-D3F0-44CB-BF4E-D83DCE4F63FB}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>パーセントをクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Percent" key="Clicked Percent" itemid="{003DE217-D3F0-44CB-BF4E-D83DCE4F63FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>パーセントをクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Content Finder Completed" key="Content Finder Completed" itemid="{596FDFA9-9E21-4B9D-9B54-EB97F724E1DA}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>コンテンツファインダーを完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Content Finder Completed" key="Content Finder Completed" itemid="{596FDFA9-9E21-4B9D-9B54-EB97F724E1DA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツファインダーを完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Delete Profile" key="Delete Profile" itemid="{83A9DF9A-D7D9-4B73-BAE0-4F77B4935462}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>プロファイルを削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Delete Profile" key="Delete Profile" itemid="{83A9DF9A-D7D9-4B73-BAE0-4F77B4935462}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロファイルを削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Export Data" key="Export Data" itemid="{D0EF461C-3AA0-40B8-9B5F-C1723E54F6ED}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>データをエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Export Data" key="Export Data" itemid="{D0EF461C-3AA0-40B8-9B5F-C1723E54F6ED}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データをエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Facebook Login" key="Facebook Login" itemid="{A105784E-01DC-4EC1-9F7D-F581C7EB2C27}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>Facebook ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Facebook Login" key="Facebook Login" itemid="{A105784E-01DC-4EC1-9F7D-F581C7EB2C27}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Facebook ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Fitness Tracker Registered" key="Fitness Tracker Registered" itemid="{A81FC0A2-BFBA-439B-B412-EE6F07379F14}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Fitness Tracker Registered" key="Fitness Tracker Registered" itemid="{A81FC0A2-BFBA-439B-B412-EE6F07379F14}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Foodie Feast Sign Up Complete" key="Foodie Feast Sign Up Complete" itemid="{2A2EBECC-D066-4FBC-8701-BBA74AAC9F2E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>フードフェストサインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Foodie Feast Sign Up Complete" key="Foodie Feast Sign Up Complete" itemid="{2A2EBECC-D066-4FBC-8701-BBA74AAC9F2E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フードフェストサインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Healthy Living List Sign Up Complete" key="Healthy Living List Sign Up Complete" itemid="{213D0627-7D8B-45B3-BD7A-DE7C399FBC5A}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>健康生活リスト 登録完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Healthy Living List Sign Up Complete" key="Healthy Living List Sign Up Complete" itemid="{213D0627-7D8B-45B3-BD7A-DE7C399FBC5A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>健康生活リスト 登録完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Home Installation Request" key="Home Installation Request" itemid="{D9A6C542-9EAF-4408-B379-E7376DE939E1}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>住宅設備工事のご依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Home Installation Request" key="Home Installation Request" itemid="{D9A6C542-9EAF-4408-B379-E7376DE939E1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>住宅設備工事のご依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Marketing Sign Up" key="Marketing Sign Up" itemid="{ECC7FA00-8B66-47E4-AAD2-5477E6C9D8B7}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>マーケティングサインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Marketing Sign Up" key="Marketing Sign Up" itemid="{ECC7FA00-8B66-47E4-AAD2-5477E6C9D8B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>マーケティングサインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{098F51D0-E7A6-490E-B990-BEFEE13CDC86}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{098F51D0-E7A6-490E-B990-BEFEE13CDC86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Purchase Complete" key="Purchase Complete" itemid="{78387702-166A-4B38-B21D-5AC1FEC3F59E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>購入完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Purchase Complete" key="Purchase Complete" itemid="{78387702-166A-4B38-B21D-5AC1FEC3F59E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>購入完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Read Fitness Tech Article" key="Read Fitness Tech Article" itemid="{47194BAD-5160-4427-951C-3CD6B3D36623}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>フィットネステックの記事を読む</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Read Fitness Tech Article" key="Read Fitness Tech Article" itemid="{47194BAD-5160-4427-951C-3CD6B3D36623}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネステックの記事を読む</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Striva 4 Notification Sign Up Complete" key="Striva 4 Notification Sign Up Complete" itemid="{95810E6D-E7B5-4D15-A3E4-B064B148E2E2}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>Striva 4 通知サインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Striva 4 Notification Sign Up Complete" key="Striva 4 Notification Sign Up Complete" itemid="{95810E6D-E7B5-4D15-A3E4-B064B148E2E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Striva 4 通知サインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Submit Sample Lead Generation Form" key="Submit Sample Lead Generation Form" itemid="{9093C03F-FF05-43A4-A1E8-B663D3622756}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>サンプルリードジェネレーションフォームの提出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Submit Sample Lead Generation Form" key="Submit Sample Lead Generation Form" itemid="{9093C03F-FF05-43A4-A1E8-B663D3622756}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サンプルリードジェネレーションフォームの提出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Trainer Finder Complete" key="Trainer Finder Complete" itemid="{A39866FF-6B67-49A1-9D42-34890ABB4815}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>トレーナーファインダー完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Trainer Finder Complete" key="Trainer Finder Complete" itemid="{A39866FF-6B67-49A1-9D42-34890ABB4815}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>トレーナーファインダー完了</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,727 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{62EE8A3C-59ED-4C9A-B7FD-F99B9BE543FD}" alt="guides or blogs navigation image" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>デザインや製品のアイデアを提供する最先端のライフスタイルリソース。スマートホームテクノロジーや最新のキッチン家電をお探しの方に最適なガイドをご用意しています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>デザインや製品のアイデアを提供する最先端のライフスタイルリソース。スマートホームテクノロジーや最新のキッチン家電をお探しの方に最適なガイドをご用意しています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイルの記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイルの記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>デザインや製品のアイデアを提供する最先端のライフスタイルリソース。スマートホームテクノロジーや最新のキッチン家電をお探しの方に最適なガイドをご用意しています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles" key="articles" itemid="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Data" key="Data" itemid="{651D0258-2D1C-48F2-91BA-00349171E68D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Data/Hero" key="Hero" itemid="{0C5985E3-FC21-4D6D-8227-FFEC002659C7}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{72B290CE-823D-404B-B925-C49E868B033E}" alt="キッチン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Data/Hero" key="Hero" itemid="{0C5985E3-FC21-4D6D-8227-FFEC002659C7}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>専門家から学ぶ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Data/Hero" key="Hero" itemid="{0C5985E3-FC21-4D6D-8227-FFEC002659C7}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse インサイト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc nisl, pellentesque quis pretium at, placerat in ligula. Phasellus ac eros rhoncus, rhoncus justo sed, accumsan neque. Etiam hendrerit a justo a ullamcorper. Curabitur faucibus finibus nisi, vitae consectetur tortor rutrum a. Donec molestie dui nisi, sit amet semper risus pharetra in. Pellentesque pellentesque ut magna tempus tincidunt. Vestibulum congue metus sit amet nulla volutpat tristique.&lt;/p&gt;
+&lt;p&gt;Proin tristique sed neque quis fringilla. Quisque erat orci, eleifend nec odio eu, volutpat finibus arcu. Maecenas ac tellus vel sem tincidunt imperdiet quis sit amet ipsum. Aenean rutrum elementum purus, accumsan feugiat ligula accumsan nec. Vivamus ac massa efficitur diam pretium venenatis. Ut ultrices bibendum ex, vitae tempor nulla. Duis aliquam, lectus quis tincidunt fringilla, dui dolor porta risus, ac iaculis ante odio sed magna. Fusce pretium nisi et ante porta, at malesuada turpis dignissim. In id risus sit amet turpis eleifend rutrum. Suspendisse dapibus neque nibh. Etiam rhoncus nisl et nulla tincidunt tristique.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;設定して忘れる。もう二度と空腹になることはない L'Lorem ipsum dolor sit amet, consectetur adipiscing elit. 整数は、あなたは、あなたの前庭で、あなたは、あなたがしていることを確認してください。幼稚園児のための、ちょうど良い場所にある、新しいものです。周りの人は、そのようなことはありませんでした.   周りの人々は、このような状況の中で、このようなゲームをプレイすることはできません.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7367FFA5-A84E-49F7-A025-A040A9ABA72E}" alt="自動化されたキッチン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;忙しくて食事を忘れてしまうことも！？接続された調理家電を使って食事を自動化し、常に質の高い食事ができるようにしましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>夕食の自動化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>接続された調理家電を使って食事を自動化し、常に質の高い食事ができるようにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>夕食の自動化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>接続された調理家電を使って食事を自動化し、常に質の高い食事ができるようにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>接続された調理家電を使って食事を自動化し、常に質の高い食事ができるようにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>夕食の自動化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>夕食の自動化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/automate-dinner" key="automate-dinner" itemid="{10F66202-C76C-40F9-8247-66328B96338E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>夕食の自動化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et nisl lacinia, congue libero vitae, vulputate elit. Nunc varius magna quis arcu tincidunt consequat. Praesent tristique volutpat elit, vel ultrices dui tempor sed. Donec sit amet rhoncus ex. Aliquam dignissim tortor volutpat vulputate auctor. Proin et dolor vehicula, dictum eros condimentum, venenatis enim. Sed sodales lectus sit amet sapien rutrum, non faucibus mi cursus. Praesent ut sem quis massa suscipit bibendum. Quisque euismod diam in urna consequat rutrum. Cras luctus vehicula odio, nec elementum neque ullamcorper eget. Integer vitae lacinia felis, at congue dui. Suspendisse a hendrerit quam. Nulla velit arcu, fringilla a pulvinar sollicitudin, commodo ac elit.&lt;/p&gt;
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>適切な機器があれば、あらゆる目標に手が届きます。最新のウェアラブルフィットネス技術があなたの成功をサポートします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>適切な機器があれば、あらゆる目標に手が届きます。最新のウェアラブルフィットネス技術があなたの成功をサポートします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{4E1B5236-26B1-4E7A-B997-8B8E025B9CB5}" alt="女性がラップトップの前で運動" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;適切な機器があれば、あらゆる目標に手が届きます。最新のウェアラブルフィットネス技術があなたの成功をサポートします。&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et nisl lacinia, congue libero vitae, vulputate elit. Nunc varius magna quis arcu tincidunt consequat. Praesent tristique volutpat elit, vel ultrices dui tempor sed. Donec sit amet rhoncus ex. Aliquam dignissim tortor volutpat vulputate auctor. Proin et dolor vehicula, dictum eros condimentum, venenatis enim. Sed sodales lectus sit amet sapien rutrum, non faucibus mi cursus. Praesent ut sem quis massa suscipit bibendum. Quisque euismod diam in urna consequat rutrum. Cras luctus vehicula odio, nec elementum neque ullamcorper eget. Integer vitae lacinia felis, at congue dui. Suspendisse a hendrerit quam. Nulla velit arcu, fringilla a pulvinar sollicitudin, commodo ac elit.&lt;/p&gt;
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>適切な機器があれば、あらゆる目標に手が届きます。最新のウェアラブルフィットネス技術があなたの成功をサポートします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/best-in-wearable-fitness-technology" key="best-in-wearable-fitness-technology" itemid="{4D30B785-2CD0-44C1-94F5-E16E84244EA2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;br /&gt;
+&lt;br /&gt;
+Vestibulum at est eget leo scelerisque tempor a vel nulla. Nullam viverra mi in aliquet varius. Etiam hendrerit ullamcorper sagittis. Aenean in ligula lobortis, ultrices urna eget, auctor elit. Sed vel felis eget est feugiat vehicula. Sed a purus tortor. Proin cursus quam at nisl luctus, ac tincidunt felis gravida. Suspendisse volutpat leo lacus, non pretium ipsum molestie ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;br /&gt;
+&lt;br /&gt;
+Suspendisse sed odio vehicula, imperdiet quam non, finibus ipsum. Pellentesque lobortis consequat velit a pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Donec elementum, ligula in commodo volutpat, lacus sem dictum mauris, ac congue felis quam at odio. Etiam convallis euismod dignissim. Morbi a velit sagittis, pellentesque nisi eget, faucibus ligula. Aliquam sed metus a neque consequat vestibulum vitae at urna. Curabitur et libero quam. Duis nec viverra orci. Aenean pulvinar eleifend metus, sit amet ultricies sapien maximus vitae. Fusce rutrum, nulla vel pretium laoreet, massa ipsum ultrices ipsum, vitae imperdiet est lorem eget diam. Nam eros mi, pretium id augue non, elementum blandit arcu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{580ED437-7A14-463D-A81A-0F94FCAA7A92}" alt="フィットネス トラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ウェアラブル・フィットネス・テクノロジーに関して言えば、1つのサイズがすべてにフィットするわけではありません。ライフスタイルや目標に合わせて最適なウェアラブルを見つけてください。&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル・フィットネス・テクノロジーに関して言えば、1つのサイズがすべてにフィットするわけではありません。ライフスタイルや目標に合わせて最適なウェアラブルを見つけてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル・フィットネス・テクノロジーに関して言えば、1つのサイズがすべてにフィットするわけではありません。ライフスタイルや目標に合わせて最適なウェアラブルを見つけてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル・フィットネス・テクノロジーに関して言えば、1つのサイズがすべてにフィットするわけではありません。ライフスタイルや目標に合わせて最適なウェアラブルを見つけてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/choose-your-perfect-wearable" key="choose-your-perfect-wearable" itemid="{CB96DF66-E22F-4906-9ABE-E0403794D485}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>ライトハウスホームグッズの専門家から、理想のコネクテッドホームの設計方法を学びましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームは、私たちの生活をより快適にし、家のエネルギー効率を高めることを目指しています。スマート家電やマットレスカバーからスイッチや電球まで、これだけの製品が出回っている中で、何から手を付ければいいのでしょうか？Lighthouseは、いくつかの「スマート」な提案をしています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームは、私たちの生活をより快適にし、家のエネルギー効率を高めることを目指しています。スマート家電やマットレスカバーからスイッチや電球まで、これだけの製品が出回っている中で、何から手を付ければいいのでしょうか？Lighthouseは、いくつかの「スマート」な提案をしています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームの設計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{DE457091-0989-414E-ADDF-59DB0DDB6690}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{03DA35E8-4E53-4311-AB1E-4118519CF0FE}" alt="connected home" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{03DA35E8-4E53-4311-AB1E-4118519CF0FE}" alt="connected home hero" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;コネクテッドホームは、私たちの生活をより快適にし、家庭をよりエネルギー効率的にすることを目指しています。 スマート・アプライアンスやマットレス・カバーからスイッチや電球まで、幅広い製品がありますが、どこから始めますか？ ハビタットには「スマートな」提案がいくつかあります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームの設計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スマートフォンが優しい歌であなたを目覚めさせます。ブラインドが自動的に開き、コーヒーポットで完璧な一杯を淹れてくれます。出勤時には照明が自動的に消灯し、サーモスタットが調整され、セキュリティシステムが作動する。これだけの作業をしても あなたは指一本動かさなかった&lt;/p&gt;
+&lt;p&gt;コネクテッドホームは、私たちの生活をより快適にし、家のエネルギー効率を高めることを目指しています。スマート家電やマットレスカバーからスイッチや電球まで、これだけの製品が出回っている中で、何から手を付ければいいのでしょうか？Lighthouseは、いくつかの「スマート」な提案をしています。&lt;/p&gt;
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームは、私たちの生活をより快適にし、家のエネルギー効率を高めることを目指しています。スマート家電やマットレスカバーからスイッチや電球まで、これだけの製品が出回っている中で、何から手を付ければいいのでしょうか？Lighthouseは、いくつかの「スマート」な提案をしています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームの設計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{5E650555-C7F0-456A-8185-F69388169CBC}" updated="00010101T000000Z">
+    <ja-JP>connected home, home automation, smart home, energy efficiency,</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{D8B38DD7-E9A0-4410-9F17-D436B0C8635A}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{03DA35E8-4E53-4311-AB1E-4118519CF0FE}" alt="design your connected home" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{0F50A67E-B439-436D-A5D8-5DEF0B7A6BB7}" alt="connected home thumbnail" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&lt;strong&gt;基本から始める&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コネクテッドホームをゼロから設計する場合、最初にいくつかの基礎的なアイテムが必要になります。ホームオートメーションハブを使えば、複数のデバイスを接続して使うことができます。さらに良いことに、1つのアプリからそれらをすべて制御することができます。&lt;/p&gt;
+&lt;p&gt;IFTTT（「if this, then that」）もダウンロードしておきましょう。モバイルアプリやウェブサイトを使えば、プログラミングをしなくても簡単なコマンドを書くことができます。例えば、"目覚まし時計が午前5時45分に消えたら、コーヒーポットの電源を入れろ "といった具合です。&lt;/p&gt;
+&lt;p&gt;基本的なものに投資したら、スマート電球などの小物で実験してみましょう。あなたのスマートフォンを使用すると、あなたが目を覚ましたときにオンにし、あなたが家を出るときにオフにする電球の個々またはグループを制御することができます。彼らは、LED電球（15ドル以上）よりもコストがかかりますが、約22年持続し、従来の電球よりも80パーセント少ない電力を使用します。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;スマートセキュリティ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"スマート"なセキュリティシステムは、あなたの家や家族のために行うことができる最も賢明な投資の一つです。ヘリックスセンチネル4カメラネットワークビデオレコーダーバンドルは、潜在的な侵入者の明確な映像を取得するための動き検出と選択可能なズームを提供しています。リモートアクセスは、あなたのスマートフォンやタブレットを介してホームフロントでチェックすることができます。&lt;/p&gt;
+&lt;p&gt;さらなる保護とスタイルを求めるなら、Lighthouse Sentinel Touchscreen Key-Free Deadboltなどのキーレスロックを検討してみましょう。誰かが侵入しようとすると、内蔵の干渉アラームが鳴るので、安心感が増します。&lt;/p&gt;
+&lt;p&gt;あなたの小さなものを保護するために、そのようなライトハウスセンチネルHDワイヤレスベビーモニタリングカメラなどの製品は、ストリーミングビデオを提供しているので、あなたのスマートフォンでどこからでも赤ちゃんを監視することができます。マイクと双方向スピーカーを内蔵しているので、赤ちゃんの鳴き声を聞いて、眠りに誘うことができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;よりスマートなガジェットを手に入れる&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コネクテッドホームには、主要な家電製品だけでなく、私たちが毎日使う小さなデバイスも含まれています。iGrill Miniのような製品は、ステーキが最適な温度になるとスマートフォンにアラートを出してくれます。かつては高級レストランで使用されていたスービデオクッカーは、Bluetoothや内蔵WiFiなどのスマートな機能を備え、高級な家庭にも普及しています。ライトハウスのコーヒーメーカーやカウンタートップオーブン、その他の小型家電製品にも、簡単にプログラミングができるスマートな機能が搭載されています。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;電化製品&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;コネクテッドホームの哲学に完全に飛び込みたいのであれば、あなたの「おぼつかない」電化製品をコネクテッドバージョンに置き換えてみましょう。LighthouseのViva家電製品ラインには、在庫を確認したり、スマートフォンから設定をコントロールできる冷蔵庫があります。Lighthouse Dwellスマートバキュームにリビングルームの床を掃除するように指示したり、Lighthouse Gleamスマートウォッシャーに新しいサイクルを開始するように指示したり、お気に入りの番組を見ながらすべてをコントロールすることができます。&lt;/p&gt;
+&lt;p&gt;電球から冷蔵庫まで、スマートデバイスが連携して生活を快適にします。予算やライフスタイルに合わせたコネクテッドホームの設計を、Lighthouseにお任せください。&lt;/p&gt;
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" key="design-your-connected-home" itemid="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホームの設計</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>Take Cycling to the Next Level</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;No one is born with comprehensive bicycle mechanic skills. That is something you have to learn by doing easy bicycle maintenance yourself, or more preferably by being taught by someone with experience.&lt;br&gt;&lt;br&gt;Also, don't overlook regular maintenance by a bike mechanic. If you ride regularly, bring your bike in for twice-yearly tune-ups to ensure that complex, hard-to-evaluate components such as spokes, bearing surfaces, derailleurs and cables are inspected and serviced regularly. These bike parts should always be serviced and adjusted by experienced mechanics.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Basic Supplies&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;These simple items address most cleaning and lubing tasks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Clean rags:&lt;/strong&gt; Keep plenty of these on hand for grease, oil and wax-related tasks and for general cleaning and drying.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Brushes:&lt;/strong&gt; Have several sizes and shapes to get into hard-to-reach places to remove the grime that rinsing alone can't get. Old toothbrushes work great.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Water:&lt;/strong&gt; When used carefully, water can be a handy tool, but be careful here. Water, especially when coming from a high-pressure hose can cause damage to sensitive bearing systems throughout your bike.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Soap / general cleaner:&lt;/strong&gt; Use diluted dishwashing soap or preformulated bike wash cleaner for frame cleaning.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Degreaser:&lt;/strong&gt; A bike-specific degreaser (avoid kerosene or turpentine) will clean up gummy parts like your bike chain. Choose a solvent that is easy on the environment (and you). Dispose of all solvents properly.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Chain lubricant: &lt;/strong&gt;&amp;nbsp;Properly lubricating your chain helps extend the life of your drivetrain. Always apply bicycle-specific lube oil to a clean chain.&lt;/p&gt;&lt;p&gt;There are two types of lube: wet or dry. Wet lube is best to use when you’ll be riding in wet conditions. It strongly adheres to the drivetrain and is less likely to rinse off in rain. That said, dirt and grit will also stick to it, so be sure to wipe off excess lube.&lt;/p&gt;&lt;p&gt;Dry lube excels in a dry environment. Dirt and grit stick less to dry lube, but dry lube does rinse off easily if you find yourself riding in the rain.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bike stand: &lt;/strong&gt;This will allow you to&lt;strong&gt; &lt;/strong&gt;position the bike at a comfortable height while you’re working on it. It will also allow you to turn the pedals or remove the wheels so you can clean all the moving and hard-to-reach parts.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What to Clean and How&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Most dirty bike components can be cleaned by wiping them carefully with a damp (or dry) rag. Other components require occasional brushing, scrubbing and relubrication.&lt;/p&gt;&lt;p&gt;Your drivetrain (front chain rings, rear cassette, rear derailleur and chain) deserves the most frequent attention, so watch our video&amp;nbsp; for some useful instruction.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A58AB51E-1B5E-41FE-81A3-49E4B6FE5FEC}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Bike maintenance is a wide-ranging topic, so in this article we start with the basics: a pre-ride inspection, securing bolts, and cleaning and lubricating key components.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>Take Cycling to the Next Level</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Take Cycling to the Next Level" key="Take Cycling to the Next Level" itemid="{AFB34DEA-ED29-47E2-A2AF-B3C9B30E89C0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Take Cycling to the Next Level</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{085840FC-1F6E-46E6-9A87-66BD1C0BD2BA}" alt="女性のストレッチ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>ストレッチをすることで、姿勢が良くなり、痛みや痛みが少なくなり、自信がつき、人生の見通しが明るくなります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ストレッチをすることで、姿勢が良くなり、痛みや痛みが少なくなり、自信がつき、人生の見通しが明るくなります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;br /&gt;
+&lt;br /&gt;
+Vestibulum at est eget leo scelerisque tempor a vel nulla. Nullam viverra mi in aliquet varius. Etiam hendrerit ullamcorper sagittis. Aenean in ligula lobortis, ultrices urna eget, auctor elit. Sed vel felis eget est feugiat vehicula. Sed a purus tortor. Proin cursus quam at nisl luctus, ac tincidunt felis gravida. Suspendisse volutpat leo lacus, non pretium ipsum molestie ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;br /&gt;
+&lt;br /&gt;
+Suspendisse sed odio vehicula, imperdiet quam non, finibus ipsum. Pellentesque lobortis consequat velit a pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Donec elementum, ligula in commodo volutpat, lacus sem dictum mauris, ac congue felis quam at odio. Etiam convallis euismod dignissim. Morbi a velit sagittis, pellentesque nisi eget, faucibus ligula. Aliquam sed metus a neque consequat vestibulum vitae at urna. Curabitur et libero quam. Duis nec viverra orci. Aenean pulvinar eleifend metus, sit amet ultricies sapien maximus vitae. Fusce rutrum, nulla vel pretium laoreet, massa ipsum ultrices ipsum, vitae imperdiet est lorem eget diam. Nam eros mi, pretium id augue non, elementum blandit arcu.&lt;/p&gt;
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>ストレッチをすることで、姿勢が良くなり、痛みや痛みが少なくなり、自信がつき、人生の見通しが明るくなります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A7C5267D-4B44-4A50-B1E2-994E9CD5E327}" alt="女性のストレッチ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>ストレッチをすることで、姿勢が良くなり、痛みや痛みが少なくなり、自信がつき、人生の見通しが明るくなります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/importance-of-stretching" key="importance-of-stretching" itemid="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>メンタルフィットネスとメンタルヘルスを向上させる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;自分の感情の健康について考えてみましょう。定期的に情緒的な健康状態を評価しましょう。あなたが直面している特定の要求やストレスを考慮し、それらがどのようにあなたに影響を与えている。悩みや心配事から休む許可を自分に与えましょう。毎日少しの時間でも精神的な健康を維持することで、若返った気分になったり、自信が持てるようになるという点で、大きなメリットがあることを認識しましょう。
+&lt;br /&gt;
+&lt;br /&gt;
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;br /&gt;
+&lt;br /&gt;
+Vestibulum at est eget leo scelerisque tempor a vel nulla. Nullam viverra mi in aliquet varius. Etiam hendrerit ullamcorper sagittis. Aenean in ligula lobortis, ultrices urna eget, auctor elit. Sed vel felis eget est feugiat vehicula. Sed a purus tortor. Proin cursus quam at nisl luctus, ac tincidunt felis gravida. Suspendisse volutpat leo lacus, non pretium ipsum molestie ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;br /&gt;
+&lt;br /&gt;
+Suspendisse sed odio vehicula, imperdiet quam non, finibus ipsum. Pellentesque lobortis consequat velit a pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Donec elementum, ligula in commodo volutpat, lacus sem dictum mauris, ac congue felis quam at odio. Etiam convallis euismod dignissim. Morbi a velit sagittis, pellentesque nisi eget, faucibus ligula. Aliquam sed metus a neque consequat vestibulum vitae at urna. Curabitur et libero quam. Duis nec viverra orci. Aenean pulvinar eleifend metus, sit amet ultricies sapien maximus vitae. Fusce rutrum, nulla vel pretium laoreet, massa ipsum ultrices ipsum, vitae imperdiet est lorem eget diam. Nam eros mi, pretium id augue non, elementum blandit arcu.&lt;/p&gt;
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{59B6594A-9859-4BC7-897D-A76A756B7893}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;メンタルフィットネスという概念を知っていて、より精神的に健康になるための方法を知っていますか？メンタルフィットネスとは、健康な状態であり、自分がどのように感じ、どのように考え、どのように行動するかについてポジティブな感覚を持っている状態と定義されています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>メンタルフィットネスを向上させる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/improve-your-mental-fitness" key="improve-your-mental-fitness" itemid="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>メンタルフィットネスとメンタルヘルスを向上させる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;br /&gt;
+&lt;br /&gt;
+Vestibulum at est eget leo scelerisque tempor a vel nulla. Nullam viverra mi in aliquet varius. Etiam hendrerit ullamcorper sagittis. Aenean in ligula lobortis, ultrices urna eget, auctor elit. Sed vel felis eget est feugiat vehicula. Sed a purus tortor. Proin cursus quam at nisl luctus, ac tincidunt felis gravida. Suspendisse volutpat leo lacus, non pretium ipsum molestie ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;br /&gt;
+&lt;br /&gt;
+Suspendisse sed odio vehicula, imperdiet quam non, finibus ipsum. Pellentesque lobortis consequat velit a pulvinar. Aliquam erat volutpat. Aliquam erat volutpat. Donec elementum, ligula in commodo volutpat, lacus sem dictum mauris, ac congue felis quam at odio. Etiam convallis euismod dignissim. Morbi a velit sagittis, pellentesque nisi eget, faucibus ligula. Aliquam sed metus a neque consequat vestibulum vitae at urna. Curabitur et libero quam. Duis nec viverra orci. Aenean pulvinar eleifend metus, sit amet ultricies sapien maximus vitae. Fusce rutrum, nulla vel pretium laoreet, massa ipsum ultrices ipsum, vitae imperdiet est lorem eget diam. Nam eros mi, pretium id augue non, elementum blandit arcu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>激しいサイクリングワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5AF2C84C-803F-49BC-B33A-D803AD4A3E14}" alt="ジムの道具" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;これらの激しいサイクリングトレーニングは、他のトレーニングと比べて5倍も速く、楽しく、効果的です。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{ABA71F37-F063-448D-9675-1D2530E8A9C7}" alt="ジムの道具" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>激しいサイクリングワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>激しいサイクリングワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>これらの激しいサイクリング・ワークアウトは、素早く、楽しく、他のエクササイズの5倍の効果があります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>これらの激しいサイクリング・ワークアウトは、素早く、楽しく、他のエクササイズの5倍の効果があります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>これらの激しいサイクリング・ワークアウトは、素早く、楽しく、他のエクササイズの5倍の効果があります。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>激しいサイクリングワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/intense-cycling-workouts" key="intense-cycling-workouts" itemid="{6238B3BB-E9C4-4AFB-B445-BE302466691E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>激しいサイクリングワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>7 つのキッチン家電のトレンドに従う必要があります</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5F6109A3-88C1-411D-8705-61DFB9C19605}" alt="kitchen appliances hero" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;現代的な見た目で居心地の良い空間を演出するだけでなく、省エネで時間を節約できる現代的な家電製品も欲しくなります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{2595EB80-663F-4DA6-8D0C-A7F3A337174D}" alt="kitchen appliances nav thumbnail" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>キッチン家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;どんなパーティーでも、誰もがキッチンに集まるのは当たり前のこと。現代的な外観と雰囲気で魅力的な空間を演出するだけでなく、エネルギーを節約して時間を節約できるモダンな家電製品も必要です。そうすれば、あなたはより多くの時間をあなたの会社を楽しみ、コンロの上をうろうろしている時間を減らすことができます。&lt;/p&gt;
+&lt;p&gt;食事の時間が簡単で楽しくなるゴージャスなキッチンのために、次のリモデルにこれらのデザイントレンドを取り入れましょう。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. 隠れた家電製品&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;隠れた家電製品は、デザインスキームにシームレスに溶け込み、スムーズですっきりとした外観を演出します。冷蔵庫や小さな家電製品も、パントリーの扉に合わせて扉の後ろに隠すことができます。家電製品をカスタムキャビネットのデザインに組み込むこともできます。隠すことで、家電製品はステンレスの邪魔にならず、全体のデザインの一部になります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 暖機用の引き出し&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;暖かさを保つ引き出しがあれば、遅刻してきた人も時間通りに食事をしているかのように、新鮮な暖かさで食事を楽しむことができます。 &lt;/p&gt;
+&lt;p&gt;ウォームドロワーは単品でも、最新のオーブンに組み込むこともできます。Lighthouse Centerpiece 30インチデュアルドア電気レンジには、暖機用引き出しとデュアルドアが付いています。2つの異なる温度で調理し、料理を温めておくことができます。&lt;/p&gt;
+&lt;p&gt;オーブンの下に収まるスロークッキング保温引出しは、スロークッカーの汎用性と保温引出しの豪華さを兼ね備えています。ポットローストを焼いて、最後のお客さんが来るまで温めておくことができます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. プロの品質範囲&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;お料理が好きな人なら誰でも、独立型ガスレンジの操作性の良さが大好きです。プロ仕様のガスレンジは、グルメな仕上がりを実現するだけでなく、あなたのキッチンを華やかに彩ります。&lt;/p&gt;
+&lt;p&gt;Lighthouse Centerpiece 5.8立方フィートデュアルドアガスレンジなら、2つの異なる温度で調理できます。また、5つのバーナーを使えば、釉薬をかけたり、野菜をソテーしたり、お茶を沸かしたりするのに十分なスペースがあります。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. ワインの保管&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;建築物を使わずにワインセラーのメリットを享受するには、ワインクーラーを検討してみましょう。ハイエンドのワインクーラーなら、ワインを保存するのに最適な温度を設定できます。ライトハウスでは、モダンなキッチンに合わせやすい34ボトルと48ボトルのモデルをご用意しています。ステンレス仕上げ、ウッドシェルフ、強化ガラス扉がモダンなキッチンデザインを引き立てます。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. タキシードキッチン&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;古典的な黒と白は、スタイルの外に行くことはありません、とタキシードキッチンの陰陽のコントラストは非常に多くの今です。白のキャビネットと黒のカウンタートップを組み合わせたり、上に白のキャビネット、下に黒のキャビネットを設置したり。家電製品はもちろん黒でも白でもOK！ - 見た目を完成させます。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. スマート家電&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;私たちのキッチンは、私たちよりも賢くなってきています。スマートオーブンの中には、夕食の調理が終わるとメールやツイートを送ってくれるものもあります。また、スマートフォンのアプリを使って調理時間や温度を調整することもできます。&lt;/p&gt;
+&lt;p&gt;Lighthouse Viva 4-Door 34.0 Cubic Foot Refrigerator with Ice Maker and Wifiは、ホームネットワークに接続します。設定をコントロールしたり、Helix Vivaモバイルアプリを使ってオレンジジュースの残量を確認することができます。 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. アンダーマウントとトラフシンク&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;シンクは、もうキッチンのアンサンブルに落とす必要はありません。継ぎ目のない、モダンな外観のために天然石のカウンタートップとアンダーマウントシンクをペアにします。トラフシンクは、熱心なシェフやクリーンでインダストリアルな外観をコマンドキッチンデザインのためによく動作します。&lt;/p&gt;
+&lt;p&gt;キッチンは家の中心です。革新的なデザインのアイデアや家電製品を取り入れて、目にするのが待ち遠しくなるようなラグジュアリーなキッチンを実現するために、Lighthouseにお任せください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>現代的な外観と雰囲気を持つ魅力的な空間づくりに加えて、エネルギーを節約して時間を節約する現代的な家電製品。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>現代的な外観と雰囲気を持つ魅力的な空間づくりに加えて、エネルギーを節約して時間を節約する現代的な家電製品。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>現代的な外観と雰囲気を持つ魅力的な空間づくりに加えて、エネルギーを節約して時間を節約する現代的な家電製品。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>あなたがフォローしなければならない7つのキッチン家電のトレンド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>あなたがフォローしなければならない7つのキッチン家電のトレンド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/kitchen-appliances" key="kitchen-appliances" itemid="{B324AA9A-4053-4B7E-97A2-8133988E4371}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>キッチン家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>出張をもっと楽しくする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;出張先では、常に接続して生産性を維持する必要があります。出張先で生産性を維持するために、Lighthouseは以下の必須モバイルデバイスとアクセサリーをお勧めします。&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in consequat ante, in malesuada tortor. In gravida aliquam dolor, blandit posuere mauris lobortis ac. Nullam nec rhoncus nisi, vitae sagittis nibh. Phasellus vehicula magna vitae iaculis tempus. Integer ultricies sapien quis odio congue, vel faucibus dolor semper. Donec id nulla sed massa maximus porta. Vivamus id ante eget neque imperdiet luctus id id eros.&lt;/p&gt;
+&lt;p&gt;Are you familiar with the concept of mental fitness and do you know how to become more mentally fit? Mental fitness is defined as a state of well-being and having a positive sense of how we feel, think, and act.&lt;/p&gt;
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5C8D3AB2-774D-4FDC-AC9F-E1B56BFEC6F0}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;出張先では、常に接続して生産性を維持する必要があります。出張先で生産性を維持するために、Lighthouseは以下の必須モバイルデバイスとアクセサリーをお勧めします。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>出張をもっと楽しくする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Make Business Travel More Enjoyable" key="Make Business Travel More Enjoyable" itemid="{86F2860F-4250-46F7-8D0A-603F55310642}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>出張をもっと楽しくする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>市場に出回っている新しいスマートコンロを活用するために、作るのが楽しくて食べ応えのある素晴らしいレシピを紹介しています。ホームシェフの方には、コネクテッド・ストーブに搭載されているエキサイティングな機能を使っていただくチャンスです。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>市場に出回っている新しいスマートコンロを活用するために、作るのが楽しくて食べ応えのある素晴らしいレシピを紹介しています。ホームシェフの方には、コネクテッド・ストーブに搭載されているエキサイティングな機能を使っていただくチャンスです。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>スマートストーブのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;コネクテッドホームは、ほんの10年前にはファンタジーでした。お客様の要求に応え、お客様の好みに合わせることができる家庭というのは、「トワイライトゾーン」のエピソードの前提のように聞こえます。しかし、日常の電化製品にスマート技術が導入されたことで、完全に接続された家庭が現実のものとなりました。&lt;br /&gt;
+&lt;br /&gt;
+ユーザーが携帯電話を介してサーモスタットをコントロールできるNestや、スマートセンサーを使って食材や希望の結果（例えば、レア対ミディアムレアなど）に基づいて調理温度を調整するスキレット「Cinder Sensing Cooker」のようなスマートテクノロジーのような製品は、コネクテッドホームが住宅所有者の利便性の新時代を迎えようとしています。&lt;br /&gt;
+&lt;br /&gt;
+市場に出回っている新しいスマートコンロを活用するために、作るのが楽しくて食べ応えのある素晴らしいレシピを紹介しています。ホームシェフの方には、コネクテッド・ストーブに搭載されているエキサイティングな機能を使っていただくチャンスです。&lt;/p&gt;
+&amp;nbsp;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>市場に出回っている新しいスマートコンロを活用するために、作るのが楽しくて食べ応えのある素晴らしいレシピを紹介しています。ホームシェフの方には、コネクテッド・ストーブに搭載されているエキサイティングな機能を使っていただくチャンスです。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D5B98824-B2DC-4319-9DC8-49F4FF0D86F7}" alt="Recipes-for-smart-stove" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;印象的で、あなたが思うよりも速く。私たちの専門家から直接このおいしいレシピであなたの友人や家族を眩ませます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A59106C4-5F65-4D75-B83E-A6F62024E3AA}" alt="recipe for smart stove nav thumbail" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{5E650555-C7F0-456A-8185-F69388169CBC}" updated="00010101T000000Z">
+    <ja-JP>smart stove, recipe, kitchen appliances, connected home, beef wellington, recipe video</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;h1&gt;究極のビーフウェリントン&lt;/h1&gt;
+&lt;p&gt;&lt;a href="-/media/7BC92BB8C37F4837867E2F4AC4E91DB2.ashx"&gt;レシピのPDFをダウンロードする&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;材料&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;12人前 &lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;テンダーロイン（センターカット）3ポンド&lt;/li&gt;
+    &lt;li&gt;コーシャーソルト&lt;/li&gt;
+    &lt;li&gt;黒胡椒&lt;/li&gt;
+    &lt;li&gt;キャノーラ油 大さじ2&lt;/li&gt;
+    &lt;li&gt;カップ イングリッシュマスタード&lt;/li&gt;
+    &lt;li&gt;バター大さじ1&lt;/li&gt;
+    &lt;li&gt;みじん切りエシャロット 2個&lt;/li&gt;
+    &lt;li&gt;みじん切りにしたクレミニマッシュルーム（2ポンド）&lt;/li&gt;
+    &lt;li&gt;みじん切りにしたニンニク5片&lt;/li&gt;
+    &lt;li&gt;12ポンドのプロシュート（薄切り）、またはハム&lt;/li&gt;
+    &lt;li&gt;1枚のシュークリーム&lt;/li&gt;
+    &lt;li&gt;卵 2個&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;準備&lt;/h3&gt;
+&lt;ol&gt;
+    &lt;li&gt;オーブンを 400&amp;deg;F (200&amp;deg;C). に予熱します。&lt;/li&gt;
+    &lt;li&gt;テンダーロインを常温に戻します。コーシャーソルトとコショウで味付けをします。&lt;/li&gt;
+    &lt;li&gt;大きめのフライパンにキャノーラ油を入れて強火にかける。油が熱くなったら、テンダーロインを加えます。テンダーロインを動かさずに、焦げ目がつくまで3分ほど焼きます。テンダーロインの端を含めて、すべての面で炙ることを繰り返します。&lt;/li&gt;
+    &lt;li&gt;フライパンからテンダーロインを取り出し、まな板やワイヤーラックに移し、紐を外す。&lt;/li&gt;
+    &lt;li&gt;まだ温かいうちに、肉の両面にマスタードを塗る。デュクセル（マッシュルームを調理し、乾燥するまで縮小）を作りながら、肉の残りの部分をみましょう。&lt;/li&gt;
+    &lt;li&gt;同じフライパンにバター、マッシュルーム、エシャロットのみじん切り、にんにくのみじん切りを入れて中火にかけます。液体がすべて蒸発し、マッシュルームの混合物が乾燥したペースト状になるまで、時々かき混ぜながら煮る。&lt;/li&gt;
+    &lt;li&gt;鍋からマッシュルームを取り出し、完全に冷ます。&lt;/li&gt;
+    &lt;li&gt;作業面には、テンダーロインの長さと幅の2倍の大きさのラップを重ねて置きます。&lt;/li&gt;
+    &lt;li&gt;プラスチックの上にプロシュートのストリップを重ねて均等な正方形の層に置きます。&lt;/li&gt;
+    &lt;li&gt;プロシュートの上にマッシュルームの層を均等に広げます。&lt;/li&gt;
+    &lt;li&gt;テンダーロインをプロシュートでしっかりと均等に包み、ラップを使ってさらにしっかりと包み、端を封印します。ウェリントンの形状を保持するために一緒にラップの両端を結ぶ。&lt;/li&gt;
+    &lt;li&gt;冷蔵庫に15分ほど入れます。&lt;/li&gt;
+    &lt;li&gt;作業面にラップの新しい層を置き、その上にシュークリームのシートを敷きます。端が合うまでラップ、シュー生地の上にプロシュートを包んだ牛肉のテンダーロインを解凍します。&lt;/li&gt;
+    &lt;li&gt;重なりがないことを確認しながら、余分なシュー生地を切り落とします。&lt;/li&gt;
+    &lt;li&gt;ラップでシュークリームを包み、両端を結んで丸太状にする。冷蔵庫で15分ほど寝かせます。&lt;/li&gt;
+    &lt;li&gt;脂を塗ったパーチメント紙を敷いた天板の上に牛肉のウェリントンを置きます。表面に溶き卵を塗ります。フォークでシュー生地の表面に装飾的なデザインを書き入れます。&lt;/li&gt;
+    &lt;li&gt;追加のペストリー（オプション）を飾る。コーシャーソルトを振りかける。&lt;/li&gt;
+    &lt;li&gt;40分、またはシュー生地が濃い黄金色になり、牛肉の内温が135度F（57度C）（ミディアムレア）になるまで焼く。&lt;/li&gt;
+    &lt;li&gt;楽しもう！&lt;/li&gt;
+&lt;/ol&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/recipes-for-your-smart-stove" key="recipes-for-your-smart-stove" itemid="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートストーブのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;努力のほんの一部で、南部の味と個性を手に入れましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C572C422-19D2-4F46-812C-659196B6D15A}" alt="健康な料理" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>シートパンジャンバラヤ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B7810CAE-B609-4EC9-9353-9CE53C275253}" alt="健康な料理" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>シートパンジャンバラヤ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa odio, dignissim et laoreet id, accumsan non odio. Proin tincidunt porttitor sapien. Quisque vel arcu sapien. Nunc pellentesque gravida magna, a scelerisque odio iaculis quis. Aenean tristique, ante eu tincidunt aliquet, odio eros tincidunt quam, non blandit mauris dolor eu justo. Mauris mattis at metus ut ornare. Nulla semper lobortis convallis. Donec iaculis et odio tincidunt scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque et posuere justo.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;h2&gt;4人分の材料:&lt;/h2&gt;
+&lt;div&gt;
+&lt;ul&gt;
+    &lt;li&gt;黄玉ねぎ（中くらい）1個 スライス&lt;/li&gt;
+    &lt;li&gt;赤ピーマン 1個&lt;/li&gt;
+    &lt;li&gt;黄色いピーマン（スライス）1個&lt;/li&gt;
+    &lt;li&gt;ピーマン 1個&lt;/li&gt;
+    &lt;li&gt;チキンソーセージ 2 カップ (275 g)&lt;/li&gt;
+    &lt;li&gt;オリーブオイル&lt;/li&gt;
+    &lt;li&gt;1 &amp;frac14; クレオール調味料大さじ1、割ったもの&lt;/li&gt;
+    &lt;li&gt;1ポンド（455g）の生エビ（皮を剥き、身を切り落としたもの&lt;/li&gt;
+    &lt;li&gt;&amp;frac12;小さじ1パプリカ&lt;/li&gt;
+    &lt;li&gt;1 &amp;frac12; カップ (300 g) トマト、さいの目に切る。&lt;/li&gt;
+    &lt;li&gt;炊き込みご飯 4カップ（920g） 玄米を使用しています。&lt;/li&gt;
+    &lt;li&gt;薄切りネギ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2&gt;準備:&lt;/h2&gt;
+&lt;div&gt;
+&lt;ol&gt;
+    &lt;li&gt;オーブンを425&amp;deg;F（220&amp;deg;C）に予熱します。&lt;/li&gt;
+    &lt;li&gt;大きめの天板に、玉ねぎ、パプリカ、チキンソーセージを並べる。オリーブオイルを振りかけ、クレオール調味料（大さじ1）で味を調える。手を使って全体をよく混ぜる。&lt;/li&gt;
+    &lt;li&gt;チキンソーセージに焼き色がつくまで、8分ほど焼く。&lt;/li&gt;
+    &lt;li&gt;野菜とチキンソーセージに火が通っている間に、小さなボウルにエビを入れます。クレオール調味料（小さじ1）とパプリカ（小さじ12）で味を調える。コートをかき混ぜる。&lt;/li&gt;
+    &lt;li&gt;野菜とソーセージをオーブンから取り出し、味付けしたエビとサイコロ状に切ったトマトを加える。全てを混ぜ合わせる。&lt;/li&gt;
+    &lt;li&gt;すべてをオーブンに戻して6分、またはエビがちょうど完成するまで。&lt;/li&gt;
+    &lt;li&gt;オーブンから取り出し、炊いたご飯を加えてよく混ぜ合わせます。&lt;/li&gt;
+    &lt;li&gt;スライスしたネギを添えて、すぐにお召し上がりください。&lt;/li&gt;
+    &lt;li&gt;楽しもう！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>シートパンジャンバラヤ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>わずかな努力で南部の味と個性を手に入れることができます。
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>わずかな努力で南部の味と個性を手に入れることができます。
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>シートパンジャンバラヤ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>わずかな努力で南部の味と個性を手に入れることができます。
+
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/sheet-pan-jambalaya" key="sheet-pan-jambalaya" itemid="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シートパンジャンバラヤ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>10分でできるホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D590210C-4B80-4014-B82E-3DD16DB7331C}" alt="デジタルフィットネストレーナー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et nisl lacinia, congue libero vitae, vulputate elit. Nunc varius magna quis arcu tincidunt consequat. Praesent tristique volutpat elit, vel ultrices dui tempor sed. Donec sit amet rhoncus ex. Aliquam dignissim tortor volutpat vulputate auctor. Proin et dolor vehicula, dictum eros condimentum, venenatis enim. Sed sodales lectus sit amet sapien rutrum, non faucibus mi cursus. Praesent ut sem quis massa suscipit bibendum. Quisque euismod diam in urna consequat rutrum. Cras luctus vehicula odio, nec elementum neque ullamcorper eget. Integer vitae lacinia felis, at congue dui. Suspendisse a hendrerit quam. Nulla velit arcu, fringilla a pulvinar sollicitudin, commodo ac elit.&lt;/p&gt;&lt;br /&gt;&lt;br /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{60A12889-6FFB-4F4C-84AC-194789D2D17B}" alt="女性がマシンで運動している" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>10分でできるホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>10分でできるホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{87241A2B-D20A-4624-A439-07F4D9AFEA6E}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id sapien volutpat felis ornare imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus interdum mi in mauris venenatis, et ultrices felis rutrum. Nulla sit amet fermentum tellus, at egestas risus. Sed tincidunt diam sed sapien semper rutrum. In tincidunt turpis dolor, eu sollicitudin metus sodales nec. In vitae sollicitudin libero. Nulla facilisi. Curabitur ornare feugiat lorem in laoreet. Quisque pretium augue ut venenatis dictum.&lt;br /&gt;&lt;br /&gt;Nulla feugiat tincidunt varius. Sed ultricies accumsan ultricies. Donec bibendum scelerisque nulla vel tristique. Praesent hendrerit dolor eget risus feugiat tristique. Proin rhoncus odio dolor, et bibendum velit hendrerit quis. Suspendisse laoreet ut dolor sed iaculis. Suspendisse tempus in ante a tincidunt. Cras condimentum metus sed neque varius rutrum. Phasellus volutpat ut velit at lobortis. Curabitur blandit a erat at port&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>10分でできるホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts" key="ten-minute-home-workouts" itemid="{8A33684A-7711-4445-A119-BD1EFEC890B6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>10分ホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data" key="Data" itemid="{74735B13-184E-457D-B52A-8817078A6664}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data/Video - Workout 1" key="Video - Workout 1" itemid="{2FB0A1E9-18B3-4463-9CE8-0058FA9A6672}" fieldid="{C7ABDB60-3F28-4D17-B457-2056710E384F}" updated="00010101T000000Z">
+    <ja-JP>v=wH5saRvIs6o</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data/Video - Workout 1" key="Video - Workout 1" itemid="{2FB0A1E9-18B3-4463-9CE8-0058FA9A6672}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ビデオ - ワークアウト1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data/Video - Workout 2" key="Video - Workout 2" itemid="{B5C59DD2-FDC2-4C18-B0A9-1663387F26B1}" fieldid="{C7ABDB60-3F28-4D17-B457-2056710E384F}" updated="00010101T000000Z">
+    <ja-JP>v=svlP12sb41o</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data/Video - Workout 2" key="Video - Workout 2" itemid="{B5C59DD2-FDC2-4C18-B0A9-1663387F26B1}" fieldid="{051FEDB7-63DD-4600-A2A8-428BDB5B5D86}" updated="00010101T000000Z">
+    <ja-JP>No video playback capabilities</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/ten-minute-home-workouts/Data/Video - Workout 2" key="Video - Workout 2" itemid="{B5C59DD2-FDC2-4C18-B0A9-1663387F26B1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ビデオ - ワークアウト2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{6F76CE61-3806-4512-8E49-207F96308D8B}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ヨガの基礎知識</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra justo nec ultrices dui sapien eget mi proin sed. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Gravida neque convallis a cras semper auctor neque vitae tempus. Cras pulvinar mattis nunc sed blandit. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Sagittis orci a scelerisque purus semper eget. Amet mauris commodo quis imperdiet. Velit sed ullamcorper morbi tincidunt. Scelerisque in dictum non consectetur a erat.&lt;br /&gt;
+&lt;br /&gt;
+Habitant morbi tristique senectus et. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Sagittis purus sit amet volutpat consequat mauris. Cursus eget nunc scelerisque viverra mauris in. Faucibus pulvinar elementum integer enim neque volutpat. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Feugiat in fermentum posuere urna. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Et malesuada fames ac turpis. Faucibus ornare suspendisse sed nisi lacus sed. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Sodales neque sodales ut etiam. Et ultrices neque ornare aenean euismod elementum nisi quis eleifend. In tellus integer feugiat scelerisque. Feugiat nisl pretium fusce id velit ut. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Consequat semper viverra nam libero justo. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in.&lt;br /&gt;
+&lt;br /&gt;
+Elementum facilisis leo vel fringilla est ullamcorper eget. Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Amet luctus venenatis lectus magna. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Scelerisque varius morbi enim nunc faucibus a pellentesque. Tristique senectus et netus et. Orci dapibus ultrices in iaculis nunc sed. Luctus accumsan tortor posuere ac ut. In nisl nisi scelerisque eu ultrices vitae auctor. Nunc eget lorem dolor sed. Felis bibendum ut tristique et egestas. Malesuada bibendum arcu vitae elementum curabitur. Purus gravida quis blandit turpis cursus in. Felis eget nunc lobortis mattis aliquam. Etiam tempor orci eu lobortis elementum. Sed tempus urna et pharetra pharetra massa. Velit dignissim sodales ut eu sem integer. Magna eget est lorem ipsum.&lt;br /&gt;
+&lt;br /&gt;
+Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique. Ac turpis egestas maecenas pharetra convallis posuere morbi leo. Viverra vitae congue eu consequat ac felis. Pellentesque sit amet porttitor eget dolor. Est ultricies integer quis auctor elit sed vulputate mi. Sapien nec sagittis aliquam malesuada. Id leo in vitae turpis massa sed. Nullam ac tortor vitae purus. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Enim facilisis gravida neque convallis a cras semper. Etiam non quam lacus suspendisse faucibus interdum. Mi proin sed libero enim sed faucibus.&lt;br /&gt;
+&lt;br /&gt;
+Iaculis nunc sed augue lacus viverra vitae congue. Dignissim sodales ut eu sem integer. Eget magna fermentum iaculis eu non diam phasellus. Mi eget mauris pharetra et ultrices neque. Gravida cum sociis natoque penatibus et magnis dis parturient. Vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Eu ultrices vitae auctor eu augue. Amet mattis vulputate enim nulla aliquet porttitor. Nunc eget lorem dolor sed viverra ipsum nunc aliquet. Sit amet dictum sit amet justo. Consectetur purus ut faucibus pulvinar elementum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Eget egestas purus viverra accumsan in. Vulputate odio ut enim blandit. Tortor at auctor urna nunc id cursus. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Urna id volutpat lacus laoreet. Sed enim ut sem viverra aliquet eget sit amet tellus. Massa vitae tortor condimentum lacinia quis vel. Leo vel fringilla est ullamcorper eget nulla facilisi.</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{23AA5741-FA6A-4ADD-9E79-7A752AF6DEB1}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{6AEC1BED-11C8-4C73-85EC-AD088AA5D254}" alt="ジム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{CA65ACA5-4323-418A-AA72-A5037F606D2A}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ヨガの基礎から始めることで、安全かつ有機的に練習を進めるために必要な強さ、柔軟性、知識を身につけることができます。クラスに参加して、何が起こっているのか全くわからない状態ほどイライラすることはありません。ポーズのアライメントに加えて、ヨガのエチケットについて話し合い、基本的なヨガの呼吸法や瞑想のテクニックを学びます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ヨガの基礎知識</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/articles/Yoga Fundamentals" key="Yoga Fundamentals" itemid="{A3D42606-C048-4EFA-88E6-08EAEB646ADF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヨガの基礎知識</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,192 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account" key="account" itemid="{79902BF1-F289-4B38-A8A1-9DAD2E65AC01}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account" key="account" itemid="{79902BF1-F289-4B38-A8A1-9DAD2E65AC01}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account" key="account" itemid="{79902BF1-F289-4B38-A8A1-9DAD2E65AC01}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data" key="Data" itemid="{27018CFF-662F-493E-9D37-9A6DF2B60F98}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Register Promo" key="Register Promo" itemid="{F5F997A2-2214-4407-B11C-0F85B9245588}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{5C3F13DC-0069-47FC-97F6-F4FC1DC5D6B7}" querystring="" text="Create Account" url="/Demo SXA Sites/LighthouseLifestyle/home/account/register" linktype="internal" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Register Promo" key="Register Promo" itemid="{F5F997A2-2214-4407-B11C-0F85B9245588}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;アカウントを作成して、より早くお買い物ができるようにしたり、注文状況を常に把握したり、以前の注文を把握したりすることができます。&lt;br /&gt;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Register Promo" key="Register Promo" itemid="{F5F997A2-2214-4407-B11C-0F85B9245588}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>新規登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Register Promo" key="Register Promo" itemid="{F5F997A2-2214-4407-B11C-0F85B9245588}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>登録 プロモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Title" key="Title" itemid="{D7FE2E01-99ED-4C58-8604-AF5A3317E150}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&lt;h4&gt;登録済の方&lt;/h4&gt;&lt;/p&gt;
+&lt;p&gt;すでにアカウントを持っている場合は、ログインをしてください&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/Data/Title" key="Title" itemid="{D7FE2E01-99ED-4C58-8604-AF5A3317E150}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register" key="register" itemid="{5C3F13DC-0069-47FC-97F6-F4FC1DC5D6B7}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register" key="register" itemid="{5C3F13DC-0069-47FC-97F6-F4FC1DC5D6B7}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register" key="register" itemid="{5C3F13DC-0069-47FC-97F6-F4FC1DC5D6B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register/Data" key="Data" itemid="{36393F71-36B8-4DD4-A1A6-48278F0F9C1D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register/Data/Facebook" key="Facebook" itemid="{E049AB32-E933-4BF4-A832-1B3C42C1FD23}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたの最初の購入の10％OFFを受け取るためにFacebookでログイン！&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/register/Data/Facebook Login Promo" key="Facebook Login Promo" itemid="{3B39B9C3-2B7B-413F-93DE-E562FCB12828}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Facebook ログイン プロモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal" key="portal" itemid="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>アカウント管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal" key="portal" itemid="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>マイ アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal" key="portal" itemid="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウント管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data" key="Data" itemid="{4BEEB5F2-88E2-42AE-A61A-9B8810AA5F58}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Account Details Subtitle" key="Account Details Subtitle" itemid="{D0F310F3-5124-464D-8402-646862CA35EF}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;h4&gt;プロフィール&lt;/h4&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Account Details Subtitle" key="Account Details Subtitle" itemid="{D0F310F3-5124-464D-8402-646862CA35EF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウント詳細 タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Bronze Member" key="Bronze Member" itemid="{EFD6A384-12C6-4EB2-B386-BFDEFB10399A}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;メンバーの状況&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Bronze Member" key="Bronze Member" itemid="{EFD6A384-12C6-4EB2-B386-BFDEFB10399A}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたは現在、活動内容に基づいてブロンズ会員になっています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Bronze Member" key="Bronze Member" itemid="{EFD6A384-12C6-4EB2-B386-BFDEFB10399A}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ブロンズレベル&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Bronze Member" key="Bronze Member" itemid="{EFD6A384-12C6-4EB2-B386-BFDEFB10399A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ブロンズメンバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Gold Member" key="Gold Member" itemid="{1D247D61-205A-4227-B461-D648F9CC4BAA}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;メンバーの状況&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Gold Member" key="Gold Member" itemid="{1D247D61-205A-4227-B461-D648F9CC4BAA}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;よくやった！あなたはゴールド会員で、以下の割引コードをアンロックしました。次回のご購入時にご利用ください。&lt;/p&gt;
+&lt;p&gt;割引コード: &lt;strong&gt;FreeGiftForGold&lt;/strong&gt;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Gold Member" key="Gold Member" itemid="{1D247D61-205A-4227-B461-D648F9CC4BAA}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ゴールドレベル&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Gold Member" key="Gold Member" itemid="{1D247D61-205A-4227-B461-D648F9CC4BAA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ゴールド メンバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Scenario Helper Text" key="Scenario Helper Text" itemid="{5BCA85E2-C7F2-4787-9B1D-C9F53AC6A6E3}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;おめでとうございます。これで、&lt;em&gt;&lt;strong&gt;オンボーディング・カスタマージャーニー&lt;/strong&gt;&lt;/em&gt; のシナリオがほぼ完成しました。&lt;/p&gt;
+&lt;p&gt;このステップでは、新しいアカウントを作成しました。登録確認メールが送信され、&lt;em&gt;&lt;strong&gt;新規登録者&lt;/strong&gt;&lt;/em&gt;を育成するために新規アカウント登録という名前のマーケティングオートメーションプランに配置されました。&lt;/p&gt;
+&lt;p&gt;&lt;a href="~/link.aspx?_id=F2718720D119467B988F32F8593C1C2A&amp;amp;_z=z"&gt;シナリオ概要ページに戻る&lt;/a&gt; そして、最後のステップでレポートとアナリティクスを確認することを忘れないでください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Scenario Helper Text" key="Scenario Helper Text" itemid="{5BCA85E2-C7F2-4787-9B1D-C9F53AC6A6E3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオ ヘルプ テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Silver Member" key="Silver Member" itemid="{0271EC28-52DF-4E14-B9F2-67DA9731D1A9}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;メンバーの状況&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Silver Member" key="Silver Member" itemid="{0271EC28-52DF-4E14-B9F2-67DA9731D1A9}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたは現在、ご自身の活動をベースにシルバー会員として活動されています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Silver Member" key="Silver Member" itemid="{0271EC28-52DF-4E14-B9F2-67DA9731D1A9}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;シルバーレベル&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/Data/Silver Member" key="Silver Member" itemid="{0271EC28-52DF-4E14-B9F2-67DA9731D1A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シルバーメンバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/changepassword" key="changepassword" itemid="{417C0A40-0B0C-47FF-B78B-CA6A4B3A8CA2}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/changepassword" key="changepassword" itemid="{417C0A40-0B0C-47FF-B78B-CA6A4B3A8CA2}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="00010101T000000Z">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/changepassword" key="changepassword" itemid="{417C0A40-0B0C-47FF-B78B-CA6A4B3A8CA2}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/changepassword" key="changepassword" itemid="{417C0A40-0B0C-47FF-B78B-CA6A4B3A8CA2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/deleteaccount" key="deleteaccount" itemid="{94557F49-05B1-4DA3-8876-F79E86C3630B}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>アカウント削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/deleteaccount" key="deleteaccount" itemid="{94557F49-05B1-4DA3-8876-F79E86C3630B}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="00010101T000000Z">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/deleteaccount" key="deleteaccount" itemid="{94557F49-05B1-4DA3-8876-F79E86C3630B}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>アカウント削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/deleteaccount" key="deleteaccount" itemid="{94557F49-05B1-4DA3-8876-F79E86C3630B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウント削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/editprofile" key="editprofile" itemid="{ED673E80-64F4-479F-BFA4-6E4C94539D17}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>プロファイル編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/editprofile" key="editprofile" itemid="{ED673E80-64F4-479F-BFA4-6E4C94539D17}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="00010101T000000Z">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/editprofile" key="editprofile" itemid="{ED673E80-64F4-479F-BFA4-6E4C94539D17}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>プロファイル編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/editprofile" key="editprofile" itemid="{ED673E80-64F4-479F-BFA4-6E4C94539D17}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロファイル編集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data" key="export-data" itemid="{F8BB107D-38AF-4C64-9235-3B13F26B01B7}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>データ エクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data" key="export-data" itemid="{F8BB107D-38AF-4C64-9235-3B13F26B01B7}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="00010101T000000Z">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data" key="export-data" itemid="{F8BB107D-38AF-4C64-9235-3B13F26B01B7}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>データ エクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data" key="export-data" itemid="{F8BB107D-38AF-4C64-9235-3B13F26B01B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ エクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data/Data" key="Data" itemid="{67F64C00-4F99-4A3C-AF2C-4C67F14B3BA6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data/Data/Download Text" key="Download Text" itemid="{586C7AA2-F2FE-41CE-A189-1D2FA6E206DF}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;下のボタンをクリックして、アカウントデータのエクスポートをダウンロードしてください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data/Data/Download Text" key="Download Text" itemid="{586C7AA2-F2FE-41CE-A189-1D2FA6E206DF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ダウンロードテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password" key="forgot-password" itemid="{B2C79FE0-8F30-4126-8A42-31F15DFC9F97}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password" key="forgot-password" itemid="{B2C79FE0-8F30-4126-8A42-31F15DFC9F97}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password" key="forgot-password" itemid="{B2C79FE0-8F30-4126-8A42-31F15DFC9F97}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>パスワードの回復</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password/confirmation" key="confirmation" itemid="{8F193217-612B-44F9-A53F-07D2E886F5B0}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password/confirmation" key="confirmation" itemid="{8F193217-612B-44F9-A53F-07D2E886F5B0}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>Confirmation</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password/confirmation" key="confirmation" itemid="{8F193217-612B-44F9-A53F-07D2E886F5B0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/account/forgot-password/Data" key="Data" itemid="{1437C9B6-0DC0-4BCA-B1DF-B1AB745E74C0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+</sitecore>

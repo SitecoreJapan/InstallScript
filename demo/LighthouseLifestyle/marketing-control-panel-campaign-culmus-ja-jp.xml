@@ -1,0 +1,26 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Downloaded Credit Card Fact Sheets" key="Downloaded Credit Card Fact Sheets" itemid="{F924B728-3881-4FCC-B9FA-A455D4121803}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>ダウンロードしたクレジットカードファクトシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Downloaded Credit Card Fact Sheets" key="Downloaded Credit Card Fact Sheets" itemid="{F924B728-3881-4FCC-B9FA-A455D4121803}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ダウンロードしたクレジットカードファクトシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for credit card" key="Signed up for credit card" itemid="{849636ED-F4E6-4F9B-AC7C-3602FBF9B6C4}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>クレジットカードの契約</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for credit card" key="Signed up for credit card" itemid="{849636ED-F4E6-4F9B-AC7C-3602FBF9B6C4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>クレジットカードの契約</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for news letter" key="Signed up for news letter" itemid="{E361986C-288B-4F6D-BF4F-CF14CE3C8CB3}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for news letter" key="Signed up for news letter" itemid="{E361986C-288B-4F6D-BF4F-CF14CE3C8CB3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Watched Cumulus Freedom Video" key="Watched Cumulus Freedom Video" itemid="{4DF1D290-CCD4-480C-BD03-06F4CFCDDA76}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>キュムラスフリーダムの動画を見た</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Watched Cumulus Freedom Video" key="Watched Cumulus Freedom Video" itemid="{4DF1D290-CCD4-480C-BD03-06F4CFCDDA76}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>キュムラスフリーダムの動画を見た</ja-JP>
+  </phrase>
+</sitecore>
