@@ -1,0 +1,17 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Galleries" key="Galleries" itemid="{B8D66515-820C-42BC-AD18-B12AE3B1FF0C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ギャラリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Galleries/Footer Gallery" key="Footer Gallery" itemid="{CDE7704A-69E1-4E20-8329-81FC2E487E34}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フッター ギャラリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Galleries/Footer Gallery/Gallery Image 1" key="Gallery Image 1" itemid="{D8069FDC-8B66-43FA-8C8D-3F1AE54A7886}" fieldid="{CBDAAB5F-3F7A-4072-8B7F-6A325A4A2205}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{580ED437-7A14-463D-A81A-0F94FCAA7A92}" alt="フィットネストラッカー" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Galleries/Footer Gallery/Gallery Image 1" key="Gallery Image 1" itemid="{D8069FDC-8B66-43FA-8C8D-3F1AE54A7886}" fieldid="{1194ED4A-378B-4D43-ADBA-A46E6082E004}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Galleries/Footer Gallery/Gallery Image 2" key="Gallery Image 2" itemid="{80719BF4-29BA-405D-848C-76E3B3D69A71}" fieldid="{1194ED4A-378B-4D43-ADBA-A46E6082E004}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,35 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header" key="Header" itemid="{4D50FE28-2E35-4BF9-BCA9-E9C62D029FB8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヘッダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Contact" key="Contact" itemid="{C4BDA9B1-5FBB-4364-BDBD-39657F5B89C2}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{FD27A69C-2AFD-461D-8C59-73554C376648}" querystring="" text="サポート" url="/Demo SXA Sites/LighthouseLifestyle/home/company/contact" linktype="internal" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Contact" key="Contact" itemid="{C4BDA9B1-5FBB-4364-BDBD-39657F5B89C2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Locations" key="Locations" itemid="{59CC6969-0627-4BF8-9016-A8403FBB8F9F}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" querystring="" target="" text="ショップの検索" url="/Demo SXA Sites/LighthouseLifestyle/home/company/locations" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Locations" key="Locations" itemid="{59CC6969-0627-4BF8-9016-A8403FBB8F9F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>店舗の検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Login" key="Login" itemid="{87D70FED-3FB3-4662-BA2E-C5397C88CAD0}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{79902BF1-F289-4B38-A8A1-9DAD2E65AC01}" querystring="" target="" text="ログイン" url="/Demo SXA Sites/LighthouseLifestyle/home/account" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Login" key="Login" itemid="{87D70FED-3FB3-4662-BA2E-C5397C88CAD0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/My Account" key="My Account" itemid="{4E8AB109-2424-4CE5-B2F1-5E4F52E4B581}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" querystring="" linktype="internal" text="マイ アカウント" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal" title="" class="" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/My Account" key="My Account" itemid="{4E8AB109-2424-4CE5-B2F1-5E4F52E4B581}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>My アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Services" key="Services" itemid="{BDD1FDE9-0B56-4ECE-A556-B043EBE11B51}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{FD27A69C-2AFD-461D-8C59-73554C376648}" querystring="" text="サポート" url="/Demo SXA Sites/LighthouseLifestyle/home/company/contact" linktype="internal" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Links/Header/Services" key="Services" itemid="{BDD1FDE9-0B56-4ECE-A556-B043EBE11B51}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+</sitecore>

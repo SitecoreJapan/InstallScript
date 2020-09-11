@@ -1,0 +1,737 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings" key="Form Actions Settings" itemid="{F558414F-1308-4145-81CB-DEE674B7C296}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フォーム アクション 設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification" key="Contact Identification" itemid="{61440D85-5AD7-4F94-9659-8B68655BF093}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンタクトの識別</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default" key="Default" itemid="{CE043087-5E8D-487B-B4C2-1EA1412938D7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>標準</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Email" key="Email" itemid="{14132F86-93AB-4848-BB8C-CC520F225E7F}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Email" key="Email" itemid="{14132F86-93AB-4848-BB8C-CC520F225E7F}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Email" key="Email" itemid="{14132F86-93AB-4848-BB8C-CC520F225E7F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/First Name" key="First Name" itemid="{73E4E6FD-8A38-417E-9B71-14DDF6610603}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>FirstName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/First Name" key="First Name" itemid="{73E4E6FD-8A38-417E-9B71-14DDF6610603}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>FirstName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/First Name" key="First Name" itemid="{73E4E6FD-8A38-417E-9B71-14DDF6610603}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>名</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Last Name" key="Last Name" itemid="{BB453210-8580-4AE5-9827-9DFD58C599EA}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>LastName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Last Name" key="Last Name" itemid="{BB453210-8580-4AE5-9827-9DFD58C599EA}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>LastName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Last Name" key="Last Name" itemid="{BB453210-8580-4AE5-9827-9DFD58C599EA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>姓</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Phone" key="Phone" itemid="{E39E3CB1-9F22-440E-AFE2-9F2ACA0B944B}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>Telephone</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Phone" key="Phone" itemid="{E39E3CB1-9F22-440E-AFE2-9F2ACA0B944B}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>PhoneNumber</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Default/Phone" key="Phone" itemid="{E39E3CB1-9F22-440E-AFE2-9F2ACA0B944B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>電話</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/EmailOnly" key="EmailOnly" itemid="{155A618A-94AC-4F57-93FE-5E8D89A18B2D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>メールのみ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/EmailOnly/Email" key="Email" itemid="{EC7967E7-D0BC-49FE-96BF-BBD0C8DEC911}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/EmailOnly/Email" key="Email" itemid="{EC7967E7-D0BC-49FE-96BF-BBD0C8DEC911}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/EmailOnly/Email" key="Email" itemid="{EC7967E7-D0BC-49FE-96BF-BBD0C8DEC911}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping" key="Fitness Mapping" itemid="{26FB5DE5-71CC-4C47-B1B1-5C0A93A5669E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネス マッピング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Email" key="Email" itemid="{334761D0-CC0B-4517-B177-0669D3221FED}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Email" key="Email" itemid="{334761D0-CC0B-4517-B177-0669D3221FED}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/First Name" key="First Name" itemid="{7FA83CFE-823E-42EC-A1E6-0A734741DD23}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>FirstName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/First Name" key="First Name" itemid="{7FA83CFE-823E-42EC-A1E6-0A734741DD23}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>FirstName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Last Name" key="Last Name" itemid="{6F9F51F6-7DCA-4E11-9381-9A8DEACDEC43}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>LastName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Last Name" key="Last Name" itemid="{6F9F51F6-7DCA-4E11-9381-9A8DEACDEC43}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>LastName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Phone" key="Phone" itemid="{4C288DCC-84D4-4ACF-9325-7B267CD7870E}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>Telephone</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/Phone" key="Phone" itemid="{4C288DCC-84D4-4ACF-9325-7B267CD7870E}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>PhoneNumber</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/FitnessActivity" key="FitnessActivity" itemid="{A9561D7F-5EDA-4826-80E2-8CBE688636E5}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>FitnessActivity</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/FitnessActivity" key="FitnessActivity" itemid="{A9561D7F-5EDA-4826-80E2-8CBE688636E5}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>SportName</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/CyclingType" key="CyclingType" itemid="{9C48EC61-54F7-437A-8B95-58F5D167567F}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>CyclingType</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/CyclingType" key="CyclingType" itemid="{9C48EC61-54F7-437A-8B95-58F5D167567F}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>SportType</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/RunningType" key="RunningType" itemid="{E8967828-83AF-4209-8BA1-E2087E7B77E5}" fieldid="{2F0FD1AE-4DBD-4448-BE5C-0470819E11A4}" updated="00010101T000000Z">
+    <ja-JP>RunningType</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Contact Identification/Fitness Mapping/RunningType" key="RunningType" itemid="{E8967828-83AF-4209-8BA1-E2087E7B77E5}" fieldid="{A9258CFF-E39C-4C69-8A69-9E35D9A853D4}" updated="00010101T000000Z">
+    <ja-JP>SportType</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder" key="Content Finder" itemid="{AA74D134-B916-47B2-B40A-2C5B906A2CB0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツ ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings" key="Interest Question Settings" itemid="{0EF4EAA6-E447-49CA-A382-50FB4DA40C3D}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{5C6D0D54-A8EC-41D1-A5C0-518FE375197C}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings" key="Interest Question Settings" itemid="{0EF4EAA6-E447-49CA-A382-50FB4DA40C3D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>興味のある質問設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/child safety" key="child safety" itemid="{7300B6FF-7927-4702-8BC4-C9AF533224AC}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/child safety" key="child safety" itemid="{7300B6FF-7927-4702-8BC4-C9AF533224AC}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>child-safety</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/child safety" key="child safety" itemid="{7300B6FF-7927-4702-8BC4-C9AF533224AC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>子供の安全</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/connected-home" key="connected-home" itemid="{915B5F2F-04F9-4EAE-AF92-C94D104940CC}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/connected-home" key="connected-home" itemid="{915B5F2F-04F9-4EAE-AF92-C94D104940CC}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>smart-home</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/connected-home" key="connected-home" itemid="{915B5F2F-04F9-4EAE-AF92-C94D104940CC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/exercise" key="exercise" itemid="{A996F170-01E3-4D73-A9C0-670F5202CF77}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/exercise" key="exercise" itemid="{A996F170-01E3-4D73-A9C0-670F5202CF77}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>over-clocking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/exercise" key="exercise" itemid="{A996F170-01E3-4D73-A9C0-670F5202CF77}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>時間を超える</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/mental-health" key="mental-health" itemid="{00EE469C-DE31-4C09-9428-57544C105216}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/mental-health" key="mental-health" itemid="{00EE469C-DE31-4C09-9428-57544C105216}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>newest-coolest</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/mental-health" key="mental-health" itemid="{00EE469C-DE31-4C09-9428-57544C105216}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>最新製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/nutrition" key="nutrition" itemid="{F5A032F5-8BCD-49A7-AAB2-5AF30E6D63A4}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/nutrition" key="nutrition" itemid="{F5A032F5-8BCD-49A7-AAB2-5AF30E6D63A4}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>energy-efficiency</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Interest Question Settings/nutrition" key="nutrition" itemid="{F5A032F5-8BCD-49A7-AAB2-5AF30E6D63A4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>省エネ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings" key="Stage Question Settings" itemid="{4E379CB8-8A86-4924-9D0D-F2A00C808BB8}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{2325B50C-9DE9-47E5-A432-1F983E9FA3F8}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings" key="Stage Question Settings" itemid="{4E379CB8-8A86-4924-9D0D-F2A00C808BB8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>部屋の質問設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/empty-nester" key="empty-nester" itemid="{0C69A38B-D23D-4482-B28A-7F2899A91C84}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/empty-nester" key="empty-nester" itemid="{0C69A38B-D23D-4482-B28A-7F2899A91C84}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>bedroom</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/empty-nester" key="empty-nester" itemid="{0C69A38B-D23D-4482-B28A-7F2899A91C84}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ベッドルーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/family-kids" key="family-kids" itemid="{6C74A1AF-7DDE-4D5D-A408-FFCC93B040BE}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/family-kids" key="family-kids" itemid="{6C74A1AF-7DDE-4D5D-A408-FFCC93B040BE}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>living-room</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/family-kids" key="family-kids" itemid="{6C74A1AF-7DDE-4D5D-A408-FFCC93B040BE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>リビング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/newlywed" key="newlywed" itemid="{C8F0A34D-1C49-4D1B-B48E-8F70AD2BB9AA}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/newlywed" key="newlywed" itemid="{C8F0A34D-1C49-4D1B-B48E-8F70AD2BB9AA}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>laundry</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/newlywed" key="newlywed" itemid="{C8F0A34D-1C49-4D1B-B48E-8F70AD2BB9AA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ランドリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/retired" key="retired" itemid="{7111E1C5-C892-4789-9E87-088BB4DBB094}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/retired" key="retired" itemid="{7111E1C5-C892-4789-9E87-088BB4DBB094}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>theater-room</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/retired" key="retired" itemid="{7111E1C5-C892-4789-9E87-088BB4DBB094}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シアタールーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/young-professional" key="young-professional" itemid="{B349F17F-F6CE-4E29-8288-5018477275F5}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/young-professional" key="young-professional" itemid="{B349F17F-F6CE-4E29-8288-5018477275F5}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>kitchen</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Stage Question Settings/young-professional" key="young-professional" itemid="{B349F17F-F6CE-4E29-8288-5018477275F5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>キッチン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings" key="Products Question Settings" itemid="{846063BC-B8E2-4D43-B850-930908200110}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{16EF3C02-9BE4-4FE5-9C71-E0985BD4A049}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings" key="Products Question Settings" itemid="{846063BC-B8E2-4D43-B850-930908200110}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>製品に関する質問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/appliances" key="appliances" itemid="{FCAED3D3-01D5-4CD5-89CB-F49378365A74}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{D153D8A5-E296-48CE-92CB-81EB12F53283}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/appliances" key="appliances" itemid="{FCAED3D3-01D5-4CD5-89CB-F49378365A74}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>appliances</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/appliances" key="appliances" itemid="{FCAED3D3-01D5-4CD5-89CB-F49378365A74}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家電製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/cameras" key="cameras" itemid="{8AE07B45-296E-4CB1-97F4-0D114D05821D}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{C4E6AEAA-183F-4600-9868-8FC43F07AE36}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/cameras" key="cameras" itemid="{8AE07B45-296E-4CB1-97F4-0D114D05821D}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>cameras</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/cameras" key="cameras" itemid="{8AE07B45-296E-4CB1-97F4-0D114D05821D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/desktops-laptops" key="desktops-laptops" itemid="{B14F7566-553A-4842-A313-537745B69F7A}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{2ECECC9A-FC04-41BF-8AB9-AA5AF9C63E46}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/desktops-laptops" key="desktops-laptops" itemid="{B14F7566-553A-4842-A313-537745B69F7A}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>desktops-laptops</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/desktops-laptops" key="desktops-laptops" itemid="{B14F7566-553A-4842-A313-537745B69F7A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>デスクトップ ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/fitness-tech" key="fitness-tech" itemid="{0B6AA9D9-8D64-4A9B-80AB-A893CDDF3201}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{24C1A87A-D981-4C18-82BF-FD6F28692FEA}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/fitness-tech" key="fitness-tech" itemid="{0B6AA9D9-8D64-4A9B-80AB-A893CDDF3201}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>fitness-tech</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/fitness-tech" key="fitness-tech" itemid="{0B6AA9D9-8D64-4A9B-80AB-A893CDDF3201}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/gaming" key="gaming" itemid="{BBAC998C-F4CC-48CB-9105-EB780C3364A9}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{7C0D0B32-E1B3-4969-890F-3793C1CFDB6A}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/gaming" key="gaming" itemid="{BBAC998C-F4CC-48CB-9105-EB780C3364A9}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>gaming</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/gaming" key="gaming" itemid="{BBAC998C-F4CC-48CB-9105-EB780C3364A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/phones-tablets" key="phones-tablets" itemid="{CDEBE3EA-F6BE-4F29-858C-65DB2D8328D6}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{C81A5B22-ED05-4D1C-B86B-B04A88141D62}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/phones-tablets" key="phones-tablets" itemid="{CDEBE3EA-F6BE-4F29-858C-65DB2D8328D6}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>phones-tablets</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/phones-tablets" key="phones-tablets" itemid="{CDEBE3EA-F6BE-4F29-858C-65DB2D8328D6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマホ、タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/tv-audio" key="tv-audio" itemid="{8A0CA08E-DADC-4803-8CC8-A099C6870E04}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{CDCADE11-E1F4-4792-8FA3-9F95C6954772}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/tv-audio" key="tv-audio" itemid="{8A0CA08E-DADC-4803-8CC8-A099C6870E04}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>tv-audio</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Content Finder/Products Question Settings/tv-audio" key="tv-audio" itemid="{8A0CA08E-DADC-4803-8CC8-A099C6870E04}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テレビ、オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder" key="Trainer Finder" itemid="{0D9663F2-A449-4A08-A2F6-31FCE64AEB31}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>トレーナーファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings" key="Excercise Question Settings" itemid="{97837AC1-9549-47C5-A9AA-10D768B4F78E}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{1F90A020-4014-44EE-B86D-B07CE89892AF}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings" key="Excercise Question Settings" itemid="{97837AC1-9549-47C5-A9AA-10D768B4F78E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>運動に関する質問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Aerobics" key="Aerobics" itemid="{F5AE4302-393F-4D6E-8F5B-24BD314D64CA}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{492B455A-0F97-4C07-A49A-F3550EFF1910}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Aerobics" key="Aerobics" itemid="{F5AE4302-393F-4D6E-8F5B-24BD314D64CA}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Aerobics</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Aerobics" key="Aerobics" itemid="{F5AE4302-393F-4D6E-8F5B-24BD314D64CA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>エアロビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Cardio" key="Cardio" itemid="{CF0D6DCC-94B2-4095-A1C6-A8CAEB28C1B3}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{2D4BAA3E-04DB-468E-A249-812C3B0D3A9B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Cardio" key="Cardio" itemid="{CF0D6DCC-94B2-4095-A1C6-A8CAEB28C1B3}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Cardio</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Cardio" key="Cardio" itemid="{CF0D6DCC-94B2-4095-A1C6-A8CAEB28C1B3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/n-a" key="n-a" itemid="{E04D3F28-0486-4DDA-80B1-1DE9C500C046}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/n-a" key="n-a" itemid="{E04D3F28-0486-4DDA-80B1-1DE9C500C046}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>n-a</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/n-a" key="n-a" itemid="{E04D3F28-0486-4DDA-80B1-1DE9C500C046}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Strength" key="Strength" itemid="{BB550CEC-8D42-4879-9FF5-74CF4D868118}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Strength" key="Strength" itemid="{BB550CEC-8D42-4879-9FF5-74CF4D868118}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Strength</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Strength" key="Strength" itemid="{BB550CEC-8D42-4879-9FF5-74CF4D868118}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ストレッチ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Weight-lifting" key="Weight-lifting" itemid="{E59C4A8D-5F26-40F0-8274-E79F88965517}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{C139230C-7B22-4418-A13D-CFD6FFF5B35E}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Weight-lifting" key="Weight-lifting" itemid="{E59C4A8D-5F26-40F0-8274-E79F88965517}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Weight Lifting</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Weight-lifting" key="Weight-lifting" itemid="{E59C4A8D-5F26-40F0-8274-E79F88965517}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ウェイトリフティング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Yoga" key="Yoga" itemid="{CEFC3046-E2BE-41F6-9BFE-7F6A7EEEBB0D}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{13BEB09C-9F4D-4FD0-85D8-6567BF3EC81E}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Yoga" key="Yoga" itemid="{CEFC3046-E2BE-41F6-9BFE-7F6A7EEEBB0D}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Yoga</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Excercise Question Settings/Yoga" key="Yoga" itemid="{CEFC3046-E2BE-41F6-9BFE-7F6A7EEEBB0D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヨガ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings" key="Days Question Settings" itemid="{2D902381-1134-469C-869C-926CD1289341}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{0075EF06-E295-40BA-8F73-BF14B9ACF1D1}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings" key="Days Question Settings" itemid="{2D902381-1134-469C-869C-926CD1289341}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>日付に関する質問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/1-2-days" key="1-2-days" itemid="{0D54D0BE-B7D1-4043-8EDF-D228EFEFE662}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{13BEB09C-9F4D-4FD0-85D8-6567BF3EC81E}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/1-2-days" key="1-2-days" itemid="{0D54D0BE-B7D1-4043-8EDF-D228EFEFE662}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>1-2 days</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/1-2-days" key="1-2-days" itemid="{0D54D0BE-B7D1-4043-8EDF-D228EFEFE662}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>1-2 日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/3-4 days" key="3-4 days" itemid="{D9B62E32-3218-48C0-847F-1B19B1C598A6}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/3-4 days" key="3-4 days" itemid="{D9B62E32-3218-48C0-847F-1B19B1C598A6}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>3-4 days</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/3-4 days" key="3-4 days" itemid="{D9B62E32-3218-48C0-847F-1B19B1C598A6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>3-4 日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/5-or-more-days" key="5-or-more-days" itemid="{123E954E-7136-47E1-85DA-EE60B87EEFF4}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/5-or-more-days" key="5-or-more-days" itemid="{123E954E-7136-47E1-85DA-EE60B87EEFF4}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>5 or more</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Days Question Settings/5-or-more-days" key="5-or-more-days" itemid="{123E954E-7136-47E1-85DA-EE60B87EEFF4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>5 日以上</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings" key="Intensity Question Settings" itemid="{852404E8-B31F-4407-97A5-9D0EA336D52E}" fieldid="{8C512534-BA02-49FC-91BE-66DA6E6AA1B6}" updated="00010101T000000Z">
+    <ja-JP>{3BA23A0C-A049-4B74-BE52-24A3D53272BA}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings" key="Intensity Question Settings" itemid="{852404E8-B31F-4407-97A5-9D0EA336D52E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>強度に関する質問</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Low" key="Low" itemid="{6A460A47-4E70-47CF-869E-27BF9B22B60A}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Low" key="Low" itemid="{6A460A47-4E70-47CF-869E-27BF9B22B60A}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Low</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Low" key="Low" itemid="{6A460A47-4E70-47CF-869E-27BF9B22B60A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Medium" key="Medium" itemid="{4EBC5963-DB1A-4CCA-BD53-CF1171B51036}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Medium" key="Medium" itemid="{4EBC5963-DB1A-4CCA-BD53-CF1171B51036}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>Medium</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/Medium" key="Medium" itemid="{4EBC5963-DB1A-4CCA-BD53-CF1171B51036}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>中ぐらい</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/High" key="High" itemid="{AF379BA2-A9BB-4359-835D-5EB266B5A55D}" fieldid="{E30632B3-B1C5-494E-8EB2-5C323FE80C5E}" updated="00010101T000000Z">
+    <ja-JP>{FF6A8672-457B-4D6C-9255-31C875FC6E3B}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/High" key="High" itemid="{AF379BA2-A9BB-4359-835D-5EB266B5A55D}" fieldid="{ECB328C3-8F41-4C0B-8FDF-A01096146F3B}" updated="00010101T000000Z">
+    <ja-JP>High</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Actions Settings/Trainer Finder/Intensity Question Settings/High" key="High" itemid="{AF379BA2-A9BB-4359-835D-5EB266B5A55D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens" key="Form Content Tokens" itemid="{0953C2F0-10E4-4867-9116-AA17A47C21B3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツ トークン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder" key="Content Finder" itemid="{F9BBA009-8641-4BE9-A4BC-CE31F4C1356C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツ ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1" key="question 1" itemid="{5CC3C4C9-A777-4564-B7BC-CBED77621AE8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/connected-home" key="connected-home" itemid="{6ABC0303-91F0-40C3-B398-BEBA7FA1D477}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/connected-home" key="connected-home" itemid="{6ABC0303-91F0-40C3-B398-BEBA7FA1D477}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/child-safety" key="child-safety" itemid="{3F78B7B1-BFB2-4BCD-9789-F510E03CB654}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>子供の安全</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/child-safety" key="child-safety" itemid="{3F78B7B1-BFB2-4BCD-9789-F510E03CB654}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>子供の安全</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/exercise" key="exercise" itemid="{D4BFC86B-1557-4C52-B314-E9288F79289B}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>時間短縮</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/exercise" key="exercise" itemid="{D4BFC86B-1557-4C52-B314-E9288F79289B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>時間短縮</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/mental-health" key="mental-health" itemid="{57DD22AC-B609-485E-98E8-5FE56948DD83}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>最新製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/mental-health" key="mental-health" itemid="{57DD22AC-B609-485E-98E8-5FE56948DD83}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>最新製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/nutrition" key="nutrition" itemid="{D5D07243-9E6A-43FD-B357-B8CE73E0F3AE}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>省エネ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/nutrition" key="nutrition" itemid="{D5D07243-9E6A-43FD-B357-B8CE73E0F3AE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>省エネ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/n-a" key="n-a" itemid="{963C31B1-9DD0-4BDB-9470-630F1CB12167}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 1/n-a" key="n-a" itemid="{963C31B1-9DD0-4BDB-9470-630F1CB12167}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2" key="question 2" itemid="{E2CB8485-ABBD-437D-BDF3-43CD55DD14FF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/young-professional" key="young-professional" itemid="{AA33A4C1-B164-42BB-8A2F-549C80B32B17}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>ベッドルーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/young-professional" key="young-professional" itemid="{AA33A4C1-B164-42BB-8A2F-549C80B32B17}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ベッドルーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/newlywed" key="newlywed" itemid="{572E8270-7F88-4871-B289-69DB9789A457}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>キッチン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/newlywed" key="newlywed" itemid="{572E8270-7F88-4871-B289-69DB9789A457}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>キッチン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/family-kids" key="family-kids" itemid="{9E6A55CB-7364-4484-AEFA-F7705BD7EAA8}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>ランドリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/family-kids" key="family-kids" itemid="{9E6A55CB-7364-4484-AEFA-F7705BD7EAA8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ランドリー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/empty-nester" key="empty-nester" itemid="{03A6490D-C296-4F8D-ADF3-716587F2BB0A}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>リビングルーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/empty-nester" key="empty-nester" itemid="{03A6490D-C296-4F8D-ADF3-716587F2BB0A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>リビングルーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/retired" key="retired" itemid="{FE18ECAF-BB70-4629-9FEB-068CAC26B3E5}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>シアタールーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/retired" key="retired" itemid="{FE18ECAF-BB70-4629-9FEB-068CAC26B3E5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シアタールーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/other" key="other" itemid="{2AA81C99-BC9F-43E6-A88B-65503730F5B2}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>家の玄関</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 2/other" key="other" itemid="{2AA81C99-BC9F-43E6-A88B-65503730F5B2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家の玄関</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3" key="question 3" itemid="{78FA0B30-A853-4649-A19C-160CEAD19B1B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/appliances" key="appliances" itemid="{0337C30A-B229-4C92-B06B-ECD213F1B00D}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>家電製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/appliances" key="appliances" itemid="{0337C30A-B229-4C92-B06B-ECD213F1B00D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家電製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/cameras" key="cameras" itemid="{CDD84009-35B1-416A-9C73-EC83308E1DDE}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/cameras" key="cameras" itemid="{CDD84009-35B1-416A-9C73-EC83308E1DDE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/desktops-laptops" key="desktops-laptops" itemid="{4A60B11B-8383-415B-8ACF-0070F648B264}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>デスクトップ、ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/desktops-laptops" key="desktops-laptops" itemid="{4A60B11B-8383-415B-8ACF-0070F648B264}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>デスクトップ、ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/fitness-tech" key="fitness-tech" itemid="{3A046D4F-C5BC-4F89-95C3-0AA269F99195}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>フィットネスデバイス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/fitness-tech" key="fitness-tech" itemid="{3A046D4F-C5BC-4F89-95C3-0AA269F99195}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネスデバイス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/gaming" key="gaming" itemid="{294940A6-7DEC-4F1B-949E-BAB87D998893}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/gaming" key="gaming" itemid="{294940A6-7DEC-4F1B-949E-BAB87D998893}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/phones-tablets" key="phones-tablets" itemid="{D9DC8517-D3B8-434B-8BA9-7142C3C8D1E5}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>スマートフォン、タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/phones-tablets" key="phones-tablets" itemid="{D9DC8517-D3B8-434B-8BA9-7142C3C8D1E5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートフォン、タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/tv-audio" key="tv-audio" itemid="{E16017F9-79BC-42EF-84F8-6C969E695CCA}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>テレビ、オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/tv-audio" key="tv-audio" itemid="{E16017F9-79BC-42EF-84F8-6C969E695CCA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テレビ、オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/n-a" key="n-a" itemid="{2DBE7271-52EB-4EEA-B528-C4BC9EE66817}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>すべて</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Content Finder/question 3/n-a" key="n-a" itemid="{2DBE7271-52EB-4EEA-B528-C4BC9EE66817}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>すべて</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder" key="Trainer Finder" itemid="{2DDCB3E3-106D-4875-9F65-5894A49D976E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>トレーナー ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1" key="question 1" itemid="{9EFDD2C8-5312-4C5B-81A3-30E0759A2A17}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Yoga" key="Yoga" itemid="{3804D076-256C-42C2-A101-29437A4E816B}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Yoga</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Yoga" key="Yoga" itemid="{3804D076-256C-42C2-A101-29437A4E816B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヨガ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Aerobics" key="Aerobics" itemid="{062F0058-4553-4DE4-B1F2-1A42A6F010FF}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Aerobics</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Aerobics" key="Aerobics" itemid="{062F0058-4553-4DE4-B1F2-1A42A6F010FF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>エアロビクス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Cardio" key="Cardio" itemid="{AA030D82-04C6-44D0-BF65-0AF22AA9F9E0}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Cardio</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Cardio" key="Cardio" itemid="{AA030D82-04C6-44D0-BF65-0AF22AA9F9E0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Strength" key="Strength" itemid="{A2D67F83-3220-4BD7-8B3E-30100C43B8B6}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Strength</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Strength" key="Strength" itemid="{A2D67F83-3220-4BD7-8B3E-30100C43B8B6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ストレッチ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Weight Lifting" key="Weight Lifting" itemid="{2914B615-546B-4516-BBA4-54A43170F95E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Weight Lifting</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/Weight Lifting" key="Weight Lifting" itemid="{2914B615-546B-4516-BBA4-54A43170F95E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ウェイトリフティング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/n-a" key="n-a" itemid="{2FFD7C00-565E-428B-9138-214FF01B60FA}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 1/n-a" key="n-a" itemid="{2FFD7C00-565E-428B-9138-214FF01B60FA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2" key="question 2" itemid="{B70AF10A-787D-450D-BD5B-4C008AB33738}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/1-2 days" key="1-2 days" itemid="{7DC69FB6-EDF0-41FE-8CD8-51BBCA51CA19}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>1-2日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/1-2 days" key="1-2 days" itemid="{7DC69FB6-EDF0-41FE-8CD8-51BBCA51CA19}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>1-2日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/3-4 days" key="3-4 days" itemid="{83C2A360-C15B-4B76-8849-57036DEB50DA}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>3-4日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/3-4 days" key="3-4 days" itemid="{83C2A360-C15B-4B76-8849-57036DEB50DA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>3-4日</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/5 or more days" key="5 or more days" itemid="{74546FD9-20DC-45B4-B0E7-F43A40AEAFC8}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>5日以上</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 2/5 or more days" key="5 or more days" itemid="{74546FD9-20DC-45B4-B0E7-F43A40AEAFC8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>5日以上</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3" key="question 3" itemid="{F5608177-1303-46A8-9E4E-9B234DD6AAD7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>質問３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/Low" key="Low" itemid="{288E14A7-4AE5-40B6-8814-896E42168582}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Low</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/Low" key="Low" itemid="{288E14A7-4AE5-40B6-8814-896E42168582}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/Medium" key="Medium" itemid="{23306C7D-3114-4060-B7D8-9FE0F61C2999}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Medium</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/Medium" key="Medium" itemid="{23306C7D-3114-4060-B7D8-9FE0F61C2999}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>中ぐらい</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/High" key="High" itemid="{3B563473-0A4D-4B77-B2D3-33282A30BD00}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>High</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Trainer Finder/question 3/High" key="High" itemid="{3B563473-0A4D-4B77-B2D3-33282A30BD00}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries" key="Countries" itemid="{0E516DFD-9DFA-4BBC-A24A-35217C86171B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>国</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Australia" key="Australia" itemid="{9AB67FAC-D8CA-4252-A041-41D8BBE0B4E6}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Australia</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Belgium" key="Belgium" itemid="{CEF55CAB-EB99-4E10-84AD-CB589405C02D}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Belgium</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Bulgaria" key="Bulgaria" itemid="{B904F228-B2C4-4393-A676-228766F9A7B1}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Bulgaria</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Canada" key="Canada" itemid="{6FA49739-9C6B-49DD-89A1-BEA8D413D98F}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Canada</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/China" key="China" itemid="{3C3F56B0-D47D-41CC-A0C7-196143C424CC}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>China</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Denmark" key="Denmark" itemid="{7CD03A59-184C-4533-9C9D-7BFD6CA702BB}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Denmark</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Egypt" key="Egypt" itemid="{66BFFE43-EAC8-4C0E-A6CB-6CB63066CC78}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Egypt</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/France" key="France" itemid="{20FA20FD-4B19-46C4-83FD-542E40EFFD0C}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>France</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Germany" key="Germany" itemid="{BB086714-B5E0-4656-857F-02D1DE1BAD97}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Germany</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/India" key="India" itemid="{B7D597DA-5922-47E4-B253-4FCAEA567FFE}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>India</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Japan" key="Japan" itemid="{F81377CB-810E-4A16-9CB3-90FC5CE8807E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Japan</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Netherlands" key="Netherlands" itemid="{4DED8794-2F26-4A32-B298-B93F47E22B13}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Netherlands</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/South Africa" key="South Africa" itemid="{EB26D9A3-DE0A-44FB-B20C-5393A798EAFD}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>South Africa</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/Ukraine" key="Ukraine" itemid="{76D4FB13-09EB-4FD1-8EB9-03950FC8F25F}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Ukraine</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/United Kingdom" key="United Kingdom" itemid="{D96B2AFC-E333-421C-AEA3-3BF9EB5980CD}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>United Kingdom</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Countries/United States" key="United States" itemid="{3BB38120-AEDF-4413-88A1-40F7F6929F9F}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>United States of America</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States" key="States" itemid="{9A603231-079C-4B67-BD38-B2F238A1FB9E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>州</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/California" key="California" itemid="{E810A300-4D12-485B-BF74-598A6A8F5913}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>California</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/Colorado" key="Colorado" itemid="{60702CB8-365A-4542-B0E1-68869F7AAF6E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Colorado</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/Hawaii" key="Hawaii" itemid="{BF9B8B21-A58E-4392-A0C5-3A27CD717331}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Hawaii</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/New York" key="New York" itemid="{4D3700A5-1ACB-42FE-8671-A45A8FC68596}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>New York</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/North Carolina" key="North Carolina" itemid="{BDB00ED0-CEB2-4A4F-BABC-689181D4CF60}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>North Carolina</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/Oregon" key="Oregon" itemid="{BA8B678C-67E9-40F0-BE51-8E95E4850D7E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Oregon</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/Texas" key="Texas" itemid="{8689C8F7-E920-43B9-965A-6A3A7874293E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Texas</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/States/Washington" key="Washington" itemid="{F7B9DD0E-7413-45F5-99AA-78DCDA77DCE3}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Washington</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports" key="Sports" itemid="{C2678C11-9329-4FDA-9598-44F50EB421A2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スポーツ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Running/Cross country" key="Cross country" itemid="{020203E5-4648-457B-AE9F-598964C2195B}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Cross country</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Running/Road" key="Road" itemid="{51363ACC-F0A6-4EBF-89E4-F92125FD118F}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Road</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Running/Track" key="Track" itemid="{886AFDBE-B6AB-4035-995C-C603D148A39C}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Track</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Cycling" key="Cycling" itemid="{B9D18026-EACD-4718-8151-557CB8D97EA6}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Cycling</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Cycling/Mountain" key="Mountain" itemid="{2F18A642-ACEC-435D-9066-93F04C650F07}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Mountain</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Cycling/Road" key="Road" itemid="{4515B41B-B869-492E-9ADD-D53AA620C2D5}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Road</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Cycling/Stationary" key="Stationary" itemid="{B1CD97A4-81BC-4244-9E0C-28C5CA478C86}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Stationary</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Kayaking" key="Kayaking" itemid="{E7162BCD-03A9-4557-AA75-9928302AA60E}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Kayaking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Rock Climbing" key="Rock Climbing" itemid="{767B4F8A-72A6-45C6-8BF9-2674D368EE80}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Rock Climbing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Forms/Form Content Tokens/Sports/Swimming" key="Swimming" itemid="{824DDA0E-2B9F-4038-B311-DDD61C714498}" fieldid="{1B9D1028-C20C-407B-9DCD-AFFE86A6F793}" updated="00010101T000000Z">
+    <ja-JP>Swimming</ja-JP>
+  </phrase>
+</sitecore>
