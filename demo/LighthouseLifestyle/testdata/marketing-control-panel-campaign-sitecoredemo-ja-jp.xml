@@ -1,0 +1,65 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo" key="SitecoreDemo" itemid="{FBEFEA07-DA28-48D4-9527-6AB943A5414E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Sitecore デモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios" key="Demo Scenarios" itemid="{6AC9CD3A-3E43-4466-AA21-904E64F9DF47}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Demo シナリオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{7F3D54DB-06A8-4146-897E-5036BCC9315A}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{7F3D54DB-06A8-4146-897E-5036BCC9315A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Email - Recipe for Smart Stove" key="Email - Recipe for Smart Stove" itemid="{2D976C32-7D06-4F04-AA48-8B0A5C409F6E}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>Email - スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Email - Recipe for Smart Stove" key="Email - Recipe for Smart Stove" itemid="{2D976C32-7D06-4F04-AA48-8B0A5C409F6E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Email - スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Facebook - Android to Arduino" key="Facebook - Android to Arduino" itemid="{DABC3F33-3A25-45D3-98F2-675BD4035533}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>Facebook - AndroidからArduinoへ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Facebook - Android to Arduino" key="Facebook - Android to Arduino" itemid="{DABC3F33-3A25-45D3-98F2-675BD4035533}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Facebook - AndroidからArduinoへ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Google Paid Ad Appliances" key="Google Paid Ad Appliances" itemid="{744D6FD9-3578-47F2-9EEF-8411FC5FEF18}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>Google 有料の広告家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Google Paid Ad Appliances" key="Google Paid Ad Appliances" itemid="{744D6FD9-3578-47F2-9EEF-8411FC5FEF18}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Google 有料の広告家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/PPC - Design Your Smart Home Ad" key="PPC - Design Your Smart Home Ad" itemid="{E1FCA345-B206-4432-A838-11DBAD7F56E2}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>PPC - スマートホーム広告をデザインする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/PPC - Design Your Smart Home Ad" key="PPC - Design Your Smart Home Ad" itemid="{E1FCA345-B206-4432-A838-11DBAD7F56E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム広告をデザインする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Search - Fitness" key="Search - Fitness" itemid="{0292C2AA-99EE-4010-86B9-1B862BBA99CA}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>検索 - フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Search - Fitness" key="Search - Fitness" itemid="{0292C2AA-99EE-4010-86B9-1B862BBA99CA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>検索 - フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Social - Foodie" key="Social - Foodie" itemid="{86F4B51D-01D8-4372-889A-2DEAC430E01D}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>ソーシャル - フード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Social - Foodie" key="Social - Foodie" itemid="{86F4B51D-01D8-4372-889A-2DEAC430E01D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ソーシャル - フード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{4C1BF83B-06E2-4B07-AD16-0E65D95E356E}" updated="00010101T000000Z">
+    <ja-JP>{DDAFB85B-1511-48B8-9374-2A8A1F371645}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z">
+    <ja-JP>SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{BD4720D7-9ED6-4438-959B-7B1C5C32C10B}" updated="00010101T000000Z">
+    <ja-JP>20191209T230409Z</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{AA6A984D-37E6-478B-AFC1-A8072E76D5BB}" updated="00010101T000000Z">
+    <ja-JP>{E0A6E451-FA94-4557-B101-4B1AD9E9BD93}{9249B1E3-7CD9-4ED3-ADFB-ED42634392E9}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+</sitecore>

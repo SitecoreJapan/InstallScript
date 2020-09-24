@@ -1,0 +1,68 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>ガイドを探す</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>次のプロジェクトに役立つガイドやその他の素晴らしいコンテンツの厳選された選択を得るために、いくつかの簡単な質問に答えてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F88A8EF4-CD5A-4037-93D7-6A6C07CFAA5E}" alt="テレビ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ガイドを探す</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;いくつかの簡単な質問に答えて、次のプロジェクトに役立つガイドやその他の素晴らしいコンテンツを選んでください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ガイドを探す</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>次のプロジェクトに役立つガイドやその他の素晴らしいコンテンツの厳選された選択を得るために、いくつかの簡単な質問に答えてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>ガイドを探す</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>次のプロジェクトに役立つガイドやその他の素晴らしいコンテンツの厳選された選択を得るために、いくつかの簡単な質問に答えてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder" key="content-finder" itemid="{4FE83372-F5BF-417E-A969-5B35D50DC993}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツ ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/Data" key="Data" itemid="{26EEDD75-47D4-4250-855C-BC6CCAC99EDE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/Data/Hero" key="Hero" itemid="{B7CA3D92-026F-443E-8E9B-101675F7EE83}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B3FCCB5B-DC3E-4BBA-932C-FA0D9772B25E}" alt="ガイドを見つける" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/Data/Hero" key="Hero" itemid="{B7CA3D92-026F-443E-8E9B-101675F7EE83}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>あなたのためだけのパーソナライズされた体験</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/Data/Hero" key="Hero" itemid="{B7CA3D92-026F-443E-8E9B-101675F7EE83}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations" key="recommendations" itemid="{49FE5A16-733B-4486-923A-3ADC7B8E984F}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>おすすめ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations" key="recommendations" itemid="{49FE5A16-733B-4486-923A-3ADC7B8E984F}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>おすすめ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations" key="recommendations" itemid="{49FE5A16-733B-4486-923A-3ADC7B8E984F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>おすすめ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations/Data" key="Data" itemid="{1FEB92A7-5906-4DE6-A963-592A1EB66FE3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations/Data/Hero" key="Hero" itemid="{3DF6E176-CC2F-4AEC-9813-DBEC12EB0340}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B3FCCB5B-DC3E-4BBA-932C-FA0D9772B25E}" alt="ガイドを見つける" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations/Data/Hero" key="Hero" itemid="{3DF6E176-CC2F-4AEC-9813-DBEC12EB0340}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ガイドを見つける</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/content-finder/recommendations/Data/Hero" key="Hero" itemid="{3DF6E176-CC2F-4AEC-9813-DBEC12EB0340}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+</sitecore>

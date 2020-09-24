@@ -1,395 +1,398 @@
 ﻿<sitecore>
-  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Experience Generator" key="Experience Generator" itemid="{B193D8B5-F112-499A-AA46-CC4E1F1BB992}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Experience Generator" key="Experience Generator" itemid="{B193D8B5-F112-499A-AA46-CC4E1F1BB992}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>Experience Generator</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Contact Experience Generator" key="Contact Experience Generator" itemid="{E45C19E0-F3FA-45D6-90D5-C295803A7CE3}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Contact Experience Generator" key="Contact Experience Generator" itemid="{E45C19E0-F3FA-45D6-90D5-C295803A7CE3}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>Profile Experience Generator</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts" key="Contacts" itemid="{2C9E7C3D-8979-4677-9030-76E8CA0ED9D2}" fieldid="BrowserTitle" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts" key="Contacts" itemid="{2C9E7C3D-8979-4677-9030-76E8CA0ED9D2}" fieldid="BrowserTitle" updated="20190125T080915Z" database="core">
     <ja-JP>Experience Generator</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts" key="Contacts" itemid="{2C9E7C3D-8979-4677-9030-76E8CA0ED9D2}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts" key="Contacts" itemid="{2C9E7C3D-8979-4677-9030-76E8CA0ED9D2}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>コンタクト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings" key="PageSettings" itemid="{9D7FAB6C-778A-460E-B6EE-508222174804}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings" key="PageSettings" itemid="{9D7FAB6C-778A-460E-B6EE-508222174804}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>ページ設定</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons" key="Buttons" itemid="{4C3B5656-91E5-456F-8975-C8C3D597621D}" fieldid="__Display name" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons" key="Buttons" itemid="{4C3B5656-91E5-456F-8975-C8C3D597621D}" fieldid="__Display name" updated="20190125T080916Z" database="core">
     <ja-JP>ボタン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Delete" key="Delete" itemid="{94DB2B93-687F-4889-AA83-0D68682FD444}" fieldid="Text" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Delete" key="Delete" itemid="{94DB2B93-687F-4889-AA83-0D68682FD444}" fieldid="Text" updated="20190125T080918Z" database="core">
     <ja-JP>削除</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Delete" key="Delete" itemid="{94DB2B93-687F-4889-AA83-0D68682FD444}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Delete" key="Delete" itemid="{94DB2B93-687F-4889-AA83-0D68682FD444}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>削除</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Pause" key="Pause" itemid="{6E59BF5E-6843-4E07-8244-914E44C2D510}" fieldid="Text" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Pause" key="Pause" itemid="{6E59BF5E-6843-4E07-8244-914E44C2D510}" fieldid="Text" updated="20190125T080918Z" database="core">
     <ja-JP>停止</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Pause" key="Pause" itemid="{6E59BF5E-6843-4E07-8244-914E44C2D510}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Pause" key="Pause" itemid="{6E59BF5E-6843-4E07-8244-914E44C2D510}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>停止</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Start" key="Start" itemid="{03BEE34C-AAAC-4866-A5FA-6349B79DA0B7}" fieldid="Text" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Start" key="Start" itemid="{03BEE34C-AAAC-4866-A5FA-6349B79DA0B7}" fieldid="Text" updated="20190125T080918Z" database="core">
     <ja-JP>開始</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Start" key="Start" itemid="{03BEE34C-AAAC-4866-A5FA-6349B79DA0B7}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Start" key="Start" itemid="{03BEE34C-AAAC-4866-A5FA-6349B79DA0B7}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>開始</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Stop" key="Stop" itemid="{123E51EA-0ED3-4769-8CE9-EE0FA4FB7155}" fieldid="Text" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Stop" key="Stop" itemid="{123E51EA-0ED3-4769-8CE9-EE0FA4FB7155}" fieldid="Text" updated="20190125T080918Z" database="core">
     <ja-JP>終了</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Stop" key="Stop" itemid="{123E51EA-0ED3-4769-8CE9-EE0FA4FB7155}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Buttons/Stop" key="Stop" itemid="{123E51EA-0ED3-4769-8CE9-EE0FA4FB7155}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>終了</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DataSheetStyle" key="DataSheetStyle" itemid="{2C02099B-1239-400F-BEC5-8426999DBB91}" fieldid="__Display name" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DataSheetStyle" key="DataSheetStyle" itemid="{2C02099B-1239-400F-BEC5-8426999DBB91}" fieldid="__Display name" updated="20190125T080916Z" database="core">
     <ja-JP />
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/InteractionPagesDialog" key="InteractionPagesDialog" itemid="{DE8692DF-C65F-4BD5-BC18-021F9C48EE88}" fieldid="Header" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/InteractionPagesDialog" key="InteractionPagesDialog" itemid="{DE8692DF-C65F-4BD5-BC18-021F9C48EE88}" fieldid="Header" updated="20190125T080918Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/InteractionPagesDialog" key="InteractionPagesDialog" itemid="{DE8692DF-C65F-4BD5-BC18-021F9C48EE88}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/InteractionPagesDialog" key="InteractionPagesDialog" itemid="{DE8692DF-C65F-4BD5-BC18-021F9C48EE88}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP />
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog" key="VisitDetailsDialog" itemid="{67609F12-FECF-42D8-8572-87BE11C81810}" fieldid="Header" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog" key="VisitDetailsDialog" itemid="{67609F12-FECF-42D8-8572-87BE11C81810}" fieldid="Header" updated="20190125T080918Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog" key="VisitDetailsDialog" itemid="{67609F12-FECF-42D8-8572-87BE11C81810}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog" key="VisitDetailsDialog" itemid="{67609F12-FECF-42D8-8572-87BE11C81810}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP />
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList" key="PagesInVisitList" itemid="{5F8F6ED0-8C03-4935-8CD2-C52B960E81F2}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList" key="PagesInVisitList" itemid="{5F8F6ED0-8C03-4935-8CD2-C52B960E81F2}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>訪問リストのページ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList/Url" key="Url" itemid="{6F1727EF-1761-4839-A82F-057A102AA3AF}" fieldid="HeaderText" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList/Url" key="Url" itemid="{6F1727EF-1761-4839-A82F-057A102AA3AF}" fieldid="HeaderText" updated="20190125T080922Z" database="core">
     <ja-JP>URL</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList/Url" key="Url" itemid="{6F1727EF-1761-4839-A82F-057A102AA3AF}" fieldid="__Display name" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/DialogWindows/VisitDetailsDialog/PagesInVisitList/Url" key="Url" itemid="{6F1727EF-1761-4839-A82F-057A102AA3AF}" fieldid="__Display name" updated="20190125T080922Z" database="core">
     <ja-JP>URL</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists" key="Lists" itemid="{2F9F25EF-9993-43C2-B28F-A056A31DA6CC}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists" key="Lists" itemid="{2F9F25EF-9993-43C2-B28F-A056A31DA6CC}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>リスト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/Email" key="Email" itemid="{B802BC3E-FC92-4A8D-84C5-BFAFF7A91E1D}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/Email" key="Email" itemid="{B802BC3E-FC92-4A8D-84C5-BFAFF7A91E1D}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>メール</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/FirstName" key="FirstName" itemid="{9F0CCAFE-F80E-40ED-966B-CDA510BAC2F2}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/FirstName" key="FirstName" itemid="{9F0CCAFE-F80E-40ED-966B-CDA510BAC2F2}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>名</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/LastName" key="LastName" itemid="{AC755110-5351-4E8B-82ED-CB6EE837D847}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/ContactListSettings/LastName" key="LastName" itemid="{AC755110-5351-4E8B-82ED-CB6EE837D847}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>姓</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/GoalListSettings/Goal" key="Goal" itemid="{CA35A7AA-6884-43F6-92E3-963FBE288670}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/GoalListSettings/Goal" key="Goal" itemid="{CA35A7AA-6884-43F6-92E3-963FBE288670}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>ゴール</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Channel" key="Channel" itemid="{49BB3E24-DD92-420D-B93F-B080A27214B9}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Channel" key="Channel" itemid="{49BB3E24-DD92-420D-B93F-B080A27214B9}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>チャネル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Channel" key="Channel" itemid="{49BB3E24-DD92-420D-B93F-B080A27214B9}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Channel" key="Channel" itemid="{49BB3E24-DD92-420D-B93F-B080A27214B9}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>チャネル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Campaign" key="Campaign" itemid="{66340004-9F79-4CF4-9042-F8EA65CA4445}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Campaign" key="Campaign" itemid="{66340004-9F79-4CF4-9042-F8EA65CA4445}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>キャンペーン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Campaign" key="Campaign" itemid="{66340004-9F79-4CF4-9042-F8EA65CA4445}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Campaign" key="Campaign" itemid="{66340004-9F79-4CF4-9042-F8EA65CA4445}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>キャンペーン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Location" key="Location" itemid="{0172E5A1-C047-473F-BED1-13DDB84CBF80}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Location" key="Location" itemid="{0172E5A1-C047-473F-BED1-13DDB84CBF80}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>地域</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Location" key="Location" itemid="{0172E5A1-C047-473F-BED1-13DDB84CBF80}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Location" key="Location" itemid="{0172E5A1-C047-473F-BED1-13DDB84CBF80}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>地域</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Recency" key="Recency" itemid="{743E1808-E4A7-4DCB-B54F-C7302709A47E}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Recency" key="Recency" itemid="{743E1808-E4A7-4DCB-B54F-C7302709A47E}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>最新性</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Recency" key="Recency" itemid="{743E1808-E4A7-4DCB-B54F-C7302709A47E}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/InteractionListSettings/Recency" key="Recency" itemid="{743E1808-E4A7-4DCB-B54F-C7302709A47E}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>最新性</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/OutcomeListSettings/Outcome" key="Outcome" itemid="{7A17F59B-74B5-4D6D-A274-06C4F3520FAE}" fieldid="HeaderText" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/OutcomeListSettings/Outcome" key="Outcome" itemid="{7A17F59B-74B5-4D6D-A274-06C4F3520FAE}" fieldid="HeaderText" updated="20190125T080921Z" database="core">
     <ja-JP>結果</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/OutcomeListSettings/Outcome" key="Outcome" itemid="{7A17F59B-74B5-4D6D-A274-06C4F3520FAE}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Lists/OutcomeListSettings/Outcome" key="Outcome" itemid="{7A17F59B-74B5-4D6D-A274-06C4F3520FAE}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>結果</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/PageTitle" key="PageTitle" itemid="{E54936CD-9A39-4CB7-8406-D9181B8714C3}" fieldid="Text" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/PageTitle" key="PageTitle" itemid="{E54936CD-9A39-4CB7-8406-D9181B8714C3}" fieldid="Text" updated="20190125T080916Z" database="core">
     <ja-JP>Experience Generator</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/PageTitle" key="PageTitle" itemid="{E54936CD-9A39-4CB7-8406-D9181B8714C3}" fieldid="__Display name" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/PageTitle" key="PageTitle" itemid="{E54936CD-9A39-4CB7-8406-D9181B8714C3}" fieldid="__Display name" updated="20190125T080916Z" database="core">
     <ja-JP>ページ タイトル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="Maximum" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="Maximum" updated="20190125T080919Z" database="core">
     <ja-JP>100</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="SelectedValue" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="SelectedValue" updated="20190125T080919Z" database="core">
     <ja-JP>50</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="Minimum" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{5395551F-BCD6-4B63-8A6D-D7D665CB302E}" fieldid="Minimum" updated="20190125T080919Z" database="core">
     <ja-JP>0</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/StringDictionary Parameters" key="StringDictionary Parameters" itemid="{AD8066C3-F3C3-47CC-A69C-50C7241166BE}" fieldid="__Display name" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/StringDictionary Parameters" key="StringDictionary Parameters" itemid="{AD8066C3-F3C3-47CC-A69C-50C7241166BE}" fieldid="__Display name" updated="20190125T080916Z" database="core">
     <ja-JP>文字列用辞書パラメーター</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts" key="Texts" itemid="{5FDBA48B-53B2-4E3D-80E6-7D36FA98FDD5}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts" key="Texts" itemid="{5FDBA48B-53B2-4E3D-80E6-7D36FA98FDD5}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>テキスト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Annual increase in traffic" key="Annual increase in traffic" itemid="{B03BDA5E-0DAD-4ACA-81C0-08232A1A14BC}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Annual increase in traffic" key="Annual increase in traffic" itemid="{B03BDA5E-0DAD-4ACA-81C0-08232A1A14BC}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>トラフィックの成長率</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/End date" key="End date" itemid="{F0BA74D7-B168-4F11-A554-313D6D22EEB3}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/End date" key="End date" itemid="{F0BA74D7-B168-4F11-A554-313D6D22EEB3}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>終了日</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of unique visitors" key="Number of unique visitors" itemid="{0C360C11-D9B0-4B6F-ABFC-4ABF85AC6146}" fieldid="Text" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of unique visitors" key="Number of unique visitors" itemid="{0C360C11-D9B0-4B6F-ABFC-4ABF85AC6146}" fieldid="Text" updated="20190125T080921Z" database="core">
     <ja-JP>ユニークな訪問数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{6A40326C-10BC-491D-BF5F-37DEA4A5C9F5}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{6A40326C-10BC-491D-BF5F-37DEA4A5C9F5}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>訪問の成長数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{6A40326C-10BC-491D-BF5F-37DEA4A5C9F5}" fieldid="__Display name" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{6A40326C-10BC-491D-BF5F-37DEA4A5C9F5}" fieldid="__Display name" updated="20190125T080922Z" database="core">
     <ja-JP>生成された訪問数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Pageviews per visit avg" key="Pageviews per visit avg" itemid="{C447D8D4-FA43-4577-897F-F5B0E626B6E7}" fieldid="Text" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Pageviews per visit avg" key="Pageviews per visit avg" itemid="{C447D8D4-FA43-4577-897F-F5B0E626B6E7}" fieldid="Text" updated="20190125T080921Z" database="core">
     <ja-JP>訪問時の平均ページビュー</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Percentage identified visitors" key="Percentage identified visitors" itemid="{252F366A-270C-4C47-9877-C097F06BE47C}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Percentage identified visitors" key="Percentage identified visitors" itemid="{252F366A-270C-4C47-9877-C097F06BE47C}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>特定されている訪問者の割合</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Start date" key="Start date" itemid="{18EAF30E-65DC-41DD-B1A5-9042280D77C8}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Start date" key="Start date" itemid="{18EAF30E-65DC-41DD-B1A5-9042280D77C8}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>開始日</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Time spent per visit avg" key="Time spent per visit avg" itemid="{B47BA1DC-9B68-4C0C-92CB-AD0DA3FB2663}" fieldid="Text" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Overview/Time spent per visit avg" key="Time spent per visit avg" itemid="{B47BA1DC-9B68-4C0C-92CB-AD0DA3FB2663}" fieldid="Text" updated="20190125T080921Z" database="core">
     <ja-JP>平均ページ滞在時間</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Test summary" key="Test summary" itemid="{BD7B246F-77CC-4C93-B0A0-C2024E053805}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Test summary" key="Test summary" itemid="{BD7B246F-77CC-4C93-B0A0-C2024E053805}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>プロセス</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Test summary" key="Test summary" itemid="{BD7B246F-77CC-4C93-B0A0-C2024E053805}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Texts/Test summary" key="Test summary" itemid="{BD7B246F-77CC-4C93-B0A0-C2024E053805}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>テスト概要</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/TextsParameters" key="TextsParameters" itemid="{05F09618-FC9F-4263-8946-6ED5D525F741}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/TextsParameters" key="TextsParameters" itemid="{05F09618-FC9F-4263-8946-6ED5D525F741}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>テキスト パラメーター</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages" key="Messages" itemid="{2F594966-4699-437C-BDF1-A3A545B595F1}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages" key="Messages" itemid="{2F594966-4699-437C-BDF1-A3A545B595F1}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>メッセージ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages/No items found" key="No items found" itemid="{40DC4037-1ACF-4250-8FFE-EDADC737C1D8}" fieldid="Text" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages/No items found" key="No items found" itemid="{40DC4037-1ACF-4250-8FFE-EDADC737C1D8}" fieldid="Text" updated="20190125T080918Z" database="core">
     <ja-JP>アイテムがみつかりません</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages/No items found" key="No items found" itemid="{40DC4037-1ACF-4250-8FFE-EDADC737C1D8}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Contacts/PageSettings/Messages/No items found" key="No items found" itemid="{40DC4037-1ACF-4250-8FFE-EDADC737C1D8}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>アイテムがみつかりません</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet" key="DataSheet" itemid="{037A6789-1BDE-438E-8364-9FBB05D3FB27}" fieldid="BrowserTitle" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet" key="DataSheet" itemid="{037A6789-1BDE-438E-8364-9FBB05D3FB27}" fieldid="BrowserTitle" updated="20190125T080915Z" database="core">
     <ja-JP>ページ テスト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet" key="DataSheet" itemid="{037A6789-1BDE-438E-8364-9FBB05D3FB27}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet" key="DataSheet" itemid="{037A6789-1BDE-438E-8364-9FBB05D3FB27}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>データシート</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings" key="PageSettings" itemid="{EB911A25-00FF-465E-9794-C6046FB24A8F}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings" key="PageSettings" itemid="{EB911A25-00FF-465E-9794-C6046FB24A8F}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>ページ設定</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons" key="Buttons" itemid="{1F2E2F4D-139C-4DDE-8EFA-21D9F499CE6A}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons" key="Buttons" itemid="{1F2E2F4D-139C-4DDE-8EFA-21D9F499CE6A}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>ボタン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Delete" key="Delete" itemid="{77571502-EE04-48C5-AA06-1706EB06C4FC}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Delete" key="Delete" itemid="{77571502-EE04-48C5-AA06-1706EB06C4FC}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>削除</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Delete" key="Delete" itemid="{77571502-EE04-48C5-AA06-1706EB06C4FC}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Delete" key="Delete" itemid="{77571502-EE04-48C5-AA06-1706EB06C4FC}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>削除</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Pause" key="Pause" itemid="{F5A70CEF-C7B7-46D5-A9F7-63A6B8196119}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Pause" key="Pause" itemid="{F5A70CEF-C7B7-46D5-A9F7-63A6B8196119}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>停止</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Pause" key="Pause" itemid="{F5A70CEF-C7B7-46D5-A9F7-63A6B8196119}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Pause" key="Pause" itemid="{F5A70CEF-C7B7-46D5-A9F7-63A6B8196119}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>停止</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Start" key="Start" itemid="{EE043B7A-1636-4831-B4B5-C42AB5962660}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Start" key="Start" itemid="{EE043B7A-1636-4831-B4B5-C42AB5962660}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>開始</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Start" key="Start" itemid="{EE043B7A-1636-4831-B4B5-C42AB5962660}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Start" key="Start" itemid="{EE043B7A-1636-4831-B4B5-C42AB5962660}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>開始</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Stop" key="Stop" itemid="{5ABFBC97-EF9E-4660-964A-9BE6D12F3B6E}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Stop" key="Stop" itemid="{5ABFBC97-EF9E-4660-964A-9BE6D12F3B6E}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>終了</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Stop" key="Stop" itemid="{5ABFBC97-EF9E-4660-964A-9BE6D12F3B6E}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Buttons/Stop" key="Stop" itemid="{5ABFBC97-EF9E-4660-964A-9BE6D12F3B6E}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>終了</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DataSheetStyle" key="DataSheetStyle" itemid="{F87E0C88-8932-4B36-BBBD-23F0FDAA2296}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DataSheetStyle" key="DataSheetStyle" itemid="{F87E0C88-8932-4B36-BBBD-23F0FDAA2296}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>ページ テスト スタイル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/CampaignsDialog" key="CampaignsDialog" itemid="{20985827-B9FA-4FB1-A45D-EA1DB9EBBE0C}" fieldid="Header" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/CampaignsDialog" key="CampaignsDialog" itemid="{20985827-B9FA-4FB1-A45D-EA1DB9EBBE0C}" fieldid="Header" updated="20190125T080919Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/CampaignsDialog" key="CampaignsDialog" itemid="{20985827-B9FA-4FB1-A45D-EA1DB9EBBE0C}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/CampaignsDialog" key="CampaignsDialog" itemid="{20985827-B9FA-4FB1-A45D-EA1DB9EBBE0C}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>キャンペーン ダイアログ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DeletionsDialog" key="DeletionsDialog" itemid="{8552BFB8-60FD-43E5-9844-FE568F409A92}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DeletionsDialog" key="DeletionsDialog" itemid="{8552BFB8-60FD-43E5-9844-FE568F409A92}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DeletionsDialog" key="DeletionsDialog" itemid="{8552BFB8-60FD-43E5-9844-FE568F409A92}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DeletionsDialog" key="DeletionsDialog" itemid="{8552BFB8-60FD-43E5-9844-FE568F409A92}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>削除ダイアログ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DevicesDialog" key="DevicesDialog" itemid="{B0353F86-B4E3-4683-B3A8-338D79BEDACC}" fieldid="Header" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DevicesDialog" key="DevicesDialog" itemid="{B0353F86-B4E3-4683-B3A8-338D79BEDACC}" fieldid="Header" updated="20190125T080919Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DevicesDialog" key="DevicesDialog" itemid="{B0353F86-B4E3-4683-B3A8-338D79BEDACC}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/DevicesDialog" key="DevicesDialog" itemid="{B0353F86-B4E3-4683-B3A8-338D79BEDACC}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>デバイス ダイアログ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/LandingPagesDialog" key="LandingPagesDialog" itemid="{27273FEB-C1A7-45F1-949A-BB54B61C9C62}" fieldid="Header" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/LandingPagesDialog" key="LandingPagesDialog" itemid="{27273FEB-C1A7-45F1-949A-BB54B61C9C62}" fieldid="Header" updated="20190125T080919Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/LandingPagesDialog" key="LandingPagesDialog" itemid="{27273FEB-C1A7-45F1-949A-BB54B61C9C62}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/LandingPagesDialog" key="LandingPagesDialog" itemid="{27273FEB-C1A7-45F1-949A-BB54B61C9C62}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>ランディングページ ダイアログ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/SingleCampaignDialog" key="SingleCampaignDialog" itemid="{73953D32-AF3F-4E22-BD04-BDC17A1A3FA3}" fieldid="Header" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/SingleCampaignDialog" key="SingleCampaignDialog" itemid="{73953D32-AF3F-4E22-BD04-BDC17A1A3FA3}" fieldid="Header" updated="20190125T080919Z" database="core">
     <ja-JP>$name</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/SingleCampaignDialog" key="SingleCampaignDialog" itemid="{73953D32-AF3F-4E22-BD04-BDC17A1A3FA3}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/DialogWindows/SingleCampaignDialog" key="SingleCampaignDialog" itemid="{73953D32-AF3F-4E22-BD04-BDC17A1A3FA3}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>シングル キャンペーン ダイアログ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/PageTitle" key="PageTitle" itemid="{EE3F9843-6BFE-4D4F-B18F-2AE2EBF99FE2}" fieldid="Text" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/PageTitle" key="PageTitle" itemid="{EE3F9843-6BFE-4D4F-B18F-2AE2EBF99FE2}" fieldid="Text" updated="20190125T080917Z" database="core">
     <ja-JP>Experience Generator</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/PageTitle" key="PageTitle" itemid="{EE3F9843-6BFE-4D4F-B18F-2AE2EBF99FE2}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/PageTitle" key="PageTitle" itemid="{EE3F9843-6BFE-4D4F-B18F-2AE2EBF99FE2}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>ページ タイトル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Type" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Type" updated="20190125T080920Z" database="core">
     <ja-JP>Single</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Maximum" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Maximum" updated="20190125T080920Z" database="core">
     <ja-JP>100</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="SelectedValue" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="SelectedValue" updated="20190125T080920Z" database="core">
     <ja-JP>50</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Minimum" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Sliders/Slider Parameters" key="Slider Parameters" itemid="{7C26EDFA-A15D-410B-B78D-3C95E89FD469}" fieldid="Minimum" updated="20190125T080920Z" database="core">
     <ja-JP>0</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/StringDictionary Parameters" key="StringDictionary Parameters" itemid="{2DD2CB24-FED5-4C2B-92F1-B65D84195347}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/StringDictionary Parameters" key="StringDictionary Parameters" itemid="{2DD2CB24-FED5-4C2B-92F1-B65D84195347}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>文字列用辞書パラメーター</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs" key="Tabs" itemid="{40463B45-8869-4A7E-B86E-2FDC8CE1AE57}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs" key="Tabs" itemid="{40463B45-8869-4A7E-B86E-2FDC8CE1AE57}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>タブ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Overview" key="Overview" itemid="{6C17FF83-B4E1-4314-976F-F5DF3AE99A24}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Overview" key="Overview" itemid="{6C17FF83-B4E1-4314-976F-F5DF3AE99A24}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>概要</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Overview" key="Overview" itemid="{6C17FF83-B4E1-4314-976F-F5DF3AE99A24}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Overview" key="Overview" itemid="{6C17FF83-B4E1-4314-976F-F5DF3AE99A24}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>概要</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Channels" key="Channels" itemid="{34702928-B091-4C8B-AA5A-6FB74A54FFED}" fieldid="Header" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Channels" key="Channels" itemid="{34702928-B091-4C8B-AA5A-6FB74A54FFED}" fieldid="Header" updated="20190125T080921Z" database="core">
     <ja-JP>チャネル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Channels" key="Channels" itemid="{34702928-B091-4C8B-AA5A-6FB74A54FFED}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Channels" key="Channels" itemid="{34702928-B091-4C8B-AA5A-6FB74A54FFED}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>チャネル</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Devices" key="Devices" itemid="{CCC32E1C-61CA-4A18-BDA1-23F088342C06}" fieldid="Header" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Devices" key="Devices" itemid="{CCC32E1C-61CA-4A18-BDA1-23F088342C06}" fieldid="Header" updated="20190125T080921Z" database="core">
     <ja-JP>デバイス</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Devices" key="Devices" itemid="{CCC32E1C-61CA-4A18-BDA1-23F088342C06}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Devices" key="Devices" itemid="{CCC32E1C-61CA-4A18-BDA1-23F088342C06}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>デバイス</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Locations" key="Locations" itemid="{06AFBA86-6575-404C-BE9A-C612A8EAFB1D}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Locations" key="Locations" itemid="{06AFBA86-6575-404C-BE9A-C612A8EAFB1D}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>地域情報</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Locations" key="Locations" itemid="{06AFBA86-6575-404C-BE9A-C612A8EAFB1D}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Locations" key="Locations" itemid="{06AFBA86-6575-404C-BE9A-C612A8EAFB1D}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>地域情報</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Landing Pages" key="Landing Pages" itemid="{9CA53353-1918-465F-978C-7533AD736DC5}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Landing Pages" key="Landing Pages" itemid="{9CA53353-1918-465F-978C-7533AD736DC5}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>ランディング</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Landing Pages" key="Landing Pages" itemid="{9CA53353-1918-465F-978C-7533AD736DC5}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Landing Pages" key="Landing Pages" itemid="{9CA53353-1918-465F-978C-7533AD736DC5}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>ランディング</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Ref URLs" key="Ref URLs" itemid="{C3A8AEAB-CE07-401A-ADE6-A432A5E9865E}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Ref URLs" key="Ref URLs" itemid="{C3A8AEAB-CE07-401A-ADE6-A432A5E9865E}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>参照URL</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Ref URLs" key="Ref URLs" itemid="{C3A8AEAB-CE07-401A-ADE6-A432A5E9865E}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Ref URLs" key="Ref URLs" itemid="{C3A8AEAB-CE07-401A-ADE6-A432A5E9865E}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>参照URL</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Search" key="Search" itemid="{F1FBE1CD-E30F-48DB-B9F1-6B5D318D27E6}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Search" key="Search" itemid="{F1FBE1CD-E30F-48DB-B9F1-6B5D318D27E6}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>検索</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Search" key="Search" itemid="{F1FBE1CD-E30F-48DB-B9F1-6B5D318D27E6}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Search" key="Search" itemid="{F1FBE1CD-E30F-48DB-B9F1-6B5D318D27E6}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>検索</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Outcomes" key="Outcomes" itemid="{4E08B3BE-41D3-4EDF-A9C7-F58EE35C5D41}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Outcomes" key="Outcomes" itemid="{4E08B3BE-41D3-4EDF-A9C7-F58EE35C5D41}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>結果</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Outcomes" key="Outcomes" itemid="{4E08B3BE-41D3-4EDF-A9C7-F58EE35C5D41}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Outcomes" key="Outcomes" itemid="{4E08B3BE-41D3-4EDF-A9C7-F58EE35C5D41}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>結果</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Campaigns" key="Campaigns" itemid="{8CF749F2-B229-4181-B26F-063A1E466A5B}" fieldid="Header" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Campaigns" key="Campaigns" itemid="{8CF749F2-B229-4181-B26F-063A1E466A5B}" fieldid="Header" updated="20190125T080920Z" database="core">
     <ja-JP>キャンペーン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Campaigns" key="Campaigns" itemid="{8CF749F2-B229-4181-B26F-063A1E466A5B}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Tabs/Campaigns" key="Campaigns" itemid="{8CF749F2-B229-4181-B26F-063A1E466A5B}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>キャンペーン</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts" key="Texts" itemid="{AE110B84-5964-4494-A84E-DD773D22307A}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts" key="Texts" itemid="{AE110B84-5964-4494-A84E-DD773D22307A}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>テキスト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Annual increase in traffic" key="Annual increase in traffic" itemid="{50E2D15C-824B-4C55-90A6-94605D4B6DEE}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Annual increase in traffic" key="Annual increase in traffic" itemid="{50E2D15C-824B-4C55-90A6-94605D4B6DEE}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>トラフィックの成長率</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/End date" key="End date" itemid="{03DCB85B-C4E0-49E6-8E6A-83530C87D1F3}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/End date" key="End date" itemid="{03DCB85B-C4E0-49E6-8E6A-83530C87D1F3}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>終了日</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of unique visitors" key="Number of unique visitors" itemid="{04281F02-818D-425E-8FAD-7795EBE64F6D}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of unique visitors" key="Number of unique visitors" itemid="{04281F02-818D-425E-8FAD-7795EBE64F6D}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>ユニークな訪問数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{16DDA573-B59C-4B3A-8578-FB8FEFE8E23E}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{16DDA573-B59C-4B3A-8578-FB8FEFE8E23E}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>訪問の成長数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{16DDA573-B59C-4B3A-8578-FB8FEFE8E23E}" fieldid="__Display name" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Number of visits generated" key="Number of visits generated" itemid="{16DDA573-B59C-4B3A-8578-FB8FEFE8E23E}" fieldid="__Display name" updated="20190125T080922Z" database="core">
     <ja-JP>生成された訪問数</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Pageviews per visit avg" key="Pageviews per visit avg" itemid="{187F31B7-FEF3-4ACB-B601-0454FC268486}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Pageviews per visit avg" key="Pageviews per visit avg" itemid="{187F31B7-FEF3-4ACB-B601-0454FC268486}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>訪問時の平均ページビュー</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Percentage identified visitors" key="Percentage identified visitors" itemid="{2F0E40F9-E210-483D-800C-E388D428651C}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Percentage identified visitors" key="Percentage identified visitors" itemid="{2F0E40F9-E210-483D-800C-E388D428651C}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>特定されている訪問者の割合</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Start date" key="Start date" itemid="{2EE01475-D0FF-4230-8A3A-8218E1C6A8CF}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Start date" key="Start date" itemid="{2EE01475-D0FF-4230-8A3A-8218E1C6A8CF}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>開始日</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Time spent per visit avg" key="Time spent per visit avg" itemid="{0D6001C4-4CA7-4615-B146-128763549F0F}" fieldid="Text" updated="20190125T080922Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Overview/Time spent per visit avg" key="Time spent per visit avg" itemid="{0D6001C4-4CA7-4615-B146-128763549F0F}" fieldid="Text" updated="20190125T080922Z" database="core">
     <ja-JP>平均ページ滞在時間</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Test summary" key="Test summary" itemid="{FE8D64B4-8A74-41D5-AAF3-660F68DB4C98}" fieldid="Text" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Test summary" key="Test summary" itemid="{FE8D64B4-8A74-41D5-AAF3-660F68DB4C98}" fieldid="Text" updated="20190125T080919Z" database="core">
     <ja-JP>プロセス</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Test summary" key="Test summary" itemid="{FE8D64B4-8A74-41D5-AAF3-660F68DB4C98}" fieldid="__Display name" updated="20190125T080919Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Texts/Test summary" key="Test summary" itemid="{FE8D64B4-8A74-41D5-AAF3-660F68DB4C98}" fieldid="__Display name" updated="20190125T080919Z" database="core">
     <ja-JP>テスト サマリー</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/TextsParameters" key="TextsParameters" itemid="{977D9715-6A07-4E90-9DDA-DE5048C07D6B}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/TextsParameters" key="TextsParameters" itemid="{977D9715-6A07-4E90-9DDA-DE5048C07D6B}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>テキスト パラメーター</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages" key="Messages" itemid="{4E83A23C-A25A-43E0-8FC0-E224AA48B8B8}" fieldid="__Display name" updated="20190125T080917Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages" key="Messages" itemid="{4E83A23C-A25A-43E0-8FC0-E224AA48B8B8}" fieldid="__Display name" updated="20190125T080917Z" database="core">
     <ja-JP>メッセージ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages/No items found" key="No items found" itemid="{78A6B05D-7421-4BB0-8FE6-B7EEBA88CD85}" fieldid="Text" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages/No items found" key="No items found" itemid="{78A6B05D-7421-4BB0-8FE6-B7EEBA88CD85}" fieldid="Text" updated="20190125T080920Z" database="core">
     <ja-JP>アイテムがみつかりません</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages/No items found" key="No items found" itemid="{78A6B05D-7421-4BB0-8FE6-B7EEBA88CD85}" fieldid="__Display name" updated="20190125T080920Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/DataSheet/PageSettings/Messages/No items found" key="No items found" itemid="{78A6B05D-7421-4BB0-8FE6-B7EEBA88CD85}" fieldid="__Display name" updated="20190125T080920Z" database="core">
     <ja-JP>アイテムがみつかりません</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common" key="Common" itemid="{94EEE1CE-F99F-42A9-8CC3-43E7043286E5}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common" key="Common" itemid="{94EEE1CE-F99F-42A9-8CC3-43E7043286E5}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>共通</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Contacts" key="Contacts" itemid="{ED72A22E-57B8-4DA2-9B00-AF77D25840E3}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Contacts" key="Contacts" itemid="{ED72A22E-57B8-4DA2-9B00-AF77D25840E3}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>コンタクト</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Presets" key="Presets" itemid="{B4EF340E-BE30-4959-A586-11DDF7C6F66C}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Presets" key="Presets" itemid="{B4EF340E-BE30-4959-A586-11DDF7C6F66C}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>プリセット</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates" key="Templates" itemid="{30BAC1EB-8D67-4837-8393-12B29B2FF2CD}" fieldid="__Display name" updated="20190125T080915Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates" key="Templates" itemid="{30BAC1EB-8D67-4837-8393-12B29B2FF2CD}" fieldid="__Display name" updated="20190125T080915Z" database="core">
     <ja-JP>テンプレート</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset" key="Settings Preset" itemid="{C7089EBD-7AF0-4F14-BEEA-680A465231B1}" fieldid="__Display name" updated="20190125T080916Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset" key="Settings Preset" itemid="{C7089EBD-7AF0-4F14-BEEA-680A465231B1}" fieldid="__Display name" updated="20190125T080916Z" database="core">
     <ja-JP>プリセット設定</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset/Data" key="Data" itemid="{F8BC9A3C-FC0B-41C1-9C61-8BBD21CE3931}" fieldid="__Display name" updated="20190125T080918Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset/Data" key="Data" itemid="{F8BC9A3C-FC0B-41C1-9C61-8BBD21CE3931}" fieldid="__Display name" updated="20190125T080918Z" database="core">
     <ja-JP>データ</ja-JP>
   </phrase>
-  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset/Data/Specification" key="Specification" itemid="{A0EE2080-2CC8-4DE0-8EFD-8E29CD39194F}" fieldid="__Display name" updated="20190125T080921Z">
+  <phrase path="/sitecore/client/Applications/ExperienceGenerator/Common/Templates/Settings Preset/Data/Specification" key="Specification" itemid="{A0EE2080-2CC8-4DE0-8EFD-8E29CD39194F}" fieldid="__Display name" updated="20190125T080921Z" database="core">
     <ja-JP>スペック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Tools/Exm Experience Generator" key="Exm Experience Generator" itemid="{30579168-5C30-49EC-8679-21C56CE53F49}" fieldid="{AA4A4643-5BFC-45A7-B9D9-5183A5211D99}" updated="20191209T184343Z" database="core">
+    <ja-JP>Exm Experience Generator</ja-JP>
   </phrase>
 </sitecore>

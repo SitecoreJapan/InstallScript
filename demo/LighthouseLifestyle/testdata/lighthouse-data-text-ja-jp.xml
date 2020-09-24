@@ -1,0 +1,14 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Texts" key="Texts" itemid="{C1E6E09A-FE5E-48D7-A3F5-A2B5A0F5FCBC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Texts/Content Finder Callout" key="Content Finder Callout" itemid="{8B237D68-1E3B-4109-83F1-47EBF81C085C}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;strong&gt;コンテンツファインダーが途中です&lt;/strong&gt;
+
+&lt;a href="/Content-Finder"&gt;再開する&lt;/a&gt;
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Texts/Content Finder Callout" key="Content Finder Callout" itemid="{8B237D68-1E3B-4109-83F1-47EBF81C085C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンテンツファインダー 再開</ja-JP>
+  </phrase>
+</sitecore>

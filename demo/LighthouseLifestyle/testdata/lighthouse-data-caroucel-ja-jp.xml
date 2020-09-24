@@ -1,0 +1,154 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels" key="Carousels" itemid="{007EB9F8-7A96-4631-A9F0-F1DF86A5C9F9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel" key="Footer Carousel" itemid="{DF584E42-DF55-4ACD-B887-D0AD933D2AC7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フッター カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide1" key="Slide1" itemid="{1E60402B-10A0-4719-A47B-5961C240A3FE}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>あなたの健康 &lt;br /&gt;Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide1" key="Slide1" itemid="{1E60402B-10A0-4719-A47B-5961C240A3FE}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳しく見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{055766BE-D42E-4E94-B53B-3F6D223EC3D5}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide1" key="Slide1" itemid="{1E60402B-10A0-4719-A47B-5961C240A3FE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide2" key="Slide2" itemid="{3B5D36A6-095E-4EFD-BEEB-B671F16DA03B}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>あなたの道&lt;br /&gt;
+Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide2" key="Slide2" itemid="{3B5D36A6-095E-4EFD-BEEB-B671F16DA03B}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳しく見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{055766BE-D42E-4E94-B53B-3F6D223EC3D5}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Footer Carousel/Slide2" key="Slide2" itemid="{3B5D36A6-095E-4EFD-BEEB-B671F16DA03B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel" key="Home Page Carousel" itemid="{2179478B-214A-49E5-8011-BF519887D625}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホームページ カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel" key="Everyday Health Carousel" itemid="{658E89F6-3F0C-4072-88CA-50CE81757A9D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル 毎日の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide1" key="Slide1" itemid="{F53D5DED-A5B1-4952-A14A-946F2A96481D}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E768E690-E2BA-4BA3-A2F6-A5C309F7A542}" alt="カメラで撮影" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide1" key="Slide1" itemid="{F53D5DED-A5B1-4952-A14A-946F2A96481D}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>あなたの健康&lt;br /&gt;
+あなたの道</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide1" key="Slide1" itemid="{F53D5DED-A5B1-4952-A14A-946F2A96481D}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳しく見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{055766BE-D42E-4E94-B53B-3F6D223EC3D5}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide1" key="Slide1" itemid="{F53D5DED-A5B1-4952-A14A-946F2A96481D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide2" key="Slide2" itemid="{84514697-4C0D-4407-9329-237459681D8D}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{9875CB27-5720-4B90-A903-2ED0DC08D8E2}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide2" key="Slide2" itemid="{84514697-4C0D-4407-9329-237459681D8D}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>家族を大切にする&lt;br /&gt;
+アットホームな雰囲気</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide2" key="Slide2" itemid="{84514697-4C0D-4407-9329-237459681D8D}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="今すぐ見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide2" key="Slide2" itemid="{84514697-4C0D-4407-9329-237459681D8D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide3" key="Slide3" itemid="{EA7326F6-07B5-4655-806F-77CF88456417}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{8C2D37CB-06B3-48E9-975C-E56106174AE4}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide3" key="Slide3" itemid="{EA7326F6-07B5-4655-806F-77CF88456417}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>自分の環境を持って &lt;br /&gt;
+出かけよう&amp;nbsp;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide3" key="Slide3" itemid="{EA7326F6-07B5-4655-806F-77CF88456417}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳しく見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide3" key="Slide3" itemid="{EA7326F6-07B5-4655-806F-77CF88456417}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel" key="Fitness Carousel" itemid="{9182C53A-69C9-4588-97B1-8B5245803984}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide1" key="Slide1" itemid="{D7166A34-5C77-421D-ABC7-D4CB0F6C7FFE}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{AD86164D-A23D-4460-AB13-D098997786A8}" alt="テレビを見てる" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide1" key="Slide1" itemid="{D7166A34-5C77-421D-ABC7-D4CB0F6C7FFE}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>よりよいあなたに&lt;br /&gt;
+お待ちしてます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide1" key="Slide1" itemid="{D7166A34-5C77-421D-ABC7-D4CB0F6C7FFE}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="確認する" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide1" key="Slide1" itemid="{D7166A34-5C77-421D-ABC7-D4CB0F6C7FFE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide2" key="Slide2" itemid="{E34F759A-D18E-471B-B8B4-610DA56DE802}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{34510C0D-20F1-4BA1-B14E-D475292196A8}" alt="女性がスマートフォンで運動の準備" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide2" key="Slide2" itemid="{E34F759A-D18E-471B-B8B4-610DA56DE802}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>すべてをトラッキング&lt;br /&gt;フィットネス ウェアブル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide2" key="Slide2" itemid="{E34F759A-D18E-471B-B8B4-610DA56DE802}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="見つける" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CB96DF66-E22F-4906-9ABE-E0403794D485}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide2" key="Slide2" itemid="{E34F759A-D18E-471B-B8B4-610DA56DE802}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide3" key="Slide3" itemid="{FE56CB15-1CE4-4EC2-81A7-E3E521FC928A}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A7C5267D-4B44-4A50-B1E2-994E9CD5E327}" alt="女性のストレッチ" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide3" key="Slide3" itemid="{FE56CB15-1CE4-4EC2-81A7-E3E521FC928A}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>ストレッチは&amp;nbsp;&lt;br /&gt;
+重要です&amp;nbsp;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide3" key="Slide3" itemid="{FE56CB15-1CE4-4EC2-81A7-E3E521FC928A}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳しく見る" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7FFDAD1C-50A6-4CE7-81C5-259DCD6D1FC1}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel/Slide3" key="Slide3" itemid="{FE56CB15-1CE4-4EC2-81A7-E3E521FC928A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel" key="Foodie Carousel" itemid="{C531430C-246D-4AC0-86D2-61B834F07269}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル フード </ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide1" key="Slide1" itemid="{6BBFCF45-0D0B-44B1-AA7E-F03CF20DFC50}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D5E01C6B-D0E9-49C4-9D61-97687DC5DE12}" alt="watching TV" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide1" key="Slide1" itemid="{6BBFCF45-0D0B-44B1-AA7E-F03CF20DFC50}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>よい食事は&lt;br /&gt;あなたを支える</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide1" key="Slide1" itemid="{6BBFCF45-0D0B-44B1-AA7E-F03CF20DFC50}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="確認する" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B324AA9A-4053-4B7E-97A2-8133988E4371}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide1" key="Slide1" itemid="{6BBFCF45-0D0B-44B1-AA7E-F03CF20DFC50}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide2" key="Slide2" itemid="{19BFB301-D3CF-490B-940A-6EC9E7AE59AD}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B7810CAE-B609-4EC9-9353-9CE53C275253}" alt="健康な食事" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide2" key="Slide2" itemid="{19BFB301-D3CF-490B-940A-6EC9E7AE59AD}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>健康的なライフスタイルは&lt;br /&gt;
+キッチンから</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide2" key="Slide2" itemid="{19BFB301-D3CF-490B-940A-6EC9E7AE59AD}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="健康なレシピ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{B5684B40-75E9-4FE6-912F-2D1C8D761AF2}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide2" key="Slide2" itemid="{19BFB301-D3CF-490B-940A-6EC9E7AE59AD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide3" key="Slide3" itemid="{C1B3061C-D5FF-45E2-B94F-6499019E5EC6}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D5E01C6B-D0E9-49C4-9D61-97687DC5DE12}" alt="男性が野菜を料理してる" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide3" key="Slide3" itemid="{C1B3061C-D5FF-45E2-B94F-6499019E5EC6}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>使いやすいフライパン&lt;br /&gt;
+Jambalaya</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide3" key="Slide3" itemid="{C1B3061C-D5FF-45E2-B94F-6499019E5EC6}" fieldid="{B31D5DDD-1EDA-4B22-B97D-FF71FC8E72BC}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="美味しい" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{14CD7D35-4268-4C34-A3B3-3F44C6521937}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Foodie Carousel/Slide3" key="Slide3" itemid="{C1B3061C-D5FF-45E2-B94F-6499019E5EC6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド３</ja-JP>
+  </phrase>
+</sitecore>

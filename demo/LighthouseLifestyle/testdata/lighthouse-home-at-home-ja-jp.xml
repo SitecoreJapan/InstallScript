@@ -1,0 +1,194 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホーム：生活をより快適にし、住宅のエネルギー効率を高めます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{D8B38DD7-E9A0-4410-9F17-D436B0C8635A}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{38CE6C57-0F9E-4651-8F43-E2E2388FCA9E}" alt="スピーカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{38CE6C57-0F9E-4651-8F43-E2E2388FCA9E}" alt="スマートホーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホーム：生活をより快適にし、住宅のエネルギー効率を高めます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>コネクテッドホーム：生活をより快適にし、住宅のエネルギー効率を高めます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home" key="at-home" itemid="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data" key="Data" itemid="{5AEFCF4A-C07F-4951-87A7-B83478B01E5B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Hero" key="Hero" itemid="{B618BAAC-23D7-4A3A-816A-3F9AD12910C5}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5FD5E0EE-2054-4DB8-96F7-7CD0D717D8E1}" alt="リモコン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Hero" key="Hero" itemid="{B618BAAC-23D7-4A3A-816A-3F9AD12910C5}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ライフスタイルのデザインをお手伝い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Hero" key="Hero" itemid="{B618BAAC-23D7-4A3A-816A-3F9AD12910C5}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Hero" key="Hero" itemid="{B618BAAC-23D7-4A3A-816A-3F9AD12910C5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{F4EBACED-B6A6-497C-BE8F-01435F75D1BE}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="より詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D349F22A-6EF2-4A1E-9EF4-2E33CD3CCD86}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{F4EBACED-B6A6-497C-BE8F-01435F75D1BE}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;忙しくて食べるのを忘れてしまうこともある！？食べるのを忘れてしまうこともあるかもしれません。これらのヘルシーな食事のアイデアを参考にして、二度とお腹を空かせないようにしましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{F4EBACED-B6A6-497C-BE8F-01435F75D1BE}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;健康的な食事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{F4EBACED-B6A6-497C-BE8F-01435F75D1BE}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B7810CAE-B609-4EC9-9353-9CE53C275253}" alt="健康な料理" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{F4EBACED-B6A6-497C-BE8F-01435F75D1BE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - 健康な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Virtual Fitness Workouts" key="Promo - Virtual Fitness Workouts" itemid="{92B91C68-CBE3-4841-8174-29201AD8D9CF}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{718F19C0-8AEA-4F2B-9864-53FD0940C848}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Virtual Fitness Workouts" key="Promo - Virtual Fitness Workouts" itemid="{92B91C68-CBE3-4841-8174-29201AD8D9CF}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Virtual Fitness Workouts" key="Promo - Virtual Fitness Workouts" itemid="{92B91C68-CBE3-4841-8174-29201AD8D9CF}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;バーチャル フィットネス ワークアウト&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Virtual Fitness Workouts" key="Promo - Virtual Fitness Workouts" itemid="{92B91C68-CBE3-4841-8174-29201AD8D9CF}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5AF2C84C-803F-49BC-B33A-D803AD4A3E14}" height="" hspace="" width="" alt="ジム機器" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Virtual Fitness Workouts" key="Promo - Virtual Fitness Workouts" itemid="{92B91C68-CBE3-4841-8174-29201AD8D9CF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - バーチャル フィットネス ワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Sleep Technology" key="Promo - Sleep Technology" itemid="{22179E93-D29C-4729-9DFC-246C085A82DE}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="すべてを確認" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0C7183E9-FDEB-4063-B4F4-D79B6B587460}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Sleep Technology" key="Promo - Sleep Technology" itemid="{22179E93-D29C-4729-9DFC-246C085A82DE}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スリープトラッカー、目覚まし時計、掛け布団カバーは、これまで以上に賢くなってきています。これらの新しいガジェットは、あなたのエネルギーを高めるのに十分に賢いかもしれません。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Sleep Technology" key="Promo - Sleep Technology" itemid="{22179E93-D29C-4729-9DFC-246C085A82DE}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;睡眠テクノロジー&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Sleep Technology" key="Promo - Sleep Technology" itemid="{22179E93-D29C-4729-9DFC-246C085A82DE}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{580ED437-7A14-463D-A81A-0F94FCAA7A92}" alt="フィットネス トラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/Data/Promo - Sleep Technology" key="Promo - Sleep Technology" itemid="{22179E93-D29C-4729-9DFC-246C085A82DE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - 睡眠テクノロジー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating" key="healthy-eating" itemid="{D349F22A-6EF2-4A1E-9EF4-2E33CD3CCD86}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>健康な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating" key="healthy-eating" itemid="{D349F22A-6EF2-4A1E-9EF4-2E33CD3CCD86}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating" key="healthy-eating" itemid="{D349F22A-6EF2-4A1E-9EF4-2E33CD3CCD86}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>健康な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating" key="healthy-eating" itemid="{D349F22A-6EF2-4A1E-9EF4-2E33CD3CCD86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>健康な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data" key="Data" itemid="{F29A31FC-AD7D-4BF3-9414-FD86C508F854}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data/Carousel" key="Carousel" itemid="{EAE6E38F-A05D-4554-904A-B22FB6AB0DB2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data/Carousel/Slide1" key="Slide1" itemid="{CE384F1F-036B-4A5B-9493-772BF0B26CFE}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>夕食は自宅であなたを待っています</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data/Carousel/Slide1" key="Slide1" itemid="{CE384F1F-036B-4A5B-9493-772BF0B26CFE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data/Carousel/Slide2" key="Slide2" itemid="{A543F267-E725-4383-93A0-A334275B3E93}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>食事の準備は、あなたの新しい親友</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/healthy-eating/Data/Carousel/Slide2" key="Slide2" itemid="{A543F267-E725-4383-93A0-A334275B3E93}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts" key="virtual-fitness-workouts" itemid="{718F19C0-8AEA-4F2B-9864-53FD0940C848}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>バーチャル フィットネス ワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts" key="virtual-fitness-workouts" itemid="{718F19C0-8AEA-4F2B-9864-53FD0940C848}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts" key="virtual-fitness-workouts" itemid="{718F19C0-8AEA-4F2B-9864-53FD0940C848}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>バーチャル フィットネス ワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts" key="virtual-fitness-workouts" itemid="{718F19C0-8AEA-4F2B-9864-53FD0940C848}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>バーチャル フィットネス ワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data" key="Data" itemid="{AC769927-E681-4BCE-AFEA-D41100CCC717}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel" key="Carousel" itemid="{70C07E73-F940-4517-BAFE-8636C832338F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide1" key="Slide1" itemid="{3EDAB97C-FE94-410C-858F-FC2E702FED1B}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{60A12889-6FFB-4F4C-84AC-194789D2D17B}" alt="エクササイズマシンを使う女性" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide1" key="Slide1" itemid="{3EDAB97C-FE94-410C-858F-FC2E702FED1B}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>10分でできるホームワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide1" key="Slide1" itemid="{3EDAB97C-FE94-410C-858F-FC2E702FED1B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide2" key="Slide2" itemid="{20C534CE-178D-48E5-B546-5BB88B3B9940}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A7C5267D-4B44-4A50-B1E2-994E9CD5E327}" alt="ストレッチをする女性" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide2" key="Slide2" itemid="{20C534CE-178D-48E5-B546-5BB88B3B9940}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>ストレッチの重要性</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/virtual-fitness-workouts/Data/Carousel/Slide2" key="Slide2" itemid="{20C534CE-178D-48E5-B546-5BB88B3B9940}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology" key="sleep-technology" itemid="{0C7183E9-FDEB-4063-B4F4-D79B6B587460}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>睡眠テクノロジー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology" key="sleep-technology" itemid="{0C7183E9-FDEB-4063-B4F4-D79B6B587460}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology" key="sleep-technology" itemid="{0C7183E9-FDEB-4063-B4F4-D79B6B587460}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>睡眠テクノロジー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology" key="sleep-technology" itemid="{0C7183E9-FDEB-4063-B4F4-D79B6B587460}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>睡眠テクノロジー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data" key="Data" itemid="{5D612589-AAAA-4A41-BDFD-77290F517F6B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data/Carousel" key="Carousel" itemid="{AF4714A7-FBD8-4F5E-A7B3-86706B8FD703}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data/Carousel/Slide1" key="Slide1" itemid="{46A4B650-EB57-404D-B7E8-FF62756550DC}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7367FFA5-A84E-49F7-A025-A040A9ABA72E}" alt="キッチン" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data/Carousel/Slide1" key="Slide1" itemid="{46A4B650-EB57-404D-B7E8-FF62756550DC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data/Carousel/Slide2" key="Slide2" itemid="{DE013339-3FE6-42EB-A499-F176987963F0}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C8776A82-BB4C-4509-9D64-DAF6F10F7717}" alt="スマートホーム ストーブ" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-home/sleep-technology/Data/Carousel/Slide2" key="Slide2" itemid="{DE013339-3FE6-42EB-A499-F176987963F0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド２</ja-JP>
+  </phrase>
+</sitecore>
