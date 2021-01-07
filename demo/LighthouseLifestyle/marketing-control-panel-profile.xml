@@ -1,0 +1,914 @@
+<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles" key="Profiles" itemid="{12BD7E35-437B-449C-B931-23CFA12C03D8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110318T120448Z" database="master">
+    <ja-JP>プロファイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus" key="Health Focus" itemid="{3B752260-57E2-488C-9D84-95A8A5171AF8}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康志向</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus" key="Health Focus" itemid="{3B752260-57E2-488C-9D84-95A8A5171AF8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康志向</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Children" key="Children" itemid="{A7108DD0-9CBE-4D58-9EDA-410D30B24BB1}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Children" key="Children" itemid="{A7108DD0-9CBE-4D58-9EDA-410D30B24BB1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Cooking" key="Cooking" itemid="{FBC3ADC6-3E5F-4E57-A631-58256BE19AF0}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Cooking" key="Cooking" itemid="{FBC3ADC6-3E5F-4E57-A631-58256BE19AF0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Exercise" key="Exercise" itemid="{2C7C3DE0-FED1-44E0-A89E-B98523AD55FC}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>エクササイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Exercise" key="Exercise" itemid="{2C7C3DE0-FED1-44E0-A89E-B98523AD55FC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>エクササイズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Fitness Tech" key="Fitness Tech" itemid="{83F9B175-8C1F-4A0D-BE96-A4C27C6F3F18}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Fitness Tech" key="Fitness Tech" itemid="{83F9B175-8C1F-4A0D-BE96-A4C27C6F3F18}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Mental Health" key="Mental Health" itemid="{407B4594-5A31-4122-8BFB-457846C132C5}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>メンタルヘルス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Mental Health" key="Mental Health" itemid="{407B4594-5A31-4122-8BFB-457846C132C5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メンタルヘルス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Nutrition" key="Nutrition" itemid="{9F0899DD-729F-424D-B3FA-0D27C2573EBD}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>栄養学</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Nutrition" key="Nutrition" itemid="{9F0899DD-729F-424D-B3FA-0D27C2573EBD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>栄養学</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards" key="Profile Cards" itemid="{9A7C476D-6717-4A13-AECC-BDEB2AF40A85}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Everyday Health" key="Everyday Health" itemid="{850C6103-39CC-461F-A9EB-737230BB94A3}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎日の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Everyday Health" key="Everyday Health" itemid="{850C6103-39CC-461F-A9EB-737230BB94A3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎日の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Fitness Fanatic" key="Fitness Fanatic" itemid="{26CD967F-C803-468D-A4C8-12E7C618FC05}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス愛好家</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Fitness Fanatic" key="Fitness Fanatic" itemid="{26CD967F-C803-468D-A4C8-12E7C618FC05}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス愛好家</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Foodie" key="Foodie" itemid="{0C5509C5-B499-4A70-87F2-AB474601B871}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Profile Cards/Foodie" key="Foodie" itemid="{0C5509C5-B499-4A70-87F2-AB474601B871}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards" key="Pattern Cards" itemid="{D67E2949-8843-4312-BBB5-37FFDE29390F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Everyday Health" key="Everyday Health" itemid="{C3E2C23C-5FE2-4FD1-97A1-1416B7D23115}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎日の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Everyday Health" key="Everyday Health" itemid="{C3E2C23C-5FE2-4FD1-97A1-1416B7D23115}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎日の健康</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Fitness Fanatic" key="Fitness Fanatic" itemid="{38D5EEFC-52CB-4DD8-8B4A-75F0CA461E9E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス愛好家</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Fitness Fanatic" key="Fitness Fanatic" itemid="{38D5EEFC-52CB-4DD8-8B4A-75F0CA461E9E}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス愛好家</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Foodie" key="Foodie" itemid="{88351AC0-6650-4356-8B0E-3E0857C5644E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Focus/Pattern Cards/Foodie" key="Foodie" itemid="{88351AC0-6650-4356-8B0E-3E0857C5644E}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>料理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location" key="Health Location" itemid="{F72F3D3C-B4CA-4256-86A1-1AB13EE68ED2}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康な場所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location" key="Health Location" itemid="{F72F3D3C-B4CA-4256-86A1-1AB13EE68ED2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康な場所</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/At Home" key="At Home" itemid="{A79EAD80-2CC7-4C56-893B-94FA42D4FD02}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/At Home" key="At Home" itemid="{A79EAD80-2CC7-4C56-893B-94FA42D4FD02}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/At Work" key="At Work" itemid="{E81A3352-32A2-4D00-A4F2-E40EA0E3CC07}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/At Work" key="At Work" itemid="{E81A3352-32A2-4D00-A4F2-E40EA0E3CC07}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/On the Go" key="On the Go" itemid="{9C99E4A0-D63B-4A7A-B689-CC2C7FDBDB13}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/On the Go" key="On the Go" itemid="{9C99E4A0-D63B-4A7A-B689-CC2C7FDBDB13}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards" key="Profile Cards" itemid="{BA3BB9A8-0D6E-437B-80E4-58BF6562D4FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/At Home" key="At Home" itemid="{FB81A757-6390-4904-94C7-806A5F9C877D}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/At Home" key="At Home" itemid="{FB81A757-6390-4904-94C7-806A5F9C877D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/At Work" key="At Work" itemid="{86952044-4237-45C4-B28C-6A594BAE51BE}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/At Work" key="At Work" itemid="{86952044-4237-45C4-B28C-6A594BAE51BE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/On the Go" key="On the Go" itemid="{5D9CBB5B-BFF9-4A7B-883D-9BAC97CA0244}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Profile Cards/On the Go" key="On the Go" itemid="{5D9CBB5B-BFF9-4A7B-883D-9BAC97CA0244}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards" key="Pattern Cards" itemid="{DFD13376-091F-4553-B05A-1BA58DA8A520}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/At Home" key="At Home" itemid="{DDE59A10-D483-4691-B178-1BDE32059156}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/At Home" key="At Home" itemid="{DDE59A10-D483-4691-B178-1BDE32059156}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>自宅</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/At Work" key="At Work" itemid="{41A0C90D-52D8-49DB-8D67-7CD511694B6B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/At Work" key="At Work" itemid="{41A0C90D-52D8-49DB-8D67-7CD511694B6B}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>職場</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/On the Go" key="On the Go" itemid="{8F851F1F-9FF3-48A5-90B3-EB656BF0A501}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Health Location/Pattern Cards/On the Go" key="On the Go" itemid="{8F851F1F-9FF3-48A5-90B3-EB656BF0A501}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life" key="Stage of Life" itemid="{01CEF8A9-A5D1-40CD-9462-809FDBC0DEF7}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>人生のステージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life" key="Stage of Life" itemid="{01CEF8A9-A5D1-40CD-9462-809FDBC0DEF7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>人生のステージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Young Professional" key="Young Professional" itemid="{D53F2EC2-4F27-4387-B724-0C4294B3BD13}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Young Professional" key="Young Professional" itemid="{D53F2EC2-4F27-4387-B724-0C4294B3BD13}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Newlywed" key="Newlywed" itemid="{C499698C-FB86-41C1-877F-5FBB4A389567}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Newlywed" key="Newlywed" itemid="{C499698C-FB86-41C1-877F-5FBB4A389567}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Family with Kids" key="Family with Kids" itemid="{6455809B-6F8C-484D-A6BF-B3C5501C494C}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Family with Kids" key="Family with Kids" itemid="{6455809B-6F8C-484D-A6BF-B3C5501C494C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Empty Nester" key="Empty Nester" itemid="{674A9709-B416-4E90-B8F4-1C1C3FF83535}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Empty Nester" key="Empty Nester" itemid="{674A9709-B416-4E90-B8F4-1C1C3FF83535}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Retired" key="Retired" itemid="{FF2B633B-1BFD-4BB1-B191-4423C5DABDD8}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Retired" key="Retired" itemid="{FF2B633B-1BFD-4BB1-B191-4423C5DABDD8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards" key="Profile Cards" itemid="{27C72E63-FCB2-48B5-B1B9-90D93E2B697C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Young Professional" key="Young Professional" itemid="{A709E572-86E6-4953-A40D-16C4B518D06B}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Young Professional" key="Young Professional" itemid="{A709E572-86E6-4953-A40D-16C4B518D06B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Newlywed" key="Newlywed" itemid="{D711EC0C-F073-4B5D-AAAC-13797295BED5}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Newlywed" key="Newlywed" itemid="{D711EC0C-F073-4B5D-AAAC-13797295BED5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Family with Kids" key="Family with Kids" itemid="{C6EAA0BD-C6AB-41F9-BEAB-C98EF7143632}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Family with Kids" key="Family with Kids" itemid="{C6EAA0BD-C6AB-41F9-BEAB-C98EF7143632}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Empty Nester" key="Empty Nester" itemid="{40ABC43C-8DFE-4ECD-AAC9-442589457534}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Empty Nester" key="Empty Nester" itemid="{40ABC43C-8DFE-4ECD-AAC9-442589457534}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Retired" key="Retired" itemid="{CA45EC5E-49CF-4C33-8CA4-EF5E190B455A}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Profile Cards/Retired" key="Retired" itemid="{CA45EC5E-49CF-4C33-8CA4-EF5E190B455A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards" key="Pattern Cards" itemid="{C54B9AEF-4159-46EB-89B1-4042F9C1C665}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Young Professional" key="Young Professional" itemid="{86B6FB18-BC60-4A6B-9872-E0A0A6AF24CF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Young Professional" key="Young Professional" itemid="{86B6FB18-BC60-4A6B-9872-E0A0A6AF24CF}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>若手プロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Newlywed" key="Newlywed" itemid="{9B041EF7-608F-4001-AAD3-CE0D4994A40B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Newlywed" key="Newlywed" itemid="{9B041EF7-608F-4001-AAD3-CE0D4994A40B}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>新婚</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Family with Kids" key="Family with Kids" itemid="{87E34899-445A-49A1-831B-C0A04B2504B5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Family with Kids" key="Family with Kids" itemid="{87E34899-445A-49A1-831B-C0A04B2504B5}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供のいる家庭</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Empty Nester" key="Empty Nester" itemid="{BED51639-E336-48DB-A68E-968A71CB7A89}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Empty Nester" key="Empty Nester" itemid="{BED51639-E336-48DB-A68E-968A71CB7A89}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>子供が巣立った</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Retired" key="Retired" itemid="{8081BDDC-43F8-4711-B572-63D867A26BFB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Stage of Life/Pattern Cards/Retired" key="Retired" itemid="{8081BDDC-43F8-4711-B572-63D867A26BFB}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>引退</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers" key="Fitness and Trainers" itemid="{2A7FC1AA-5734-42D1-82A5-63683208C3F4}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネスとトレーナー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers" key="Fitness and Trainers" itemid="{2A7FC1AA-5734-42D1-82A5-63683208C3F4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネスとトレーナー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Cardio" key="Cardio" itemid="{7123F2EF-9FAB-4202-96B3-941011A91382}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>有酸素運動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Cardio" key="Cardio" itemid="{7123F2EF-9FAB-4202-96B3-941011A91382}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>有酸素運動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/High Intensity" key="High Intensity" itemid="{CCEAEA1C-1490-400C-A6F9-2BB98A91C3DB}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>高負荷</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/High Intensity" key="High Intensity" itemid="{CCEAEA1C-1490-400C-A6F9-2BB98A91C3DB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>高負荷</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Weight" key="Weight" itemid="{08C6DABB-E605-49B0-89AB-2C1AE465303D}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>ウエイト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Weight" key="Weight" itemid="{08C6DABB-E605-49B0-89AB-2C1AE465303D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ウエイト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Workout Length" key="Workout Length" itemid="{89F47F12-5FEF-47FD-960F-52C698A924BB}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>ワークアウトの長さ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Workout Length" key="Workout Length" itemid="{89F47F12-5FEF-47FD-960F-52C698A924BB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ワークアウトの長さ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Yoga" key="Yoga" itemid="{05F418BC-BF59-40A2-B760-AC99AA2F9BCC}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>ヨガ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Yoga" key="Yoga" itemid="{05F418BC-BF59-40A2-B760-AC99AA2F9BCC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ヨガ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards" key="Profile Cards" itemid="{9E84E885-A5CD-43F5-BA11-C81647BA532B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Diamond Dallas Page" key="Diamond Dallas Page" itemid="{0D501EBA-ABBE-4FE5-9CBC-1161D8C60037}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダイヤモンドダラスのページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Diamond Dallas Page" key="Diamond Dallas Page" itemid="{0D501EBA-ABBE-4FE5-9CBC-1161D8C60037}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダイヤモンドダラスのページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Judi Sheppard Missett" key="Judi Sheppard Missett" itemid="{950D7C9D-83CF-4E7B-AEFB-66AD132ACCE7}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジュディ・シェパード・ミゼット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Judi Sheppard Missett" key="Judi Sheppard Missett" itemid="{950D7C9D-83CF-4E7B-AEFB-66AD132ACCE7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジュディ・シェパード・ミゼット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Richard Simmons" key="Richard Simmons" itemid="{2EE35284-F6AE-44DD-9881-97B44A5D2186}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>リチャード・シモンズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Richard Simmons" key="Richard Simmons" itemid="{2EE35284-F6AE-44DD-9881-97B44A5D2186}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>リチャード・シモンズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Rusev Day" key="Rusev Day" itemid="{C139230C-7B22-4418-A13D-CFD6FFF5B35E}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>ルセフデー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Rusev Day" key="Rusev Day" itemid="{C139230C-7B22-4418-A13D-CFD6FFF5B35E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ルセフデー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Sydney Cummings" key="Sydney Cummings" itemid="{A794871A-81D2-4A92-8744-19392F0B1599}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー・カミングス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Profile Cards/Sydney Cummings" key="Sydney Cummings" itemid="{A794871A-81D2-4A92-8744-19392F0B1599}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー・カミングス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards" key="Pattern Cards" itemid="{F5F5DAF0-74B1-4220-95DC-0F48F5DB9950}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Diamond Dallas Page" key="Diamond Dallas Page" itemid="{13BEB09C-9F4D-4FD0-85D8-6567BF3EC81E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダイヤモンドダラスのページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Diamond Dallas Page" key="Diamond Dallas Page" itemid="{13BEB09C-9F4D-4FD0-85D8-6567BF3EC81E}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダイヤモンドダラスのページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Judi Sheppard Missett" key="Judi Sheppard Missett" itemid="{2D4BAA3E-04DB-468E-A249-812C3B0D3A9B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジュディ・シェパード・ミゼット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Judi Sheppard Missett" key="Judi Sheppard Missett" itemid="{2D4BAA3E-04DB-468E-A249-812C3B0D3A9B}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジュディ・シェパード・ミゼット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Richard Simmons" key="Richard Simmons" itemid="{492B455A-0F97-4C07-A49A-F3550EFF1910}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>リチャード・シモンズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Richard Simmons" key="Richard Simmons" itemid="{492B455A-0F97-4C07-A49A-F3550EFF1910}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>リチャード・シモンズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Rusev Day" key="Rusev Day" itemid="{B762A1F5-06ED-4B42-B768-FF536441BEA7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ルセフデー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Rusev Day" key="Rusev Day" itemid="{B762A1F5-06ED-4B42-B768-FF536441BEA7}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>ルセフデー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Sydney Cummings" key="Sydney Cummings" itemid="{FF6A8672-457B-4D6C-9255-31C875FC6E3B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー・カミングス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Fitness and Trainers/Pattern Cards/Sydney Cummings" key="Sydney Cummings" itemid="{FF6A8672-457B-4D6C-9255-31C875FC6E3B}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー・カミングス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests" key="Product Interests" itemid="{54D63273-947A-4927-B21A-0022625315E1}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>製品への関心</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests" key="Product Interests" itemid="{54D63273-947A-4927-B21A-0022625315E1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>製品への関心</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Appliances" key="Appliances" itemid="{A3386B92-A365-40AA-9963-E0CD9CE22C92}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Appliances" key="Appliances" itemid="{A3386B92-A365-40AA-9963-E0CD9CE22C92}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Audio" key="Audio" itemid="{04382B04-5A9E-4FE6-A8F5-D6F99BD49404}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Audio" key="Audio" itemid="{04382B04-5A9E-4FE6-A8F5-D6F99BD49404}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Cameras" key="Cameras" itemid="{7ED287DE-8452-41B8-99FA-72ABB17B8D6B}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Cameras" key="Cameras" itemid="{7ED287DE-8452-41B8-99FA-72ABB17B8D6B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Computers" key="Computers" itemid="{5A10BB21-2CAD-4B03-A6D9-517795B1A2AE}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Computers" key="Computers" itemid="{5A10BB21-2CAD-4B03-A6D9-517795B1A2AE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Fitness Tech" key="Fitness Tech" itemid="{439A4EA2-CFF5-4358-927C-14C49C83F93C}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Fitness Tech" key="Fitness Tech" itemid="{439A4EA2-CFF5-4358-927C-14C49C83F93C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Games" key="Games" itemid="{630A9E94-A897-412C-AB5F-0441FD3C9AF8}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Games" key="Games" itemid="{630A9E94-A897-412C-AB5F-0441FD3C9AF8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Phones" key="Phones" itemid="{E480F240-EDC0-4666-92B8-981B134271CA}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>携帯電話</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Phones" key="Phones" itemid="{E480F240-EDC0-4666-92B8-981B134271CA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>携帯電話</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Tablets" key="Tablets" itemid="{13534804-7082-433B-B936-B366272881B3}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Tablets" key="Tablets" itemid="{13534804-7082-433B-B936-B366272881B3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/TVs" key="TVs" itemid="{1F3E8650-F8FB-4D88-AE8D-AD4AF4E9F25F}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/TVs" key="TVs" itemid="{1F3E8650-F8FB-4D88-AE8D-AD4AF4E9F25F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards" key="Profile Cards" itemid="{CAEE3D3D-325C-4456-BC6A-B7E8124C7F7C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Appliances" key="Appliances" itemid="{B6AD9C36-81DF-4AFE-8807-B6039156A4CB}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Appliances" key="Appliances" itemid="{B6AD9C36-81DF-4AFE-8807-B6039156A4CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Audio" key="Audio" itemid="{FAECAA5A-4EC3-4610-A052-8DF5D793B525}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Audio" key="Audio" itemid="{FAECAA5A-4EC3-4610-A052-8DF5D793B525}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Cameras" key="Cameras" itemid="{B1978D46-005E-4740-9291-668CAA182B9C}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Cameras" key="Cameras" itemid="{B1978D46-005E-4740-9291-668CAA182B9C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Computers" key="Computers" itemid="{3B91F39F-407D-4D55-8CB9-6CDB9B1883C7}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Computers" key="Computers" itemid="{3B91F39F-407D-4D55-8CB9-6CDB9B1883C7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Fitness Tech" key="Fitness Tech" itemid="{28CE1A69-90E5-43FE-A338-CF93CB20F130}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Fitness Tech" key="Fitness Tech" itemid="{28CE1A69-90E5-43FE-A338-CF93CB20F130}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Games" key="Games" itemid="{1AAB7F05-B96E-42E0-B8CB-3D3BF3855AF9}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Games" key="Games" itemid="{1AAB7F05-B96E-42E0-B8CB-3D3BF3855AF9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Phones" key="Phones" itemid="{D70ACD69-4089-42DD-A5DD-2227A80B2577}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>携帯電話</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Phones" key="Phones" itemid="{D70ACD69-4089-42DD-A5DD-2227A80B2577}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>携帯電話</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Tablets" key="Tablets" itemid="{B2FB4D00-B9D1-4C1F-8BDA-0823A57A167B}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/Tablets" key="Tablets" itemid="{B2FB4D00-B9D1-4C1F-8BDA-0823A57A167B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/TVs" key="TVs" itemid="{0B5241D5-F527-4EA1-BA87-F9C8C33B0F28}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Profile Cards/TVs" key="TVs" itemid="{0B5241D5-F527-4EA1-BA87-F9C8C33B0F28}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards" key="Pattern Cards" itemid="{6757297D-BD05-420B-8B92-A69344D55654}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Appliances" key="Appliances" itemid="{D153D8A5-E296-48CE-92CB-81EB12F53283}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{4F3BDCA5-4B83-4C3F-BDF3-6D5BF616FF12}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Appliances" key="Appliances" itemid="{D153D8A5-E296-48CE-92CB-81EB12F53283}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Appliances" key="Appliances" itemid="{D153D8A5-E296-48CE-92CB-81EB12F53283}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>電化製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Cameras" key="Cameras" itemid="{C4E6AEAA-183F-4600-9868-8FC43F07AE36}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{5B577D3B-F229-4871-8F9D-D447599A37B8}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Cameras" key="Cameras" itemid="{C4E6AEAA-183F-4600-9868-8FC43F07AE36}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Cameras" key="Cameras" itemid="{C4E6AEAA-183F-4600-9868-8FC43F07AE36}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Computers" key="Computers" itemid="{2ECECC9A-FC04-41BF-8AB9-AA5AF9C63E46}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{E532E6D0-9E5E-4BBB-AD65-756C3CD9243E}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Computers" key="Computers" itemid="{2ECECC9A-FC04-41BF-8AB9-AA5AF9C63E46}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Computers" key="Computers" itemid="{2ECECC9A-FC04-41BF-8AB9-AA5AF9C63E46}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンピュータ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Fitness Tech" key="Fitness Tech" itemid="{24C1A87A-D981-4C18-82BF-FD6F28692FEA}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{B8CD0674-1886-470F-9B58-77CBA03BDF43}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Fitness Tech" key="Fitness Tech" itemid="{24C1A87A-D981-4C18-82BF-FD6F28692FEA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Fitness Tech" key="Fitness Tech" itemid="{24C1A87A-D981-4C18-82BF-FD6F28692FEA}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Games" key="Games" itemid="{7C0D0B32-E1B3-4969-890F-3793C1CFDB6A}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{52ECB3D0-45C5-4B0F-AB81-196651A7A8D3}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Games" key="Games" itemid="{7C0D0B32-E1B3-4969-890F-3793C1CFDB6A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Games" key="Games" itemid="{7C0D0B32-E1B3-4969-890F-3793C1CFDB6A}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゲーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Home Cinema" key="Home Cinema" itemid="{CDCADE11-E1F4-4792-8FA3-9F95C6954772}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{C1337CD2-E12D-4DA5-BBA3-49877678023B}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Home Cinema" key="Home Cinema" itemid="{CDCADE11-E1F4-4792-8FA3-9F95C6954772}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ホームシネマ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/Home Cinema" key="Home Cinema" itemid="{CDCADE11-E1F4-4792-8FA3-9F95C6954772}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>ホームシネマ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/On The Go" key="On The Go" itemid="{C81A5B22-ED05-4D1C-B86B-B04A88141D62}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{1A9D27AB-04E9-4376-9706-4B4B7CBB2051}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/On The Go" key="On The Go" itemid="{C81A5B22-ED05-4D1C-B86B-B04A88141D62}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Product Interests/Pattern Cards/On The Go" key="On The Go" itemid="{C81A5B22-ED05-4D1C-B86B-B04A88141D62}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>外出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests" key="Budget Interests" itemid="{6A453529-0DC7-494C-8EB2-85B039471E1A}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>予算の関心事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests" key="Budget Interests" itemid="{6A453529-0DC7-494C-8EB2-85B039471E1A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>予算の関心事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Low" key="Low" itemid="{E5E36948-5EAB-4864-988E-DEC38D39F90A}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Low" key="Low" itemid="{E5E36948-5EAB-4864-988E-DEC38D39F90A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Medium" key="Medium" itemid="{2940946E-93B7-4698-918C-1781F56B40F3}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Medium" key="Medium" itemid="{2940946E-93B7-4698-918C-1781F56B40F3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/High" key="High" itemid="{EF7667F3-BFFA-488D-8138-A872AD1E4A10}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/High" key="High" itemid="{EF7667F3-BFFA-488D-8138-A872AD1E4A10}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards" key="Profile Cards" itemid="{1D76A919-5242-4B1F-821D-C6D8118E750E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/Low" key="Low" itemid="{E072DEBA-D877-42DE-BC01-1983FF0844FE}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/Low" key="Low" itemid="{E072DEBA-D877-42DE-BC01-1983FF0844FE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/Medium" key="Medium" itemid="{77272CBD-2452-41BE-8512-65F6A0664FEB}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/Medium" key="Medium" itemid="{77272CBD-2452-41BE-8512-65F6A0664FEB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/High" key="High" itemid="{FAC113A8-1A8D-4BE3-882A-B0BB91654167}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Profile Cards/High" key="High" itemid="{FAC113A8-1A8D-4BE3-882A-B0BB91654167}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards" key="Pattern Cards" itemid="{779CE383-C35B-483D-93B7-A318F254573A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/Low" key="Low" itemid="{C3AB6AD0-C819-4DB4-8A86-4DD6ECA0E895}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/Low" key="Low" itemid="{C3AB6AD0-C819-4DB4-8A86-4DD6ECA0E895}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>低い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/Medium" key="Medium" itemid="{C96C2236-7FC9-4A18-83EB-0686A51A8B39}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/Medium" key="Medium" itemid="{C96C2236-7FC9-4A18-83EB-0686A51A8B39}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>普通</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/High" key="High" itemid="{4798ECFE-803A-4A31-BF46-46D94CB96F57}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseLifestyle/Budget Interests/Pattern Cards/High" key="High" itemid="{4798ECFE-803A-4A31-BF46-46D94CB96F57}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>高い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest" key="Cumulus Finserv Topic Interest" itemid="{D387E7ED-61A7-4D4A-B85B-93BB3A6A598A}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>Cumulus Finserv Topic Interest</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Banking" key="Banking" itemid="{74BED958-DB4C-4B14-96B1-03CCD81AC81B}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Borrowing" key="Borrowing" itemid="{F79E145B-EB2E-4A00-983E-941AD0ACFE5D}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Borrowing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Corporate Banking" key="Corporate Banking" itemid="{63D510C4-630E-4300-95CE-4A298F46AD6A}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Corporate Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Credit Card Services" key="Credit Card Services" itemid="{8874C605-5B24-43C2-A53F-B938B8564B51}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Credit Card Services</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Credit Cards" key="Credit Cards" itemid="{0545D802-F187-4E0F-B126-22F839F69C56}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Credit Cards</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Insurance" key="Insurance" itemid="{4A081A1E-5656-4490-A3E1-70DB9CFFFDDA}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Insurance</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Investing" key="Investing" itemid="{B4992BBD-B747-42C4-8BED-6B2D645C1791}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Investing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Personal Banking" key="Personal Banking" itemid="{B311D837-47F1-40C9-8D2C-8D965D9B564A}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Personal Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Banking" key="Banking" itemid="{916E140F-B861-4B88-B763-3C84087B1AF5}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Banking" key="Banking" itemid="{916E140F-B861-4B88-B763-3C84087B1AF5}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{387E47A2-3A6F-422D-8815-971936C2536C}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Borrowing" key="Borrowing" itemid="{42C988FC-F65A-4C4E-9F2C-C9800F17F9EB}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Borrowing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Borrowing" key="Borrowing" itemid="{42C988FC-F65A-4C4E-9F2C-C9800F17F9EB}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{3780755B-A328-4415-AE7A-3774246DBABA}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Corporate Banking" key="Corporate Banking" itemid="{E11EAF32-1E69-45A3-A285-09584523CB82}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Corporate Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Corporate Banking" key="Corporate Banking" itemid="{E11EAF32-1E69-45A3-A285-09584523CB82}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{60A60BE0-A16C-4439-857E-7A6022F72D03}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Credit Card Services" key="Credit Card Services" itemid="{6DB860CB-FC3F-4CEF-8AC8-E32668585366}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Credit Card Services</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Insurance" key="Insurance" itemid="{E16C4B69-05C3-45F2-9110-559D6A364A6F}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Insurance</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Investing" key="Investing" itemid="{E59A6D1F-BA96-45DD-9637-24273A161BB3}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Investing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Personal Banking" key="Personal Banking" itemid="{C192564D-A169-4867-873A-AE06F2323535}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Personal Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{425F0F4C-A4E8-42BE-B8C2-065FE1303D48}" updated="00010101T000000Z" database="master">
+    <ja-JP>Travel, exercise, yoga</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{6F5B9EB7-D444-4E28-BB7A-12D3B03A8F7C}" updated="00010101T000000Z" database="master">
+    <ja-JP>25</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{823BFC0A-3E62-40A5-8882-1A622882C45B}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;&lt;span&gt;A mid-twenties professional with an advertising career. Her travel enthusiast friends have suggested that she look into credit cards that offer better rewards. She's not a current Cumulus client and Cumulus knows nothing about her. Rachel is one of many &lt;strong&gt;&lt;em&gt;potential&lt;/em&gt;&lt;/strong&gt; consumers that Cumulus wants to engage with and convert to a customer.&lt;/span&gt;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Rachel Morris Client</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{6D59F9FB-572F-412D-A5C4-57311692E423}" updated="00010101T000000Z" database="master">
+    <ja-JP>Single</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{1672DDDD-28E4-42A9-9ADC-6B7CD4DCE26B}" updated="00010101T000000Z" database="master">
+    <ja-JP>Travel enthusiast</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{5583CF1F-0090-4980-BAC3-C34CC760CF1E}" updated="00010101T000000Z" database="master">
+    <ja-JP>University degree in advertising</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Profile Cards/Rachel Morris Client" key="Rachel Morris Client" itemid="{1213F6F7-EBB2-406A-99DD-F042781F787F}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{3FE9E025-C65B-4369-92FF-2468B9F50A18}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Banking" key="Banking" itemid="{BBA43F47-12AB-4B70-8912-3EA583FA852E}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{387E47A2-3A6F-422D-8815-971936C2536C}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Banking" key="Banking" itemid="{BBA43F47-12AB-4B70-8912-3EA583FA852E}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Borrowing" key="Borrowing" itemid="{502F77C9-93A9-467B-AF12-4E23180478EA}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{3780755B-A328-4415-AE7A-3774246DBABA}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Borrowing" key="Borrowing" itemid="{502F77C9-93A9-467B-AF12-4E23180478EA}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Borrowing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Corporate Banking" key="Corporate Banking" itemid="{385101BE-FA35-4D6C-8283-ACCFD4DBCAB7}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Corporate Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Credit Card Services" key="Credit Card Services" itemid="{ADC0C1DA-8407-4A0C-93C7-DE1A4440CDC0}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{60A60BE0-A16C-4439-857E-7A6022F72D03}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Credit Card Services" key="Credit Card Services" itemid="{ADC0C1DA-8407-4A0C-93C7-DE1A4440CDC0}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Credit Card Services</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Insurance" key="Insurance" itemid="{D732B1AE-6BEE-413C-B313-32C0FDA82C9E}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{254B1F29-E930-4955-89C8-870CDC67B122}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Insurance" key="Insurance" itemid="{D732B1AE-6BEE-413C-B313-32C0FDA82C9E}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Insurance</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Investing" key="Investing" itemid="{7E1D069C-9235-4805-BDEE-792E807378DE}" fieldid="{98535F26-6C9D-4FD7-A7E2-392C7CB82D65}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{D92AF3CA-D504-4C8D-902C-BAFB8CA98C18}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Investing" key="Investing" itemid="{7E1D069C-9235-4805-BDEE-792E807378DE}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Investing</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Cumulus/Cumulus Finserv Topic Interest/Pattern Cards/Personal Banking" key="Personal Banking" itemid="{EE8FEF9E-CC1D-4578-9D78-C30346976F96}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Personal Banking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client" key="Financial Client" itemid="{3A0F2EC6-1346-434D-8DF1-1C576628C7FA}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="00010101T000000Z" database="master">
+    <ja-JP>Financial Client</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Checking" key="Checking" itemid="{4BBA13FA-C7C0-4438-B73D-43DDB4C0A1D7}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Checking</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Mortgage" key="Mortgage" itemid="{ED369E78-1A07-4BE6-9AC9-D7C32DB09AD6}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Mortgage</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/IRA" key="IRA" itemid="{D8426D7B-9D43-4DC1-9FDE-729EDD70AB64}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>IRA</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Mutual Funds" key="Mutual Funds" itemid="{C78915A8-86A9-40AD-8E98-6CDDE8459BCA}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Mutual Funds</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Business Account" key="Business Account" itemid="{FA3ADD54-FEA8-4416-8186-5C35558268F0}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Business Account</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/SBA Lending" key="SBA Lending" itemid="{B363B9DB-D506-420C-99C9-6A46CE0C3105}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>SBA Lending</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Monetary Exchange Rate" key="Monetary Exchange Rate" itemid="{E82F70B3-6FB5-48F2-8EA3-E6759F0995E5}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Monetary Exchange Rate</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Corporate Lending" key="Corporate Lending" itemid="{7A19742A-2B56-4346-A77B-A3D3DB509E0E}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="00010101T000000Z" database="master">
+    <ja-JP>Corporate Lending</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Retail Client" key="Retail Client" itemid="{468C086C-679C-48D6-9CA5-2FA684CA5DCE}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Retail Client</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Retail Client" key="Retail Client" itemid="{468C086C-679C-48D6-9CA5-2FA684CA5DCE}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{C8416D6C-E075-46C1-93D0-CC1F029743E5}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Investor" key="Investor" itemid="{0E8A8E1A-396A-48D9-8837-F8914231BD89}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Investor</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Investor" key="Investor" itemid="{0E8A8E1A-396A-48D9-8837-F8914231BD89}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{5E6C98C4-5371-458A-A275-2BA79C4B4C24}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Business Owner" key="Business Owner" itemid="{AABE88DA-5EF3-46CC-8064-3EC98713D0BD}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>Business Owner</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/Business Owner" key="Business Owner" itemid="{AABE88DA-5EF3-46CC-8064-3EC98713D0BD}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{CD40F799-B8FF-429E-B9FF-7E3408EFC520}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/CFO" key="CFO" itemid="{15F8DF57-55A1-41EF-A09C-4A2C35DA45CD}" fieldid="{A26FC256-1DB0-44AA-BA3D-1C830BF882A2}" updated="00010101T000000Z" database="master">
+    <ja-JP>CFO</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Profile Cards/CFO" key="CFO" itemid="{15F8DF57-55A1-41EF-A09C-4A2C35DA45CD}" fieldid="{709B879B-7264-49C7-8864-E254D9129302}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{6A41454F-118A-4BE9-BF11-BFE34042A91A}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Pattern Cards/Retail Client" key="Retail Client" itemid="{8E89D039-1681-4599-A933-23B1D902FE10}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Retail Client</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Pattern Cards/Investor" key="Investor" itemid="{25E98B57-EF94-4DE2-B630-AD9374D99E4D}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Investor</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Pattern Cards/Business Owner" key="Business Owner" itemid="{0A002F2F-F0D5-4D6B-AAE1-B2308018C142}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>Business Owner</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/LighthouseFinancial/Financial Client/Pattern Cards/CFO" key="CFO" itemid="{52F27AD7-6D1A-435C-85AE-84290E43DEB2}" fieldid="{FE732790-2DDB-4657-A882-C2FCE1FBF0C9}" updated="00010101T000000Z" database="master">
+    <ja-JP>CFO</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus" key="Focus" itemid="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="20170215T120000Z" database="master">
+    <ja-JP>フォーカス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus" key="Focus" itemid="{24DFF2CF-B30A-4B75-8967-2FE3DED82271}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20170215T120000Z" database="master">
+    <ja-JP>フォーカス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Background" key="Background" itemid="{03379AF5-F1AE-4610-B15B-4C7F1032B464}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20110126T104702Z" database="master">
+    <ja-JP>背景：</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Background" key="Background" itemid="{03379AF5-F1AE-4610-B15B-4C7F1032B464}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110126T104702Z" database="master">
+    <ja-JP>バックグラウンド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Practical" key="Practical" itemid="{5FDD9829-E689-454D-9ABC-8F95AE68744C}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101536Z" database="master">
+    <ja-JP>実用的</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Practical" key="Practical" itemid="{5FDD9829-E689-454D-9ABC-8F95AE68744C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101536Z" database="master">
+    <ja-JP>実用的</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Process" key="Process" itemid="{F5652C06-676B-4E12-A9D0-06D000E5F1C8}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101548Z" database="master">
+    <ja-JP>プロセス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Process" key="Process" itemid="{F5652C06-676B-4E12-A9D0-06D000E5F1C8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101548Z" database="master">
+    <ja-JP>プロセス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Scope" key="Scope" itemid="{B32BFACC-3494-4127-B050-CF50078E2B4C}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101659Z" database="master">
+    <ja-JP>スコープ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Scope" key="Scope" itemid="{B32BFACC-3494-4127-B050-CF50078E2B4C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101659Z" database="master">
+    <ja-JP>スコープ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Profile Cards" key="Profile Cards" itemid="{66CA6714-8081-4381-8D66-30421AF92E0B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110126T110710Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Focus/Pattern Cards" key="Pattern Cards" itemid="{A0F38085-E3B3-45CD-93C6-3FBE85E29255}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110413T164700Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function" key="Function" itemid="{BA06B827-C6F2-4748-BD75-AA178B770E83}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="20170215T120012Z" database="master">
+    <ja-JP>ファンクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function" key="Function" itemid="{BA06B827-C6F2-4748-BD75-AA178B770E83}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20170215T120012Z" database="master">
+    <ja-JP>ファンクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Building Trust" key="Building Trust" itemid="{233A2D01-6CCD-4D4E-BBEE-9196D492736C}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101842Z" database="master">
+    <ja-JP>信用構築</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Building Trust" key="Building Trust" itemid="{233A2D01-6CCD-4D4E-BBEE-9196D492736C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101842Z" database="master">
+    <ja-JP>信用構築</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Call to Action" key="Call to Action" itemid="{9581F4A4-B83D-4F37-9814-59226398566F}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101920Z" database="master">
+    <ja-JP>アクション プラン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Call to Action" key="Call to Action" itemid="{9581F4A4-B83D-4F37-9814-59226398566F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101920Z" database="master">
+    <ja-JP>アクション プラン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Create Desire" key="Create Desire" itemid="{30AAF69F-C10A-4057-B918-6F8A8D0CEFDD}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101834Z" database="master">
+    <ja-JP>要求作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Create Desire" key="Create Desire" itemid="{30AAF69F-C10A-4057-B918-6F8A8D0CEFDD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101834Z" database="master">
+    <ja-JP>要求作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Define Concept" key="Define Concept" itemid="{3C82B054-218F-40B7-9201-C2A126AD2C07}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090609T101901Z" database="master">
+    <ja-JP>コンセプト定義</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Define Concept" key="Define Concept" itemid="{3C82B054-218F-40B7-9201-C2A126AD2C07}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090609T101901Z" database="master">
+    <ja-JP>コンセプト定義</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Profile Cards" key="Profile Cards" itemid="{FEF190B8-1343-4070-ADF1-6D650FA50414}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110126T110730Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Function/Pattern Cards" key="Pattern Cards" itemid="{B6139118-550D-4733-B6C3-63EEBA83F966}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110413T164654Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona" key="Persona" itemid="{B5BDEE45-C945-476F-9EE6-3B8A9255C17E}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="20170215T114937Z" database="master">
+    <ja-JP>ペルソナ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona" key="Persona" itemid="{B5BDEE45-C945-476F-9EE6-3B8A9255C17E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20170215T114937Z" database="master">
+    <ja-JP>ペルソナ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Cecile" key="Cecile" itemid="{B8810A60-3837-4AD1-B0DE-CF14AC5F4792}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20110125T093412Z" database="master">
+    <ja-JP>セシル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Cecile" key="Cecile" itemid="{B8810A60-3837-4AD1-B0DE-CF14AC5F4792}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110125T093412Z" database="master">
+    <ja-JP>セシル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Chris" key="Chris" itemid="{50278469-25F6-456B-BF9A-92C22FD38086}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090615T151720Z" database="master">
+    <ja-JP>クリス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Chris" key="Chris" itemid="{50278469-25F6-456B-BF9A-92C22FD38086}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090615T151720Z" database="master">
+    <ja-JP>クリス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Ian" key="Ian" itemid="{F2D7FF63-50A2-4595-96E6-2912864FBC90}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090615T151731Z" database="master">
+    <ja-JP>イアン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Ian" key="Ian" itemid="{F2D7FF63-50A2-4595-96E6-2912864FBC90}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090615T151731Z" database="master">
+    <ja-JP>イアン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Sandra" key="Sandra" itemid="{9790D1F9-1F78-4B39-933D-46B08230F05F}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090615T151753Z" database="master">
+    <ja-JP>サンドラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Sandra" key="Sandra" itemid="{9790D1F9-1F78-4B39-933D-46B08230F05F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090615T151753Z" database="master">
+    <ja-JP>サンドラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Profile Cards" key="Profile Cards" itemid="{1E63C9F9-67BF-45BF-98AE-4BC4F12AF819}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110126T110740Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Persona/Pattern Cards" key="Pattern Cards" itemid="{4BC3905C-292A-44F7-BF89-FA9A443468C4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110413T164648Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score" key="Score" itemid="{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}" fieldid="{5D9FE5D7-4C45-4A98-A1F5-4796A6DA428B}" updated="20170215T120053Z" database="master">
+    <ja-JP>獲得したスコア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score" key="Score" itemid="{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20170215T120053Z" database="master">
+    <ja-JP>スコア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score/Lead" key="Lead" itemid="{178107BF-4294-4FA4-A0DA-30BDE00A1346}" fieldid="{2E1A9AAB-F7C1-49EE-B032-28B98D3688D6}" updated="20090626T132338Z" database="master">
+    <ja-JP>リード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score/Lead" key="Lead" itemid="{178107BF-4294-4FA4-A0DA-30BDE00A1346}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20090626T132338Z" database="master">
+    <ja-JP>リード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score/Profile Cards" key="Profile Cards" itemid="{7707156C-AA49-4E66-9CEE-58B6D53FED78}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110126T110744Z" database="master">
+    <ja-JP>プロファイル カード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Profiles/Templates/Score/Pattern Cards" key="Pattern Cards" itemid="{53BDCEA0-CBB2-40E2-B3BC-2D69E0263681}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20110413T164636Z" database="master">
+    <ja-JP>パターン カード</ja-JP>
+  </phrase>
+</sitecore>
