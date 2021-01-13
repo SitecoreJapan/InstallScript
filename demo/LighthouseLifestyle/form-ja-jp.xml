@@ -1,0 +1,1436 @@
+﻿<sitecore>
+  <phrase path="/sitecore/Forms" key="Forms" itemid="{B701850A-CB8A-4943-B2BC-DDDB1238C103}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20190613T103045Z" database="master">
+    <ja-JP>フォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites" key="Demo Shared SXA Sites" itemid="{9E12D405-71B5-445D-ABD6-50C02FC9CB8A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Demo Shared SXA Sites</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup" key="Card Signup" itemid="{38786E65-124D-4758-A1AF-B01009BFF377}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カード サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started" key="get_started" itemid="{27346326-6B88-455B-B24F-45F293F273E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>はじめに</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started/age_list" key="age_list" itemid="{248AC2AE-BE96-4763-BE80-6C63848F7A9E}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>18歳以上？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started/citizen_list" key="citizen_list" itemid="{816E892B-9542-49B5-B9D2-8DE9A7A64EBC}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたはアメリカ市民ですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started/customer_list" key="customer_list" itemid="{EC27159A-A568-4695-8616-5DEC8E30ABDE}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>キュムラス銀行のお客様ですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started/get_started_next_btn" key="get_started_next_btn" itemid="{28EDC63A-8508-4915-89BC-88436C37FEE9}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/get_started/get_started_next_btn" key="get_started_next_btn" itemid="{28EDC63A-8508-4915-89BC-88436C37FEE9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次ボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_list" key="card_type_list" itemid="{F1839AE8-91A5-4920-8DE5-1EC74A5B5035}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Card Type</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_list/Settings/Datasource/Cumulus Freedom" key="Cumulus Freedom" itemid="{AB69AF04-8FFB-4B52-ACCE-00C2FD3CF007}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Cumulus Freedom</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_list/Settings/Datasource/Cloud Travel Card" key="Cloud Travel Card" itemid="{EDD191AC-A031-43BC-8421-257F6D3CB7C1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Cloud Travel Card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_list/Settings/Datasource/Cloud Plus Card" key="Cloud Plus Card" itemid="{48125A50-F97B-4EE9-B87C-8C38AD68F269}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Cloud Plus Card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_list/Settings/Datasource/Student Rewards Card" key="Student Rewards Card" itemid="{C4703D83-AB28-4B0B-ADE4-596AE400CE88}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Student Rewards Card</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_next_btn" key="card_type_next_btn" itemid="{FF9D1091-9357-4F52-A6AB-BB1337D74867}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Next</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/card_type/card_type_previous_btn" key="card_type_previous_btn" itemid="{9AF48BEF-297B-4417-A882-49FC60673868}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Previous</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/address" key="address" itemid="{22495523-4D1A-43D3-B428-E944A0A4A8B6}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Address</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/address" key="address" itemid="{22495523-4D1A-43D3-B428-E944A0A4A8B6}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Address</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/city" key="city" itemid="{1A7783E0-BD10-4AF3-98DD-BB7EF28FC916}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>City</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/city" key="city" itemid="{1A7783E0-BD10-4AF3-98DD-BB7EF28FC916}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>City</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/state" key="state" itemid="{6E163D88-6E0C-485B-9443-348966A3D1DC}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>state</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/state" key="state" itemid="{6E163D88-6E0C-485B-9443-348966A3D1DC}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>State</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/postal_code" key="postal_code" itemid="{00688F58-8136-455A-9261-185FFFDA408A}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Postal Code</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/postal_code" key="postal_code" itemid="{00688F58-8136-455A-9261-185FFFDA408A}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Postal Code</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/phone" key="phone" itemid="{117C408C-7D7C-4A37-99A8-34A900CDA7EB}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Phone</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/Card Signup/personal_information/phone" key="phone" itemid="{117C408C-7D7C-4A37-99A8-34A900CDA7EB}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Phone</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Text" key="Text" itemid="{2380112A-33A1-498B-B88D-5F8C45043A6A}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign-up for the Latest Financial News, right to your inbox</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/FirstName" key="FirstName" itemid="{172822F5-DEBB-4137-9108-EF137670B18F}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>First Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/LastName" key="LastName" itemid="{BFB98813-D991-4BB1-B14D-72EB414A69E2}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Last Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Email" key="Email" itemid="{A42AEE91-23A8-41AB-B8F1-487EABEC65EA}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Email" key="Email" itemid="{A42AEE91-23A8-41AB-B8F1-487EABEC65EA}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Submit Button" key="Submit Button" itemid="{3D3428C8-779E-46AB-BCD0-19234C2B7772}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign Up</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Submit Button/SubmitActions/Trigger Outcome" key="Trigger Outcome" itemid="{6D9974D0-8F12-448C-B265-6935D9B0C6E3}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Contact Acquisition</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{2444ACAC-84A2-4F6A-806D-7FDC80351038}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Signed up for news letter</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{CE0EC94D-246C-4BB9-AE21-7847A12E641B}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Default</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/Cumulus/financial news signup/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{BA961944-D7A1-4081-946D-EDB233481232}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Home</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Text" key="Text" itemid="{5958C972-3471-4644-B641-37AC4912535A}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign-up for the Latest Financial News</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/FirstName" key="FirstName" itemid="{27BA445D-4869-494D-BD33-658438101BEE}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>First Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/LastName" key="LastName" itemid="{B77210C0-5709-4E34-9D7D-56D518A14B55}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Last Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Email" key="Email" itemid="{49C81182-8600-4DDB-A8A7-3E85DC88E94A}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Email" key="Email" itemid="{49C81182-8600-4DDB-A8A7-3E85DC88E94A}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Submit Button" key="Submit Button" itemid="{328AA425-3118-4601-BA5C-A34B96C89F9E}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign Up</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Submit Button/SubmitActions/Trigger Outcome" key="Trigger Outcome" itemid="{656A848C-3078-4A53-9708-D8D48D5D1AFD}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Contact Acquisition</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{3C593F11-74FA-41AC-8DA0-A0C0AAC107F3}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Signed up for Newsletter</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{A7A154EE-8B7F-49A2-B7FB-91B1AC2A9EAB}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Default</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Credit Card Application/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{12D09562-91F6-496E-AFA9-95688BBC76DC}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Home</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Text" key="Text" itemid="{A760CA0F-CFF5-4615-8C1A-076B5FFE795B}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign-up for the Latest Financial News</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/FirstName" key="FirstName" itemid="{20A17792-87A7-417E-896C-42D02AAAA605}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>First Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/LastName" key="LastName" itemid="{64F29330-6DB1-4CDF-8D06-3D7F7091FCA8}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Last Name</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Email" key="Email" itemid="{0F9A6032-3871-4856-ADFE-D1681A16F127}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Email" key="Email" itemid="{0F9A6032-3871-4856-ADFE-D1681A16F127}" fieldid="{A6972F08-CBB5-4830-A8C9-8A0AE34650D1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Submit Button" key="Submit Button" itemid="{A5C26EB8-872C-439C-8CF0-5AC2CE05E596}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sign Up</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Submit Button/SubmitActions/Trigger Outcome" key="Trigger Outcome" itemid="{9A039709-6024-4C4A-B7DF-8DCF4728E331}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Contact Acquisition</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{4B779FA9-05A6-4594-A0A3-ABDCE3FEB73C}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Newsletter Signup</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{C4BD859A-F781-4BF0-A502-3322EA1CD5CA}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Default</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseFinancial/Lighthouse Financial News Signup/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{E9BAA889-C654-4489-B958-50A66D51EF1B}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>Home</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form" key="Content And Product Finder Form" itemid="{238F5BDB-E4CF-42DC-AF80-8C68F71A1C86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンテンツと製品 ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1" key="Page 1" itemid="{062B91A9-528E-4820-9E69-C9F9E607A360}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{6B495119-7C62-4D59-9529-013034A9C988}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>何に興味があるんですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{6B495119-7C62-4D59-9529-013034A9C988}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問のタイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper" key="Columns Wrapper" itemid="{44C6A83D-E170-44B7-8750-C1466387CD5D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{21B81E00-7C7A-4374-A5F2-A76751BCEDBE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキストラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{9E81F8AF-731B-4FC1-8530-CAB0CF1538A3}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のある商品の種類を選択することで、ライトハウスホームグッズはあなたの興味に合わせてパーソナライズされます。興味のある商品はいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{9E81F8AF-731B-4FC1-8530-CAB0CF1538A3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{35049AC7-4293-4DC4-8972-CDE99C1195DF}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に最もマッチする関心事を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{35049AC7-4293-4DC4-8972-CDE99C1195DF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{040F2A5C-D8FE-4A59-924B-2135004C88AB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{B367156B-18C2-4010-91AB-AC9FBDBB9237}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どれに興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{B367156B-18C2-4010-91AB-AC9FBDBB9237}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Buttons Wrapper" key="Buttons Wrapper" itemid="{9DB3DE86-50FE-45BB-92BD-118460B4B6EB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{3DC951BE-3E83-461B-A115-EE5C27013981}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="20200910T084222Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{3DC951BE-3E83-461B-A115-EE5C27013981}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20200910T084222Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{D0AD477D-C0F0-4C54-BDD1-DCB92C83A7CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{4B9121E8-0D6E-4ACE-880F-C2202F31BD70}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2" key="Page 2" itemid="{7F1CA33B-449D-4A2A-9E1D-C60119356738}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{45547794-CD93-4F58-9A37-27F8CBA43E98}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="20200910T084138Z" database="master">
+    <ja-JP>どのくらいの予算でお求めですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{45547794-CD93-4F58-9A37-27F8CBA43E98}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20200910T084138Z" database="master">
+    <ja-JP>質問 タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper" key="Columns Wrapper" itemid="{9466A663-B41D-45B7-984B-19A5395E7A4A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{76ACB2D0-02CD-4EDF-A237-A8C20307A6E3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{E1EE8A66-78BF-488C-93DE-71F903B0F372}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご希望の過ごし方を指定することで、Lighthouse Home Goodsはあなたの体験をパーソナライズし、その部屋のより多くのコンテンツを表示します。ご興味のある内容はいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{E1EE8A66-78BF-488C-93DE-71F903B0F372}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{76978A05-207E-4785-9319-364EAF953B4A}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご利用方法を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{76978A05-207E-4785-9319-364EAF953B4A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{DE98A950-68B2-4927-B06B-DC956F32560C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{7D8101BF-F300-4611-9072-C87DE29B5386}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どの部屋で作業しているの？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Buttons Wrapper" key="Buttons Wrapper" itemid="{A144162E-96BC-45D9-B32B-32BD59EFEC0B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Buttons Wrapper/Next" key="Next" itemid="{3C9807FD-FB4B-4200-9B6F-CEF97F5C1F46}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Buttons Wrapper/Next" key="Next" itemid="{3C9807FD-FB4B-4200-9B6F-CEF97F5C1F46}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{E1F937E9-E333-423D-9A91-5E017ABAA327}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{79A70AE5-5B73-4FE9-87EE-57858C966136}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードのアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3" key="Page 3" itemid="{BC45A7D5-2B2E-4CF6-8F11-4F8FB8E854AC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{7BE28E4B-6CDC-4810-85FD-C9C38D2EF465}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>使用頻度はどのくらいですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{7BE28E4B-6CDC-4810-85FD-C9C38D2EF465}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper" key="Columns Wrapper" itemid="{FAA582F8-816B-4732-AFD9-3E02AAB53A58}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{3A7F7282-E9C1-414D-ADC1-8A4DB6228B61}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{44A8C0E6-100A-48E9-9C95-5F0A23F5F06E}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のある利用方法を選択することで、あなたの興味に合わせてあなたの体験をパーソナライズします。いつでも興味を変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{44A8C0E6-100A-48E9-9C95-5F0A23F5F06E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{6F0849DE-F380-486E-8997-B2A473A01DE6}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に合った使用方法を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{6F0849DE-F380-486E-8997-B2A473A01DE6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{84226627-39F3-4A7B-83E2-50BF9F4C9838}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{5ADAB0DB-BD92-4993-BB08-82C132449EEA}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような商品に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper" key="Buttons Wrapper" itemid="{5D7DC634-7388-4A5F-AE38-A3A3CFDA9E7A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタン ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{A7774089-6132-457F-84E7-E62A5C557BBB}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{A7774089-6132-457F-84E7-E62A5C557BBB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Save Data" key="Save Data" itemid="{219FDB4E-A83B-42DB-8931-F800025B07E0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{D932E3EB-3FA9-4F7A-9B87-6A49B68AF94D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content And Product Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{9F400E24-DAC5-4950-A413-3704C0B814A3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form" key="Content Finder Form" itemid="{0518CA75-37DC-492B-B512-EBC65EEDFEB1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンテンツ ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1" key="Page 1" itemid="{8BEBCD20-8360-49F2-BE9A-DD23C618CA78}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{DA94A627-7313-463B-8C67-6DA82EE90566}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>何に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{DA94A627-7313-463B-8C67-6DA82EE90566}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問のタイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper" key="Columns Wrapper" itemid="{67163A87-1724-40AD-B9DA-26645B594613}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{7624870A-9200-45B2-80C9-BDE451EE39AD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキストラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{A1649901-660A-42FB-BD98-4399EA00E812}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のあるコンテンツのタイプを選択することで、Lighthouse Lifestyleはあなたの興味に合わせて体験をパーソナライズします。興味のある内容はいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{A1649901-660A-42FB-BD98-4399EA00E812}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{A344739A-F4E3-4152-8C2A-287046EB9ECC}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に最もマッチする関心事を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{A344739A-F4E3-4152-8C2A-287046EB9ECC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{27D2FAF5-DE10-4566-8F3F-74404CE594AE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{5C6D0D54-A8EC-41D1-A5C0-518FE375197C}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どれに興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{5C6D0D54-A8EC-41D1-A5C0-518FE375197C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1/Settings" key="Settings" itemid="{F65089DC-2F1C-4DB9-9C85-F4625549ECFE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper" key="Buttons Wrapper" itemid="{B010BB49-066E-4B9F-952F-0F0A2F4FBE86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{C103FDF9-E6B9-4EA7-891B-39B0CF8E8CBA}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{C103FDF9-E6B9-4EA7-891B-39B0CF8E8CBA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{7AC9DDB4-3D3E-4DEA-B8E4-D10CD7B383F1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{FB9CA441-0D79-4B06-820E-7ED9172930D0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{1C7A4CF3-3C64-4E11-B144-D76AE80E44C1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2" key="Page 2" itemid="{CE7CA112-F89F-4CF8-8A82-A4B16A05BB30}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{CC25A25C-A328-4C58-BF1D-644D1807DFEC}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたのライフステージは？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{CC25A25C-A328-4C58-BF1D-644D1807DFEC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問 タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper" key="Columns Wrapper" itemid="{996EE58B-25C1-4130-98D1-03C9C2C43F0A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{6810B4A8-EC22-49A3-B900-06186B6E6B9D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{75D263AC-B5FA-408E-B722-230E2447D631}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたの人生に最も近いステージを選択することで、Lighthouse Lifestyleはあなたの体験をパーソナライズし、より関連性の高いコンテンツを表示します。人生のステージはいつでも変更できます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{75D263AC-B5FA-408E-B722-230E2447D631}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{6F9E6258-0CB6-4C1A-8220-FC92AAA2D377}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたの人生に最も近いステージを選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{6F9E6258-0CB6-4C1A-8220-FC92AAA2D377}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{50EC6D74-3E1D-4619-ADED-349CBEF95D21}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{2325B50C-9DE9-47E5-A432-1F983E9FA3F8}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたのライフステージは？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{2325B50C-9DE9-47E5-A432-1F983E9FA3F8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2/Settings" key="Settings" itemid="{705ABAAE-C6A7-41AE-A5BA-883CED9D5C4E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper" key="Buttons Wrapper" itemid="{34A14F21-A5EB-4499-9FEC-A17E1B579CC2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper/Next" key="Next" itemid="{92DF1871-230B-4423-BB18-985407E77880}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper/Next" key="Next" itemid="{92DF1871-230B-4423-BB18-985407E77880}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{2AD261BA-AF93-4F48-81AD-72BA82871CDB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{4F8B34FB-1608-4299-AD1A-2AA9A786E3D8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{B2D936D4-741A-4379-814A-D797EC825992}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードのアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3" key="Page 3" itemid="{B4A0A7F7-106C-4331-A361-3EB0AB7B67D6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{C6E1504C-011B-4C5D-AEBA-899D7F26561E}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような商品に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{C6E1504C-011B-4C5D-AEBA-899D7F26561E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper" key="Columns Wrapper" itemid="{F293464F-D444-4EF1-92F3-908E33EF5403}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{D9D24797-EAA4-4451-A9B4-9AE444FE3606}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{23DEABE8-F9B7-4A50-B5D4-BDB4450BAD6E}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のある電子機器の種類を選択することで、Lighthouse Lifestyleはあなたの興味に合わせて体験をパーソナライズします。興味のあることはいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{23DEABE8-F9B7-4A50-B5D4-BDB4450BAD6E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{B63A6510-F3FF-499D-A07F-B8E5F8B17613}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に合った電子機器の種類を選んでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{B63A6510-F3FF-499D-A07F-B8E5F8B17613}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{0EDE31C6-A189-43C4-B521-573B13C2CD82}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{16EF3C02-9BE4-4FE5-9C71-E0985BD4A049}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような商品に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{16EF3C02-9BE4-4FE5-9C71-E0985BD4A049}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper" key="Buttons Wrapper" itemid="{DEA69032-BC80-43D5-AD9A-A3A100828EA0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタン ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{D414E50E-415F-4A99-A5B2-982D0274CB30}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{D414E50E-415F-4A99-A5B2-982D0274CB30}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions" key="SubmitActions" itemid="{DA587F73-2854-448F-B3FA-1CB3AC07F968}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Save Data" key="Save Data" itemid="{B5204C14-4C17-4261-9864-83DC3E5A7F30}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{8790A805-8485-49D3-A4EF-355A8D71F3B2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードのアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{C084B9E9-CC09-4E92-974E-5598B0672F90}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Content Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{31661DC8-8F95-4B74-9BF3-95CA6E6B26BC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up" key="Healthy Living List Sign Up" itemid="{40CC426C-AAB9-4F9F-9ED5-BBC42F70D33D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康生活リスト 登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page" key="Page" itemid="{4C84BEAB-A168-4191-8D49-34DA176DA4F8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/FirstName" key="FirstName" itemid="{BBF57A59-B6AD-40CF-A2E1-481A955A5CC5}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/FirstName" key="FirstName" itemid="{BBF57A59-B6AD-40CF-A2E1-481A955A5CC5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/LastName" key="LastName" itemid="{F13CC65F-B0FF-44EF-AFEB-429EBEF78141}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/LastName" key="LastName" itemid="{F13CC65F-B0FF-44EF-AFEB-429EBEF78141}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Email" key="Email" itemid="{FA42239B-884E-4F92-A9A2-165B88971510}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Email" key="Email" itemid="{FA42239B-884E-4F92-A9A2-165B88971510}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Telephone" key="Telephone" itemid="{6651C2DD-7255-4801-B17F-0ABF044C36B1}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Telephone" key="Telephone" itemid="{6651C2DD-7255-4801-B17F-0ABF044C36B1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Submit Button" key="Submit Button" itemid="{C9C16859-E528-4136-AD35-BFA34DDAE589}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Submit Button" key="Submit Button" itemid="{C9C16859-E528-4136-AD35-BFA34DDAE589}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セットアップのリクエスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{90209776-86ED-4C2A-9CD3-4DEA323CD104}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{6B52F374-3D75-49B4-8977-A02795936EFF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Healthy Living List Sign Up/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{7D4CA715-A00F-42AB-92AF-5C2A85E4DB48}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template" key="Lead Generation Form Template" itemid="{251B888C-F4F0-4AFF-9BDC-B05BBE4B1E50}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>リードジェネレーションフォームのテンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page" key="Page" itemid="{FA2C1A14-45E4-4ED5-9906-52DCB6642E29}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/FirstName" key="FirstName" itemid="{7C99E8F3-F11B-429D-A376-3DD5BCE0235D}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/FirstName" key="FirstName" itemid="{7C99E8F3-F11B-429D-A376-3DD5BCE0235D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/LastName" key="LastName" itemid="{5654597E-77E4-4F8F-8C73-B24F0494B124}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/LastName" key="LastName" itemid="{5654597E-77E4-4F8F-8C73-B24F0494B124}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Email" key="Email" itemid="{CEDD1DCC-66DE-435B-821A-767580B20854}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Email" key="Email" itemid="{CEDD1DCC-66DE-435B-821A-767580B20854}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Telephone" key="Telephone" itemid="{CF3CE471-881B-4567-B484-B27F85A36450}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Telephone" key="Telephone" itemid="{CF3CE471-881B-4567-B484-B27F85A36450}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Submit Button" key="Submit Button" itemid="{E4F5661F-73BF-4716-ACBA-47CDF7A6ECB9}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>セットアップのリクエスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Submit Button" key="Submit Button" itemid="{E4F5661F-73BF-4716-ACBA-47CDF7A6ECB9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セットアップのリクエスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{207014D5-EE5A-4B1B-964E-C7F3239577AD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{8560A43C-F4CB-44B1-86B8-F3A41769BD96}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Lead Generation Form Template/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{5A9F7309-1674-48A9-B608-A2D2A14830D4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template" key="Multi-step finder form template" itemid="{3DA4F661-A8CC-4145-B8A7-3051AAFE3510}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>マルチステップファインダーフォームテンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1" key="Page 1" itemid="{0A430217-8B89-4A90-9061-C7D0DC22F25C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/QuestionTitle" key="QuestionTitle" itemid="{85BA8B8A-4F46-4A2A-BB4A-CEBECD25E992}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>何に興味があるんですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/QuestionTitle" key="QuestionTitle" itemid="{85BA8B8A-4F46-4A2A-BB4A-CEBECD25E992}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問のタイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper" key="Columns Wrapper" itemid="{761B35EF-2C28-4FE1-87B9-2DDF4CE43F57}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{AB213E35-A37C-4EE7-AA14-261B4757A509}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキストラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{5CBCB5F6-BE72-415F-A81E-41E078FAF3E7}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のあるコンテンツの種類を選択することで、Lighthouse Home Goodsはあなたの興味に合わせて体験をパーソナライズします。興味のある内容はいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{5CBCB5F6-BE72-415F-A81E-41E078FAF3E7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{8C8E82EE-2F0C-405D-9686-7FE4C0EFD2E8}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に最もマッチする関心事を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{8C8E82EE-2F0C-405D-9686-7FE4C0EFD2E8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{2E41B3E1-639B-4B3A-A186-8A41868ACC6F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{3D1973DE-5A0A-450D-89FF-7C996BD7EC63}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>何に興味があるんですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{3D1973DE-5A0A-450D-89FF-7C996BD7EC63}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper" key="Buttons Wrapper" itemid="{16FC7BB3-922D-465C-80D1-61EB10FB75DA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper/Next" key="Next" itemid="{3803B10E-8E59-41B8-9192-BD41E0270A3B}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper/Next" key="Next" itemid="{3803B10E-8E59-41B8-9192-BD41E0270A3B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次へ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{018640E5-9DC2-4B70-A35F-97FD56DC90E3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{3F9D6DF9-6CA0-493C-8D0B-201D1A5FB269}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 1/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{F09A4812-E87C-43E8-825F-698C9C9B4B94}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2" key="Page 2" itemid="{F60C8A9B-12B1-434F-A605-2143C13E17AE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/QuestionTitle" key="QuestionTitle" itemid="{046E7663-2D4D-47D7-B1B7-931FFE42E98D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問のタイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper" key="Columns Wrapper" itemid="{90715E80-FC1B-4693-AE74-682CED574B10}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{8B0BCDA9-C02A-4684-9118-60D4A33C256D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキストラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{6C5A29CF-6263-4A14-9CD5-98CD6246C6DA}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のある部屋を選択することで、Lighthouse Home Goodsはあなたの体験をパーソナライズし、その部屋に関するより多くのコンテンツを表示します。興味のある部屋はいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{6C5A29CF-6263-4A14-9CD5-98CD6246C6DA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{35C6CD05-E1AB-4C6A-BAA9-41ED24E7839E}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>最も興味のある部屋を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{35C6CD05-E1AB-4C6A-BAA9-41ED24E7839E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{20B86073-A5AD-473B-83EC-2488C517BD95}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{F2E6187B-1F83-4481-9BAD-E683B8C78E74}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どの部屋で作業しているの？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{F2E6187B-1F83-4481-9BAD-E683B8C78E74}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper" key="Buttons Wrapper" itemid="{79461E10-621F-413E-9F4C-A839DECD07F8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper/Next" key="Next" itemid="{8EED8CFC-F858-4447-96E0-F9BE28FE9C3E}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper/Next" key="Next" itemid="{8EED8CFC-F858-4447-96E0-F9BE28FE9C3E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{34DE42A9-1F79-4921-9969-91026E2A380F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{456C4732-36D5-47CF-90C0-33853F3D8F5F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 2/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{16F6D645-0CD2-459D-BC12-078445396158}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3" key="Page 3" itemid="{A0BE74FF-4283-49B7-87FA-3BDE32EF4C60}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/QuestionTitle" key="QuestionTitle" itemid="{3AC2844A-2B75-4CFF-9A29-72EECC9CEBE9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問のタイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper" key="Columns Wrapper" itemid="{7405E2CB-2482-44D3-BAED-1A63F3520E3F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{E88D87A1-96E9-46B6-A085-8E55495CA4CF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキストラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{9026ADEB-B18D-4F46-AE13-B482074532A5}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>興味のある電化製品の種類を選択することで、Lighthouse Home Goodsはあなたの興味に合わせてパーソナライズされた体験を提供します。興味のあることはいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{9026ADEB-B18D-4F46-AE13-B482074532A5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{480BE0B0-7A93-4CDC-B3F0-D70FC8CEB331}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に合った電子機器の種類を選んでください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{480BE0B0-7A93-4CDC-B3F0-D70FC8CEB331}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{F6DE2DDF-C748-40EA-9DAA-9157EDBBFD0B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールドラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{CF3D2A61-F301-40A3-9185-67E638604474}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような商品に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{CF3D2A61-F301-40A3-9185-67E638604474}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper" key="Buttons Wrapper" itemid="{946E40A8-9225-4A61-A323-36BD5DB36226}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタンラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{5FA4DE0C-97D2-4BCA-8F3B-83E638460CCA}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit/SubmitActions" key="SubmitActions" itemid="{3DF11278-7F76-42B9-A43D-4E6F6FCA0EE0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットアクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit/SubmitActions/Save Data" key="Save Data" itemid="{4DC68D7B-3A55-40BB-8BB9-53A3B8C86D36}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{BC397AA5-F1F1-4281-AA7C-63CA8B496861}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{8C0C5189-7562-4D4C-979B-5113AB01A85A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Multi-step finder form template/Page 3/Buttons Wrapper/Submit/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{C7AB9F71-F457-4E69-82FA-619B53E65B6A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページへのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup" key="Newsletter Signup" itemid="{3378E7EB-0779-469C-B91D-88D0466133F5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ニュースレターの登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page" key="Page" itemid="{0B3840FC-63A7-46F9-BEBA-029E259EDB21}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Intro" key="Intro" itemid="{FBA86E3D-CEB3-4F04-8674-1951AEDB735E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>イントロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Intro/Title" key="Title" itemid="{B9987E58-E990-4878-8758-FA8DFAF80458}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダイエットを自動操縦にする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Intro/Title" key="Title" itemid="{B9987E58-E990-4878-8758-FA8DFAF80458}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Intro/Text" key="Text" itemid="{8FE27436-7180-4C75-A9DF-76AA6E1CF467}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎月、Lighthouse Healthは、あなたの好み、予算、スケジュールに基づいて、個別の食事計画を作成します。カロリー計算機、週ごとの食事計画、食料品リストなどを利用して、ダイエットや栄養面での目標を達成しましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Intro/Text" key="Text" itemid="{8FE27436-7180-4C75-A9DF-76AA6E1CF467}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section" key="Section" itemid="{EFE86409-13D0-452E-8EC3-7A89BE3F7D34}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Email" key="Email" itemid="{846360ED-0AE9-4BCB-8C21-6CC2DF48130A}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス:</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Text" key="Text" itemid="{7347E750-1D63-4A79-86DD-5DBCEB7F9E04}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>サインアップ！</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Text" key="Text" itemid="{7347E750-1D63-4A79-86DD-5DBCEB7F9E04}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Text/SubmitActions" key="SubmitActions" itemid="{B180818C-2225-4F56-91AA-A71F61F33164}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Text/SubmitActions/Save Data" key="Save Data" itemid="{F468602F-8A31-4E1A-A6B2-3AA2A919DD01}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データの保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Newsletter Signup/Page/Section/Text/SubmitActions/Trigger Campaign Activity" key="Trigger Campaign Activity" itemid="{DBB7B708-B2BD-4BA2-AED4-9829AB42D1E9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>キャンペーンアクティビティのトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form" key="Sample Lead Generation Form" itemid="{13CB92AF-E4D8-4B4E-8CCE-76C5135B0237}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネレーションフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page" key="Page" itemid="{BF7F8379-C6B6-46BE-94B5-D3AB7AA6E126}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Sample Form Intro Text" key="Sample Form Intro Text" itemid="{A0361847-2F13-4EFD-B4A0-61607E205502}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Sample Form Intro Text" key="Sample Form Intro Text" itemid="{A0361847-2F13-4EFD-B4A0-61607E205502}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/FirstName" key="FirstName" itemid="{36CBE035-800F-44CC-B6C7-41371B3D3E89}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/FirstName" key="FirstName" itemid="{36CBE035-800F-44CC-B6C7-41371B3D3E89}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/LastName" key="LastName" itemid="{CCA112E1-F633-49D4-822D-D72703E584FC}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/LastName" key="LastName" itemid="{CCA112E1-F633-49D4-822D-D72703E584FC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Email" key="Email" itemid="{A5382B49-60DB-484E-8029-12BCB9F51AFF}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Email" key="Email" itemid="{A5382B49-60DB-484E-8029-12BCB9F51AFF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Telephone" key="Telephone" itemid="{2B6188A6-6F0F-4407-8D1D-D491A4898F2C}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Telephone" key="Telephone" itemid="{2B6188A6-6F0F-4407-8D1D-D491A4898F2C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/GDPR Consent" key="GDPR Consent" itemid="{3568101E-BE01-4615-9BB1-4CEE29E1951F}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>ウェブサイト利用規約に記載されているメールの受信に同意します。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/GDPR Consent" key="GDPR Consent" itemid="{3568101E-BE01-4615-9BB1-4CEE29E1951F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>GDPR 同意</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button" key="Submit Button" itemid="{02689627-5860-4123-9D83-9631D524FD20}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button" key="Submit Button" itemid="{02689627-5860-4123-9D83-9631D524FD20}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録ボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions" key="SubmitActions" itemid="{724082BF-FFB0-4748-AA45-5CD682D15BF8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットアクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{A7DA268A-A6EC-4004-8CB5-047E66BF38AD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Send Email Campaign Message" key="Send Email Campaign Message" itemid="{5B8581F6-6106-4D01-B88B-EDA49C913CA0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールキャンペーンメッセージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{A6F6FCAD-914E-42B2-976A-B8373344F69D}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネレーションフォームの提出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{A6F6FCAD-914E-42B2-976A-B8373344F69D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Trigger Outcome" key="Trigger Outcome" itemid="{30A411D8-DF68-45D6-8BA4-281FB07FACEB}" fieldid="{8251A6FA-2E61-4E01-8832-8D99C69869B5}" updated="00010101T000000Z" database="master">
+    <ja-JP>マーケティングリード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Trigger Outcome" key="Trigger Outcome" itemid="{30A411D8-DF68-45D6-8BA4-281FB07FACEB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>成果をトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{5127C9F1-88E3-4D2F-A1F7-8A192B76B6EB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Success Page" key="Success Page" itemid="{9A0C95C1-58D5-4499-BEF7-8C3862AA2395}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>成功ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Success Page/Success Message Title" key="Success Message Title" itemid="{89C043FB-0976-4326-92DD-F0D5FB885E18}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>成功しました！</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Success Page/Success Message Title" key="Success Message Title" itemid="{89C043FB-0976-4326-92DD-F0D5FB885E18}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>成功メッセージ タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Success Page/Success Message Body" key="Success Message Body" itemid="{35FB7F41-B4E7-4E39-B2B2-89C606EB549D}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>入力されたアドレスにメールが送信されました。ご希望のホワイトペーパーにアクセスするには、受信箱をチェックしてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Sample Lead Generation Form/Success Page/Success Message Body" key="Success Message Body" itemid="{35FB7F41-B4E7-4E39-B2B2-89C606EB549D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>成功メッセージ　ボディ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form" key="Trainer Finder Form" itemid="{510EB70E-8DE5-454F-BC4E-A2DC6C43EF58}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>トレーナー ファインダー フォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1" key="Page 1" itemid="{CB791CEC-38E3-4A33-A291-3425EA3FC4F8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{CAA5046C-4704-4390-B067-2ABF05E50CFC}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような運動に興味があるのか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/QuestionTitle" key="QuestionTitle" itemid="{CAA5046C-4704-4390-B067-2ABF05E50CFC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper" key="Columns Wrapper" itemid="{EDD49579-2275-453B-BD76-D1107B09D7C3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{C0B15891-A289-4E67-8632-AC864950A8A5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{F05F5115-CB75-4178-8258-777155F16422}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご興味のあるフィットネスプログラムのタイプを選択することで、Lighthouse Healthはあなたの興味に合わせて体験をパーソナライズします。興味のあることはいつでも変更できます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{F05F5115-CB75-4178-8258-777155F16422}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{F6C210BE-CD47-4B91-BC90-B8945CAA686B}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>自分に最もマッチする関心事を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{F6C210BE-CD47-4B91-BC90-B8945CAA686B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{B227EE07-CE9E-4970-9E51-AA7150E2B301}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{1F90A020-4014-44EE-B86D-B07CE89892AF}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような運動に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1" key="Question 1" itemid="{1F90A020-4014-44EE-B86D-B07CE89892AF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Columns Wrapper/Field Wrapper/Question 1/Settings" key="Settings" itemid="{7459851B-CF6A-45B5-B1A8-CBACFD060362}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper" key="Buttons Wrapper" itemid="{DBC533F6-50F9-4E14-8DCB-18A6C0496F15}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタン ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{A383674A-9716-405B-9996-4ED2730A2B9D}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper/Next" key="Next" itemid="{A383674A-9716-405B-9996-4ED2730A2B9D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{43121097-8AC6-4ADB-8186-794E3A7121E8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{46C282AF-F449-44EA-A745-D9ED3DE7C02A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データの保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 1/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{8C3C9B8D-6B03-4578-9F74-6A6D80C52C7D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2" key="Page 2" itemid="{8B157816-90C1-4B30-91D4-0D5DE6FE8841}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{754C98C6-1659-4112-A9CC-A76AB57A1E3B}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>週に何日くらいトレーニングしたいですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/QuestionTitle" key="QuestionTitle" itemid="{754C98C6-1659-4112-A9CC-A76AB57A1E3B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper" key="Columns Wrapper" itemid="{17164AD0-5354-44B8-A714-4CA2A2F895FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{2A47E9B2-8270-4184-9436-A642E56A52C7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{86FCA3F7-99F1-4A72-9B2E-B795CE568ECF}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご希望のトレーニング強度を選択することで、Lighthouse Healthがバーチャルトレーナーとあなたの体験をパーソナライズします。興味のあることはいつでも変更できます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{86FCA3F7-99F1-4A72-9B2E-B795CE568ECF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{113421C3-05BF-438C-A088-59536221B511}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>トレーニングに興味のある週の日数を選択してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{113421C3-05BF-438C-A088-59536221B511}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{76373273-670D-4241-ABBE-CB741E14B90E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{0075EF06-E295-40BA-8F73-BF14B9ACF1D1}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>週に何日くらいトレーニングしたいですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2" key="Question2" itemid="{0075EF06-E295-40BA-8F73-BF14B9ACF1D1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Columns Wrapper/Field Wrapper/Question2/Settings" key="Settings" itemid="{2263A1D1-2D54-4A16-964D-44EC0714F774}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Buttons Wrapper" key="Buttons Wrapper" itemid="{AB9CC57E-F04C-4F8A-B70A-816333D39833}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタン ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Buttons Wrapper/Next" key="Next" itemid="{8EBBC5E9-C084-4922-B789-04DD882D4E73}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions" key="SubmitActions" itemid="{C1F965E5-497E-4DC0-9EBB-CCCF3334223E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Save Data" key="Save Data" itemid="{958FA409-0235-4ACE-BBFE-DFDA1859CFEE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 2/Buttons Wrapper/Next/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{8E07D109-CF3E-40C6-B939-4546A3782506}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードにアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3" key="Page 3" itemid="{4A4E6CFC-7849-4C0A-9C0D-3F2685E5D8C7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{B5BE2E06-4593-4B4A-B9DA-4309204C024A}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ワークアウトの強度はどのくらいにしたいですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/QuestionTitle" key="QuestionTitle" itemid="{B5BE2E06-4593-4B4A-B9DA-4309204C024A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問タイトル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper" key="Columns Wrapper" itemid="{9F02F5F9-C786-4E39-9C03-03CA442A032A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カラム ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Text Wrapper" key="Text Wrapper" itemid="{D1F471F2-AE76-4FA6-90EE-CE72972A365A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{86DD3470-1286-40B1-8176-592D11F63706}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>トレーニングセッションの強度レベルを選択することで、Lighthouse Healthがバーチャルトレーナーとマッチングし、あなたの目標達成をサポートします。興味のあることはいつでも変更することができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Text Wrapper/Text" key="Text" itemid="{86DD3470-1286-40B1-8176-592D11F63706}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{7546A617-4D88-4BA9-B16E-B118CB9AAF13}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>最適な強度レベルを選択します。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Text Wrapper/Subtext" key="Subtext" itemid="{7546A617-4D88-4BA9-B16E-B118CB9AAF13}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Field Wrapper" key="Field Wrapper" itemid="{123FEB7E-5DDF-4237-AD91-230C348B0AD2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{3BA23A0C-A049-4B74-BE52-24A3D53272BA}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>どのような商品に興味がありますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Columns Wrapper/Field Wrapper/Question 3" key="Question 3" itemid="{3BA23A0C-A049-4B74-BE52-24A3D53272BA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>質問３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper" key="Buttons Wrapper" itemid="{A8E2EDB6-979A-42E5-8824-1357D5E08558}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ボタン ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{D03554AD-CB86-4A8E-9D7A-0B985EDFD7F1}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit" key="Submit" itemid="{D03554AD-CB86-4A8E-9D7A-0B985EDFD7F1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>次</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions" key="SubmitActions" itemid="{9C54F6A1-A340-442D-8132-9D9FE502B711}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Save Data" key="Save Data" itemid="{B27BC797-538A-4FFF-B4CF-E624AF7807FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Assign Pattern Cards" key="Assign Pattern Cards" itemid="{57DAAD79-816D-4B91-8545-96E808D5B93B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パターンカードのアサイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{949ECF5A-F822-4B4C-8111-60FA5E1B544C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Push xDB Contact Data From Session" key="Push xDB Contact Data From Session" itemid="{D6AC09EC-1F8D-4982-AFB8-D9F0097623BC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セッションからxDBコンタクトデータをプッシュ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Trainer Finder Form/Page 3/Buttons Wrapper/Submit/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{C2F9C207-4BAC-4034-B9FD-0CECE2E48D4F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup" key="Weekly Fitness Report Signup" itemid="{91A995B9-1CF5-4434-AEEC-294056A113F8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>週刊フィットネスレポートにサインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page" key="Page" itemid="{C34F1CA3-91E5-4227-A35B-26E273EC31F6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Text" key="Text" itemid="{68C6A397-0A48-4B18-9290-790846B6065E}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録は以下の通りです。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Text" key="Text" itemid="{68C6A397-0A48-4B18-9290-790846B6065E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Intro" key="Intro" itemid="{B28684A4-E763-4D08-BFDA-01405557A32D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>イントロ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Intro/Text" key="Text" itemid="{BC9A5E7F-26CC-4BE6-A7FE-FF5948ACF276}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>毎週、Lighthouse Healthが過去7日間のフィットネスの進捗状況を更新します。歩数や心拍数のモニタリングなどで、フィットネスの目標を達成しましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Intro/Text" key="Text" itemid="{BC9A5E7F-26CC-4BE6-A7FE-FF5948ACF276}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section" key="Section" itemid="{03FF5210-FB00-427A-A034-41FB55915DFD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/FirstName" key="FirstName" itemid="{187D0895-56EC-4552-A4AF-FDBA1D394C48}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/FirstName" key="FirstName" itemid="{187D0895-56EC-4552-A4AF-FDBA1D394C48}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/LastName" key="LastName" itemid="{A80C5D4A-675E-4D7B-95F5-FDB0C0B744E8}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/LastName" key="LastName" itemid="{A80C5D4A-675E-4D7B-95F5-FDB0C0B744E8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Email" key="Email" itemid="{DC9526C0-DAAD-46BB-8958-DDCC4C4E2016}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Email" key="Email" itemid="{DC9526C0-DAAD-46BB-8958-DDCC4C4E2016}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電子メール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Country" key="Country" itemid="{3CBBE139-0A83-4D00-92D7-67FDC83EFBF3}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>国</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Country" key="Country" itemid="{3CBBE139-0A83-4D00-92D7-67FDC83EFBF3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>国</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Country/Settings" key="Settings" itemid="{F9286742-35A5-4209-B3B2-AE0F8EA0BF2D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/StateSection" key="StateSection" itemid="{1B083FB6-770B-4728-BE5B-FA607112798C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>州セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/StateSection/State" key="State" itemid="{EC31A1F7-E539-4E4F-B1AE-49705C227A1F}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>州</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/StateSection/State" key="State" itemid="{EC31A1F7-E539-4E4F-B1AE-49705C227A1F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>州</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/ProvinceSection" key="ProvinceSection" itemid="{290429CF-B947-46A5-8CE5-A5DEAA538F4C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>州区</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/ProvinceSection/Province" key="Province" itemid="{6646332A-035D-4E9F-BBE9-DC65785F464D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>州区</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/FitnessActivity" key="FitnessActivity" itemid="{2845D8B7-2B5B-4995-BEE0-32CE8C935F98}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたの主なフィットネス活動は何ですか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/FitnessActivity" key="FitnessActivity" itemid="{2845D8B7-2B5B-4995-BEE0-32CE8C935F98}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス活動</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/RunningTypeSection" key="RunningTypeSection" itemid="{FB2A4603-02E8-4B59-8B04-F9E31E294667}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ランニングタイプセクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/RunningTypeSection/Checkbox List" key="Checkbox List" itemid="{ACA5F454-72E4-47BC-93A8-829621EEEFE4}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>ランニングの種類は？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/RunningTypeSection/Checkbox List" key="Checkbox List" itemid="{ACA5F454-72E4-47BC-93A8-829621EEEFE4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>チェックボックスリスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/CyclingTypeSection" key="CyclingTypeSection" itemid="{5E7DA3F1-DB25-4F2C-A577-C863900C296C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サイクリングタイプセクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/CyclingTypeSection/Checkbox List" key="Checkbox List" itemid="{F4E54F06-FE90-4D8A-ADE7-CABC76036530}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>サイクリングの種類は？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/CyclingTypeSection/Checkbox List" key="Checkbox List" itemid="{F4E54F06-FE90-4D8A-ADE7-CABC76036530}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>チェックボックスリスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit" key="Submit" itemid="{D4B866AD-A421-4ACD-B845-5303BE2F2157}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit" key="Submit" itemid="{D4B866AD-A421-4ACD-B845-5303BE2F2157}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit/SubmitActions" key="SubmitActions" itemid="{1427A26A-56B7-40D5-8870-2CE2E5ECBABD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit/SubmitActions/Identify Contact" key="Identify Contact" itemid="{A0206272-F719-4C58-86DF-AD6AABDB8774}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンタクトの精査</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{A3248246-0E34-4BAE-9AE6-470DAF10C7DB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit/SubmitActions/Save Data" key="Save Data" itemid="{2E6792A3-2591-4C72-9392-CE230A94CA38}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Weekly Fitness Report Signup/Page/Section/Submit/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{1056EFF8-3626-46A8-9720-D7FB2D2C26AF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページへのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template" key="Email Sign Up Form Template" itemid="{D2BC2493-334D-488A-97DA-467728AF2102}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールサインアップのテンプレート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page" key="Page" itemid="{99700FA2-965F-41D0-B781-24282BF26780}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Section" key="Section" itemid="{D2B0A8A9-0E9E-4E12-ABD2-E3D7B11A603E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Section/Intro Text" key="Intro Text" itemid="{E178928F-2B8F-4A34-8A6D-D2CA87E0FF9F}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>コネクテッドリビングのコンテンツリストに参加して、このようなコンテンツをもっと手に入れよう</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Section/Intro Text" key="Intro Text" itemid="{E178928F-2B8F-4A34-8A6D-D2CA87E0FF9F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>紹介テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper" key="Fields Wrapper" itemid="{B7DFAA95-252B-4DE2-ABDA-6DA9D1B4DA77}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Email" key="Email" itemid="{53DD77FE-051E-4C9B-8960-92777956158B}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Email" key="Email" itemid="{53DD77FE-051E-4C9B-8960-92777956158B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{6D8F0637-1BF2-490A-B37A-FBFE44CCD929}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録する</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{6D8F0637-1BF2-490A-B37A-FBFE44CCD929}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録ボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button/SubmitActions" key="SubmitActions" itemid="{D6ED101B-8334-4DE7-8603-30F468E809D9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{794A2BB3-5761-4591-849C-A90319E77705}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンタクトの精査</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{7BFD6E68-6B90-47B1-96A6-955FD7D544E0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Email Sign Up Form Template/Page/Fields Wrapper/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{304C678C-5B3A-4CE7-AF14-931EA4695633}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up" key="Foodie Feast Sign Up" itemid="{2C290562-9A28-4FF5-AF78-907C74D83D8E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Foodie Feast サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page" key="Page" itemid="{EFD93E8A-D0EC-42D4-A4EC-B2B8111CA069}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Section" key="Section" itemid="{0FDE8183-0D51-4FD4-8AA1-B61A0690EF28}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Section/Intro Text" key="Intro Text" itemid="{EE0F1F83-265A-4365-B1A0-57655B5C86BE}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>Foodie Feast Listに登録すると、初回注文時の送料が無料になり、素晴らしいレシピガイドを見逃すことはありません。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Section/Intro Text" key="Intro Text" itemid="{EE0F1F83-265A-4365-B1A0-57655B5C86BE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>紹介テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper" key="Fields Wrapper" itemid="{E6A4214D-0FDF-4C95-A463-DC1B3A32483E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Email" key="Email" itemid="{6E2B71CA-1458-4A66-8F57-1FC1CEA41AE5}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Email" key="Email" itemid="{6E2B71CA-1458-4A66-8F57-1FC1CEA41AE5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{800563BD-CEE4-47F4-8FA5-1B04CBE30197}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{800563BD-CEE4-47F4-8FA5-1B04CBE30197}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions" key="SubmitActions" itemid="{C5F97EAF-3C7A-4DA7-8606-DA0C8814A235}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{3DA42CB0-D168-41C1-937C-22108BB2602E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンタクトの精査</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{30E5161A-5239-47D9-84FA-BDAE82073AAA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>トリガーゴール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{C1B7EC66-27C0-48DC-8390-3D5E34AD1D36}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page" key="Thank You Page" itemid="{0267AE40-85FD-495E-A61F-5535DEFDDBCF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section" key="Thank You Section" itemid="{DBF1D5A0-AABD-43D1-AEFC-515B82BA7C21}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Intro Text" key="Thank You Intro Text" itemid="{93B9DBA3-AA0C-4F0A-A56B-116C9FB926ED}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>Foodie Feast Listに登録すると、初回注文時の送料が無料になり、素晴らしいレシピガイドを見逃すことはありません。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Intro Text" key="Thank You Intro Text" itemid="{93B9DBA3-AA0C-4F0A-A56B-116C9FB926ED}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼導入テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Success" key="Thank You Success" itemid="{764CFF05-38E0-4D76-8636-55368935FC64}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>登録完了しました</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Success" key="Thank You Success" itemid="{764CFF05-38E0-4D76-8636-55368935FC64}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼成功</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Message" key="Thank You Message" itemid="{59BA72FD-1290-4693-A8B4-19551B710FDC}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>あなたは今、Foodie Feast Listのメンバーです。あなたの最初の素晴らしいレシピがあなたの受信箱に送信されました。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Foodie Feast Sign Up/Thank You Page/Thank You Section/Thank You Message" key="Thank You Message" itemid="{59BA72FD-1290-4693-A8B4-19551B710FDC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼メッセージ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request" key="Home Installation Request" itemid="{C43DD8B1-5980-4688-BC27-08DFD71B30BB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>住宅設備工事のご依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page" key="Page" itemid="{59BAB6AC-D4FD-42A0-8AD5-258FC209EFD2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/FirstName" key="FirstName" itemid="{A1FF1C33-54C1-40B5-BF19-969E04E22713}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/FirstName" key="FirstName" itemid="{A1FF1C33-54C1-40B5-BF19-969E04E22713}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/LastName" key="LastName" itemid="{07D2F9B5-9ADA-4D28-8FF8-AC4EBD51FDAE}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/LastName" key="LastName" itemid="{07D2F9B5-9ADA-4D28-8FF8-AC4EBD51FDAE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>名字</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Email" key="Email" itemid="{C5724C65-927A-46B0-8D4E-530B169F0D40}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Email" key="Email" itemid="{C5724C65-927A-46B0-8D4E-530B169F0D40}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Telephone" key="Telephone" itemid="{1B47F73E-4E03-4653-82B2-744A7F002EDB}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Telephone" key="Telephone" itemid="{1B47F73E-4E03-4653-82B2-744A7F002EDB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>電話番号</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button" key="Submit Button" itemid="{F7B9313C-25A1-4C93-870A-BF0E929EF0B3}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>設置の依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button" key="Submit Button" itemid="{F7B9313C-25A1-4C93-870A-BF0E929EF0B3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions" key="SubmitActions" itemid="{A2D309EF-EC18-4655-B442-96EE77DBA688}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{1624760B-8DFD-4C85-9984-D818146004F4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions/Send Email Campaign Message" key="Send Email Campaign Message" itemid="{6F793A32-5241-4553-A67C-54FF13F305E3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>キャンペーンメールの送信</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{F4E6CD1C-68E9-4180-B33A-FD15C926F5A7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions/Redirect to Page" key="Redirect to Page" itemid="{4D109209-2602-4EB7-9FB6-7662389C50DE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページのリダイレクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Home Installation Request/Page/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{C757656B-BFD7-4046-A0BE-4D57B98EE245}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up" key="Marketing Sign Up" itemid="{7493C92D-DA35-44A7-B8D8-CB3A6BF9D561}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page" key="Page" itemid="{33788EEB-1FD5-4793-B4DE-C6BCB416E155}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Section" key="Section" itemid="{9DECB1CE-8AED-49ED-A0BB-373633554080}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Section/Intro Text" key="Intro Text" itemid="{5B6CE3AF-237C-47E4-8ADE-8DA697B13C9F}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>コネクテッドリビングのコンテンツリストに参加して、このようなコンテンツをもっと手に入れよう</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Section/Intro Text" key="Intro Text" itemid="{5B6CE3AF-237C-47E4-8ADE-8DA697B13C9F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>導入文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper" key="Fields Wrapper" itemid="{60B74F90-0727-47F4-812B-741D39D40805}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィールド ラッパー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Email" key="Email" itemid="{D35261EB-9275-4DE9-AB14-4B34FE35CE5A}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Email" key="Email" itemid="{D35261EB-9275-4DE9-AB14-4B34FE35CE5A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{255D10AB-EEFC-4A5F-BA48-70B1957F7027}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button" key="Submit Button" itemid="{255D10AB-EEFC-4A5F-BA48-70B1957F7027}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions" key="SubmitActions" itemid="{FEA55CE8-3A45-4321-B9D1-624EE8F257FE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{6C2C5CF7-BD9B-4A1A-A40E-FD799E2DDF44}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンタクトの確認</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{30331557-9142-44E5-9610-B27F25F0F0F3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データ保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Page/Fields Wrapper/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{0ACB1B7C-5A38-4EB2-B427-5C4B08DB572C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Thank You Page" key="Thank You Page" itemid="{25BFA48C-C77E-4D92-BC25-4B007DBBE8D8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Thank You Page/Thank You Section" key="Thank You Section" itemid="{68FEA268-0AF8-4809-B7AD-F3EE15AA9D2F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Thank You Page/Thank You Section/Thank You Text" key="Thank You Text" itemid="{5698DADE-23FE-476F-86BF-F05886F493FA}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご登録ありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Marketing Sign Up/Thank You Page/Thank You Section/Thank You Text" key="Thank You Text" itemid="{5698DADE-23FE-476F-86BF-F05886F493FA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter" key="Onboarding Newsletter" itemid="{EA628EAB-5FBC-49F8-A7B1-C25249824B17}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング・ニュースレター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page" key="Page" itemid="{36073C75-DC88-49A8-8A2B-C134443F0A31}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Intro Text" key="Intro Text" itemid="{2EC6AC66-3EE5-410F-AB23-309D3E30D7B9}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>週刊フィットネステックニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Intro Text" key="Intro Text" itemid="{2EC6AC66-3EE5-410F-AB23-309D3E30D7B9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>導入文</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section" key="Section" itemid="{14972E87-463B-4EFC-8EBC-EE1840CA282D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Email" key="Email" itemid="{77DADA50-9EA4-441B-983A-2E1DFB94A574}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Email" key="Email" itemid="{77DADA50-9EA4-441B-983A-2E1DFB94A574}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>メールアドレス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button" key="Submit Button" itemid="{668CE830-E299-4621-B794-9DE4330974B7}" fieldid="{71FFD7B2-8B09-4F7B-8A66-1E4CEF653E8D}" updated="00010101T000000Z" database="master">
+    <ja-JP>サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button" key="Submit Button" itemid="{668CE830-E299-4621-B794-9DE4330974B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミットボタン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button/SubmitActions" key="SubmitActions" itemid="{3671517E-44A0-46D1-8F45-F2FB8E71CB95}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サブミット アクション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button/SubmitActions/Identify Contact" key="Identify Contact" itemid="{3C696EDA-A775-4A39-8A6D-5CC0901B4220}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データを保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button/SubmitActions/Trigger Goal" key="Trigger Goal" itemid="{970A2126-8158-48B8-958E-089F7D67B39E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ゴールをトリガー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button/SubmitActions/Push xDB Contact Data From Session" key="Push xDB Contact Data From Session" itemid="{EE029BFB-0761-4A67-9A97-1D4424F571F1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>セッションからxDBコンタクトデータをプッシュ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Page/Section/Submit Button/SubmitActions/Save Data" key="Save Data" itemid="{5E908698-6C5A-4101-B8F0-0227F2B3CA0F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データ保存</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Thank You Page" key="Thank You Page" itemid="{81271A6F-349D-4E24-AE51-352BFC9DE3AE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Thank You Page/Thank You Text" key="Thank You Text" itemid="{F30B090F-24E3-43AE-B417-6FBCCE9C6C46}" fieldid="{9666782B-21BB-40CE-B38F-8F6C53FA5070}" updated="00010101T000000Z" database="master">
+    <ja-JP>ご登録ありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/Forms/Demo Shared SXA Sites/LighthouseLifestyle/Onboarding Newsletter/Thank You Page/Thank You Text" key="Thank You Text" itemid="{F30B090F-24E3-43AE-B417-6FBCCE9C6C46}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>お礼メッセージ</ja-JP>
+  </phrase>
+</sitecore>

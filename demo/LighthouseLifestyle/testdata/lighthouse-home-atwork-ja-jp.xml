@@ -1,0 +1,123 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z" database="master">
+    <ja-JP>業務の効率化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z" database="master">
+    <ja-JP>仕事改善</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z" database="master">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z" database="master">
+    <ja-JP>業務の効率化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{D8B38DD7-E9A0-4410-9F17-D436B0C8635A}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{38CE6C57-0F9E-4651-8F43-E2E2388FCA9E}" alt="スピーカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{38CE6C57-0F9E-4651-8F43-E2E2388FCA9E}" alt="smart home thumbnail" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z" database="master">
+    <ja-JP>業務の効率化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work" key="at-work" itemid="{BDB1B27D-E7CD-45DB-9612-96682BD123BD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>業務の効率化</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data" key="Data" itemid="{6381BE0F-4D83-40FF-86F6-2CE92F6F67CC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Hero" key="Hero" itemid="{B1C89F34-3EB3-4B6F-8CA7-6FBA65CCA826}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{7DF3868E-4ABA-4E60-9173-C649505FE671}" alt="ラップトップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Hero" key="Hero" itemid="{B1C89F34-3EB3-4B6F-8CA7-6FBA65CCA826}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z" database="master">
+    <ja-JP>ワーク・ライフ・バランスのお手伝い</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Hero" key="Hero" itemid="{B1C89F34-3EB3-4B6F-8CA7-6FBA65CCA826}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>Lighthouse 仕事改善</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Hero" key="Hero" itemid="{B1C89F34-3EB3-4B6F-8CA7-6FBA65CCA826}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Corporate Wellness" key="Promo - Corporate Wellness" itemid="{319939D5-7478-444D-AF67-60B8CA375DE4}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;link text="より詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E031C59F-A0BA-4EDD-BB58-E3F5BC2AE575}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Corporate Wellness" key="Promo - Corporate Wellness" itemid="{319939D5-7478-444D-AF67-60B8CA375DE4}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;企業のウェルネスは、雇用主が優秀な人材を惹きつけ、維持しようとしているため、需要が高まっています。あなたの組織にどのような効果があるかをご紹介します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Corporate Wellness" key="Promo - Corporate Wellness" itemid="{319939D5-7478-444D-AF67-60B8CA375DE4}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;企業のウェルネス&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Corporate Wellness" key="Promo - Corporate Wellness" itemid="{319939D5-7478-444D-AF67-60B8CA375DE4}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{6AEC1BED-11C8-4C73-85EC-AD088AA5D254}" alt="ラグジュアリー ホーム ジム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Corporate Wellness" key="Promo - Corporate Wellness" itemid="{319939D5-7478-444D-AF67-60B8CA375DE4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロモ - 企業のウェルネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Work From Home" key="Promo - Work From Home" itemid="{515B3A07-4059-4B66-9301-01604CA34E4A}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A51B2D25-C268-43D8-931A-30A6B448292D}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Work From Home" key="Promo - Work From Home" itemid="{515B3A07-4059-4B66-9301-01604CA34E4A}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;あなたの組織はリモートファーストのアプローチに移行していますか？在宅ワークを取り入れながら、従業員の文化を構築し、維持する方法を学びます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Work From Home" key="Promo - Work From Home" itemid="{515B3A07-4059-4B66-9301-01604CA34E4A}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;在宅勤務&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Work From Home" key="Promo - Work From Home" itemid="{515B3A07-4059-4B66-9301-01604CA34E4A}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{EE675D1C-5190-4B35-B9C6-EAAF8BCFA404}" height="" hspace="" width="" alt="ゲーム環境の６つのステップ" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/Data/Promo - Work From Home" key="Promo - Work From Home" itemid="{515B3A07-4059-4B66-9301-01604CA34E4A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロモ - 在宅勤務</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness" key="corporate-wellness" itemid="{E031C59F-A0BA-4EDD-BB58-E3F5BC2AE575}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z" database="master">
+    <ja-JP>企業のウェルネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness" key="corporate-wellness" itemid="{E031C59F-A0BA-4EDD-BB58-E3F5BC2AE575}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness" key="corporate-wellness" itemid="{E031C59F-A0BA-4EDD-BB58-E3F5BC2AE575}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z" database="master">
+    <ja-JP>企業のウェルネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness" key="corporate-wellness" itemid="{E031C59F-A0BA-4EDD-BB58-E3F5BC2AE575}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>企業のウェルネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness/Data" key="Data" itemid="{F2A81643-09C9-4F47-92DF-006D45701DE0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness/Data/Carousel" key="Carousel" itemid="{2BDCF82D-477F-48FF-95CD-4F5F83B38418}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness/Data/Carousel/Slide1" key="Slide1" itemid="{5F9D6A19-953E-4278-9614-DF89C2BCE3F1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>スライド1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/corporate-wellness/Data/Carousel/Slide2" key="Slide2" itemid="{1C403850-08B0-402F-8793-C9F02F3D967C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>スライド2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home" key="work-from-home" itemid="{A51B2D25-C268-43D8-931A-30A6B448292D}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z" database="master">
+    <ja-JP>在宅勤務</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home" key="work-from-home" itemid="{A51B2D25-C268-43D8-931A-30A6B448292D}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home" key="work-from-home" itemid="{A51B2D25-C268-43D8-931A-30A6B448292D}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z" database="master">
+    <ja-JP>在宅勤務</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home" key="work-from-home" itemid="{A51B2D25-C268-43D8-931A-30A6B448292D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>在宅勤務</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home/Data" key="Data" itemid="{59D22840-A19D-4DA7-9DDF-CDDC7CA4B516}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home/Data/Carousel" key="Carousel" itemid="{12256AC2-9AB1-4886-87FB-895E4A5E12E5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home/Data/Carousel/Slide1" key="Slide1" itemid="{E7C5DA19-4554-4C16-B78A-0193B6772DEB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>スライド１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/at-work/work-from-home/Data/Carousel/Slide2" key="Slide2" itemid="{D59F9716-389A-43A1-9759-8338B3F4D436}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>スライド２</ja-JP>
+  </phrase>
+</sitecore>

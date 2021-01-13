@@ -1,0 +1,182 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="00010101T000000Z">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>テクノロジーが生活を助ける</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>テクノロジーが生活を助ける</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ライフスタイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home" key="home" itemid="{10083CA0-5093-4D67-99DB-2579ABB421D3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data" key="Data" itemid="{87754526-7924-4CFC-B399-7DFF13ADB0B0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳細を確認" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{10F66202-C76C-40F9-8247-66328B96338E}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;記事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたの家庭料理を１ランク上に&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7367FFA5-A84E-49F7-A025-A040A9ABA72E}" alt="キッチン CTA" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Automate Dinner" key="CTA - Automate Dinner" itemid="{E6AB7C20-02D5-4838-9705-0B628B340A9E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>CTA - 自動化ディナー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{C9D2D5F3-E258-4483-AF1C-CE18B7857BEA}" querystring="" target="" text="Read More" url="/Demo SXA Sites/LighthouseLifestyle/home/articles/design-your-connected-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;記事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;コネクテッドホームをどうデザインするか？&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D355AF3D-77F9-4CEF-83AA-410B62010433}" alt="キッチン CTA" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Design Your Connected Home" key="CTA - Design Your Connected Home" itemid="{DF911503-A1D0-454D-AAED-5089A11BF050}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>CTA - コネクトホームのデザイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳細を確認" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;記事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;メンタルヘルスを向上させる&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{650BC6C8-C083-404C-9617-C095B968F50B}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Fitness" key="CTA - Mental Fitness" itemid="{8CC07686-D961-4B95-9FA8-598D2EABBE94}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>CTA - メンタルフィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;記事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;毎日のメンタルヘルスを考える&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{96EE2DA6-408F-454E-A116-A4CCCF588957}" alt="" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/CTA - Mental Health" key="CTA - Mental Health" itemid="{89843F4F-BDA3-4E4D-AB67-3D6FD89AFF0F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>CTA - メンタルヘルス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="詳細を確認" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8A33684A-7711-4445-A119-BD1EFEC890B6}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;トレーナーのシドニー・カミングスが提供する高強度ワークアウトで、時間がないときでも心拍数を上げましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;簡単な家でのワークアウトのアイデア&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{9C2D9D34-0674-427B-9C91-5A1CA92D0C7A}" alt="" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{832D3C97-5C05-49BF-89EF-9C29D30345E7}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;記事&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - At Home Workouts" key="Promo - At Home Workouts" itemid="{72DD45C8-C7A1-4FC7-A46E-B09B5502BD5A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - 家の中でワークアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Content Finder" key="Promo - Content Finder" itemid="{F930AD7A-353A-4A5B-BFFD-FCA119AC2F8E}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="開始" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Content Finder" key="Promo - Content Finder" itemid="{F930AD7A-353A-4A5B-BFFD-FCA119AC2F8E}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;選ぶのは大変なことだと思います。スマートホームテクノロジーをお探しの方も、最新のキッチン家電をお探しの方も、3つの質問フォームで最適なソリューションをご案内します。&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Content Finder" key="Promo - Content Finder" itemid="{F930AD7A-353A-4A5B-BFFD-FCA119AC2F8E}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;開始するのをお手伝いします&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Content Finder" key="Promo - Content Finder" itemid="{F930AD7A-353A-4A5B-BFFD-FCA119AC2F8E}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D7FC1E3B-8702-4C7D-8373-CB1EC9F2E819}" alt="財布" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Content Finder" key="Promo - Content Finder" itemid="{F930AD7A-353A-4A5B-BFFD-FCA119AC2F8E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - コンテンツ ファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Fitness Tech" key="Promo - Fitness Tech" itemid="{F69A5B8F-03BA-4AAA-B735-AA944BB8C9CB}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="登録する" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{84506350-9A71-4ACB-962F-B875F07D0F62}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Fitness Tech" key="Promo - Fitness Tech" itemid="{F69A5B8F-03BA-4AAA-B735-AA944BB8C9CB}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;フィットネスの未来はデータドリブンになりそうです。テクノロジーがあなたのフィットネスの世界の中心になるでしょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Fitness Tech" key="Promo - Fitness Tech" itemid="{F69A5B8F-03BA-4AAA-B735-AA944BB8C9CB}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;フィットネストラッカーを有効にする&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Fitness Tech" key="Promo - Fitness Tech" itemid="{F69A5B8F-03BA-4AAA-B735-AA944BB8C9CB}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{2B5C26AA-D32D-424A-90DC-C56F775E618B}" alt="フィットネストラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Fitness Tech" key="Promo - Fitness Tech" itemid="{F69A5B8F-03BA-4AAA-B735-AA944BB8C9CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - フィットネス テック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Start Over Content Finder" key="Promo - Start Over Content Finder" itemid="{C4839D1C-AB02-42C4-A535-21F6B84ED490}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="再開" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Start Over Content Finder" key="Promo - Start Over Content Finder" itemid="{C4839D1C-AB02-42C4-A535-21F6B84ED490}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;新しいガイドを見るために、読書の設定を変更してください。 あなたの経験を新鮮に保つための3つの簡単な質問。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Start Over Content Finder" key="Promo - Start Over Content Finder" itemid="{C4839D1C-AB02-42C4-A535-21F6B84ED490}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;何か新しいものを見つける&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Start Over Content Finder" key="Promo - Start Over Content Finder" itemid="{C4839D1C-AB02-42C4-A535-21F6B84ED490}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{96EE2DA6-408F-454E-A116-A4CCCF588957}" alt="ホーム ヒーロー 3" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Promo - Start Over Content Finder" key="Promo - Start Over Content Finder" itemid="{C4839D1C-AB02-42C4-A535-21F6B84ED490}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - コンテンツファインダーの再開</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Trainer Finder Promo" key="Trainer Finder Promo" itemid="{01DBF295-A8D7-45DB-BF19-5C9A34CF70D9}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{3B26DAB2-CD1D-4E12-8FF8-FB8603213B8D}" querystring="" target="" text="トレーナーを探す" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/your-health/trainer-finder" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Trainer Finder Promo" key="Trainer Finder Promo" itemid="{01DBF295-A8D7-45DB-BF19-5C9A34CF70D9}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;私たちは、ビジネスにおける最高のものから幅広いフィットネス購読を提供しています。あなたのベストトレーナーに合わせてトレーナーファインダーテストを受けましょう。&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Trainer Finder Promo" key="Trainer Finder Promo" itemid="{01DBF295-A8D7-45DB-BF19-5C9A34CF70D9}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;フィットネスのゴールを確認&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Trainer Finder Promo" key="Trainer Finder Promo" itemid="{01DBF295-A8D7-45DB-BF19-5C9A34CF70D9}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D590210C-4B80-4014-B82E-3DD16DB7331C}" alt="デジタル フィットネス トレーナー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/Data/Trainer Finder Promo" key="Trainer Finder Promo" itemid="{01DBF295-A8D7-45DB-BF19-5C9A34CF70D9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>トレーナー ファインダー プロモ</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,26 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans" key="Automation Plans" itemid="{7BF9F710-6CAD-4114-8DC7-88B4C4181562}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20160531T044454Z">
+    <ja-JP>オートメーション プラン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/01/10/20/28/06312db7-6d89-4988-81b4-062504dbbec3" key="06312db7-6d89-4988-81b4-062504dbbec3" itemid="{06312DB7-6D89-4988-81B4-062504DBBEC3}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>マーケティングドリップキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/03/21/17/25/6b134185-adc1-4023-ada0-c3b79e35f7ef" key="6b134185-adc1-4023-ada0-c3b79e35f7ef" itemid="{6B134185-ADC1-4023-ADA0-C3B79E35F7EF}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>Foodie - Foodie Feast サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/03/21/21/22/1cbaa182-1194-421b-b403-86a07afce3ee" key="1cbaa182-1194-421b-b403-86a07afce3ee" itemid="{1CBAA182-1194-421B-B403-86A07AFCE3EE}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>フィットネス - フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/07/02/16/08/Onboarding Customer Journey-da66b9f1-2236-4579-8ceb-8dfcb99b14e7" key="Onboarding Customer Journey-da66b9f1-2236-4579-8ceb-8dfcb99b14e7" itemid="{DA66B9F1-2236-4579-8CEB-8DFCB99B14E7}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/07/13/16/19/New Account Created-673b1f7f-0d81-411f-aaa8-5f90ed6e850a" key="New Account Created-673b1f7f-0d81-411f-aaa8-5f90ed6e850a" itemid="{8F779A17-BE1D-4558-887C-1A139395E30B}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>新しいアカウントの作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/12/10/20/46/SitecoreDemo Abandoned Cart" key="SitecoreDemo Abandoned Cart" itemid="{6B0C8552-3D0E-478F-9622-0E9D04DC0B16}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse の破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/Cumulus/Financial  News Letter Signup-bf1d5ba9-5151-41ac-9ab0-3bf65571a183" key="Financial  News Letter Signup-bf1d5ba9-5151-41ac-9ab0-3bf65571a183" itemid="{BF1D5BA9-5151-41AC-9AB0-3BF65571A183}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z">
+    <ja-JP>Financial ニュースレターのサインアップ</ja-JP>
+  </phrase>
+</sitecore>

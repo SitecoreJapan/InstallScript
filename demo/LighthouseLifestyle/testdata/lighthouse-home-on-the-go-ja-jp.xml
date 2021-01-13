@@ -1,0 +1,203 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>どこにいてもつながる。ウェブサーフィン、写真撮影、ビジネスを1台の小さなデバイスで。Lighthouseのパワフルなプロセッサと直感的なインターフェースが、すべてを素早く簡単に実現します。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>どこにいてもつながる。ウェブサーフィン、写真撮影、ビジネスを1台の小さなデバイスから行うことができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>お出かけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{4C2F221F-9426-45ED-9EEB-C79BB3169565}" updated="00010101T000000Z">
+    <ja-JP>{"items":[]}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>おでかけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>どこにいてもつながる。ウェブサーフィン、写真撮影、ビジネスを1台の小さなデバイスから行うことができます。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>おでかけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>おでかけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" key="on-the-go" itemid="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>お出かけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data" key="Data" itemid="{F6F2D23B-9C1C-4FB6-AF5F-3DE7FAC89BC0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Hero" key="Hero" itemid="{3306510F-7FF0-479F-A000-E0B553C562CB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{0D2C82AA-D878-457C-BC4E-3967BFE5F13F}" alt="リモコン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Hero" key="Hero" itemid="{3306510F-7FF0-479F-A000-E0B553C562CB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>カオスが意味を成すのを助ける</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Hero" key="Hero" itemid="{3306510F-7FF0-479F-A000-E0B553C562CB}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse おでかけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Hero" key="Hero" itemid="{3306510F-7FF0-479F-A000-E0B553C562CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{B433CD21-EC2A-4B93-B922-5053D778E4EC}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="より詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{763C1A49-FC41-4C8C-B53C-6F8AB8287CE2}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{B433CD21-EC2A-4B93-B922-5053D778E4EC}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;便利な食事の選択肢が充実しているので、スマートで健康的な選択をするために必要な情報を得ることができ、生活が忙しくても、何を食べても気分よく過ごせます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{B433CD21-EC2A-4B93-B922-5053D778E4EC}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ヘルシークッキング&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{B433CD21-EC2A-4B93-B922-5053D778E4EC}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B7810CAE-B609-4EC9-9353-9CE53C275253}" alt="ヘルシークッキング" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Healthy Eating" key="Promo - Healthy Eating" itemid="{B433CD21-EC2A-4B93-B922-5053D778E4EC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ヘルシー クッキング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Fitness Trackers" key="Promo - Fitness Trackers" itemid="{F3CE65CB-A36E-4803-A4A3-531D4D4ABD57}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="より詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8C1D48B4-F3BD-41EE-ACD4-200E423727CB}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Fitness Trackers" key="Promo - Fitness Trackers" itemid="{F3CE65CB-A36E-4803-A4A3-531D4D4ABD57}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;適切な機器があれば、あらゆる目標に手が届きます。最新のウェアラブルテクノロジーは、あらゆるフィットネスレベルでの成功をサポートします。フィットネスを次のレベルに引き上げましょう。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Fitness Trackers" key="Promo - Fitness Trackers" itemid="{F3CE65CB-A36E-4803-A4A3-531D4D4ABD57}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;フィットネス トラッカー&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Fitness Trackers" key="Promo - Fitness Trackers" itemid="{F3CE65CB-A36E-4803-A4A3-531D4D4ABD57}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B8CD0674-1886-470F-9B58-77CBA03BDF43}" alt="フィットネス" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Fitness Trackers" key="Promo - Fitness Trackers" itemid="{F3CE65CB-A36E-4803-A4A3-531D4D4ABD57}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - フィットネス トラッカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Travel Gear" key="Promo - Travel Gear" itemid="{87F3F49F-B6A2-4960-B6E4-CFDB42FD4AC9}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="より詳しく" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8F03B2AC-B997-460B-925F-FD3188464594}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Travel Gear" key="Promo - Travel Gear" itemid="{87F3F49F-B6A2-4960-B6E4-CFDB42FD4AC9}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{D4B0A86A-5B15-463C-978E-90BBBEDC972D}" alt="モバイル" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Travel Gear" key="Promo - Travel Gear" itemid="{87F3F49F-B6A2-4960-B6E4-CFDB42FD4AC9}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;出張先では、常に接続された状態を保ち、生産性を高める必要があります。Lighthouseでは、最新の製品レビューをご紹介しています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Travel Gear" key="Promo - Travel Gear" itemid="{87F3F49F-B6A2-4960-B6E4-CFDB42FD4AC9}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;トラベル ギア&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/Data/Promo - Travel Gear" key="Promo - Travel Gear" itemid="{87F3F49F-B6A2-4960-B6E4-CFDB42FD4AC9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - トラベル ギア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating" key="healthy-eating" itemid="{763C1A49-FC41-4C8C-B53C-6F8AB8287CE2}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>健康的な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating" key="healthy-eating" itemid="{763C1A49-FC41-4C8C-B53C-6F8AB8287CE2}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;会議や約束、用事、社交時間などで忙しい毎日を送っていると、外出先でしか食事をする機会がないこともあります。だからこそ、携帯用スナックや食事の大ファンなのです。&lt;/p&gt;
+&lt;p&gt;立ちっぱなしの日は、スープがベストな選択ではありません。外出先での健康的な食生活を考えてみることが大切です。自分を責めずに、できる限りのことをしてみましょう。&lt;/p&gt;
+&lt;strong&gt;外出先での健康的な食事のためのヒント&lt;/strong&gt;
+&lt;ol&gt;
+    &lt;li&gt;
+    手作りの食事やおやつを持っていくようにしましょう。可能な限り、自宅で作った食べ物を持っていきましょう。それはあなたが道路上で見つける食品よりも健康的である可能性が高いでしょう。以下の食事とおやつのアイデアをチェックアウトしてください。
+    &lt;/li&gt;
+    &lt;li&gt;外食するときには、賢い選択をしましょう。レストランのすべてのお気に入りの種類で外食するときは、これらのヒントをチェックアウトしてください。&lt;/li&gt;
+    &lt;li&gt;規則正しい食事を心がけましょう。健康的な食生活を維持するために、朝食、昼食、夕食は毎日同じ時間帯を中心に食べることを目指しましょう。&lt;/li&gt;
+    &lt;li&gt;お腹が空くまで待たずに食べましょう。エネルギーレベルを維持するために、シフト中には健康的な軽食を必ず取り入れるようにしましょう。午前中と午後の間食を勤務時間の一部として取り入れるようにしましょう。脂肪分、糖分、塩分の多いスナックは避けましょう。&lt;/li&gt;
+    &lt;li&gt;糖分の多い飲み物は避ける。再利用可能な大きな水筒に、詰め替え可能な新鮮な水を入れる。 フルーツジュースよりも、丸ごとのフルーツをよく選ぶ。ポップなどの甘味のある飲み物を制限する。&lt;/li&gt;
+    &lt;li&gt;カフェインに注意 コーヒー、カフェイン入りポップ、エナジードリンクの摂取量を制限します。レギュラーコーヒーは1日3杯（750mLまたは24オンス）、紅茶は1日8杯（2Lまたは64オンス）までにしましょう。これらの量よりも多く摂取したい場合は、カフェインレス飲料を選択してください。&lt;/li&gt;
+&lt;/ol&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating" key="healthy-eating" itemid="{763C1A49-FC41-4C8C-B53C-6F8AB8287CE2}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>健康的な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating" key="healthy-eating" itemid="{763C1A49-FC41-4C8C-B53C-6F8AB8287CE2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>健康的な食事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data" key="Data" itemid="{2BCA02C8-CBC8-44EB-943B-7440704DC1EF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Below the Fold Text" key="Below the Fold Text" itemid="{FA892C66-B6F3-47C7-B710-AD1584DBBACB}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ファーストフードを食べることは、脂肪分の多いチーズバーガーや塩辛いフライドポテトを食べなければならないという意味ではありません。最近では、よりヘルシーなメニューを見つけることができる様々なメニューオプションがあります。多くのファーストフード店では、オンラインでカロリーカウント付きのメニューを提供しています。&lt;/p&gt;
+&lt;p&gt;手早く簡単に食事をするための賢い選択は、注文の内容を自分でコントロールできる店です。サンドイッチショップでは、マヨなし、余分な野菜、全粒粉のパンなど、ヘルシーな調整が簡単にできます。&lt;/p&gt;
+&lt;p&gt;このような便利な食事の選択肢が幅広く用意されており、スマートで心臓に良い選択をするために必要な情報が満載なので、忙しい生活を送っていても、自分が食べるものに満足することができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Carousel" key="Carousel" itemid="{B878F9A1-435D-4B7A-A374-C0DF7402F6CD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Carousel/Slide1" key="Slide1" itemid="{A7119C3E-8569-4B2B-85D3-5BFA46333CC0}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>夕食は自宅であなたを待っています</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Carousel/Slide1" key="Slide1" itemid="{A7119C3E-8569-4B2B-85D3-5BFA46333CC0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Carousel/Slide2" key="Slide2" itemid="{71842D60-0BEB-4745-9B85-2D191D8880CC}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>食事の準備は、あなたの新しい親友になります</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/healthy-eating/Data/Carousel/Slide2" key="Slide2" itemid="{71842D60-0BEB-4745-9B85-2D191D8880CC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers" key="fitness-trackers" itemid="{8C1D48B4-F3BD-41EE-ACD4-200E423727CB}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>フィットネス トラッカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers" key="fitness-trackers" itemid="{8C1D48B4-F3BD-41EE-ACD4-200E423727CB}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers" key="fitness-trackers" itemid="{8C1D48B4-F3BD-41EE-ACD4-200E423727CB}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>フィットネス トラッカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers" key="fitness-trackers" itemid="{8C1D48B4-F3BD-41EE-ACD4-200E423727CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フィットネス トラッカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data" key="Data" itemid="{757E8DBC-B301-4A16-B1CE-39E41A3289E3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel" key="Carousel" itemid="{27A03FAE-F124-43BA-AE47-70B7BB176499}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide1" key="Slide1" itemid="{81832D49-6A8F-4F48-B2B0-B47C1358C99A}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{34510C0D-20F1-4BA1-B14E-D475292196A8}" alt="スマートフォン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide1" key="Slide1" itemid="{81832D49-6A8F-4F48-B2B0-B47C1358C99A}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル フィットネス テックのベストイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide1" key="Slide1" itemid="{81832D49-6A8F-4F48-B2B0-B47C1358C99A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide2" key="Slide2" itemid="{2F739519-70AB-414A-B8CF-56EEF9466695}" fieldid="{427EC0BD-3BF2-45B9-880F-BDB0054E7925}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{580ED437-7A14-463D-A81A-0F94FCAA7A92}" alt="フィットネストラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide2" key="Slide2" itemid="{2F739519-70AB-414A-B8CF-56EEF9466695}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>パーフェクトなウェアラブルを選択してください</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/fitness-trackers/Data/Carousel/Slide2" key="Slide2" itemid="{2F739519-70AB-414A-B8CF-56EEF9466695}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear" key="travel-gear" itemid="{8F03B2AC-B997-460B-925F-FD3188464594}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>トラベル ギア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear" key="travel-gear" itemid="{8F03B2AC-B997-460B-925F-FD3188464594}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, ex liber persecuti delicatissimi vis, at eros eius paulo eum. Platonem definitionem sed ea, ei qui vivendo singulis. Doctus utroque molestiae te duo, pri ex quodsi oportere. Hinc aliquando te per, vix ad expetendis contentiones. An postea invidunt usu, ad error regione sed, et ignota recusabo imperdiet vix. Detraxit scriptorem reprehendunt eos cu.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear" key="travel-gear" itemid="{8F03B2AC-B997-460B-925F-FD3188464594}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>トラベル ギア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear" key="travel-gear" itemid="{8F03B2AC-B997-460B-925F-FD3188464594}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>トラベル ギア</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear/Data" key="Data" itemid="{7F7E00C8-9277-4923-8EB2-C2A5EE0A97EB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear/Data/Carousel" key="Carousel" itemid="{E56C3398-313A-4F73-A9C6-1EBDFECCBB9A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カルーセル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear/Data/Carousel/Slide1" key="Slide1" itemid="{2962EC9E-50BD-45C3-A231-3CA61A98960B}" fieldid="{7209159D-6B3E-4281-983E-F7F82104FA1B}" updated="00010101T000000Z">
+    <ja-JP>出張をもっと楽しくする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/on-the-go/travel-gear/Data/Carousel/Slide1" key="Slide1" itemid="{2962EC9E-50BD-45C3-A231-3CA61A98960B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スライド</ja-JP>
+  </phrase>
+</sitecore>

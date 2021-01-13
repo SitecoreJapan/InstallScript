@@ -1,0 +1,68 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets" key="Snippets" itemid="{2CBC9016-898E-4AE3-B173-9D762F1825F9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スニペット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right" key="Full Width CTA - Right" itemid="{A0F525A9-8619-4EE9-9EA1-D0C9330E3081}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Full Width CTA - 右</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right/Data" key="Data" itemid="{2C443D94-4BD5-47D6-BBD3-ADAE34BC886D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right/Data/Full CTA Promo" key="Full CTA Promo" itemid="{EA4B599B-2899-47DF-BAE4-1429795658D7}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right/Data/Full CTA Promo" key="Full CTA Promo" itemid="{EA4B599B-2899-47DF-BAE4-1429795658D7}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スマートホームプロジェクトを完成させるためのチェックリストを手に入れよう&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right/Data/Full CTA Promo" key="Full CTA Promo" itemid="{EA4B599B-2899-47DF-BAE4-1429795658D7}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スマートホーム&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Right/Data/Full CTA Promo" key="Full CTA Promo" itemid="{EA4B599B-2899-47DF-BAE4-1429795658D7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Full CTA プロモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder" key="Full Width CTA - Trainer Finder" itemid="{30F50135-9BCA-436A-9C02-F3DD35A75411}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Full Width CTA - トレーナーファインダー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data" key="Data" itemid="{0A62E0D7-2FC6-4E91-8898-F8D78FBF4725}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data/Full CTA Promo" key="Full CTA Promo" itemid="{AB363F7C-73C8-463C-AFC4-E1071A89CE2C}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="トレーナーファインダー" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3B26DAB2-CD1D-4E12-8FF8-FB8603213B8D}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data/Full CTA Promo" key="Full CTA Promo" itemid="{AB363F7C-73C8-463C-AFC4-E1071A89CE2C}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;テストを受けて、自分に合ったものを見つけよう&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data/Full CTA Promo" key="Full CTA Promo" itemid="{AB363F7C-73C8-463C-AFC4-E1071A89CE2C}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;デジタルトレーナーサブスクリプション&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data/Full CTA Promo" key="Full CTA Promo" itemid="{AB363F7C-73C8-463C-AFC4-E1071A89CE2C}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5F782DD5-DFA1-4BD1-9FBB-26D4C9BA83CD}" alt="トレーナー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Full Width CTA - Trainer Finder/Data/Full CTA Promo" key="Full CTA Promo" itemid="{AB363F7C-73C8-463C-AFC4-E1071A89CE2C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Full CTA プロモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Marketing Sign Up" key="Marketing Sign Up" itemid="{7128D032-83F5-48CF-A27A-59A6AB00E982}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>マーケティング サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Onboarding Newsletter" key="Onboarding Newsletter" itemid="{C1BC367D-8E6E-42E6-93AF-3902680840D4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング・ニューズレター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Single Page Teaser for column" key="Single Page Teaser for column" itemid="{14D71DC5-F486-44E4-BCC8-3EA07A3500C0}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シングルページ カラム用ティーザー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Two Column Snippets for Home and L1 pages" key="Two Column Snippets for Home and L1 pages" itemid="{8E28955B-1FC0-4184-9D47-97E2254AF698}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>2 カラムスニペット ホームと L1 ページ用</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Two Column Snippets for Home and L1 pages/A Wide Array of Guide Interests" key="A Wide Array of Guide Interests" itemid="{874ED455-AF6F-438D-BEA8-1916B7FAB5BD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ガイドの興味の広い配列</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Two Column Child Tablet Teasers" key="Two Column Child Tablet Teasers" itemid="{99C37CF3-E7C1-42ED-AA7F-B91C9BDED839}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>2つのコラムの子タブレットのティーザー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Two Column Fitness Teasers" key="Two Column Fitness Teasers" itemid="{2703D97F-76D2-4D4A-9E01-A8DA501E4B4D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>2つのコラム フィットネスティーザー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Snippets/Three Column Fitness Teasers" key="Three Column Fitness Teasers" itemid="{18B14CF7-BAAF-4D13-931A-E8369B6F882E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>3つのコラム フィットネスティーザー</ja-JP>
+  </phrase>
+</sitecore>

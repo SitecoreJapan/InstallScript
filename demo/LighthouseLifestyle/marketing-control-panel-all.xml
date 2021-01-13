@@ -1,0 +1,236 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Downloaded Credit Card Fact Sheets" key="Downloaded Credit Card Fact Sheets" itemid="{F924B728-3881-4FCC-B9FA-A455D4121803}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダウンロードしたクレジットカードファクトシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Downloaded Credit Card Fact Sheets" key="Downloaded Credit Card Fact Sheets" itemid="{F924B728-3881-4FCC-B9FA-A455D4121803}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ダウンロードしたクレジットカードファクトシート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for credit card" key="Signed up for credit card" itemid="{849636ED-F4E6-4F9B-AC7C-3602FBF9B6C4}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>クレジットカードの契約</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for credit card" key="Signed up for credit card" itemid="{849636ED-F4E6-4F9B-AC7C-3602FBF9B6C4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>クレジットカードの契約</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for news letter" key="Signed up for news letter" itemid="{E361986C-288B-4F6D-BF4F-CF14CE3C8CB3}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Signed up for news letter" key="Signed up for news letter" itemid="{E361986C-288B-4F6D-BF4F-CF14CE3C8CB3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Watched Cumulus Freedom Video" key="Watched Cumulus Freedom Video" itemid="{4DF1D290-CCD4-480C-BD03-06F4CFCDDA76}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>キュムラスフリーダムの動画を見た</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/Cumulus/Personal Banking/Watched Cumulus Freedom Video" key="Watched Cumulus Freedom Video" itemid="{4DF1D290-CCD4-480C-BD03-06F4CFCDDA76}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>キュムラスフリーダムの動画を見た</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Applied for Credit Card" key="Applied for Credit Card" itemid="{C3D664C0-50B7-4500-8202-5EF2B81DBE7A}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>クレジットカードの申請</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Applied for Credit Card" key="Applied for Credit Card" itemid="{C3D664C0-50B7-4500-8202-5EF2B81DBE7A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>クレジットカードの申請</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Appointment with Financial Advisor" key="Appointment with Financial Advisor" itemid="{4D23BC7C-C5CE-4E09-970E-457411E50243}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>ファイナンシャルアドバイザーとのアポイントメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Appointment with Financial Advisor" key="Appointment with Financial Advisor" itemid="{4D23BC7C-C5CE-4E09-970E-457411E50243}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ファイナンシャルアドバイザーとのアポイントメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Signed up for Newsletter" key="Signed up for Newsletter" itemid="{8E9DEDA8-8ABC-47D2-A266-95C91B93029E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Signed up for Newsletter" key="Signed up for Newsletter" itemid="{8E9DEDA8-8ABC-47D2-A266-95C91B93029E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo" key="SitecoreDemo" itemid="{FBEFEA07-DA28-48D4-9527-6AB943A5414E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sitecore デモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios" key="Demo Scenarios" itemid="{6AC9CD3A-3E43-4466-AA21-904E64F9DF47}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Demo シナリオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{7F3D54DB-06A8-4146-897E-5036BCC9315A}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Demo Scenarios/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{7F3D54DB-06A8-4146-897E-5036BCC9315A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Email - Recipe for Smart Stove" key="Email - Recipe for Smart Stove" itemid="{2D976C32-7D06-4F04-AA48-8B0A5C409F6E}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email - スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Email - Recipe for Smart Stove" key="Email - Recipe for Smart Stove" itemid="{2D976C32-7D06-4F04-AA48-8B0A5C409F6E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Email - スマートコンロのレシピ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Facebook - Android to Arduino" key="Facebook - Android to Arduino" itemid="{DABC3F33-3A25-45D3-98F2-675BD4035533}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Facebook - AndroidからArduinoへ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Facebook - Android to Arduino" key="Facebook - Android to Arduino" itemid="{DABC3F33-3A25-45D3-98F2-675BD4035533}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Facebook - AndroidからArduinoへ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Google Paid Ad Appliances" key="Google Paid Ad Appliances" itemid="{744D6FD9-3578-47F2-9EEF-8411FC5FEF18}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>Google 有料の広告家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Google Paid Ad Appliances" key="Google Paid Ad Appliances" itemid="{744D6FD9-3578-47F2-9EEF-8411FC5FEF18}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Google 有料の広告家電</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/PPC - Design Your Smart Home Ad" key="PPC - Design Your Smart Home Ad" itemid="{E1FCA345-B206-4432-A838-11DBAD7F56E2}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>PPC - スマートホーム広告をデザインする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/PPC - Design Your Smart Home Ad" key="PPC - Design Your Smart Home Ad" itemid="{E1FCA345-B206-4432-A838-11DBAD7F56E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>スマートホーム広告をデザインする</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Search - Fitness" key="Search - Fitness" itemid="{0292C2AA-99EE-4010-86B9-1B862BBA99CA}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>検索 - フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Search - Fitness" key="Search - Fitness" itemid="{0292C2AA-99EE-4010-86B9-1B862BBA99CA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>検索 - フィットネス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Social - Foodie" key="Social - Foodie" itemid="{86F4B51D-01D8-4372-889A-2DEAC430E01D}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>ソーシャル - フード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/Social - Foodie" key="Social - Foodie" itemid="{86F4B51D-01D8-4372-889A-2DEAC430E01D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ソーシャル - フード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{4C1BF83B-06E2-4B07-AD16-0E65D95E356E}" updated="00010101T000000Z" database="master">
+    <ja-JP>{DDAFB85B-1511-48B8-9374-2A8A1F371645}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{0F47D1B4-BCB4-4F7F-9065-6ECB46AAB9A1}" updated="00010101T000000Z" database="master">
+    <ja-JP>SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{BD4720D7-9ED6-4438-959B-7B1C5C32C10B}" updated="00010101T000000Z" database="master">
+    <ja-JP>20191209T230409Z</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{AA6A984D-37E6-478B-AFC1-A8072E76D5BB}" updated="00010101T000000Z" database="master">
+    <ja-JP>{E0A6E451-FA94-4557-B101-4B1AD9E9BD93}{9249B1E3-7CD9-4ED3-ADFB-ED42634392E9}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Campaigns/SitecoreDemo/SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" key="SitecoreDemo Abandoned Cart Notification9249b1e3-7cd9-4ed3-adfb-ed42634392e9" itemid="{368ECE01-796D-438C-A37E-F97CA72DEDF3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo" key="SitecoreDemo" itemid="{0C21F083-63E7-4CDF-AEED-E029996B088B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Sitecore デモ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Dollar" key="Clicked Dollar" itemid="{465F8167-4561-4AAD-BD16-A194D225D583}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>金額をクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Dollar" key="Clicked Dollar" itemid="{465F8167-4561-4AAD-BD16-A194D225D583}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>金額をクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Percent" key="Clicked Percent" itemid="{003DE217-D3F0-44CB-BF4E-D83DCE4F63FB}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>パーセントをクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Clicked Percent" key="Clicked Percent" itemid="{003DE217-D3F0-44CB-BF4E-D83DCE4F63FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>パーセントをクリック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Content Finder Completed" key="Content Finder Completed" itemid="{596FDFA9-9E21-4B9D-9B54-EB97F724E1DA}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンテンツファインダーを完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Content Finder Completed" key="Content Finder Completed" itemid="{596FDFA9-9E21-4B9D-9B54-EB97F724E1DA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>コンテンツファインダーを完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Delete Profile" key="Delete Profile" itemid="{83A9DF9A-D7D9-4B73-BAE0-4F77B4935462}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイルを削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Delete Profile" key="Delete Profile" itemid="{83A9DF9A-D7D9-4B73-BAE0-4F77B4935462}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>プロファイルを削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Export Data" key="Export Data" itemid="{D0EF461C-3AA0-40B8-9B5F-C1723E54F6ED}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>データをエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Export Data" key="Export Data" itemid="{D0EF461C-3AA0-40B8-9B5F-C1723E54F6ED}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>データをエクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Facebook Login" key="Facebook Login" itemid="{A105784E-01DC-4EC1-9F7D-F581C7EB2C27}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>Facebook ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Facebook Login" key="Facebook Login" itemid="{A105784E-01DC-4EC1-9F7D-F581C7EB2C27}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Facebook ログイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Fitness Tracker Registered" key="Fitness Tracker Registered" itemid="{A81FC0A2-BFBA-439B-B412-EE6F07379F14}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Fitness Tracker Registered" key="Fitness Tracker Registered" itemid="{A81FC0A2-BFBA-439B-B412-EE6F07379F14}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Foodie Feast Sign Up Complete" key="Foodie Feast Sign Up Complete" itemid="{2A2EBECC-D066-4FBC-8701-BBA74AAC9F2E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>フードフェストサインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Foodie Feast Sign Up Complete" key="Foodie Feast Sign Up Complete" itemid="{2A2EBECC-D066-4FBC-8701-BBA74AAC9F2E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フードフェストサインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Healthy Living List Sign Up Complete" key="Healthy Living List Sign Up Complete" itemid="{213D0627-7D8B-45B3-BD7A-DE7C399FBC5A}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康生活リスト 登録完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Healthy Living List Sign Up Complete" key="Healthy Living List Sign Up Complete" itemid="{213D0627-7D8B-45B3-BD7A-DE7C399FBC5A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>健康生活リスト 登録完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Home Installation Request" key="Home Installation Request" itemid="{D9A6C542-9EAF-4408-B379-E7376DE939E1}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>住宅設備工事のご依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Home Installation Request" key="Home Installation Request" itemid="{D9A6C542-9EAF-4408-B379-E7376DE939E1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>住宅設備工事のご依頼</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Marketing Sign Up" key="Marketing Sign Up" itemid="{ECC7FA00-8B66-47E4-AAD2-5477E6C9D8B7}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>マーケティングサインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Marketing Sign Up" key="Marketing Sign Up" itemid="{ECC7FA00-8B66-47E4-AAD2-5477E6C9D8B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>マーケティングサインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{098F51D0-E7A6-490E-B990-BEFEE13CDC86}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Onboarding Customer Journey" key="Onboarding Customer Journey" itemid="{098F51D0-E7A6-490E-B990-BEFEE13CDC86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Purchase Complete" key="Purchase Complete" itemid="{78387702-166A-4B38-B21D-5AC1FEC3F59E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>購入完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Purchase Complete" key="Purchase Complete" itemid="{78387702-166A-4B38-B21D-5AC1FEC3F59E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>購入完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Read Fitness Tech Article" key="Read Fitness Tech Article" itemid="{47194BAD-5160-4427-951C-3CD6B3D36623}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステックの記事を読む</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Read Fitness Tech Article" key="Read Fitness Tech Article" itemid="{47194BAD-5160-4427-951C-3CD6B3D36623}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネステックの記事を読む</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Striva 4 Notification Sign Up Complete" key="Striva 4 Notification Sign Up Complete" itemid="{95810E6D-E7B5-4D15-A3E4-B064B148E2E2}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>Striva 4 通知サインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Striva 4 Notification Sign Up Complete" key="Striva 4 Notification Sign Up Complete" itemid="{95810E6D-E7B5-4D15-A3E4-B064B148E2E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>Striva 4 通知サインアップ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Submit Sample Lead Generation Form" key="Submit Sample Lead Generation Form" itemid="{9093C03F-FF05-43A4-A1E8-B663D3622756}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネレーションフォームの提出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Submit Sample Lead Generation Form" key="Submit Sample Lead Generation Form" itemid="{9093C03F-FF05-43A4-A1E8-B663D3622756}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンプルリードジェネレーションフォームの提出</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Trainer Finder Complete" key="Trainer Finder Complete" itemid="{A39866FF-6B67-49A1-9D42-34890ABB4815}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z" database="master">
+    <ja-JP>トレーナーファインダー完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/SitecoreDemo/Trainer Finder Complete" key="Trainer Finder Complete" itemid="{A39866FF-6B67-49A1-9D42-34890ABB4815}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>トレーナーファインダー完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans" key="Automation Plans" itemid="{7BF9F710-6CAD-4114-8DC7-88B4C4181562}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20160531T044454Z" database="master">
+    <ja-JP>オートメーション プラン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/01/10/20/28/06312db7-6d89-4988-81b4-062504dbbec3" key="06312db7-6d89-4988-81b4-062504dbbec3" itemid="{06312DB7-6D89-4988-81B4-062504DBBEC3}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>マーケティングドリップキャンペーン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/03/21/17/25/6b134185-adc1-4023-ada0-c3b79e35f7ef" key="6b134185-adc1-4023-ada0-c3b79e35f7ef" itemid="{6B134185-ADC1-4023-ADA0-C3B79E35F7EF}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>Foodie - Foodie Feast サインアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2018/03/21/21/22/1cbaa182-1194-421b-b403-86a07afce3ee" key="1cbaa182-1194-421b-b403-86a07afce3ee" itemid="{1CBAA182-1194-421B-B403-86A07AFCE3EE}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>フィットネス - フィットネストラッカー登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/07/02/16/08/Onboarding Customer Journey-da66b9f1-2236-4579-8ceb-8dfcb99b14e7" key="Onboarding Customer Journey-da66b9f1-2236-4579-8ceb-8dfcb99b14e7" itemid="{DA66B9F1-2236-4579-8CEB-8DFCB99B14E7}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/07/13/16/19/New Account Created-673b1f7f-0d81-411f-aaa8-5f90ed6e850a" key="New Account Created-673b1f7f-0d81-411f-aaa8-5f90ed6e850a" itemid="{8F779A17-BE1D-4558-887C-1A139395E30B}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>新しいアカウントの作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/2019/12/10/20/46/SitecoreDemo Abandoned Cart" key="SitecoreDemo Abandoned Cart" itemid="{6B0C8552-3D0E-478F-9622-0E9D04DC0B16}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>Lighthouse の破棄されたカート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Automation Plans/Cumulus/Financial  News Letter Signup-bf1d5ba9-5151-41ac-9ab0-3bf65571a183" key="Financial  News Letter Signup-bf1d5ba9-5151-41ac-9ab0-3bf65571a183" itemid="{BF1D5BA9-5151-41AC-9AB0-3BF65571A183}" fieldid="{365F1971-B028-4065-BC11-CE1F471452AF}" updated="00010101T000000Z" database="master">
+    <ja-JP>Financial ニュースレターのサインアップ</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,172 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company" key="company" itemid="{CD923BB2-CD93-49F6-87C9-B4A2B54D073D}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company" key="company" itemid="{CD923BB2-CD93-49F6-87C9-B4A2B54D073D}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company" key="company" itemid="{CD923BB2-CD93-49F6-87C9-B4A2B54D073D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data" key="Data" itemid="{7B27359A-5BA4-4D62-9E05-AF17B0451A9F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/About Blurb" key="About Blurb" itemid="{203FC324-804A-4EDD-9167-980C21F0E914}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&lt;span style="color: #000000;"&gt;Lighthouse は、あなたとあなたの家族の生活をより快適にします。Lighthouseの家電製品は、先進のテクノロジーと革新的な「スマート」機能を備えており、より少ない手間でより多くのことができるようにしてくれます。エレガントなデザインは、お部屋のインテリアとシームレスに調和します。快適に暮らし、シンプルに暮らし、つながりを保つ。それがLighthouseのやり方です。&lt;/span&gt;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/About Blurb" key="About Blurb" itemid="{203FC324-804A-4EDD-9167-980C21F0E914}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたが元気に生きるためのお手伝いを、シンプルに。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/About Blurb" key="About Blurb" itemid="{203FC324-804A-4EDD-9167-980C21F0E914}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{481E4DC6-5187-408F-9A48-E8F73DDFE0DD}" alt="テレビ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/About Blurb" key="About Blurb" itemid="{203FC324-804A-4EDD-9167-980C21F0E914}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>宣伝について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/Hero" key="Hero" itemid="{919897D2-92F2-45DB-B48D-D47F1A6C4B80}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{73398813-9AB9-46A4-B305-EC7BB7E97A14}" alt="会社概要" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/Hero" key="Hero" itemid="{919897D2-92F2-45DB-B48D-D47F1A6C4B80}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/Data/Hero" key="Hero" itemid="{919897D2-92F2-45DB-B48D-D47F1A6C4B80}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ロケーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ロケーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>お近くのライトハウスを訪ねる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>ロケーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>お近くのライトハウスを訪ねる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>お近くのライトハウスを訪ねる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>ロケーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations" key="locations" itemid="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ロケーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data" key="Data" itemid="{38F386AD-265A-42D1-8B0E-32CDE47A08CC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Hero" key="Hero" itemid="{B816C2E9-20DE-4979-BE47-B227E65BE837}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{92B3B5CA-D29D-4135-A627-84A4AACF7CAF}" alt="ストア" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Hero" key="Hero" itemid="{B816C2E9-20DE-4979-BE47-B227E65BE837}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ストア検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Hero" key="Hero" itemid="{B816C2E9-20DE-4979-BE47-B227E65BE837}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse ショップを検索</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Hero" key="Hero" itemid="{B816C2E9-20DE-4979-BE47-B227E65BE837}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Locations Text" key="Locations Text" itemid="{BCDC2E13-1DE5-443F-A34E-470A989F8E74}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;世界中にLighthouseの店舗があります。お近くのLighthouseに立ち寄って、あなたの生活を豊かにする最新のライフスタイルブランドをご覧ください。私たちのセールスチームが、より早く料理をして、より賢く仕事をして、より熱心に遊ぶために必要なものを見つけるお手伝いをします。オンラインショップでも、同じように優れた品揃えとサービスをご利用いただけます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Locations Text" key="Locations Text" itemid="{BCDC2E13-1DE5-443F-A34E-470A989F8E74}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;近くの Lighthouse を訪問&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Locations Text" key="Locations Text" itemid="{BCDC2E13-1DE5-443F-A34E-470A989F8E74}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{4E1A68DF-D20B-4A7B-94AF-9551598D7F07}" alt="カーオーディオ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/locations/Data/Locations Text" key="Locations Text" itemid="{BCDC2E13-1DE5-443F-A34E-470A989F8E74}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ロケーション テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy" key="privacy-policy" itemid="{539CA549-8E20-4984-B762-70B247A9A08F}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>プライバシー ポリシー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy" key="privacy-policy" itemid="{539CA549-8E20-4984-B762-70B247A9A08F}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>プライバシー ポリシー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy" key="privacy-policy" itemid="{539CA549-8E20-4984-B762-70B247A9A08F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プライバシー ポリシー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data" key="Data" itemid="{AB9467AF-D0BD-4FC7-A97F-C9E9031CA3F7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Hero" key="Hero" itemid="{5312DCD1-DCA0-4323-ADE8-4A47BE0CA3E2}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{0D2C82AA-D878-457C-BC4E-3967BFE5F13F}" alt="サポート" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Hero" key="Hero" itemid="{5312DCD1-DCA0-4323-ADE8-4A47BE0CA3E2}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>プライバシーポリシー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Hero" key="Hero" itemid="{5312DCD1-DCA0-4323-ADE8-4A47BE0CA3E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Privacy Text" key="Privacy Text" itemid="{3F500FE6-E87F-43FA-A6B2-0038B2AB7588}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ここでは、当社の個人情報保護方針を簡単に説明します。:&lt;br /&gt;
+&lt;br /&gt;
+当社では、お客様からご提供いただいた個人情報（メールを含む）を販売することはなく、社内での利用に限定しています。
+当社は、お客様がライトハウスのウェブサイトをどのように利用しているかを把握し、お客様のニーズに合った体験やオファーを提供するために、お客様のブラウザに様々なクッキーを配置しています。クッキーの中には、当社が広告を出したり、広告の影響を測定したりするのに役立つ第三者のためのものもあり、これにより当社はマーケティング費用を慎重に使うことができます。クッキーを好まない場合は、ライトハウスのウェブサイトを閲覧しないでください。
+&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Privacy Text" key="Privacy Text" itemid="{3F500FE6-E87F-43FA-A6B2-0038B2AB7588}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{7DF3868E-4ABA-4E60-9173-C649505FE671}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/privacy-policy/Data/Privacy Text" key="Privacy Text" itemid="{3F500FE6-E87F-43FA-A6B2-0038B2AB7588}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プライバシー  テキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{4D263B95-322F-4003-ADBD-70920FACF823}" updated="00010101T000000Z">
+    <ja-JP>ご不明な点があれば、24時間365日サポートチームにお問い合わせください。何か問題があれば、私たちはそれを正しいものにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>ご不明な点があれば、24時間365日サポートチームにお問い合わせください。何か問題があれば、私たちはそれを正しいものにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{48A66E40-D164-4C8E-BC06-172ECC6769EC}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{528986CC-6FF9-4383-8BEE-514F0E8172CF}" updated="00010101T000000Z">
+    <ja-JP>ご不明な点があれば、24時間365日サポートチームにお問い合わせください。何か問題があれば、私たちはそれを正しいものにします。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact" key="contact" itemid="{FD27A69C-2AFD-461D-8C59-73554C376648}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data" key="Data" itemid="{20AC4BDE-1535-453E-BB5B-1B3E081BEA3D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Hero" key="Hero" itemid="{4A769795-0405-4CC7-89D7-0C293B5BA314}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{0D2C82AA-D878-457C-BC4E-3967BFE5F13F}" alt="サポート" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Hero" key="Hero" itemid="{4A769795-0405-4CC7-89D7-0C293B5BA314}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>何かお手伝いできますか？</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Hero" key="Hero" itemid="{4A769795-0405-4CC7-89D7-0C293B5BA314}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse カスタマーサービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Hero" key="Hero" itemid="{4A769795-0405-4CC7-89D7-0C293B5BA314}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Support Text" key="Support Text" itemid="{CCE2CE77-85A9-4F90-8D6F-EDA9E93C6101}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;私たちはお客様と同じように、お客様の家を大切にしています。そのため、Lighthouseは、お客様が店舗やオンラインでシームレスな体験ができるように、より一層努力しています。ご不明な点があれば、24時間365日サポートチームにお問い合わせください。何か問題があれば、私たちが解決します。&lt;/p&gt;
+&lt;p&gt;カスタマーサポートへのお問い合わせ: 1-888-SCLIGHTHOUSE もしくは &lt;a href="mailto:help@sitecoredemo.com" target="_blank" title="email us"&gt;help@sitecoredemo.com&lt;/a&gt;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Support Text" key="Support Text" itemid="{CCE2CE77-85A9-4F90-8D6F-EDA9E93C6101}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;あなたへのコミットメント&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Support Text" key="Support Text" itemid="{CCE2CE77-85A9-4F90-8D6F-EDA9E93C6101}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{A15AEBE1-4708-48CE-AE91-7A5CF17173EC}" alt="パソコンを利用" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/company/contact/Data/Support Text" key="Support Text" itemid="{CCE2CE77-85A9-4F90-8D6F-EDA9E93C6101}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サポート テキスト</ja-JP>
+  </phrase>
+</sitecore>

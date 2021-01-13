@@ -1,14 +1,14 @@
 param (
-  [string]$horizonInstanceName = "horizon.cmsdemo.jp",
+  [string]$horizonInstanceName = "horizon.dev.local",
   [string]$horizonPhysicalPath = "C:\inetpub\wwwroot\$horizonInstanceName",
   [string]$horizonAppUrl = "https://$horizonInstanceName",
-  [string]$sitecoreCmInstanceName = "cm.cmsdemo.jp",
+  [string]$sitecoreCmInstanceName = "XP0.dev.local",
   [string]$sitecoreCmInstanceUrl = "https://$sitecoreCmInstanceName",
   [string]$sitecoreCmInstansePath = "C:\inetpub\wwwroot\$sitecoreCmInstanceName",
-  [string]$identityServerPoolName = "account.cmsdemo.jp",
+  [string]$identityServerPoolName = "XP0.identityserver",
   [string]$identityServerUrl = "https://$identityServerPoolName",
   [string]$identityServerPhysicalPath = "C:\inetpub\wwwroot\$identityServerPoolName",
-  [string]$licensePath  = "C:\projects\Horizon",
+  [string]$licensePath  = "c:\projects\sif\license.xml",
   [bool]$enableContentHub,
   [ValidateSet("XP", "XM")]
   [string]$topology = "XP"

@@ -1,0 +1,208 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services" key="services" itemid="{3E54A390-BFFD-40E6-9AF7-E951A806E691}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services" key="services" itemid="{3E54A390-BFFD-40E6-9AF7-E951A806E691}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services" key="services" itemid="{3E54A390-BFFD-40E6-9AF7-E951A806E691}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data" key="Data" itemid="{AFA6C825-C024-4B1D-854C-8947C19F4CE1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation" key="Category Subnavigation" itemid="{EE848959-21A4-49ED-AC89-4AA6AD904595}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カテゴリー サブナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Car Audio" key="Car Audio" itemid="{AF1150BE-B78C-46EB-BAD3-70ED3369E91B}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Car Audio" key="Car Audio" itemid="{AF1150BE-B78C-46EB-BAD3-70ED3369E91B}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{98981D25-57CD-4DC8-8953-B5B2601D83BF}" alt="製品画像" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Car Audio" key="Car Audio" itemid="{AF1150BE-B78C-46EB-BAD3-70ED3369E91B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カーオーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Headphones" key="Headphones" itemid="{192226D6-4206-48F6-9C28-363C06756CAF}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" querystring="" target="|Custom" text="ホーム インストレーション" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Headphones" key="Headphones" itemid="{192226D6-4206-48F6-9C28-363C06756CAF}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{02A55A46-C9F5-4B80-A042-CCE7CC507048}" alt="サーモスタット" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Headphones" key="Headphones" itemid="{192226D6-4206-48F6-9C28-363C06756CAF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヘッドフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Home Theater" key="Home Theater" itemid="{FB57CD2D-05A4-49EB-ADF8-9CB1F5A2F19A}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{C9B1B0A5-DD09-4DEF-8305-A864CC85D0F7}" alt="ホームシアター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Home Theater" key="Home Theater" itemid="{FB57CD2D-05A4-49EB-ADF8-9CB1F5A2F19A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホームシアター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Receivers" key="Receivers" itemid="{78E849F1-4C98-4485-9A7A-1F9C68B5EF96}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{3B26DAB2-CD1D-4E12-8FF8-FB8603213B8D}" querystring="" target="|Custom" text="トレーナーを探す" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/your-health/trainer-finder" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Receivers" key="Receivers" itemid="{78E849F1-4C98-4485-9A7A-1F9C68B5EF96}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{89937E4D-7B49-496B-B159-F60434A6E242}" alt="アクティブトラッカー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Receivers" key="Receivers" itemid="{78E849F1-4C98-4485-9A7A-1F9C68B5EF96}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>レシーバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Televisions" key="Televisions" itemid="{0D5E5657-3DFF-4DA7-9654-41B1844098AB}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="テレビ" linktype="external" url="https://content.sitecoredemo.com/shop/Warranties-and-Installations" anchor="" target="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Televisions" key="Televisions" itemid="{0D5E5657-3DFF-4DA7-9654-41B1844098AB}" fieldid="{A3555EF5-6619-441D-B4DB-DA3FD5F9C770}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{F59B8EA3-1188-470E-AAF4-B4B8F41EE043}" alt="保証製品" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Category Subnavigation/Televisions" key="Televisions" itemid="{0D5E5657-3DFF-4DA7-9654-41B1844098AB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Hero - Services" key="Hero - Services" itemid="{7AB8AED7-0C00-4C9E-A077-4747657F3E26}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{627AA15D-190C-46CA-88BB-EBD598E6063F}" alt="カードの受け渡し" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Hero - Services" key="Hero - Services" itemid="{7AB8AED7-0C00-4C9E-A077-4747657F3E26}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>人生をより簡単に</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Hero - Services" key="Hero - Services" itemid="{7AB8AED7-0C00-4C9E-A077-4747657F3E26}" fieldid="{AF73CF76-4E8A-46B0-9403-BCEA092724EF}" updated="00010101T000000Z">
+    <ja-JP>Lighthouse サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Hero - Services" key="Hero - Services" itemid="{7AB8AED7-0C00-4C9E-A077-4747657F3E26}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>Hero - サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Home Installation" key="Promo - Home Installation" itemid="{303E8FFC-56D0-43A8-8208-AED3ACD44853}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" querystring="" target="|Custom" text="ホーム インストレーション" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Home Installation" key="Promo - Home Installation" itemid="{303E8FFC-56D0-43A8-8208-AED3ACD44853}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ご自宅をより効率的で生産性の高いものにする準備はできていますか？当社のスマートホームの専門家に設置の予約をしていただければ、新しい技術が適切に設定されていることをご確認いただけます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Home Installation" key="Promo - Home Installation" itemid="{303E8FFC-56D0-43A8-8208-AED3ACD44853}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;スマートホーム無料相談会&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Home Installation" key="Promo - Home Installation" itemid="{303E8FFC-56D0-43A8-8208-AED3ACD44853}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{2C34B2E3-DA1E-4603-9901-F8235DAA7141}" alt="サーモスタット」" height="" width="" hspace="" vspace=""&gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Home Installation" key="Promo - Home Installation" itemid="{303E8FFC-56D0-43A8-8208-AED3ACD44853}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ホームインストレーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Ultimate Smart Home Checklist" key="Promo - Ultimate Smart Home Checklist" itemid="{FA33A74E-4032-428C-A404-14496EE47BD1}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="キッチン" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{B324AA9A-4053-4B7E-97A2-8133988E4371}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Ultimate Smart Home Checklist" key="Promo - Ultimate Smart Home Checklist" itemid="{FA33A74E-4032-428C-A404-14496EE47BD1}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;どんなパーティーでも、誰もがキッチンに集まるのは当たり前のこと。現代的な外観と雰囲気で魅力的な空間を演出するだけでなく、エネルギーを節約して時間を節約できるモダンな家電製品も必要です。そうすれば、あなたはより多くの時間をあなたの会社を楽しみ、コンロの上をうろうろしている時間を減らすことができます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Ultimate Smart Home Checklist" key="Promo - Ultimate Smart Home Checklist" itemid="{FA33A74E-4032-428C-A404-14496EE47BD1}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;追いかけたい7つのキッチン家電のトレンド&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Ultimate Smart Home Checklist" key="Promo - Ultimate Smart Home Checklist" itemid="{FA33A74E-4032-428C-A404-14496EE47BD1}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{6E59BA7F-0622-4DD3-829F-9C4FD2A81F02}" alt="キッチン家電" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/Data/Promo - Ultimate Smart Home Checklist" key="Promo - Ultimate Smart Home Checklist" itemid="{FA33A74E-4032-428C-A404-14496EE47BD1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - スマートホームの検討開始</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" key="home-installation-schedule-request-form" itemid="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" fieldid="{7D988161-3991-465A-A88C-280BC65542A0}" updated="00010101T000000Z">
+    <ja-JP>スケジュールリクエストフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" key="home-installation-schedule-request-form" itemid="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" fieldid="{7BDDC8B8-1F77-46D8-9D7F-46E20E041F74}" updated="00010101T000000Z">
+    <ja-JP>私たちの家づくりのプロセスは簡単です。このフォームから詳細情報をご請求いただくことから始まります。その後、お客様のご自宅への訪問を予定しています。設置予定日には、Lighthouse Home Goodsの専門家が到着し、お客様の新しい技術の評価と設定を行います。
+</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" key="home-installation-schedule-request-form" itemid="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>スケジュール リクエスト フォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" key="home-installation-schedule-request-form" itemid="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>スケジュールリクエストフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form" key="home-installation-schedule-request-form" itemid="{10293B8D-EE06-41A8-B8F6-0A7B22E9488E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スケジュールリクエストフォーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data" key="Data" itemid="{3F1E296D-32A1-4D6D-B9FC-2280B3CEAD36}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Hero" key="Hero" itemid="{6E5BABD1-181C-4F16-A6C1-741DDF0A60B6}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5FD5E0EE-2054-4DB8-96F7-7CD0D717D8E1}" alt="コネクテッド ホーム" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Text 1" key="Text 1" itemid="{82EC400C-F2C2-4581-8EEA-4122AF054D82}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;私たちの家づくりのプロセスは簡単です。このフォームから詳細情報をご請求いただくことから始まります。その後、お客様のご自宅への訪問を予定しています。設置予定日には、Lighthouse Home Goodsの専門家が到着し、お客様の新しい技術の評価と設定を行います。&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;下記のフォームに必要事項をご記入の上、送信してください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 1" key="Promo- Journey Step 1" itemid="{0287D775-41FB-4C66-B7A4-9DB4BB4781A8}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 1" key="Promo- Journey Step 1" itemid="{0287D775-41FB-4C66-B7A4-9DB4BB4781A8}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ご依頼の処理を行っており、24時間以内にご自宅の設置時間帯を確認するためのメールをお送りしております。メールをご確認の上、ご提案の日時をご確認ください。ありがとうございました。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 1" key="Promo- Journey Step 1" itemid="{0287D775-41FB-4C66-B7A4-9DB4BB4781A8}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ご投稿ありがとうございました&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 1" key="Promo- Journey Step 1" itemid="{0287D775-41FB-4C66-B7A4-9DB4BB4781A8}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{43B28A99-9CD7-4D47-8BCC-7B5D213ACEEF}" height="" hspace="" width="" alt="smart home camera " vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 1" key="Promo- Journey Step 1" itemid="{0287D775-41FB-4C66-B7A4-9DB4BB4781A8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ジャーニー ステップ 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 2" key="Promo- Journey Step 2" itemid="{D749585F-FC1F-4988-9F05-3D0F22F829D7}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 2" key="Promo- Journey Step 2" itemid="{D749585F-FC1F-4988-9F05-3D0F22F829D7}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ご記入いただいたアドレスに確認メールが送信されました。メールに記載された内容をご確認の上、ご自宅での設置予約の日時をご確認ください。ありがとうございました。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 2" key="Promo- Journey Step 2" itemid="{D749585F-FC1F-4988-9F05-3D0F22F829D7}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;アクション必須! 住宅設置の予約に関して送られてきたメールを確認してください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 2" key="Promo- Journey Step 2" itemid="{D749585F-FC1F-4988-9F05-3D0F22F829D7}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{51831BF4-8AFE-4F51-B8AF-B8DAECA92A1C}" height="" hspace="" width="" alt="smart home camera " vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 2" key="Promo- Journey Step 2" itemid="{D749585F-FC1F-4988-9F05-3D0F22F829D7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ジャーニー ステップ 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 3" key="Promo- Journey Step 3" itemid="{A0D75CD8-3F1D-42F4-9B34-A677BED75A3D}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 3" key="Promo- Journey Step 3" itemid="{A0D75CD8-3F1D-42F4-9B34-A677BED75A3D}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;これで、住宅設置の予約が正常に確定しました。ご不明な点がございましたら、ご連絡ください。ありがとうございました。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 3" key="Promo- Journey Step 3" itemid="{A0D75CD8-3F1D-42F4-9B34-A677BED75A3D}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;住宅設置のご予約確認ありがとうございました!&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 3" key="Promo- Journey Step 3" itemid="{A0D75CD8-3F1D-42F4-9B34-A677BED75A3D}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{78E09D52-9BD3-4896-980A-95BD1C05786C}" height="" hspace="" width="" alt="smart home camera " vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 3" key="Promo- Journey Step 3" itemid="{A0D75CD8-3F1D-42F4-9B34-A677BED75A3D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ジャーニー ステップ 3</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 4" key="Promo- Journey Step 4" itemid="{0780F80F-D851-4B4D-A4B3-6C7656EB71EB}" fieldid="{B8C1A9D2-DE76-4519-AFF4-1442525F32B0}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 4" key="Promo- Journey Step 4" itemid="{0780F80F-D851-4B4D-A4B3-6C7656EB71EB}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;ご自宅設置のご予約の確認が取れませんでした。お客様のご都合に合わせて、ご予約を変更させていただきますので、&lt;a href="~/link.aspx?_id=FD27A69C2AFD461D8C5973554C376648&amp;amp;_z=z"&gt;ご連絡ください&lt;/a&gt;&amp;nbsp;。ありがとうございました。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 4" key="Promo- Journey Step 4" itemid="{0780F80F-D851-4B4D-A4B3-6C7656EB71EB}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;アクション必須! 住宅設置予約の確認書が届きませんでした。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 4" key="Promo- Journey Step 4" itemid="{0780F80F-D851-4B4D-A4B3-6C7656EB71EB}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{5FD5E0EE-2054-4DB8-96F7-7CD0D717D8E1}" height="" hspace="" width="" alt="smart home camera " vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-schedule-request-form/Data/Promo- Journey Step 4" key="Promo- Journey Step 4" itemid="{0780F80F-D851-4B4D-A4B3-6C7656EB71EB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>プロモ - ジャーニー ステップ 4</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you" key="home-installation-thank-you" itemid="{DAA517D6-DDDF-43DF-A0F1-1E18006B5DE9}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>問い合わせありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you" key="home-installation-thank-you" itemid="{DAA517D6-DDDF-43DF-A0F1-1E18006B5DE9}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>問い合わせありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you" key="home-installation-thank-you" itemid="{DAA517D6-DDDF-43DF-A0F1-1E18006B5DE9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>問い合わせありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you/Data" key="Data" itemid="{9D63F43E-DBB2-4CC5-880D-BBB447DDCEE8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you/Data/Hero" key="Hero" itemid="{ADE46995-F995-43D7-B7A6-CA61C81E7014}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{0FFA61C8-E0E8-4A47-9DF3-640BC67E5050}" alt="ヒーロー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you/Data/Hero" key="Hero" itemid="{ADE46995-F995-43D7-B7A6-CA61C81E7014}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>ご興味を持っていただきありがとうございます</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/services/home-installation-thank-you/Data/Text 1" key="Text 1" itemid="{AC32A7A7-38F2-4257-AA95-086A5942E5A5}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;無料住宅設置相談会にご興味をお持ちいただきありがとうございます。ライトハウスホームグッズの担当者が、近日中にご予約のご連絡をさせていただきます。&lt;/p&gt;</ja-JP>
+  </phrase>
+</sitecore>
