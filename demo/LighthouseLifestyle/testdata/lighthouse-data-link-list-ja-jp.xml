@@ -1,0 +1,314 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists" key="Link Lists" itemid="{DA595171-A7E3-4B6C-964F-B36EEAA42E19}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>リンク リスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management" key="Account Management" itemid="{30255C25-82AC-434E-B718-C1D40E4BF716}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウント管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation" key="Side Navigation" itemid="{1A4422BD-DD8C-4AD1-BDF3-0A2DAC18E296}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サイトナビゲーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Overview" key="Overview" itemid="{058C9D5C-2025-402D-8F95-DB37C7B297B7}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" querystring="" linktype="internal" text="概要" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal" title="" class="" target="|Custom" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Overview" key="Overview" itemid="{058C9D5C-2025-402D-8F95-DB37C7B297B7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Account Profile" key="Account Profile" itemid="{53FBB2BA-2750-42D2-B5CB-9EE53620DD45}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{ED673E80-64F4-479F-BFA4-6E4C94539D17}" querystring="" linktype="internal" text="アカウント プロファイル" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal/editprofile" title="" class="" target="|Custom" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Account Profile" key="Account Profile" itemid="{53FBB2BA-2750-42D2-B5CB-9EE53620DD45}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウントプロファイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Change Password" key="Change Password" itemid="{5F7A11D9-1482-4983-9DEF-C92BD1282B9B}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{417C0A40-0B0C-47FF-B78B-CA6A4B3A8CA2}" querystring="" linktype="internal" text="パスワード変更" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal/changepassword" title="" class="" target="|Custom" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Change Password" key="Change Password" itemid="{5F7A11D9-1482-4983-9DEF-C92BD1282B9B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>パスワード変更</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Export Data" key="Export Data" itemid="{EC0A577C-B329-43FD-B377-C40E621282B1}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{F8BB107D-38AF-4C64-9235-3B13F26B01B7}" querystring="" linktype="internal" text="データ エクスポート" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal/export-data" title="" class="" target="|Custom" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Export Data" key="Export Data" itemid="{EC0A577C-B329-43FD-B377-C40E621282B1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ エクスポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Delete Account" key="Delete Account" itemid="{26FBE5A5-5F41-4034-8A4B-69970DD62594}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{94557F49-05B1-4DA3-8876-F79E86C3630B}" querystring="" linktype="internal" text="アカウント 削除" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal/deleteaccount" title="" class="" target="|Custom" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Account Management/Side Navigation/Delete Account" key="Delete Account" itemid="{26FBE5A5-5F41-4034-8A4B-69970DD62594}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アカウント 削除</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer" key="Footer" itemid="{F61676A8-97DA-4F0C-8E6A-373EED878EE8}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フッター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go" key="On The Go" itemid="{EE51CF0B-BE94-468C-BA00-D40672FB17C7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>お出かけ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/On The Go Devices" key="On The Go Devices" itemid="{47CE0D77-3EFE-4957-B298-052867FFD947}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="モバイルデバイス" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/On The Go Devices" key="On The Go Devices" itemid="{47CE0D77-3EFE-4957-B298-052867FFD947}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>モバイル デバイス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Mobile" key="Mobile" itemid="{AEC5C819-3721-457A-ADD7-DEC2EE32D5D4}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="モバイル" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Mobile" key="Mobile" itemid="{AEC5C819-3721-457A-ADD7-DEC2EE32D5D4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>モバイル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Phones" key="Phones" itemid="{63068115-19A5-4BD9-9B28-128F38D66EB7}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="" text="スマートフォン" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Phones" key="Phones" itemid="{63068115-19A5-4BD9-9B28-128F38D66EB7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Tablets" key="Tablets" itemid="{553CAF1A-E1A6-4D47-A245-814AB70E99CB}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="タブレット" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Tablets" key="Tablets" itemid="{553CAF1A-E1A6-4D47-A245-814AB70E99CB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Headphones" key="Headphones" itemid="{2B7717F5-E396-4816-916D-8E5E0F62C67A}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="ヘッドフォン" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Headphones" key="Headphones" itemid="{2B7717F5-E396-4816-916D-8E5E0F62C67A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヘッドフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Wearables" key="Wearables" itemid="{94100DCD-E48F-4A81-8855-C9261B2878A9}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="ウェアラブル" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Wearables" key="Wearables" itemid="{94100DCD-E48F-4A81-8855-C9261B2878A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ウェアラブル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Accessories" key="Accessories" itemid="{80F72F3A-4DBF-4673-977C-EC38636809AD}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{DC2D421A-6AB9-4907-8E1E-8C4F36BA4259}" querystring="" target="|Custom" text="アクセサリ" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/on-the-go" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/On The Go/Accessories" key="Accessories" itemid="{80F72F3A-4DBF-4673-977C-EC38636809AD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アクセサリ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home" key="At Home" itemid="{6D2C47F2-F1FE-4C0C-A5DF-13EED9DF7C22}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/At Home" key="At Home" itemid="{9736C792-ED3A-477F-AB56-C9F0DC6CD818}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="|Custom" text="ホーム" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/At Home" key="At Home" itemid="{9736C792-ED3A-477F-AB56-C9F0DC6CD818}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Smart Home" key="Smart Home" itemid="{4F57B9B9-E4C5-464B-9B36-64AA49C3CD87}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="|Custom" text="スマートホーム" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Smart Home" key="Smart Home" itemid="{4F57B9B9-E4C5-464B-9B36-64AA49C3CD87}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートホーム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Outlets" key="Outlets" itemid="{571C90D4-5F9C-485A-ACFC-0208DE90E293}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="" text="電源" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Outlets" key="Outlets" itemid="{571C90D4-5F9C-485A-ACFC-0208DE90E293}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>電源</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Security Cameras" key="Security Cameras" itemid="{F1904DB1-BE77-4503-92BB-4B043E8B4E87}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="" text="防犯カメラ" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Security Cameras" key="Security Cameras" itemid="{F1904DB1-BE77-4503-92BB-4B043E8B4E87}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>防犯カメラ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Computers" key="Computers" itemid="{44158DE1-C5DF-4914-BAF5-00DC8561F147}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Computers" key="Computers" itemid="{44158DE1-C5DF-4914-BAF5-00DC8561F147}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンピューター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Thermostats" key="Thermostats" itemid="{E56303EA-E117-49B7-81A7-C257F3AF2FD4}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="" text="サーモスタット" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Thermostats" key="Thermostats" itemid="{E56303EA-E117-49B7-81A7-C257F3AF2FD4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サーモスタット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Smart Locks" key="Smart Locks" itemid="{0669ABC8-2E5F-451A-9FF0-C89141E6C04A}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link id="{AD4D460B-511B-48D4-9B8D-648C5CAF59B1}" querystring="" target="" text="スマートロック" url="/Demo SXA Sites/LighthouseLifestyle/home/at-home" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/At Home/Smart Locks" key="Smart Locks" itemid="{0669ABC8-2E5F-451A-9FF0-C89141E6C04A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>スマートロック</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column" key="Computers Column" itemid="{4AC5862E-D0C3-4E65-AB1F-A03201F1747D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンピューター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Computers" key="Computers" itemid="{59ED8732-6FF6-47E6-AA72-C80E9B8483D4}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Computers" key="Computers" itemid="{59ED8732-6FF6-47E6-AA72-C80E9B8483D4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コンピューター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Productivity" key="Productivity" itemid="{212299F9-B7BC-494E-8534-E02C1FC81B7F}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Productivity" key="Productivity" itemid="{212299F9-B7BC-494E-8534-E02C1FC81B7F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Desktops" key="Desktops" itemid="{76CE1F72-E9B1-4CAF-A2AE-A96FE49C80B4}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Desktops" key="Desktops" itemid="{76CE1F72-E9B1-4CAF-A2AE-A96FE49C80B4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>デスクトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/All-in-One" key="All-in-One" itemid="{6A359496-0134-4E6B-BE27-79DEBE7780EC}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/All-in-One" key="All-in-One" itemid="{6A359496-0134-4E6B-BE27-79DEBE7780EC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オールインワン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Laptops" key="Laptops" itemid="{421E4854-AE24-41FC-BC08-9EF3AEA41AC3}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Laptops" key="Laptops" itemid="{421E4854-AE24-41FC-BC08-9EF3AEA41AC3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ラップトップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Tablets" key="Tablets" itemid="{E0FC9043-E514-43C5-968C-C531663A07FC}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Computers Column/Tablets" key="Tablets" itemid="{E0FC9043-E514-43C5-968C-C531663A07FC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>タブレット</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column" key="TV Audio Column" itemid="{4306DB59-ECDB-4528-B258-89E9C8635A27}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>TV オーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Entertainment" key="Home Entertainment" itemid="{F9D44C9A-5FD5-4B76-8490-C148821B3406}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="エンターテイメント" linktype="rel" url="/Demo SXA Sites/SitecoreDemo/home/home-entertainment" anchor="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Entertainment" key="Home Entertainment" itemid="{F9D44C9A-5FD5-4B76-8490-C148821B3406}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム エンターテイメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Theaters" key="Home Theaters" itemid="{1E4E3C38-D020-4DC2-B36D-A5188BE7634E}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Theaters" key="Home Theaters" itemid="{1E4E3C38-D020-4DC2-B36D-A5188BE7634E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホームシアター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Televisions" key="Televisions" itemid="{D60113AF-6D98-4702-BF74-2C9DAACD58A3}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Televisions" key="Televisions" itemid="{D60113AF-6D98-4702-BF74-2C9DAACD58A3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>テレビ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Theater" key="Home Theater" itemid="{B183C5E7-F6BC-4FDD-B540-FEBC83086C4C}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Home Theater" key="Home Theater" itemid="{B183C5E7-F6BC-4FDD-B540-FEBC83086C4C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ホーム シアター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Headphones" key="Headphones" itemid="{1E3BEB47-77D7-40A3-A23A-8AF53C44576D}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Headphones" key="Headphones" itemid="{1E3BEB47-77D7-40A3-A23A-8AF53C44576D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ヘッドフォン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Audio Systems" key="Audio Systems" itemid="{F243DDFD-AFC1-4824-978F-B381115AB1B3}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Audio Systems" key="Audio Systems" itemid="{F243DDFD-AFC1-4824-978F-B381115AB1B3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オーディオシステム</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Car Audio" key="Car Audio" itemid="{36A5A80B-BB76-416E-90D4-0E55EC111BBA}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/TV Audio Column/Car Audio" key="Car Audio" itemid="{36A5A80B-BB76-416E-90D4-0E55EC111BBA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>カーオーディオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column" key="Appliances Column" itemid="{CF5FB3C6-ACD6-416B-9147-2D6754538620}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家電製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Appliances" key="Appliances" itemid="{D4C4FC16-297F-491D-932C-A705B6CDB289}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Appliances" key="Appliances" itemid="{D4C4FC16-297F-491D-932C-A705B6CDB289}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>家電製品</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Refridgerators" key="Refridgerators" itemid="{B9656B05-C3D3-4B85-8E9D-EA6B6F08FF38}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Refridgerators" key="Refridgerators" itemid="{B9656B05-C3D3-4B85-8E9D-EA6B6F08FF38}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>冷蔵庫</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Dryers" key="Dryers" itemid="{3DF00E69-1BC8-485C-8E2A-D4F6A8C895DB}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Dryers" key="Dryers" itemid="{3DF00E69-1BC8-485C-8E2A-D4F6A8C895DB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>乾燥機</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Ranges" key="Ranges" itemid="{977E2B9B-6C73-49FE-B7CF-3F54E8A10085}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Ranges" key="Ranges" itemid="{977E2B9B-6C73-49FE-B7CF-3F54E8A10085}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>レンジ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Handhelds" key="Handhelds" itemid="{0528413D-2D46-4087-8F4C-D1FAC20C6583}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Handhelds" key="Handhelds" itemid="{0528413D-2D46-4087-8F4C-D1FAC20C6583}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ハンドヘルド</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Coffee Makers" key="Coffee Makers" itemid="{A4316BEF-EE90-4F92-83D2-8C41B2CA59F5}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Coffee Makers" key="Coffee Makers" itemid="{A4316BEF-EE90-4F92-83D2-8C41B2CA59F5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>コーヒーメーカー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Vacuum Cleaners" key="Vacuum Cleaners" itemid="{71B18B3A-D71A-46B1-BF3F-425FB159290D}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Vacuum Cleaners" key="Vacuum Cleaners" itemid="{71B18B3A-D71A-46B1-BF3F-425FB159290D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>真空掃除機</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Microwaves" key="Microwaves" itemid="{485BCC1B-28DC-442F-9CC0-427925FF45B6}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Appliances Column/Microwaves" key="Microwaves" itemid="{485BCC1B-28DC-442F-9CC0-427925FF45B6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>電子レンジ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column" key="Other Column" itemid="{5545E611-F912-4EE7-991E-8AD7990E2B9D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>その他</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Articles" key="Articles" itemid="{B2AC7183-AEA2-4E41-9CBD-780AF231C314}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="記事" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{64F922B1-D57D-4AFA-AE26-9D59502F69A6}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Articles" key="Articles" itemid="{B2AC7183-AEA2-4E41-9CBD-780AF231C314}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>記事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Company" key="Company" itemid="{974E6D6D-1992-4BB5-AA05-3BA3C2B302FA}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="会社情報" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CD923BB2-CD93-49F6-87C9-B4A2B54D073D}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Company" key="Company" itemid="{974E6D6D-1992-4BB5-AA05-3BA3C2B302FA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>会社情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Locations" key="Locations" itemid="{7FDD1927-4EEB-4205-B9BA-424ECC270C92}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="店舗情報" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E8F8938B-E4FC-4AF4-A921-174956E8A53F}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Locations" key="Locations" itemid="{7FDD1927-4EEB-4205-B9BA-424ECC270C92}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>店舗情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Services" key="Services" itemid="{275BDA4B-C4D8-4458-90A6-97EDB49D9ABA}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="サービス" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3E54A390-BFFD-40E6-9AF7-E951A806E691}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Services" key="Services" itemid="{275BDA4B-C4D8-4458-90A6-97EDB49D9ABA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サービス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Contact" key="Contact" itemid="{65B5E116-C1E3-4867-A3BD-8CCD22582533}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="連絡先" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FD27A69C-2AFD-461D-8C59-73554C376648}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Contact" key="Contact" itemid="{65B5E116-C1E3-4867-A3BD-8CCD22582533}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>連絡先</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Landing Pages" key="Landing Pages" itemid="{1A0F6A87-EC75-4027-93F4-75D0A3296CAB}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="ランディング ページ" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{602E4F4D-11E2-44E9-A8AC-12AE5E05A1A4}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Landing Pages" key="Landing Pages" itemid="{1A0F6A87-EC75-4027-93F4-75D0A3296CAB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ランディング ページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Campaign Pages" key="Campaign Pages" itemid="{B523E8C8-FDFA-4FA7-9A08-17F37A6D9D82}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="00010101T000000Z">
+    <ja-JP>&lt;link text="キャンペーン" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FB18ABCB-15E7-4D9C-A9CE-3C404F32ED36}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Link Lists/Footer/Other Column/Campaign Pages" key="Campaign Pages" itemid="{B523E8C8-FDFA-4FA7-9A08-17F37A6D9D82}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>キャンペーンページ</ja-JP>
+  </phrase>
+</sitecore>

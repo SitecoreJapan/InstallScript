@@ -1,0 +1,20 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Applied for Credit Card" key="Applied for Credit Card" itemid="{C3D664C0-50B7-4500-8202-5EF2B81DBE7A}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>クレジットカードの申請</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Applied for Credit Card" key="Applied for Credit Card" itemid="{C3D664C0-50B7-4500-8202-5EF2B81DBE7A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>クレジットカードの申請</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Appointment with Financial Advisor" key="Appointment with Financial Advisor" itemid="{4D23BC7C-C5CE-4E09-970E-457411E50243}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>ファイナンシャルアドバイザーとのアポイントメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Appointment with Financial Advisor" key="Appointment with Financial Advisor" itemid="{4D23BC7C-C5CE-4E09-970E-457411E50243}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ファイナンシャルアドバイザーとのアポイントメント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Signed up for Newsletter" key="Signed up for Newsletter" itemid="{8E9DEDA8-8ABC-47D2-A266-95C91B93029E}" fieldid="{AC6BA888-4213-43BD-B787-D8DA2B6B881F}" updated="00010101T000000Z">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/Marketing Control Panel/Goals/LighthouseFinancial/Signed up for Newsletter" key="Signed up for Newsletter" itemid="{8E9DEDA8-8ABC-47D2-A266-95C91B93029E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ニュースレターに登録</ja-JP>
+  </phrase>
+</sitecore>

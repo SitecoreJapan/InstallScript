@@ -1,0 +1,157 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios" key="scenarios" itemid="{ECB62287-275F-48A4-B49F-E4EF1844F583}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>シナリオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios" key="scenarios" itemid="{ECB62287-275F-48A4-B49F-E4EF1844F583}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>シナリオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios" key="scenarios" itemid="{ECB62287-275F-48A4-B49F-E4EF1844F583}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey" key="onboarding-customer-journey" itemid="{F2718720-D119-467B-988F-32F8593C1C2A}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey" key="onboarding-customer-journey" itemid="{F2718720-D119-467B-988F-32F8593C1C2A}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>このシナリオでは、マーケターがカスタマージャーニーの作成、管理、レポート作成を支援することを目的としたSitecoreプラットフォームの多くの機能を紹介します。ジャーニーを開始する前に、以下のシナリオのステップを確認してください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey" key="onboarding-customer-journey" itemid="{F2718720-D119-467B-988F-32F8593C1C2A}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>新規コンタクトの特定と育成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey" key="onboarding-customer-journey" itemid="{F2718720-D119-467B-988F-32F8593C1C2A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>オンボーディング カスタマージャーニー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data" key="Data" itemid="{55779556-C147-4684-870A-3C5F7A779EAC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Page Hero" key="Page Hero" itemid="{7C4389A2-6D0E-4493-B231-8FBD9D4C7698}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{34510C0D-20F1-4BA1-B14E-D475292196A8}" alt="スマートフォンを操作する女性" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Page Hero" key="Page Hero" itemid="{7C4389A2-6D0E-4493-B231-8FBD9D4C7698}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ページ ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Helper Text" key="Scenario Helper Text" itemid="{4200DA62-8190-4E3E-82DD-C9737A537632}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;シナリオ中にこのようなヘルパーのテキストを見て、ヒントや追加情報を得よう&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Helper Text" key="Scenario Helper Text" itemid="{4200DA62-8190-4E3E-82DD-C9737A537632}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオヘルパーテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Helper Text - Scenario Complete" key="Scenario Helper Text - Scenario Complete" itemid="{B0AC1E89-68A4-494B-8BAF-32CBBB009A0F}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&lt;strong&gt;お疲れ様でした！&lt;/strong&gt; これでこのシナリオは完了です。旅の途中で集めたレポートやアナリティクスを確認することを忘れないでください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Helper Text - Scenario Complete" key="Scenario Helper Text - Scenario Complete" itemid="{B0AC1E89-68A4-494B-8BAF-32CBBB009A0F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオヘルパーテキスト - シナリオ完了</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps" key="Scenario Steps" itemid="{323B17D4-9C9F-4103-9854-817644B9068B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオステップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 1" key="Step 1" itemid="{D1F26B3F-01F3-4B4E-B4AC-19EC5190E3C1}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;このシナリオは、未知のコンタクトが検索エンジンを使ってコンテンツを探しているところから始まります。Lighthouseは、検索エンジンの結果ページ（Google、Bingなど）に表示されるペイ・パー・クリック（PPC）広告を作成しました。このステップの目的は、未知のコンタクトがPPC広告を経由して来たことを追跡しながら、そのコンタクトをウェブサイトに呼び込むことです。&lt;/p&gt;&lt;p&gt;Sitecoreの&lt;i&gt;&lt;b&gt;キャンペーンクリエイター&lt;/b&gt;&lt;/i&gt;&amp;nbsp;ツールを使用することで、マーケティング担当者は大規模なキャンペーンを作成して管理することができます。これにより、マーケティング担当者は大規模なキャンペーンを作成し、管理することができます。&lt;/p&gt;&lt;p&gt;例えば:&lt;br /&gt;https://example.com?&lt;b&gt;sc_camp=7F3D54DB06A84146897E5036BCC9315A&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Sitecoreのキャンペーンコードを介して取得された情報は、レポーティングや分析の目的で非常に重要であり、マーケティング担当者はキャンペーンが期待通りのパフォーマンスを発揮しているかどうか、あるいは注意が必要かどうかを判断するのに役立ちます。Sitecoreの分析とレポーティングについては、このシナリオの最後に詳しく説明します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 1" key="Step 1" itemid="{D1F26B3F-01F3-4B4E-B4AC-19EC5190E3C1}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;b&gt;Step 1&lt;/b&gt; - 着信連絡先とキャンペーンの追跡</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 1" key="Step 1" itemid="{D1F26B3F-01F3-4B4E-B4AC-19EC5190E3C1}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ１</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 2" key="Step 2" itemid="{2785C137-9271-46AC-BF4A-9039D590C6E2}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;このステップの目的は、顧客獲得です。訪問者は、コールトゥアクションフォームを含む記事ページに到着します。訪問者がコールトゥアクションフォームを送信すると、次のことができます。:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;訪問者のメールアドレスを利用して、Sitecoreのエクスペリエンスデータベース内の既知のコンタクトに変える&lt;/li&gt;。
+    &lt;li&gt;Sitecoreゴールをトリガーする（現在および将来の訪問でパーソナライゼーションやその他の目的に使用することができます）&lt;/li&gt;。
+    &lt;li&gt;再マーケティングの機会のための同意情報の収集を試みる&lt;/li&gt;。
+    &lt;li&gt;確認メールを送信する&lt;/li&gt;。
+    &lt;li&gt;訪問者をマーケティング・オートメーション・プランに登録して、新しいコンタクトを育成する&lt;/li&gt;。
+&lt;/ul&gt;
+&lt;p&gt;訪問者は、暗黙の同意によりコールトゥアクションフォームを送信した後にメールを受け取りますが、将来的にマーケティングメールを送信したい場合は、訪問者から&lt;strong&gt;&lt;em&gt;同意情報&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;を収集することが重要です。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 2" key="Step 2" itemid="{2785C137-9271-46AC-BF4A-9039D590C6E2}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;b&gt;Step 2&lt;/b&gt; - 連絡先の特定と同意の収集</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 2" key="Step 2" itemid="{2785C137-9271-46AC-BF4A-9039D590C6E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ２</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 3" key="Step 3" itemid="{CE89CCC8-41DA-4040-8A3C-0E5340149170}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;このステップでは、訪問者はマーケティングオートメーション計画に配置され、新たなコンタクト獲得のためのカスタマージャーニーの管理を支援しています。&lt;/p&gt;
+&lt;p&gt;マーケティングオートメーションプランでは、訪問者の同意情報を確認し、同意が得られた場合にのみ再マーケティングを行います。同意が得られなかった場合は、マーケティングオートメーション計画からそのコンタクトを削除し、後の使用のためにコンタクトリストに配置します。&lt;/p&gt;
+&lt;p&gt;マーケティングオートメーション計画の目標は、ウェブサイト上の他の目標を完了するように訪問者を誘導することです。フォローアップ目標には、訪問者についてのより多くの情報を収集するために、&lt;em&gt;&lt;strong&gt;3ステップのアンケート&lt;/strong&gt;&lt;/em&gt;と&lt;em&gt;&lt;strong&gt;x新しいアカウントの作成&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;を完了することが含まれます。&lt;/p&gt;
+&lt;p&gt;Sitecoreダッシュボードの&lt;em&gt;&lt;strong&gt;マーケティングオートメーションアプリ&lt;/strong&gt;&lt;/em&gt;にアクセスして、プランを確認することができます。マーケティングオートメーションプランは、&lt;strong&gt;&lt;em&gt;新規コンタクト - オンボーディングカスタマージャーニー&lt;/em&gt;&lt;/strong&gt;と名付けられています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 3" key="Step 3" itemid="{CE89CCC8-41DA-4040-8A3C-0E5340149170}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;b&gt;Step 3&lt;/b&gt; - マーケティングオートメーションプランでカスタマージャーニーをコントロール</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 3" key="Step 3" itemid="{CE89CCC8-41DA-4040-8A3C-0E5340149170}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ３</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 4" key="Step 4" itemid="{B3F08ED2-CD64-4CA2-B7E0-1ED453B4F5A9}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;このステップでは、訪問者はメールの中のリンクをクリックし、マーケティングのランディングページに移動します。ランディングページには、現在アクティブなA/Bテスト中のコールトゥアクションが1つあります。&lt;/p&gt;
+&lt;p&gt;コールトゥアクションで使用されるコンテンツと画像には、3つのアクティブなバリエーションがあります。Sitecoreは、どのテストバリアントが最も効果的かを判断するために訪問者データを収集します。このシナリオでは、テストバリアントごとに3ステップのアンケートに何人の訪問者が回答したかによって効果が決定されます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 4" key="Step 4" itemid="{B3F08ED2-CD64-4CA2-B7E0-1ED453B4F5A9}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;strong&gt;Step 4&lt;/strong&gt;&amp;nbsp;- A/Bおよび多変量テスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 4" key="Step 4" itemid="{B3F08ED2-CD64-4CA2-B7E0-1ED453B4F5A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ 4</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 5" key="Step 5" itemid="{C21EC3BE-5B3D-4181-89E2-F7024C3AEA8A}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;このステップでは、訪問者は3つのステップのアンケートに答えます。アンケートはSitecore Formsで作成され、訪問者に関するより多くの情報を収集するように設計されています。&lt;/p&gt;
+&lt;p&gt;また、実際のパーソナライゼーションの例も紹介します。あなたのパーソナライズされたデジタルフィットネストレーナーは、3ステップのアンケートの回答に基づいて、Sitecoreのパーソナライゼーションを使用して結果を表示します。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 5" key="Step 5" itemid="{C21EC3BE-5B3D-4181-89E2-F7024C3AEA8A}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;strong&gt;Step 5&lt;/strong&gt;&amp;nbsp;- アクションでのパーソナライゼーション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 5" key="Step 5" itemid="{C21EC3BE-5B3D-4181-89E2-F7024C3AEA8A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ 5</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 6" key="Step 6" itemid="{1C44587F-2002-435D-A49D-CDEF8533F7D6}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p /&gt;&lt;em&gt;&lt;strong&gt;オンボーディング カスタマージャーニー&lt;/strong&gt;&lt;/em&gt;の最終目標は、訪問者に新しいアカウントに登録してもらうことです。
+最初のマーケティングオートメーション計画の最後のステップは、登録に関するメールを送信することです。訪問者が新しいアカウントを作成した場合、次のようになります。
+&lt;ul&gt;
+    &lt;li&gt;登録確認メールが送信されます&lt;/li&gt;
+    &lt;li&gt;コンタクトは、新規登録者を育成するために、&lt;strong&gt;&lt;em&gt;新規アカウント登録&lt;/em&gt;&lt;/strong&gt;という名前の新しいマーケティングオートメーションプランに配置されます。.&lt;/li&gt;
+&lt;/ul&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 6" key="Step 6" itemid="{1C44587F-2002-435D-A49D-CDEF8533F7D6}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;strong&gt;Step 6&lt;/strong&gt;&amp;nbsp;- 新規アカウントの作成</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 6" key="Step 6" itemid="{1C44587F-2002-435D-A49D-CDEF8533F7D6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ステップ 6</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 7" key="Step 7" itemid="{B41C5E7D-CCED-45CA-B241-36354CFBEA31}" fieldid="{5A236869-E375-49C0-A92D-0C2F1DB7788F}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;カスタマージャーニー中に取得した素晴らしいデータをすべて見直す時が来ました。この情報は、マーケティング担当者がROIを追跡し、フィードバックループを作成して、マーケティングの取り組みが成功しているかどうかを判断し、より効果的なものにするにはどうすればよいかを判断するのに役立ちます。&lt;/p&gt;
+&lt;p&gt;シナリオ終了時に確認しておくべき重要なレポートをいくつか紹介します。これらのレポートはすべて Sitecore Dashboard から入手できます。&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;エクスペリエンス プロファイル&lt;/strong&gt;
+    &lt;ul&gt;
+        &lt;li&gt;検索バーでメールで連絡先を検索すると、サイト上で達成したことの詳細な内訳が表示されます。&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;エクスペリエンス アナリティクス&lt;/strong&gt;
+    &lt;ul&gt;
+        &lt;li&gt;ここには多くのレポートがありますが、"&lt;strong&gt;&lt;em&gt;オーディエンス -&amp;gt; パターンマッチ&lt;/em&gt;&lt;/strong&gt;" レポートをチェックして、訪問者がどのようにウェブサイト上で閲覧習慣や収集した情報に基づいてプロファイル化されているかを確認してください。コンバージョン率が最も高いのはどのタイプの訪問者ですか？&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;PATH アナライザ&lt;/strong&gt;
+    &lt;ul&gt;
+        &lt;li&gt;このツールは、カスタマージャーニーの集約された視覚的な表現を作成します。緑と赤のノードを見て、コンバージョンの高いエリアとドロップオフのエリアを識別します。&lt;/li&gt;
+        &lt;li&gt;このシナリオのSitecoreキャンペーンのように、特定のカスタマージャーニーを表示するためにフィルターマップを適用することを忘れないでください。&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;これらの分析ツールを組み合わせることで、カスタマージャーニーの全体像を示すことができます。個々のサイト訪問からカスタマージャーニーの集約された視覚的な表現まで、Sitecoreの分析とレポーティング機能は、マーケティングを次のレベルに引き上げます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 7" key="Step 7" itemid="{B41C5E7D-CCED-45CA-B241-36354CFBEA31}" fieldid="{7240053B-9140-48AC-ACEA-ABFCCD7761A1}" updated="00010101T000000Z">
+    <ja-JP>&lt;strong&gt;Step 7&lt;/strong&gt;&amp;nbsp;- レポートとアナリティクス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Scenario Steps/Step 7" key="Step 7" itemid="{B41C5E7D-CCED-45CA-B241-36354CFBEA31}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アコーディオン アイテム 2</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Start Scenario" key="Start Scenario" itemid="{663EC87C-4708-48CE-97B4-7839F23F5047}" fieldid="{B59ADC09-32A3-46F2-AEDE-B0C633979263}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&lt;b&gt;重要:&lt;/b&gt; シナリオを開始する前に、&lt;i&gt;シークレットモード&lt;/i&gt;を使用していること、または&lt;i&gt;新しいブラウザセッション&lt;/i&gt;を使用していることを確認してください。新しいブラウザセッションでこのページを開き、以下のボタンをクリックしてください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Start Scenario" key="Start Scenario" itemid="{663EC87C-4708-48CE-97B4-7839F23F5047}" fieldid="{14023DD5-30E7-4E3C-BF31-D835F3A87410}" updated="00010101T000000Z">
+    <ja-JP>はじめに</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/scenarios/onboarding-customer-journey/Data/Start Scenario" key="Start Scenario" itemid="{663EC87C-4708-48CE-97B4-7839F23F5047}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>シナリオ開始</ja-JP>
+  </phrase>
+</sitecore>

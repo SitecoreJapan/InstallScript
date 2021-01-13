@@ -1,0 +1,106 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages" key="landing-pages" itemid="{602E4F4D-11E2-44E9-A8AC-12AE5E05A1A4}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>ランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages" key="landing-pages" itemid="{602E4F4D-11E2-44E9-A8AC-12AE5E05A1A4}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;&amp;nbsp;ページのこのセクションを使用して、デモシナリオ用のランディングページを作成します。&amp;nbsp;&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages" key="landing-pages" itemid="{602E4F4D-11E2-44E9-A8AC-12AE5E05A1A4}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>ランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages" key="landing-pages" itemid="{602E4F4D-11E2-44E9-A8AC-12AE5E05A1A4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living" key="healthy-living" itemid="{902AAD71-DD65-4C4E-97BE-C2F341962685}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>パーソナライズされたバーチャルトレーナーと一緒に、あなたのフィットネス目標をより早く達成するためのお手伝いをしましょう。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living" key="healthy-living" itemid="{902AAD71-DD65-4C4E-97BE-C2F341962685}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>健康的な生活</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living" key="healthy-living" itemid="{902AAD71-DD65-4C4E-97BE-C2F341962685}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>アクティブABテストの例</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living/Data" key="Data" itemid="{E9CDF91C-A7DC-4CB2-90E2-88C3F0CC924D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living/Data/Demo Helper Text" key="Demo Helper Text" itemid="{A039E3F2-D5F3-45C5-90F7-2C5607EDDE6F}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;A/Bテストの例 - 以下に示すコールトゥアクションコンポーネントは、3つの異なるテストバリアントを持つ&lt;strong&gt;アクティブなA/Bテスト&lt;/strong&gt;の例です。テストのバリエーションは、セッションの間、各サイトの訪問者に表示されます。&lt;/p&gt;
+&lt;p&gt;異なるテストバリアントを表示するには、&lt;strong&gt;別のブラウザでこのページを開く&lt;/strong&gt;か、シークレットモードにしてください。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living/Data/Demo Helper Text" key="Demo Helper Text" itemid="{A039E3F2-D5F3-45C5-90F7-2C5607EDDE6F}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>デモヘルパーテキスト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living/Data/Page Hero" key="Page Hero" itemid="{67B0BBC9-57AE-44CA-A679-9AF78039BC5A}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{B8CD0674-1886-470F-9B58-77CBA03BDF43}" alt="フィットネス" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/healthy-living/Data/Page Hero" key="Page Hero" itemid="{67B0BBC9-57AE-44CA-A679-9AF78039BC5A}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>健康的な生活</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example" key="gdpr-form-example" itemid="{60D23E6B-5949-4172-ABE0-4AB4128E5672}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>GDPRフォームの例</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example" key="gdpr-form-example" itemid="{60D23E6B-5949-4172-ABE0-4AB4128E5672}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>GDPRフォームの例</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example" key="gdpr-form-example" itemid="{60D23E6B-5949-4172-ABE0-4AB4128E5672}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>GDPRフォームの例</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example/Data" key="Data" itemid="{CCC56CEF-AC1D-4B70-B942-CA16DAC60DEB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example/Data/Page Hero" key="Page Hero" itemid="{F82F86E4-F622-422E-8FD3-94F528978FBA}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{E59F1330-6FD3-47DC-B708-9B34296D7314}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/gdpr-form-example/Data/Page Hero" key="Page Hero" itemid="{F82F86E4-F622-422E-8FD3-94F528978FBA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ページ ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample" key="sample" itemid="{7E6B66E0-3929-4081-B004-ED04ED0EAA2D}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>サンプルランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample" key="sample" itemid="{7E6B66E0-3929-4081-B004-ED04ED0EAA2D}" fieldid="{5A0B08E5-7F6C-48DC-929A-5D6CFDA45E1D}" updated="00010101T000000Z">
+    <ja-JP>&lt;p&gt;Bacon ipsum dolor amet jowl swine sausage capicola fatback meatloaf. Tongue beef shoulder biltong. Pancetta salami shankle pork belly buffalo, prosciutto shoulder pastrami sausage hamburger brisket doner cow sirloin tri-tip. T-bone andouille flank spare ribs picanha jowl turkey pork chop frankfurter strip steak.&lt;/p&gt;
+&lt;p&gt;Turkey corned beef pork strip steak short loin biltong. Pork chop pancetta andouille turkey. Tongue bacon salami meatball shoulder kevin flank cupim drumstick burgdoggen alcatra capicola. Turkey ball tip pork chop, biltong sirloin ham kielbasa.&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample" key="sample" itemid="{7E6B66E0-3929-4081-B004-ED04ED0EAA2D}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>サンプルランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample" key="sample" itemid="{7E6B66E0-3929-4081-B004-ED04ED0EAA2D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サンプルランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data" key="Data" itemid="{2F75E5D4-37FB-434B-9EF1-C25AC7DDCFDE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data/Page Hero" key="Page Hero" itemid="{97AA9737-647C-4AC0-9710-82657CDB60FB}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{3651792B-489E-4A25-9B69-48219439CF2A}" &gt;&lt;/image&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data/Page Hero" key="Page Hero" itemid="{97AA9737-647C-4AC0-9710-82657CDB60FB}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>サンプルランディングページ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data/Page Hero" key="Page Hero" itemid="{97AA9737-647C-4AC0-9710-82657CDB60FB}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ページ ヒーロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data/Sample Promo 1" key="Sample Promo 1" itemid="{A3433FA3-7410-4A33-926E-194E9F6155E2}" fieldid="{18F9BEB8-0116-40FD-B47E-FD0A2327D7E0}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{FD45FB7F-9212-43A9-B1DF-96E75BE92363}" alt="ヒーロー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample/Data/Sample Promo 1" key="Sample Promo 1" itemid="{A3433FA3-7410-4A33-926E-194E9F6155E2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>サンプル プロモ 1</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form" key="sample-with-form" itemid="{5D1327E0-2BC9-4B0C-9B04-133784B1DB24}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>フォーム付きランディングページのサンプル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form" key="sample-with-form" itemid="{5D1327E0-2BC9-4B0C-9B04-133784B1DB24}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>フォーム付きランディングページのサンプル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form/Data" key="Data" itemid="{02CC26F3-ED25-41F7-BABA-ADDD3E51F7C5}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>データ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form/Data/Page Hero" key="Page Hero" itemid="{EA633A49-3468-4CA5-89B6-BF52462D515C}" fieldid="{9C385368-A554-4A92-9A8D-37F3EF3A09F4}" updated="00010101T000000Z">
+    <ja-JP>&lt;image mediaid="{3651792B-489E-4A25-9B69-48219439CF2A}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form/Data/Page Hero" key="Page Hero" itemid="{EA633A49-3468-4CA5-89B6-BF52462D515C}" fieldid="{440B5413-5322-4166-9FBE-580F70973751}" updated="00010101T000000Z">
+    <ja-JP>フォーム付きランディングページのサンプル</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/landing-pages/sample-with-form/Data/Page Hero" key="Page Hero" itemid="{EA633A49-3468-4CA5-89B6-BF52462D515C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>ページ ヒーロー</ja-JP>
+  </phrase>
+</sitecore>

@@ -1,0 +1,149 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors" key="Authors" itemid="{1D2BD6DD-631D-4FBA-AECE-58A0ABD503BF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>編集者</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Chris Haverford" key="Chris Haverford" itemid="{612AD435-5BBC-4900-9EBD-B5646C57C4EA}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{55B3505B-1D61-43C5-963F-ABEE044C6BB9}" alt="クリス ハーバーフォード" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Chris Haverford" key="Chris Haverford" itemid="{612AD435-5BBC-4900-9EBD-B5646C57C4EA}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>クリス ハーバーフォード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Chris Haverford" key="Chris Haverford" itemid="{612AD435-5BBC-4900-9EBD-B5646C57C4EA}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;クリスは、ホームシアターデザイナーであり、ニューヨークを拠点に活動するコンシューマーオーディオジャーナリストです。新製品、オーディオやビデオのトレンド、ホームシアターやパフォーマンスシアターのデザインについて執筆しています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Chris Haverford" key="Chris Haverford" itemid="{612AD435-5BBC-4900-9EBD-B5646C57C4EA}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>クリス ハーバーフォード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/David Opp" key="David Opp" itemid="{94358B5D-48E1-4324-AE29-33102095EF83}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{0AFAFE4D-6607-4A68-A6F2-1A34B7E3F93A}" alt="デービット オップ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/David Opp" key="David Opp" itemid="{94358B5D-48E1-4324-AE29-33102095EF83}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>デービット オップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/David Opp" key="David Opp" itemid="{94358B5D-48E1-4324-AE29-33102095EF83}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;デビッドは、ニューヨークを拠点とするホームシアター・デザイナーであり、コンシューマー・オーディオ・ジャーナリストです。新製品、オーディオやビデオのトレンド、ホームシアターやパフォーマンスシアターのデザインについて執筆しています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/David Opp" key="David Opp" itemid="{94358B5D-48E1-4324-AE29-33102095EF83}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>デービット オップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jessica Chan" key="Jessica Chan" itemid="{9DFF331C-3B0A-477F-8FED-B27E9664C13C}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{3C6449D7-F3BC-4355-B506-C35DAFBBC830}" alt="ジェシカ チャン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jessica Chan" key="Jessica Chan" itemid="{9DFF331C-3B0A-477F-8FED-B27E9664C13C}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジェシカ チャン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jessica Chan" key="Jessica Chan" itemid="{9DFF331C-3B0A-477F-8FED-B27E9664C13C}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ジェシカはクリーブランドの静かな家でアプリやテクノロジーを取材しています。彼女の作品はTimeやFast Companyなどに掲載されています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jessica Chan" key="Jessica Chan" itemid="{9DFF331C-3B0A-477F-8FED-B27E9664C13C}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジェシカ チャン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jimmie Mills" key="Jimmie Mills" itemid="{C926603A-6D09-476E-B614-CE8B247212DF}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{7609B373-194B-478E-9070-2F407CC2E984}" alt="ジェイミー ミルズ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jimmie Mills" key="Jimmie Mills" itemid="{C926603A-6D09-476E-B614-CE8B247212DF}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジェイミー ミルズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jimmie Mills" key="Jimmie Mills" itemid="{C926603A-6D09-476E-B614-CE8B247212DF}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ジミーはグラフィックデザイナーで、中小企業のブランディングやプレゼンテーションの改善を支援しています。ジミーはまた、自身の &lt;a rel="noopener noreferrer" href="http://youtube.com/robertoblake2" target="_blank" title="Youtube channel" style="color: #000000; background-color: #f6f6f6; margin: 0px; padding: 0px; border: 0px;"&gt;YouTubeチャンネルとコミュニティ&lt;/a&gt; でグラフィックデザインとAdobeのチュートリアルを教えています。ジミーのPhotoshopアートワークは、Advanced PhotoshopやPhotoshop Creative Magazineなどの出版物で紹介されています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Jimmie Mills" key="Jimmie Mills" itemid="{C926603A-6D09-476E-B614-CE8B247212DF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジェイミー ミルズ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Sprig" key="John Sprig" itemid="{3A2C6388-32D9-40FA-A75A-8288CB1CF540}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{55B3505B-1D61-43C5-963F-ABEE044C6BB9}" alt="ジョン スプリグ" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Sprig" key="John Sprig" itemid="{3A2C6388-32D9-40FA-A75A-8288CB1CF540}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョン スプリグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Sprig" key="John Sprig" itemid="{3A2C6388-32D9-40FA-A75A-8288CB1CF540}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ジョンは、サンフランシスコを拠点とするITマネージャーであり、テクノロジー・ジャーナリストです。Lighthouse Home Goodsでタブレットやラップトップをレビューしたり、いくつかの出版物で消費者向けテクノロジーのトレンドについて執筆しています。また、熱心な旅行者でもあります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Sprig" key="John Sprig" itemid="{3A2C6388-32D9-40FA-A75A-8288CB1CF540}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョン スプリグ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Turow" key="John Turow" itemid="{FA4C3BAC-9788-4439-88F3-96E2F820B95B}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{29D03E5A-BCC5-42A5-96F0-DFBEADAF0F4E}" alt="ジョン スロー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Turow" key="John Turow" itemid="{FA4C3BAC-9788-4439-88F3-96E2F820B95B}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョン スロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Turow" key="John Turow" itemid="{FA4C3BAC-9788-4439-88F3-96E2F820B95B}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ジョンは料理好きのインテリアデザイナーです。シカゴを拠点に、NPRやシカゴトリビューンで執筆活動を行っています。世界中の家庭でキッチンのリフォームを手がけてきました。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/John Turow" key="John Turow" itemid="{FA4C3BAC-9788-4439-88F3-96E2F820B95B}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョン スロー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Josephine Baxter" key="Josephine Baxter" itemid="{6991E232-7E09-4CF8-BB77-90D45AA781A9}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{53D07ED3-C683-4278-9257-DF9418020D31}" alt="ジョセフィーヌ バクスター" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Josephine Baxter" key="Josephine Baxter" itemid="{6991E232-7E09-4CF8-BB77-90D45AA781A9}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョセフィーヌ バクスター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Josephine Baxter" key="Josephine Baxter" itemid="{6991E232-7E09-4CF8-BB77-90D45AA781A9}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ジョセフィーヌは、世紀の変わり目以前から家電製品について書いたり、レビューしたりしています。彼女は写真家でもあり、猫を飼っている人でもあります。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Josephine Baxter" key="Josephine Baxter" itemid="{6991E232-7E09-4CF8-BB77-90D45AA781A9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ジョセフィーヌ バクスター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Nathan Belliveau" key="Nathan Belliveau" itemid="{5F8A3189-6A02-4FEE-BC52-6B851872332D}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{02FC44CA-2F2A-4958-8D0B-88B7D0C3C771}" alt="ネイサン ビリビュー" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Nathan Belliveau" key="Nathan Belliveau" itemid="{5F8A3189-6A02-4FEE-BC52-6B851872332D}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ネイサン ビリビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Nathan Belliveau" key="Nathan Belliveau" itemid="{5F8A3189-6A02-4FEE-BC52-6B851872332D}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ネイサンは元MacWorldの編集長であり、熱心なゲーマーです。ワシントン州シアトルを拠点に活動するネイサンは、『Break the System: the Definitive PC Gaming Guide』の著者です。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Nathan Belliveau" key="Nathan Belliveau" itemid="{5F8A3189-6A02-4FEE-BC52-6B851872332D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ネイサン ビリビュー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Rae Johnson" key="Rae Johnson" itemid="{166285C6-BFEC-4BDC-A3AA-CAB623EE27D2}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{3C6449D7-F3BC-4355-B506-C35DAFBBC830}" alt="ラエ ジョンソン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Rae Johnson" key="Rae Johnson" itemid="{166285C6-BFEC-4BDC-A3AA-CAB623EE27D2}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>ライ ジョンソン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Rae Johnson" key="Rae Johnson" itemid="{166285C6-BFEC-4BDC-A3AA-CAB623EE27D2}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;ライはカリフォルニア州オークランドを拠点とするテクノロジーライターです。専門はモノのインターネットとビッグデータ。彼女はMITで学位を取得しており、AIに魅了されています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Rae Johnson" key="Rae Johnson" itemid="{166285C6-BFEC-4BDC-A3AA-CAB623EE27D2}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>ライ ジョンソン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sandra Wilson" key="Sandra Wilson" itemid="{B3079C34-42F0-447A-AB31-749425882F89}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{5B04FEB9-FF85-4078-A577-A8830D1C7F44}" alt="サンドラ ウィルソン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sandra Wilson" key="Sandra Wilson" itemid="{B3079C34-42F0-447A-AB31-749425882F89}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンドラ ウィルソン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sandra Wilson" key="Sandra Wilson" itemid="{B3079C34-42F0-447A-AB31-749425882F89}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;サンドラは、幼い頃からあらゆる技術に触れ、Windows 3.1の全盛期にはSki Freeを長くプレイしていました。Lighthouse Home Goods のトロントオフィス出身で、現在はサンフランシスコに住んでいます。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sandra Wilson" key="Sandra Wilson" itemid="{B3079C34-42F0-447A-AB31-749425882F89}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>サンドラ ウィルソン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sydney Cummings" key="Sydney Cummings" itemid="{CCA66699-B6C8-43D1-BF33-68492C373174}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{4F106EE2-D598-45BD-AAC2-A4C569CCC38C}" alt="シドニー クミング" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sydney Cummings" key="Sydney Cummings" itemid="{CCA66699-B6C8-43D1-BF33-68492C373174}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー クミング</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sydney Cummings" key="Sydney Cummings" itemid="{CCA66699-B6C8-43D1-BF33-68492C373174}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニーは、シャーロット・ノースカロライナ州のパーソナルトレーナー兼フィットネスコーチです。彼女はWomen's Health Actionのヒーローであり、あなたのあらゆるトレーニングニーズに対応しています。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Sydney Cummings" key="Sydney Cummings" itemid="{CCA66699-B6C8-43D1-BF33-68492C373174}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>シドニー カミングス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Thomas Kamin" key="Thomas Kamin" itemid="{27923807-C5DC-46B2-A240-6B688DEEA827}" fieldid="{E9BAF418-31E2-415E-B168-6109E5DBF2EF}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;image mediaid="{E840C2FB-A08C-42CC-841A-915C90CA9B44}" alt="トーマス カミン" height="" width="" hspace="" vspace="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Thomas Kamin" key="Thomas Kamin" itemid="{27923807-C5DC-46B2-A240-6B688DEEA827}" fieldid="{1DB08BFF-1F9B-4D32-810A-7A8327E04537}" updated="00010101T000000Z" database="master">
+    <ja-JP>トーマス カミン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Thomas Kamin" key="Thomas Kamin" itemid="{27923807-C5DC-46B2-A240-6B688DEEA827}" fieldid="{6CC5DA3D-3E19-4EA4-B748-C0125341859F}" updated="00010101T000000Z" database="master">
+    <ja-JP>&lt;p&gt;子育てとバスケットボールの両立をしていないときは、トーマスは生涯マンハッタンに住んでいて、Lighthouse Labsで最新の技術をテストしたり、新しいベンチマークやテスト方法論を開発したりしています。&lt;/p&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/Global/Data/Authors/Thomas Kamin" key="Thomas Kamin" itemid="{27923807-C5DC-46B2-A240-6B688DEEA827}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
+    <ja-JP>トーマス カミン</ja-JP>
+  </phrase>
+</sitecore>

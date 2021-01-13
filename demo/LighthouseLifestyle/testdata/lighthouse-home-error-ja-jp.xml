@@ -1,0 +1,11 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/error" key="error" itemid="{1D7CF3BF-B919-49F9-B47B-6F37BFCF1FC9}" fieldid="{E2A634FD-5177-46DE-B629-5393CAED77D7}" updated="00010101T000000Z">
+    <ja-JP>Error 404</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/error" key="error" itemid="{1D7CF3BF-B919-49F9-B47B-6F37BFCF1FC9}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="00010101T000000Z">
+    <ja-JP>Error 404</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/home/error" key="error" itemid="{1D7CF3BF-B919-49F9-B47B-6F37BFCF1FC9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP>エラー</ja-JP>
+  </phrase>
+</sitecore>
