@@ -1,0 +1,23 @@
+﻿<sitecore>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce" key="Salesforce" itemid="{6FC4C9F5-72AA-496A-A0C2-F0AA5BB3AC01}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel" key="SalesforcePanel" itemid="{CBA60024-478B-4541-8AD5-D805095A3D83}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel/ContactSalesforceAccordion" key="ContactSalesforceAccordion" itemid="{5095796F-E8FC-46FA-B47F-36405F430FD7}" fieldid="{8D593EBB-4A48-4B85-8E79-BF745023BD61}" updated="00010101T000000Z">
+    <ja-JP>コンタクト詳細</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel/ContactSalesforceAccordion" key="ContactSalesforceAccordion" itemid="{5095796F-E8FC-46FA-B47F-36405F430FD7}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel/ContactSalesforceTemplate" key="ContactSalesforceTemplate" itemid="{AF85E2C2-57A8-4DF6-BAEF-FE805A8BB881}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel/SalesforceContact" key="SalesforceContact" itemid="{C1A66FEC-7DC8-479D-9DEA-9D76797C5F03}" fieldid="{3564B3D0-3804-4D86-9880-B5E7473EF56C}" updated="00010101T000000Z">
+    <ja-JP>Salesforce コンタクト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/client/Applications/ExperienceProfile/Contact/PageSettings/Tabs/Salesforce/SalesforcePanel/SalesforceContact" key="SalesforceContact" itemid="{C1A66FEC-7DC8-479D-9DEA-9D76797C5F03}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z">
+    <ja-JP />
+  </phrase>
+</sitecore>
