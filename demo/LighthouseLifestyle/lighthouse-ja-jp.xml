@@ -5625,6 +5625,8 @@ Lighthouse ライフスタイル</ja-JP>
   <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel" key="Home Page Carousel" itemid="{2179478B-214A-49E5-8011-BF519887D625}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
     <ja-JP>ホームページ カルーセル</ja-JP>
   </phrase>
+
+  <!-- Home カルーセル-->
   <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel" key="Everyday Health Carousel" itemid="{658E89F6-3F0C-4072-88CA-50CE81757A9D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
     <ja-JP>カルーセル 毎日の健康</ja-JP>
   </phrase>
@@ -5667,6 +5669,8 @@ Lighthouse ライフスタイル</ja-JP>
   <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Everyday Health Carousel/Slide3" key="Slide3" itemid="{EA7326F6-07B5-4655-806F-77CF88456417}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
     <ja-JP>スライド 3</ja-JP>
   </phrase>
+
+
   <phrase path="/sitecore/content/Demo SXA Sites/LighthouseLifestyle/Data/Carousels/Home Page Carousel/Fitness Carousel" key="Fitness Carousel" itemid="{9182C53A-69C9-4588-97B1-8B5245803984}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="00010101T000000Z" database="master">
     <ja-JP>カルーセル フィットネス</ja-JP>
   </phrase>
