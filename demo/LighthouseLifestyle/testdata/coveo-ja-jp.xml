@@ -1,0 +1,23 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search" key="Coveo Search" itemid="{4B2AD0DE-C123-430E-A11A-1588860A9E3F}" fieldid="{0E9B4BA1-3CB0-491D-8D51-B81429552E00}" updated="20140828T085404Z"  database="core">
+    <ja-JP>Coveo Search</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/Indexing Manager" key="Indexing Manager" itemid="{F6ABE82A-1200-4764-AD4F-087A9DE39D54}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20180307T101701Z" database="core">
+    <ja-JP>インデックス マネージャー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/Relevance Manager" key="Relevance Manager" itemid="{81F008CC-39C6-4EDB-8D79-F1E9032350E8}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20180307T101701Z" database="core">
+    <ja-JP>関連性の管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/Configuration Manager" key="Configuration Manager" itemid="{3A98D9CC-2249-4705-83AB-25EA463AE3A9}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20201008T214106Z" database="core">
+    <ja-JP>設定管理</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/Diagnostic" key="Diagnostic" itemid="{2E8B58C8-F546-4CF4-B56F-96DA2D145422}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20160325T141037Z" database="core">
+    <ja-JP>診断</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/Resources and Support" key="Resources and Support" itemid="{A615A7A2-1255-4CCF-B4C7-BE6FE6E22A6F}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20160325T141047Z" database="core">
+    <ja-JP>リソースとサポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Control Panel/Coveo Search/About" key="About" itemid="{40630F80-DCD5-4C43-B38F-8348FD8CAC3D}" fieldid="{48323B75-9F6A-4779-AC8B-A01DA56B35B3}" updated="20180307T101701Z" database="core">
+    <ja-JP>Coveo について</ja-JP>
+  </phrase>
+</sitecore>
