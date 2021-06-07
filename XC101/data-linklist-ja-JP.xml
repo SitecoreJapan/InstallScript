@@ -1,0 +1,59 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer" key="Footer" itemid="{005DD1C2-13C0-4118-99BA-3C439E1106CC}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>フッター</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info" key="Account Info" itemid="{98325F0D-8FA0-4803-9911-F6649856D0B4}" fieldid="{AA9C8D1C-B210-4EFA-86DB-83E8FA32C672}" updated="20210607T015819Z" database="master">
+    <ja-JP>アカウント情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info" key="Account Info" itemid="{98325F0D-8FA0-4803-9911-F6649856D0B4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210607T015819Z" database="master">
+    <ja-JP>アカウント情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info/Account" key="Account" itemid="{70AAA119-56DE-4E2A-99C0-7BF093AD94FF}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link id="{CD8714A9-F464-41C2-AB54-2814B0764FC0}" querystring="" target="" text="ダッシュボード" url="/Sitecore/Storefront/Home/accountmanagement" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info/Account" key="Account" itemid="{70AAA119-56DE-4E2A-99C0-7BF093AD94FF}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info/Order Status" key="Order Status" itemid="{FFECE738-E71E-46F7-9E8A-D23C322B8BA3}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210607T015819Z" database="master">
+    <ja-JP>&lt;link linktype="anchor" text="Order status" url="" anchor="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Account Info/Order Status" key="Order Status" itemid="{FFECE738-E71E-46F7-9E8A-D23C322B8BA3}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210607T015819Z" database="master">
+    <ja-JP>オーダー情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company" key="Company" itemid="{E689147D-69B5-4BC5-98DC-AC2794E436F4}" fieldid="{AA9C8D1C-B210-4EFA-86DB-83E8FA32C672}" updated="20210604T070321Z" database="master">
+    <ja-JP>企業情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company" key="Company" itemid="{E689147D-69B5-4BC5-98DC-AC2794E436F4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>企業情報</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/About" key="About" itemid="{2D00EEE0-C60E-4BBE-892D-8274481AEB6A}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link linktype="internal" text="企業情報について" querystring="" target="" id="{EE9431C8-CA57-4922-887C-89D789DF1C58}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/About" key="About" itemid="{2D00EEE0-C60E-4BBE-892D-8274481AEB6A}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>企業情報について</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/Jobs" key="Jobs" itemid="{42E40D78-0B5A-4271-9944-5EA519AEFB48}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link linktype="internal" text="仕事" querystring="" target="" id="{8846DE65-49CE-4367-A277-334C4938B680}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/Jobs" key="Jobs" itemid="{42E40D78-0B5A-4271-9944-5EA519AEFB48}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>仕事</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/Corporate Sales" key="Corporate Sales" itemid="{137873E7-4A27-4656-8A1C-7A006BDB6B85}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link linktype="internal" text="セールス" querystring="" target="" id="{4B107DD3-28DF-4FB1-A015-7408F86F4108}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Company/Corporate Sales" key="Corporate Sales" itemid="{137873E7-4A27-4656-8A1C-7A006BDB6B85}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>セールス</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Site Options" key="Site Options" itemid="{7E61CCF5-01F5-47BD-BB53-93E2F227C1DE}" fieldid="{AA9C8D1C-B210-4EFA-86DB-83E8FA32C672}" updated="20210604T070321Z" database="master">
+    <ja-JP>サイトオプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Site Options" key="Site Options" itemid="{7E61CCF5-01F5-47BD-BB53-93E2F227C1DE}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>サイトオプション</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Site Options/Frequently Asked Questions" key="Frequently Asked Questions" itemid="{A94C9E07-2CD2-4EF2-BF5D-1DBF5C584C33}" fieldid="{DD05144A-BD66-4EA3-956A-4B7104DAABA3}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link linktype="internal" text="よくある質問と回答" querystring="" target="" id="{FA3DB873-4AFF-4D88-9AD2-18B7DB8BDE19}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Link Lists/Footer/Site Options/Frequently Asked Questions" key="Frequently Asked Questions" itemid="{A94C9E07-2CD2-4EF2-BF5D-1DBF5C584C33}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>よくある質問と回答</ja-JP>
+  </phrase>
+</sitecore>

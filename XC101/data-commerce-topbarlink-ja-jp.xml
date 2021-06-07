@@ -1,0 +1,53 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar" key="TopBar" itemid="{1A299559-8DF2-44DA-AAB5-B9FD938EFEC4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20171119T220722Z" database="master">
+    <ja-JP>トップバー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Account" key="Account" itemid="{955F3437-91A6-4B55-9AF9-689C8EDB6F24}" fieldid="{60D17BD9-92A5-45E1-9B60-6B0671893ED8}" updated="20210604T070321Z" database="master">
+    <ja-JP>&lt;link id="{CD8714A9-F464-41C2-AB54-2814B0764FC0}" querystring="" target="" text="" anchor="" title="" class="" url="/Sitecore/Storefront/Home/accountmanagement" linktype="internal" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Account" key="Account" itemid="{955F3437-91A6-4B55-9AF9-689C8EDB6F24}" fieldid="{9F587C98-BBAF-496F-B652-7F7139A1A608}" updated="20210604T070321Z" database="master">
+    <ja-JP>アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Account" key="Account" itemid="{955F3437-91A6-4B55-9AF9-689C8EDB6F24}" fieldid="{24629943-2D2A-442A-8D18-8A8634850715}" updated="20210604T070321Z" database="master">
+    <ja-JP>アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Account" key="Account" itemid="{955F3437-91A6-4B55-9AF9-689C8EDB6F24}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070321Z" database="master">
+    <ja-JP>アカウント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Gift cards" key="Gift cards" itemid="{F8F5AD32-C9E3-4A48-B58D-CB56A5E46DB6}" fieldid="{60D17BD9-92A5-45E1-9B60-6B0671893ED8}" updated="20210604T070322Z" database="master">
+    <ja-JP>&lt;link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A55CEB04-3C95-4047-A531-EA0AA278CBC9}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Gift cards" key="Gift cards" itemid="{F8F5AD32-C9E3-4A48-B58D-CB56A5E46DB6}" fieldid="{9F587C98-BBAF-496F-B652-7F7139A1A608}" updated="20210604T070322Z" database="master">
+    <ja-JP>ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Gift cards" key="Gift cards" itemid="{F8F5AD32-C9E3-4A48-B58D-CB56A5E46DB6}" fieldid="{24629943-2D2A-442A-8D18-8A8634850715}" updated="20210604T070322Z" database="master">
+    <ja-JP>ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Gift cards" key="Gift cards" itemid="{F8F5AD32-C9E3-4A48-B58D-CB56A5E46DB6}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070322Z" database="master">
+    <ja-JP>ギフトカード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign in" key="Sign in" itemid="{C72E13C9-C30B-4BD0-B549-BBF8E769D6C9}" fieldid="{60D17BD9-92A5-45E1-9B60-6B0671893ED8}" updated="20210604T070322Z" database="master">
+    <ja-JP>&lt;link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{3623E634-518B-484F-B92D-7CC8A355913D}" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign in" key="Sign in" itemid="{C72E13C9-C30B-4BD0-B549-BBF8E769D6C9}" fieldid="{9F587C98-BBAF-496F-B652-7F7139A1A608}" updated="20210604T070322Z" database="master">
+    <ja-JP>サインイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign in" key="Sign in" itemid="{C72E13C9-C30B-4BD0-B549-BBF8E769D6C9}" fieldid="{24629943-2D2A-442A-8D18-8A8634850715}" updated="20210604T070322Z" database="master">
+    <ja-JP>サインイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign in" key="Sign in" itemid="{C72E13C9-C30B-4BD0-B549-BBF8E769D6C9}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070322Z" database="master">
+    <ja-JP>サインイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign out" key="Sign out" itemid="{FB6896DB-E9F9-4AD8-9101-B663AB89ED00}" fieldid="{60D17BD9-92A5-45E1-9B60-6B0671893ED8}" updated="20180518T025642Z" database="master">
+    <ja-JP>&lt;link text="" linktype="external" url="/api/cxa/account/logoff" anchor="" title="" class="" querystring="" target="" id="" /&gt;</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign out" key="Sign out" itemid="{FB6896DB-E9F9-4AD8-9101-B663AB89ED00}" fieldid="{9F587C98-BBAF-496F-B652-7F7139A1A608}" updated="20180518T025642Z" database="master">
+    <ja-JP>サインアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign out" key="Sign out" itemid="{FB6896DB-E9F9-4AD8-9101-B663AB89ED00}" fieldid="{24629943-2D2A-442A-8D18-8A8634850715}" updated="20180518T025642Z" database="master">
+    <ja-JP>サインアウト</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Data/Links/TopBar/Sign out" key="Sign out" itemid="{FB6896DB-E9F9-4AD8-9101-B663AB89ED00}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20180518T025642Z" database="master">
+    <ja-JP>サインアウト</ja-JP>
+  </phrase>
+</sitecore>
