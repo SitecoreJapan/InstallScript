@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sitecore>
+<phrase key="master#{05124B76-FA67-4123-87B9-16E1883E9244}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{05124B76-FA67-4123-87B9-16E1883E9244}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/CommerceSearchSettings/Commerce Search/Sort Fields" fieldname="Title" template="Template field" database="master">
+    <ja-JP>検索フィールド</ja-JP>
+  </phrase>
+<phrase key="master#{08B14202-D89B-42A5-A7AD-CD1F389DDB07}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{08B14202-D89B-42A5-A7AD-CD1F389DDB07}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/CommerceSearchSettings/Commerce Search/Items Per Page" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ページアイテム数</ja-JP>
+  </phrase>
+<phrase key="master#{48A49B5C-6DF0-4CAB-AAE7-E9BC0E380B3F}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{48A49B5C-6DF0-4CAB-AAE7-E9BC0E380B3F}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Settings/Commerce String Setting Item/Commerce/Value" fieldname="Title" template="Template field" database="master">
+    <ja-JP>値</ja-JP>
+  </phrase>
+<phrase key="master#{4F17697F-BD00-4D76-B4F5-1B53C0C8D884}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{4F17697F-BD00-4D76-B4F5-1B53C0C8D884}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Settings/Commerce Boolean Setting Item/Commerce/Value" fieldname="Title" template="Template field" database="master">
+    <ja-JP>値</ja-JP>
+  </phrase>
+<phrase key="master#{5C465DA7-E530-418D-A1A1-EC567E77E401}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{5C465DA7-E530-418D-A1A1-EC567E77E401}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/Commerce Bundle/Bundle/Bundle Items" fieldname="Title" template="Template field" database="master">
+    <ja-JP>バンドルアイテム</ja-JP>
+  </phrase>
+<phrase key="master#{8BBC9900-067F-40EA-8500-8B2C247636F7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8BBC9900-067F-40EA-8500-8B2C247636F7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Settings/Commerce Catalog Setting Item/Commerce/Catalog" fieldname="Title" template="Template field" database="master">
+    <ja-JP>カタログ</ja-JP>
+  </phrase>
+<phrase key="master#{8E652519-F3E8-44A0-8EB5-7E9D294EA240}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8E652519-F3E8-44A0-8EB5-7E9D294EA240}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/Commerce Dynamic Bundle/Bundle/Bundle Data" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>バンドルデータ</ja-JP>
+  </phrase>
+<phrase key="master#{D1B895F9-8487-4308-8FCB-F73F45BB7CD9}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D1B895F9-8487-4308-8FCB-F73F45BB7CD9}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Settings/Commerce DateTime Setting Item/Commerce/Value" fieldname="Title" template="Template field" database="master">
+    <ja-JP>値</ja-JP>
+  </phrase>
+<phrase key="master#{ED3EBCCD-A230-4659-923F-014707E1945D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{ED3EBCCD-A230-4659-923F-014707E1945D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/Commerce Catalog Folder/Commerce/Selected Catalogs" fieldname="Title" template="Template field" database="master">
+    <ja-JP>選択したカタログ</ja-JP>
+  </phrase>
+<phrase key="master#{F9A9EF93-D935-4D2C-B4A0-C1D942BFC8FA}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{F9A9EF93-D935-4D2C-B4A0-C1D942BFC8FA}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/Components/ContentHubImagesComponent/Sitecore DAM Assets/Sitecore DAM Images" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>Sitecore DAM 画像</ja-JP>
+  </phrase>
+<phrase key="master#{FE5208D1-D7F6-4E5D-8A43-95652C35D0B3}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FE5208D1-D7F6-4E5D-8A43-95652C35D0B3}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Commerce/Catalog/Commerce Catalog/Commerce Search/Website Search Scope" fieldname="Title" template="Template field" database="master">
+    <ja-JP>Webサイト検索スコープ</ja-JP>
+  </phrase>
+</sitecore>
