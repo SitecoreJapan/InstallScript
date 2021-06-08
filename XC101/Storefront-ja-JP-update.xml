@@ -178,7 +178,7 @@
     <ja-JP>ショッピングカートページ</ja-JP>
   </phrase>
 <phrase key="master#{7EC3343B-0A91-4D55-855C-FCD3881C82F5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7EC3343B-0A91-4D55-855C-FCD3881C82F5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/Subtotal Label" fieldname="Title" template="Template field" database="master">
-    <ja-JP>小計ラベル</ja-JP></ja-JP>
+    <ja-JP>小計ラベル</ja-JP>
   </phrase>
 <phrase key="master#{7F42D879-15DE-4C04-A6C0-4B53B4013B4D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7F42D879-15DE-4C04-A6C0-4B53B4013B4D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Lazy Loading/Max Page Size" fieldname="Title" template="Template field" database="master">
     <ja-JP>最大ページサイズ</ja-JP>
