@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sitecore>
+<phrase key="master#{015FAD7B-190C-4501-B787-7245CC918D41}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{015FAD7B-190C-4501-B787-7245CC918D41}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/View Product Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品テキストの表示</ja-JP>
+  </phrase>
+<phrase key="master#{02416735-A32E-4F73-8B10-4611255D9712}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{02416735-A32E-4F73-8B10-4611255D9712}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Common/Caching/Caching/Size" fieldname="Title" template="Template field" database="master">
+    <ja-JP>サイズ</ja-JP>
+  </phrase>
+<phrase key="master#{05342F3A-7E7B-47F2-9624-D992B30823DD}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{05342F3A-7E7B-47F2-9624-D992B30823DD}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Relationship Type/Relationship Type/Relation Title" fieldname="Title" template="Template field" database="master">
+    <ja-JP>関係タイトル</ja-JP>
+  </phrase>
+<phrase key="master#{07096ABE-6E2A-4F8D-82E6-33DB85086537}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{07096ABE-6E2A-4F8D-82E6-33DB85086537}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Order History/Orders List/No Order Message" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文が無い時のメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{0717354C-847F-4FA4-9BAF-3B7B3CBE9819}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{0717354C-847F-4FA4-9BAF-3B7B3CBE9819}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order Delivery Address Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文の配達住所ラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Use images from Sitecore Digital Asset Management system" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>サイトコアデジタルアセット管理システムの画像を使用する</ja-JP>
+  </phrase>
+<phrase key="master#{0E4E60F6-CB5A-4971-9B9B-8F438A15213D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{0E4E60F6-CB5A-4971-9B9B-8F438A15213D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Storefront Configuration/Security/Enforce SSL" fieldname="Title" template="Template field" database="master">
+    <ja-JP> SSLを有効にする</ja-JP>
+  </phrase>
+<phrase key="master#{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/UpgradeOptionsLabel" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>アップグレードオプションラベル</ja-JP>
+  </phrase>
+<phrase key="master#{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Button Text" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>ボタンテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{1920E740-33C9-468C-B9EB-C64A04C6D46E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{1920E740-33C9-468C-B9EB-C64A04C6D46E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Unit Price Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ユニット価格ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{19783CC6-35CF-472D-9902-F215D198B50E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{19783CC6-35CF-472D-9902-F215D198B50E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Products/Email recommended products/Recommended products/Product Page Link Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品ページリンクテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{1BAC90AE-88D1-4E92-8AD8-81C40820AF61}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{1BAC90AE-88D1-4E92-8AD8-81C40820AF61}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Checkout/Datasource/Billing/Gift Card/Remove Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ラベル削除</ja-JP>
+  </phrase>
+<phrase key="master#{1DAEEE0A-8265-4BBD-A8C0-CCA9EC4632BF}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{1DAEEE0A-8265-4BBD-A8C0-CCA9EC4632BF}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Named Search/Named Search/Title" fieldname="Title" template="Template field" database="master">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+<phrase key="master#{2098B980-ECD0-4BC0-9CDD-F530C4CCA2EF}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{2098B980-ECD0-4BC0-9CDD-F530C4CCA2EF}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Header/Order Total Header" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文合計ヘッダー</ja-JP>
+  </phrase>
+<phrase key="master#{23939844-1F54-43D4-9853-923A5434D84A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{23939844-1F54-43D4-9853-923A5434D84A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Savings Labels/Savings Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>割引ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{24D450F2-2E2D-45F9-BB55-94CB341453FD}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{24D450F2-2E2D-45F9-BB55-94CB341453FD}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Order Lines/Order Lines Table Title/Free Gift Label" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>フリーギフト ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{297F2065-311E-48C6-AB00-4E9341CDB397}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{297F2065-311E-48C6-AB00-4E9341CDB397}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/No Selection Message" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>セレクションなしメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{2AAEB29B-D777-4EC2-B234-3B023B866871}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{2AAEB29B-D777-4EC2-B234-3B023B866871}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Headings Columns/Total Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>合計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{2BFC4C0E-5AAE-4E49-9244-2CE1C927CF22}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{2BFC4C0E-5AAE-4E49-9244-2CE1C927CF22}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Top Bar Links/Rendering Parameters/Top Bar Links Parameters/Links/Profile Edit Page Link" fieldname="Title" template="Template field" database="master">
+    <ja-JP>プロファイル編集ページリンク</ja-JP>
+  </phrase>
+<phrase key="master#{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Free Gift Selection Text" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>フリーギフト選択テキスト</ja-JP>
+  </phrase>
+<phrase key="master#{2FE1D96A-DA0F-4760-B1E0-62ED9742C8E1}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{2FE1D96A-DA0F-4760-B1E0-62ED9742C8E1}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Quantity Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>数量ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{31770082-97CD-4E48-B322-1A3D11C4587A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{31770082-97CD-4E48-B322-1A3D11C4587A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product List/Lazy Loading/Show More Products Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>もっと製品を表示するテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{3392339E-D791-4681-91C1-2ABF5966A82D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{3392339E-D791-4681-91C1-2ABF5966A82D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Heading Text" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>ヘッダーテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{35CDE6E8-54E0-42AC-A8E5-D01A4BC552A5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{35CDE6E8-54E0-42AC-A8E5-D01A4BC552A5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Product List/Category" fieldname="Title" template="Template field" database="master">
+    <ja-JP>カテゴリー</ja-JP>
+  </phrase>
+<phrase key="master#{363E3DF9-F52B-4E00-B032-D879C990ECBB}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{363E3DF9-F52B-4E00-B032-D879C990ECBB}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/Product Variant Labels/Size Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>サイズラベル</ja-JP>
+  </phrase>
+<phrase key="master#{374B7A69-A0FC-435D-890E-B20C49C8F624}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{374B7A69-A0FC-435D-890E-B20C49C8F624}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Recent Orders/Recent Orders List/No Order Message" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文なしメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{38EF0EC5-87AE-4403-8511-07A15BE6D2C3}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{38EF0EC5-87AE-4403-8511-07A15BE6D2C3}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Lines/Subtotal Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>小計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{4503A490-8A13-4543-879A-E468081E0593}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{4503A490-8A13-4543-879A-E468081E0593}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/Title Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>タイトルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{45AC7882-3CD5-45B8-BFE0-8CE5C384C565}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{45AC7882-3CD5-45B8-BFE0-8CE5C384C565}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Total Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>合計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{46091A30-4332-4AC5-934A-6F93854A8428}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{46091A30-4332-4AC5-934A-6F93854A8428}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockStaticBundle/Bundle/Bundle Items" fieldname="Title" template="Template field" database="master">
+    <ja-JP>バンドルアイテム</ja-JP>
+  </phrase>
+<phrase key="master#{473FEAFE-0B9C-483E-9731-E3259FF8971E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{473FEAFE-0B9C-483E-9731-E3259FF8971E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order Status Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文ステータスラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{48420F58-F1DF-4B80-8386-B62AA84E9B57}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{48420F58-F1DF-4B80-8386-B62AA84E9B57}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog/Catalog Configuration/Gift Card/Gift Card Page Link" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ギフトカードページリンク</ja-JP>
+  </phrase>
+<phrase key="master#{48B894A4-5875-4F70-9CF2-20560E6D8DF9}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{48B894A4-5875-4F70-9CF2-20560E6D8DF9}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Top Bar Links/Datasource/Top Bar Links/Links/Profile Edit Page Link" fieldname="Title" template="Template field" database="master">
+    <ja-JP>プロファイル編集ページリンク</ja-JP>
+  </phrase>
+<phrase key="master#{497B2757-2295-4C7E-A442-A53FA6345589}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{497B2757-2295-4C7E-A442-A53FA6345589}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Savings Labels/Discount Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>割引ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{4AE52709-591F-41E8-B628-924303944727}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{4AE52709-591F-41E8-B628-924303944727}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockStaticBundle/Bundle/DisplayName" fieldname="Title" template="Template field" database="master">
+    <ja-JP>表示名</ja-JP>
+  </phrase>
+<phrase key="master#{4C22A34A-5D69-4389-8B40-CF47B0198C3D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{4C22A34A-5D69-4389-8B40-CF47B0198C3D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order ID Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文ID ラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{53A433BC-2AD1-493D-A43A-39302385E17C}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{53A433BC-2AD1-493D-A43A-39302385E17C}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/Invalid Variant Message" fieldname="Title" template="Template field" database="master">
+    <ja-JP>正しく無い種類のメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{55BCDA17-F08B-40E7-B112-9945DB903303}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{55BCDA17-F08B-40E7-B112-9945DB903303}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Catalog" fieldname="Title" template="Template field" database="master">
+    <ja-JP>カタログ</ja-JP>
+  </phrase>
+<phrase key="master#{58AC8A92-C210-48C6-B3A6-B0E8E4D4C491}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{58AC8A92-C210-48C6-B3A6-B0E8E4D4C491}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockVariantProperties/Display properties/Color" fieldname="Title" template="Template field" database="master">
+    <ja-JP>色</ja-JP>
+  </phrase>
+<phrase key="master#{59776CF4-BB33-47A7-A465-F8608A59CED2}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{59776CF4-BB33-47A7-A465-F8608A59CED2}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Scaffolding/Scaffolding Plan/Json/Plan File" fieldname="Title" template="Template field" database="master">
+    <ja-JP>計画ファイル</ja-JP>
+  </phrase>
+<phrase key="master#{5978C659-2CD8-4648-994D-03814FAFE26C}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{5978C659-2CD8-4648-994D-03814FAFE26C}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Savings Labels/Savings Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>商品価格データのアップグレードスクリプト</ja-JP>
+  </phrase>
+<phrase key="master#{59F656D1-C561-4935-AA18-EE3A23E45D72}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{59F656D1-C561-4935-AA18-EE3A23E45D72}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Log/Commerce Upgrade/Update Log" fieldname="Title" template="Template field" database="master">
+    <ja-JP>アップデートログ</ja-JP>
+  </phrase>
+<phrase key="master#{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/IncludeItemText" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>アイテムテキストを含む</ja-JP>
+  </phrase>
+<phrase key="master#{6409485C-16CF-495F-9677-AA4FB3F7B2EB}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6409485C-16CF-495F-9677-AA4FB3F7B2EB}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/Other/Free Gift Label" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>フリーギフトラベル</ja-JP>
+  </phrase>
+<phrase key="master#{69710BC8-E1B3-4534-9294-8F2D66C9E933}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{69710BC8-E1B3-4534-9294-8F2D66C9E933}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Promoted Products/Relationship Type" fieldname="Title" template="Template field" database="master">
+    <ja-JP>関連性タイプ</ja-JP>
+  </phrase>
+<phrase key="master#{6C1089BD-0AE1-4146-BA88-A761BA10C092}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6C1089BD-0AE1-4146-BA88-A761BA10C092}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Products/Email recommended products/Recommended products/Related products fields name" fieldname="Title" template="Template field" database="master">
+    <ja-JP>関連製品フィールド名</ja-JP>
+  </phrase>
+<phrase key="master#{6D13AC97-1AC1-4C79-8CBE-EBC3871EDE5F}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6D13AC97-1AC1-4C79-8CBE-EBC3871EDE5F}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Common/Caching/Caching/Enabled" fieldname="Title" template="Template field" database="master">
+    <ja-JP>有効</ja-JP>
+  </phrase>
+<phrase key="master#{6D2AA1AB-5574-4BF3-A71C-838B7A1A4012}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6D2AA1AB-5574-4BF3-A71C-838B7A1A4012}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Savings Labels/Discount Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>割引ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Search Results Configuration/Product details/Use a separate AJAX call to retrieve price and stock info" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>価格や銘柄情報の取得には、別のAJAXコールを使用する</ja-JP>
+  </phrase>
+<phrase key="master#{705673CE-882A-4249-B2EC-8F465E458670}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{705673CE-882A-4249-B2EC-8F465E458670}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Lazy Loading/Show More Products Tooltip" fieldname="Title" template="Template field" database="master">
+    <ja-JP>もっと製品を表示するツールチップ</ja-JP>
+  </phrase>
+<phrase key="master#{70E23EE8-661B-476E-A509-ADA56825DD2E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{70E23EE8-661B-476E-A509-ADA56825DD2E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Order Lines Delivery Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文ライン配達ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{7200C52F-603A-414F-B1AE-2A5E3E131152}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7200C52F-603A-414F-B1AE-2A5E3E131152}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Common/Enum/Enum/Value" fieldname="Title" template="Template field" database="master">
+    <ja-JP>値</ja-JP>
+  </phrase>
+<phrase key="master#{725796FD-C412-4C79-87C8-5A16F71BCBBC}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{725796FD-C412-4C79-87C8-5A16F71BCBBC}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/VAT Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>VAT ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{72CC71A8-BE09-404E-AFCF-22136932261B}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{72CC71A8-BE09-404E-AFCF-22136932261B}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Scaffolding/Snapshot Item/Snapshot/Snapshot Data" fieldname="Title" template="Template field" database="master">
+    <ja-JP>スナップショットデータ</ja-JP>
+  </phrase>
+<phrase key="master#{75222EC7-B5F2-4551-9AA8-54D491D3BF0D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{75222EC7-B5F2-4551-9AA8-54D491D3BF0D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/Savings Lead Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>節約リードラベル</ja-JP>
+  </phrase>
+<phrase key="master#{756E8D7D-6277-4C42-AAEA-78097CD88FF7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{756E8D7D-6277-4C42-AAEA-78097CD88FF7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockProduct/Properties/Brand" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ブランド</ja-JP>
+  </phrase>
+<phrase key="master#{78693A02-29FD-496B-B9DB-B36889589A37}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{78693A02-29FD-496B-B9DB-B36889589A37}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Catalog/Rendering Parameters/Catalog Images Parameters/Catalog images/Use images from Sitecore Digital Asset Management system" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>Sitecore DAM の画像を利用する</ja-JP>
+  </phrase>
+<phrase key="master#{79EA65E5-5E29-4358-9237-C70BB6B0F8BC}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{79EA65E5-5E29-4358-9237-C70BB6B0F8BC}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/Product Variant Labels/Style Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>スタイルラベル</ja-JP>
+  </phrase>
+<phrase key="master#{7C5BDAF9-DC21-4270-BC8E-8DCF9B2E18A0}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7C5BDAF9-DC21-4270-BC8E-8DCF9B2E18A0}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Shared/Email site link/Data/Shopping cart page" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ショッピングカートページ</ja-JP>
+  </phrase>
+<phrase key="master#{7EC3343B-0A91-4D55-855C-FCD3881C82F5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7EC3343B-0A91-4D55-855C-FCD3881C82F5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/Subtotal Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>小計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{7F42D879-15DE-4C04-A6C0-4B53B4013B4D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7F42D879-15DE-4C04-A6C0-4B53B4013B4D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Lazy Loading/Max Page Size" fieldname="Title" template="Template field" database="master">
+    <ja-JP>最大ページサイズ</ja-JP>
+  </phrase>
+<phrase key="master#{7F9B1CA2-1453-4D4F-AA98-89CDFA50AFAF}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{7F9B1CA2-1453-4D4F-AA98-89CDFA50AFAF}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockVariant/Variant/DisplayName" fieldname="Title" template="Template field" database="master">
+    <ja-JP>表示名</ja-JP>
+  </phrase>
+<phrase key="master#{81BBFB07-6DBB-4F53-9028-F8FE39652A61}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{81BBFB07-6DBB-4F53-9028-F8FE39652A61}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Lines/VAT Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>VAT ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{81FD45DF-A6B8-4B58-B646-9FFE0DCBDD47}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{81FD45DF-A6B8-4B58-B646-9FFE0DCBDD47}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/QuantityLabel" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>数量ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{84AE61A2-AD10-42E5-9954-220FED6EE9A5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{84AE61A2-AD10-42E5-9954-220FED6EE9A5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Selected Products/Products/Products List" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+<phrase key="master#{8526CFDA-00FF-4286-A205-BB4B2161A81E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8526CFDA-00FF-4286-A205-BB4B2161A81E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockProduct/Properties/DisplayName" fieldname="Title" template="Template field" database="master">
+    <ja-JP>表示名</ja-JP>
+  </phrase>
+<phrase key="master#{86606DE8-EE24-4362-BB12-CA94992B2CED}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{86606DE8-EE24-4362-BB12-CA94992B2CED}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Product Relationships/Relationship Titles" fieldname="Title" template="Template field" database="master">
+    <ja-JP>関係性タイトル</ja-JP>
+  </phrase>
+<phrase key="master#{8858DB81-6560-4C6C-A663-F04EA2358013}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8858DB81-6560-4C6C-A663-F04EA2358013}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Headings Columns/Unit Price Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ユニット価格ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{89C0A60E-6B17-4921-AFEC-6482A13C7F9E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{89C0A60E-6B17-4921-AFEC-6482A13C7F9E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Selected Products/Products/Title" fieldname="Title" template="Template field" database="master">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+<phrase key="master#{8A4486C6-3D7C-48FA-8DB3-4B0D9E27BC46}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8A4486C6-3D7C-48FA-8DB3-4B0D9E27BC46}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Shared/Email site link/Data/Button text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ボタンテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{8C219834-767D-4FEC-BAA2-C8B68620F368}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8C219834-767D-4FEC-BAA2-C8B68620F368}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/Shipping Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>発送ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{8D869C4A-8C74-4217-B40D-81A901E2BED1}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{8D869C4A-8C74-4217-B40D-81A901E2BED1}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Minicart/Minicart/Loading Bar Image" fieldname="Title" template="Template field" database="master">
+    <ja-JP>読み込みバーイメージ</ja-JP>
+  </phrase>
+<phrase key="master#{9576CE68-BA55-473C-9200-DE51B55AA9AD}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{9576CE68-BA55-473C-9200-DE51B55AA9AD}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/Shipping Labels/Delivery Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>配送ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{98736B65-25B3-43DC-8AFB-1968FB7D1139}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{98736B65-25B3-43DC-8AFB-1968FB7D1139}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order Information Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文情報ラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{997D2F9D-71B3-415C-8BF0-17D9CFA2990C}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{997D2F9D-71B3-415C-8BF0-17D9CFA2990C}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Relationship Type/Relationship Type/Field Name" fieldname="Title" template="Template field" database="master">
+    <ja-JP>関係タイプテンプレートアップグレード</ja-JP>
+  </phrase>
+<phrase key="master#{9A62F0CB-A12E-4860-8697-DD26B9B5D1CF}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{9A62F0CB-A12E-4860-8697-DD26B9B5D1CF}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Header/Order Total Header" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文合計ヘッダー</ja-JP>
+  </phrase>
+<phrase key="master#{A1BA02B2-C2C5-4C98-82E6-27013FD85967}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A1BA02B2-C2C5-4C98-82E6-27013FD85967}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Upgrade Script/Upgrade Info/Description" fieldname="Title" template="Template field" database="master">
+    <ja-JP>概要</ja-JP>
+  </phrase>
+<phrase key="master#{A1F13965-B2BF-44D0-A0E6-55D2435C0846}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A1F13965-B2BF-44D0-A0E6-55D2435C0846}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Checkout/Datasource/Billing/Billing/Billing Information Header" fieldname="Title" template="Template field" database="master">
+    <ja-JP>支払い情報ヘッダー</ja-JP>
+  </phrase>
+<phrase key="master#{A25DC32D-5D78-475F-8DEC-B5C356EDF3C9}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A25DC32D-5D78-475F-8DEC-B5C356EDF3C9}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Shared/Email logo/Logo/Image" fieldname="Title" template="Template field" database="master">
+    <ja-JP>画像</ja-JP>
+  </phrase>
+<phrase key="master#{A5574230-402F-4096-97FB-F3AB7B6A0120}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A5574230-402F-4096-97FB-F3AB7B6A0120}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Order Lines/Order Lines Table Title/Order Lines Address Label" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>注文ラインアドレスラベル</ja-JP>
+  </phrase>
+<phrase key="master#{A710131D-0A6A-4565-8260-2D633C483E8A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A710131D-0A6A-4565-8260-2D633C483E8A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Control Panel Configuration/Control Panel/Control Panel Configuration" fieldname="Title" template="Template field" database="master">
+    <ja-JP>コントロールパネル 設定</ja-JP>
+  </phrase>
+<phrase key="master#{A91ADE7E-D320-4487-AF34-0B0E1D4998ED}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A91ADE7E-D320-4487-AF34-0B0E1D4998ED}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Lines/Savings Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>節約ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{A9D5692E-7EB0-48F7-95BF-3DE4BA7E4EBE}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{A9D5692E-7EB0-48F7-95BF-3DE4BA7E4EBE}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Product Details Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品詳細ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{AB446E36-33D6-4595-B4C7-945154E47526}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{AB446E36-33D6-4595-B4C7-945154E47526}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Lazy Loading/Use Lazy Loading" fieldname="Title" template="Template field" database="master">
+    <ja-JP>遅い読み込みを利用する</ja-JP>
+  </phrase>
+<phrase key="master#{AC586428-4F6D-41D6-838A-E4B4A0B38D85}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{AC586428-4F6D-41D6-838A-E4B4A0B38D85}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Exceed Maximum Count Message" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>最大数を超えたメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{AC984C05-737E-4CB8-BC54-F870C91E4DDE}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{AC984C05-737E-4CB8-BC54-F870C91E4DDE}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Headings Columns/Quantity Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>数量ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{AFAC619C-68D7-4304-B95F-49AEFB1F0EF5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{AFAC619C-68D7-4304-B95F-49AEFB1F0EF5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Upgrade Script/Upgrade Info/Title" fieldname="Title" template="Template field" database="master">
+    <ja-JP>タイトル</ja-JP>
+  </phrase>
+<phrase key="master#{B029B851-D8BB-459C-A258-735586624778}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{B029B851-D8BB-459C-A258-735586624778}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Shared/Email text/Data/Content" fieldname="Title" template="Template field" database="master">
+    <ja-JP>コンテンツ</ja-JP>
+  </phrase>
+<phrase key="master#{B2001D36-1D88-4DBE-8F84-FE1920026C22}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{B2001D36-1D88-4DBE-8F84-FE1920026C22}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Free Gift Chosen Text" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>フリーギフト選択テキスト</ja-JP>
+  </phrase>
+<phrase key="master#{B5A4B3AE-B5F8-4A63-927A-98291418F34F}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{B5A4B3AE-B5F8-4A63-927A-98291418F34F}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Lines/Shipping Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>発送ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{BD06657E-7843-4314-BB33-FFCF59D590BA}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{BD06657E-7843-4314-BB33-FFCF59D590BA}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Upgrade Script/Upgrade Info/DryRunSupported" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ドライランサポート</ja-JP>
+  </phrase>
+<phrase key="master#{BF200070-B0AB-41D1-A44E-B8829F488D86}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{BF200070-B0AB-41D1-A44E-B8829F488D86}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart lines/Headings Columns/Product Details Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品詳細ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{CA71F82E-2CB5-44B0-BFE4-831D0D202BE6}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{CA71F82E-2CB5-44B0-BFE4-831D0D202BE6}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockVariantProperties/Display properties/Size" fieldname="Title" template="Template field" database="master">
+    <ja-JP>サイズ</ja-JP>
+  </phrase>
+<phrase key="master#{CE72BA72-DD4F-49D1-80B3-1EE800005B33}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{CE72BA72-DD4F-49D1-80B3-1EE800005B33}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Common/Caching/Caching/Duration" fieldname="Title" template="Template field" database="master">
+    <ja-JP>期間</ja-JP>
+  </phrase>
+<phrase key="master#{CF19D951-2D83-40A0-B840-766D69796918}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{CF19D951-2D83-40A0-B840-766D69796918}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Upgrade Script/Upgrade Info/Mode" fieldname="Title" template="Template field" database="master">
+    <ja-JP>モード</ja-JP>
+  </phrase>
+<phrase key="master#{D013413A-1C0E-4877-A80E-D76FE1D7FEBB}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D013413A-1C0E-4877-A80E-D76FE1D7FEBB}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Product List/Price Starting From Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品開始テキスト</ja-JP>
+  </phrase>
+<phrase key="master#{D053AF6B-CEB7-48F4-8254-C67B0810A40A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D053AF6B-CEB7-48F4-8254-C67B0810A40A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Price/Product Price/Savings Lead Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>節約リードテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{D0B5233C-11AC-4617-B990-C3FBDFB77C94}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D0B5233C-11AC-4617-B990-C3FBDFB77C94}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order lines/Headings Columns/Address Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>住所ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{D0D7B4FA-B8CC-499F-BBE2-E2694C576A56}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D0D7B4FA-B8CC-499F-BBE2-E2694C576A56}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/Savings Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>節約ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{D2138CA3-1965-42D9-9221-5201EDFF6C0E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D2138CA3-1965-42D9-9221-5201EDFF6C0E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/UpgradeOptionsPlaceholder" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>アップグレードオプションプレースホルダー</ja-JP>
+  </phrase>
+<phrase key="master#{D28332D6-179C-46B1-B2F9-324A6572EF14}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D28332D6-179C-46B1-B2F9-324A6572EF14}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Invalid Variant Message" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>不正な種類のメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{D4D04D1A-A6F6-4DAB-B90F-FBE455FA836D}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D4D04D1A-A6F6-4DAB-B90F-FBE455FA836D}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/Shipping Labels/Address Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>住所ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{D6D57D81-D56D-4CDB-800F-534D2761EE7A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D6D57D81-D56D-4CDB-800F-534D2761EE7A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Product List Parameters/Lazy Loading/Max Page Size" fieldname="Title" template="Template field" database="master">
+    <ja-JP>最大ページサイズ</ja-JP>
+  </phrase>
+<phrase key="master#{D8950716-21AD-43C3-8763-74D8CD77C324}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D8950716-21AD-43C3-8763-74D8CD77C324}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Include subcategory products" fieldname="Title" template="Template field" database="master">
+    <ja-JP>サブカテゴリー商品を含める</ja-JP>
+  </phrase>
+<phrase key="master#{D9D52E9C-E198-48B2-9DBA-76EA60B27898}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D9D52E9C-E198-48B2-9DBA-76EA60B27898}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Scaffolding/Scaffolding Plan/Log/Last Execution Result" fieldname="Title" template="Template field" database="master">
+    <ja-JP>最後の実行結果</ja-JP>
+  </phrase>
+<phrase key="master#{D9DCE459-BCFA-414F-85FF-DDFAAECC06D5}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{D9DCE459-BCFA-414F-85FF-DDFAAECC06D5}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Cart Configuration/Performance/Server Side Minicart Recalculation" fieldname="Title" template="Template field" database="master">
+    <ja-JP>サーバーサイド ミニカート 再計算</ja-JP>
+  </phrase>
+<phrase key="master#{DB5615F7-AD16-4E3F-BA1F-75840EE1AB98}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{DB5615F7-AD16-4E3F-BA1F-75840EE1AB98}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockProduct/Properties/VariationProperties" fieldname="Title" template="Template field" database="master">
+    <ja-JP>バリエーション属性</ja-JP>
+  </phrase>
+<phrase key="master#{DCC7CC96-52A1-4E1F-8425-83D13B707F33}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{DCC7CC96-52A1-4E1F-8425-83D13B707F33}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Products/Email recommended products/Recommended products/Products query" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品クエリー</ja-JP>
+  </phrase>
+<phrase key="master#{E0B7A18A-C5C8-4CAD-8267-D4C211453631}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E0B7A18A-C5C8-4CAD-8267-D4C211453631}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Version/Commerce Experience Accelerator Version/Version" fieldname="Title" template="Template field" database="master">
+    <ja-JP>バージョン</ja-JP>
+  </phrase>
+<phrase key="master#{E1B656C5-052F-44EB-9093-0F2C0BFFBA4C}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E1B656C5-052F-44EB-9093-0F2C0BFFBA4C}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product List/Lazy Loading/Show More Products Tooltip" fieldname="Title" template="Template field" database="master">
+    <ja-JP>もっと商品を表示するツールチップ</ja-JP>
+  </phrase>
+<phrase key="master#{E204D93B-4738-4DAB-9FC1-561C0A151EBE}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E204D93B-4738-4DAB-9FC1-561C0A151EBE}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Scaffolding/Scaffolding Plan/General Info/Name" fieldname="Title" template="Template field" database="master">
+    <ja-JP>名前</ja-JP>
+  </phrase>
+<phrase key="master#{E3CD10EC-06B9-4723-BCAA-FFE03E59A502}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E3CD10EC-06B9-4723-BCAA-FFE03E59A502}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Product List/Product Page Link Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品ページリンクテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{E6FDA862-9A96-4279-A3AE-540A8DC421F3}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E6FDA862-9A96-4279-A3AE-540A8DC421F3}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/Product Bundle/UnitOfMeasurement" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>測定単位</ja-JP>
+  </phrase>
+<phrase key="master#{E87C39DA-194B-420B-B6EE-E150B7CD2422}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E87C39DA-194B-420B-B6EE-E150B7CD2422}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Order Lines/Table Header/Total Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>合計 ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/Free Gift Selection/Error Claim Message" fieldname="Title" template="Template field" database="master" auto="true">
+    <ja-JP>エラークレームメッセージ</ja-JP>
+  </phrase>
+<phrase key="master#{EBB7EFB8-41C2-4059-A36F-458733262E64}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{EBB7EFB8-41C2-4059-A36F-458733262E64}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Upgrade/Upgrade Script/Upgrade Info/TargetVersion" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ターゲットバージョン</ja-JP>
+  </phrase>
+<phrase key="master#{EBEBC428-1EEB-4BFB-92BF-6D0D7D520830}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{EBEBC428-1EEB-4BFB-92BF-6D0D7D520830}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order Date Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>オーダー日ラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{EDECA58F-A268-4160-B609-E2944B3E459A}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{EDECA58F-A268-4160-B609-E2944B3E459A}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Start Navigation Category" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ナビゲーションカテゴリーの開始</ja-JP>
+  </phrase>
+<phrase key="master#{EDFABDEC-080A-4DB6-A863-29837E631943}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{EDFABDEC-080A-4DB6-A863-29837E631943}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Product List Parameters/Lazy Loading/Use Lazy Loading" fieldname="Title" template="Template field" database="master">
+    <ja-JP>遅い読み込みを利用する</ja-JP>
+  </phrase>
+<phrase key="master#{EFD09D5E-25F9-4497-ACE8-6A377442AD0E}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{EFD09D5E-25F9-4497-ACE8-6A377442AD0E}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Products/Email recommended products/Recommended products/Max number of recommended products" fieldname="Title" template="Template field" database="master">
+    <ja-JP>おすすめ商品の最大数</ja-JP>
+  </phrase>
+<phrase key="master#{F2F7D133-2BE5-4080-A4BB-DD533E858756}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{F2F7D133-2BE5-4080-A4BB-DD533E858756}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Lazy Loading/Show More Products Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>もっと商品を表示するテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{F36BAA6A-D3AC-47A5-A157-1BF076DD0907}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{F36BAA6A-D3AC-47A5-A157-1BF076DD0907}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Promoted Products/Product List/Save Percent Lead" fieldname="Title" template="Template field" database="master">
+    <ja-JP>パーセントリードの保存</ja-JP>
+  </phrase>
+<phrase key="master#{F7074F08-96B5-4D4E-B9EE-08F8C8FE0350}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{F7074F08-96B5-4D4E-B9EE-08F8C8FE0350}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order header/Order Header/Order Billing Address Label Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>オーダー支払いアドレスラベルテキスト</ja-JP>
+  </phrase>
+<phrase key="master#{FAF5F417-93A8-400A-ACDA-83DB0F9B4603}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FAF5F417-93A8-400A-ACDA-83DB0F9B4603}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Cart/Shopping cart total/Lines/Order Total Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文合計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{FBAD32B4-C766-44BF-87BD-840B15B68EE7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FBAD32B4-C766-44BF-87BD-840B15B68EE7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Mock data/Templates/MockProduct/Images/Images" fieldname="Title" template="Template field" database="master">
+    <ja-JP>画像</ja-JP>
+  </phrase>
+<phrase key="master#{FDD0D6AE-BCCD-4CD9-A078-3103D720D2E7}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FDD0D6AE-BCCD-4CD9-A078-3103D720D2E7}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog/Catalog Configuration/Commerce Control Panel/Use Direct Navigation" fieldname="Title" template="Template field" database="master">
+    <ja-JP>ダイレクトナビゲーションを利用</ja-JP>
+  </phrase>
+<phrase key="master#{FDEF4845-7F07-4E21-8071-5B55AFFA33DB}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FDEF4845-7F07-4E21-8071-5B55AFFA33DB}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Emails/Order/Email order total/Lines/Order Total Label" fieldname="Title" template="Template field" database="master">
+    <ja-JP>注文合計ラベル</ja-JP>
+  </phrase>
+<phrase key="master#{FE566F8F-610B-4B9E-8837-CFA1E8787910}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FE566F8F-610B-4B9E-8837-CFA1E8787910}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Promoted Products/Product List" fieldname="Title" template="Template field" database="master">
+    <ja-JP>製品リスト</ja-JP>
+  </phrase>
+</sitecore>
