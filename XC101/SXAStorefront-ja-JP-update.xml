@@ -384,4 +384,136 @@
 <phrase key="master#{FE566F8F-610B-4B9E-8837-CFA1E8787910}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{FE566F8F-610B-4B9E-8837-CFA1E8787910}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Rendering Parameters/Promoted Products Parameters/Promoted Products/Product List" fieldname="Title" template="Template field" database="master">
     <ja-JP>製品リスト</ja-JP>
   </phrase>
+  <phrase key="master#{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}#{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" itemid="{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}" fieldid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Use images from Sitecore Digital Asset Management system" fieldname="__Long description" template="Template field" database="master">
+    <ja-JP>カタログ画像のメインソースとしてDAMを使用するかどうかを示します</ja-JP>
+  </phrase>
+<phrase key="master#{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}#{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" itemid="{09C2F70D-46E7-4279-BA9E-4DE06D7A4B81}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Catalog Configuration/Commerce/Use images from Sitecore Digital Asset Management system" fieldname="__Display name" template="Template field" database="master">
+    <ja-JP>サイトコアデジタルアセット管理システムの画像を使用する</ja-JP>
+  </phrase>
+<phrase key="master#{193049CD-9713-4294-8FD2-1A4D12004EC2}#{24D450F2-2E2D-45F9-BB55-94CB341453FD}" itemid="{193049CD-9713-4294-8FD2-1A4D12004EC2}" fieldid="{24D450F2-2E2D-45F9-BB55-94CB341453FD}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Account/Order Lines" fieldname="Free Gift Label" template="Order Lines" database="master">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{1DF29B1A-778E-4ABB-BBA5-743DCEF5BF68}#{AC4791F0-0E7F-4EBC-B49B-53624666C068}" itemid="{1DF29B1A-778E-4ABB-BBA5-743DCEF5BF68}" fieldid="{AC4791F0-0E7F-4EBC-B49B-53624666C068}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Minicart" fieldname="Free Gift Text" template="Minicart" database="master" auto="true">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Button Text" template="Free Gift Selection" database="master">
+    <ja-JP>ギフトをもらう</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{297F2065-311E-48C6-AB00-4E9341CDB397}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{297F2065-311E-48C6-AB00-4E9341CDB397}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="No Selection Message" template="Free Gift Selection" database="master">
+    <ja-JP>{0}個の無料ギフトをもらうことができます。</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Free Gift Selection Text" template="Free Gift Selection" database="master">
+    <ja-JP>選択内容を変更するには、まずカートから品目を削除します。</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{3392339E-D791-4681-91C1-2ABF5966A82D}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{3392339E-D791-4681-91C1-2ABF5966A82D}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Heading Text" template="Free Gift Selection" database="master">
+    <ja-JP>{0}個の無料ギフトをもらうことができます。{1}個選択しています。 以下の品目から無料ギフトを選択してください。</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{AC586428-4F6D-41D6-838A-E4B4A0B38D85}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{AC586428-4F6D-41D6-838A-E4B4A0B38D85}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Exceed Maximum Count Message" template="Free Gift Selection" database="master">
+    <ja-JP>無料ギフトは{0}個までです。</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{B2001D36-1D88-4DBE-8F84-FE1920026C22}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{B2001D36-1D88-4DBE-8F84-FE1920026C22}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Free Gift Chosen Text" template="Free Gift Selection" database="master">
+    <ja-JP>選択した無料ギフト：</ja-JP>
+  </phrase>
+<phrase key="master#{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}#{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}" itemid="{27D6B7EB-BC18-455A-8A45-180CD3ED7E65}" fieldid="{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Free Gift Selection" fieldname="Error Claim Message" template="Free Gift Selection" database="master">
+    <ja-JP>ギフトを申請中に問題が発生しました。 サイト管理者に問い合わせてください。</ja-JP>
+  </phrase>
+<phrase key="master#{2D43BE90-E1C8-490A-8DA7-84C61001B494}#{A1BA02B2-C2C5-4C98-82E6-27013FD85967}" itemid="{2D43BE90-E1C8-490A-8DA7-84C61001B494}" fieldid="{A1BA02B2-C2C5-4C98-82E6-27013FD85967}" path="/sitecore/system/Modules/PowerShell/Script Library/Commerce Experience Accelerator/Functions/Upgrade/Upgrade Scripts/Commerce Search Results Configuration Upgrade Script" fieldname="Description" template="Upgrade Script" database="master">
+    <ja-JP>検索結果の構成を追加し、サイトに Scribanテンプレートを更新します。</ja-JP>
+  </phrase>
+<phrase key="master#{2D43BE90-E1C8-490A-8DA7-84C61001B494}#{AFAC619C-68D7-4304-B95F-49AEFB1F0EF5}" itemid="{2D43BE90-E1C8-490A-8DA7-84C61001B494}" fieldid="{AFAC619C-68D7-4304-B95F-49AEFB1F0EF5}" path="/sitecore/system/Modules/PowerShell/Script Library/Commerce Experience Accelerator/Functions/Upgrade/Upgrade Scripts/Commerce Search Results Configuration Upgrade Script" fieldname="Title" template="Upgrade Script" database="master">
+    <ja-JP>eコマース検索結果設定更新スクリプト</ja-JP>
+  </phrase>
+<phrase key="master#{2D43BE90-E1C8-490A-8DA7-84C61001B494}#{EBB7EFB8-41C2-4059-A36F-458733262E64}" itemid="{2D43BE90-E1C8-490A-8DA7-84C61001B494}" fieldid="{EBB7EFB8-41C2-4059-A36F-458733262E64}" path="/sitecore/system/Modules/PowerShell/Script Library/Commerce Experience Accelerator/Functions/Upgrade/Upgrade Scripts/Commerce Search Results Configuration Upgrade Script" fieldname="TargetVersion" template="Upgrade Script" database="master">
+    <ja-JP>5000</ja-JP>
+  </phrase>
+<phrase key="master#{3704315E-60D5-4248-8326-46C49DABE5B5}#{B3635965-6786-457C-9DEE-28DE73C0A331}" itemid="{3704315E-60D5-4248-8326-46C49DABE5B5}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" path="/sitecore/templates/Branches/Project/Commerce Experience Accelerator/Storefront/Data/Texts/Promoted Products/Recommended Products" fieldname="Text" template="Text" database="master">
+    <ja-JP>&lt;span class="product-list-title"&gt;推奨製品&lt;/span&gt;</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{1669FCD2-F643-49CF-AAC6-3B7ABD2F6D8A}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Button Text" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>ギフトをもらう</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{297F2065-311E-48C6-AB00-4E9341CDB397}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{297F2065-311E-48C6-AB00-4E9341CDB397}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="No Selection Message" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>{0}個の無料ギフトをもらうことができます。</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{2E8FBCF1-ECE1-41AA-81A9-BE48CA0BFAA0}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Free Gift Selection Text" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>選択内容を変更するには、まずカートから品目を削除します。</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{3392339E-D791-4681-91C1-2ABF5966A82D}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{3392339E-D791-4681-91C1-2ABF5966A82D}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Heading Text" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>{0}個の無料ギフトをもらうことができます。{1}個選択しています。 以下の品目から無料ギフトを選択してください。</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{AC586428-4F6D-41D6-838A-E4B4A0B38D85}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{AC586428-4F6D-41D6-838A-E4B4A0B38D85}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Exceed Maximum Count Message" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>無料ギフトは{0}個までです。</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{B2001D36-1D88-4DBE-8F84-FE1920026C22}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{B2001D36-1D88-4DBE-8F84-FE1920026C22}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Free Gift Chosen Text" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>選択した無料ギフト：</ja-JP>
+  </phrase>
+<phrase key="master#{3C2B5227-D7E7-4B41-8052-B7E68B689434}#{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}" itemid="{3C2B5227-D7E7-4B41-8052-B7E68B689434}" fieldid="{E98EF5A7-A6A5-4B05-AC48-36907CE56AE1}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection/__Standard Values" fieldname="Error Claim Message" template="Free Gift Selection" database="master" auto="true">
+    <ja-JP>ギフトを申請中に問題が発生しました。 サイト管理者に問い合わせてください。</ja-JP>
+  </phrase>
+<phrase key="master#{3E1E294C-FC5B-49E6-94B7-627893818738}#{04070E1D-D020-414B-9EF3-9AB02239782B}" itemid="{3E1E294C-FC5B-49E6-94B7-627893818738}" fieldid="{04070E1D-D020-414B-9EF3-9AB02239782B}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Catalog/Product Bundle" fieldname="InvalidRangeMessage" template="Product Bundle" database="master">
+    <ja-JP>数量は{0}～{1}で指定してください。</ja-JP>
+  </phrase>
+<phrase key="master#{3E1E294C-FC5B-49E6-94B7-627893818738}#{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}" itemid="{3E1E294C-FC5B-49E6-94B7-627893818738}" fieldid="{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Catalog/Product Bundle" fieldname="UpgradeOptionsLabel" template="Product Bundle" database="master">
+    <ja-JP>アップグレードオプション</ja-JP>
+  </phrase>
+<phrase key="master#{3E1E294C-FC5B-49E6-94B7-627893818738}#{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}" itemid="{3E1E294C-FC5B-49E6-94B7-627893818738}" fieldid="{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Catalog/Product Bundle" fieldname="IncludeItemText" template="Product Bundle" database="master">
+    <ja-JP>製品をバンドルに含める</ja-JP>
+  </phrase>
+<phrase key="master#{3E1E294C-FC5B-49E6-94B7-627893818738}#{D2138CA3-1965-42D9-9221-5201EDFF6C0E}" itemid="{3E1E294C-FC5B-49E6-94B7-627893818738}" fieldid="{D2138CA3-1965-42D9-9221-5201EDFF6C0E}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Catalog/Product Bundle" fieldname="UpgradeOptionsPlaceholder" template="Product Bundle" database="master">
+    <ja-JP>アップグレードを選択</ja-JP>
+  </phrase>
+<phrase key="master#{55588B52-234F-44E8-86CA-F7D8D340E0E0}#{6409485C-16CF-495F-9677-AA4FB3F7B2EB}" itemid="{55588B52-234F-44E8-86CA-F7D8D340E0E0}" fieldid="{6409485C-16CF-495F-9677-AA4FB3F7B2EB}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Shopping Cart Lines/__Standard Values" fieldname="Free Gift Label" template="Shopping Cart Lines" database="master" auto="true">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{6D3C15E3-162F-4729-AA80-A29ACB648892}#{EBB7EFB8-41C2-4059-A36F-458733262E64}" itemid="{6D3C15E3-162F-4729-AA80-A29ACB648892}" fieldid="{EBB7EFB8-41C2-4059-A36F-458733262E64}" path="/sitecore/system/Modules/PowerShell/Script Library/Commerce Experience Accelerator/Functions/Upgrade/Upgrade Scripts/Product Bundle Scriban Rendering Variant Upgrade Script" fieldname="TargetVersion" template="Upgrade Script" database="master" auto="true">
+    <ja-JP>5000</ja-JP>
+  </phrase>
+<phrase key="master#{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}#{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" itemid="{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}" fieldid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Search Results Configuration/Product details/Use a separate AJAX call to retrieve price and stock info" fieldname="__Long description" template="Template field" database="master">
+    <ja-JP>製品カードを取得するためのメインのAJAXの呼び出しがキャッシュされている場合、2番目のAJAXの呼び出しを許可するように選択した場合でも、価格と株価情報を更新することができます。</ja-JP>
+  </phrase>
+<phrase key="master#{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}#{9541E67D-CE8C-4225-803D-33F7F29F09EF}" itemid="{6D67A7E8-8F6F-411E-80E7-FD2FB1F8508C}" fieldid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Commerce Control Panel/Storefront Settings/Search Results Configuration/Product details/Use a separate AJAX call to retrieve price and stock info" fieldname="__Short description" template="Template field" database="master" auto="true">
+    <ja-JP>製品カードを取得するためのメインのAJAXの呼び出しがキャッシュされている場合、2番目のAJAXの呼び出しを許可するように選択した場合でも、価格と株価情報を更新することができます。</ja-JP>
+  </phrase>
+<phrase key="master#{78693A02-29FD-496B-B9DB-B36889589A37}#{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" itemid="{78693A02-29FD-496B-B9DB-B36889589A37}" fieldid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" path="/sitecore/templates/Foundation/Commerce Experience Accelerator/Catalog/Rendering Parameters/Catalog Images Parameters/Catalog images/Use images from Sitecore Digital Asset Management system" fieldname="__Long description" template="Template field" database="master" auto="true">
+    <ja-JP>カタログ画像のメインソースとしてDAMを使用するかどうかを示します</ja-JP>
+  </phrase>
+<phrase key="master#{79222DF9-5327-42FC-97A5-032EA937A427}#{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" itemid="{79222DF9-5327-42FC-97A5-032EA937A427}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" path="/sitecore/layout/Renderings/Feature/Commerce Experience Accelerator/Commerce Catalog/Product Price" fieldname="__Display name" template="Controller rendering" database="master">
+    <ja-JP>商品価格</ja-JP>
+  </phrase>
+<phrase key="master#{883C48C4-8283-4C96-A7D5-10B29F76A9D8}#{AC4791F0-0E7F-4EBC-B49B-53624666C068}" itemid="{883C48C4-8283-4C96-A7D5-10B29F76A9D8}" fieldid="{AC4791F0-0E7F-4EBC-B49B-53624666C068}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Minicart/__Standard Values" fieldname="Free Gift Text" template="Minicart" database="master" auto="true">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{8EA00A0D-2458-4080-80E0-918688E44C2C}#{6409485C-16CF-495F-9677-AA4FB3F7B2EB}" itemid="{8EA00A0D-2458-4080-80E0-918688E44C2C}" fieldid="{6409485C-16CF-495F-9677-AA4FB3F7B2EB}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Commerce Data Folder/Commerce/Cart/Shopping Cart Lines" fieldname="Free Gift Label" template="Shopping Cart Lines" database="master" auto="true">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{A1DAD05D-4B2A-4F73-851A-1C9505EAF0EF}#{F3B01C7D-BD46-4972-AB13-4C9C95C4F23D}" itemid="{A1DAD05D-4B2A-4F73-851A-1C9505EAF0EF}" fieldid="{F3B01C7D-BD46-4972-AB13-4C9C95C4F23D}" path="/sitecore/templates/Branches/Project/Commerce Experience Accelerator/Storefront/Data/Search/Sort Results/Commerce/Relevance" fieldname="Title" template="Sorting" database="master">
+    <ja-JP>関連</ja-JP>
+  </phrase>
+<phrase key="master#{AC4791F0-0E7F-4EBC-B49B-53624666C068}#{19A69332-A23E-4E70-8D16-B2640CB24CC8}" itemid="{AC4791F0-0E7F-4EBC-B49B-53624666C068}" fieldid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Minicart/Minicart/Free Gift Text" fieldname="Title" template="Template field" database="master">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{AC8CEE66-68DF-459D-831F-2B67C16A3F0D}#{24D450F2-2E2D-45F9-BB55-94CB341453FD}" itemid="{AC8CEE66-68DF-459D-831F-2B67C16A3F0D}" fieldid="{24D450F2-2E2D-45F9-BB55-94CB341453FD}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Account/Datasource/Order Lines/__Standard Values" fieldname="Free Gift Label" template="Order Lines" database="master" auto="true">
+    <ja-JP>無料ギフト</ja-JP>
+  </phrase>
+<phrase key="master#{D898A2E8-EAC5-4BFF-B935-8CFE985C8979}#{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" itemid="{D898A2E8-EAC5-4BFF-B935-8CFE985C8979}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Cart/Datasource/Free Gift Selection" fieldname="__Display name" template="Template" database="master">
+    <ja-JP>無料ギフトのセレクション</ja-JP>
+  </phrase>
+<phrase key="master#{DB48A83B-5381-45EF-9C2E-CDFC3CC9785F}#{B3635965-6786-457C-9DEE-28DE73C0A331}" itemid="{DB48A83B-5381-45EF-9C2E-CDFC3CC9785F}" fieldid="{B3635965-6786-457C-9DEE-28DE73C0A331}" path="/sitecore/templates/Branches/Project/Commerce Experience Accelerator/Storefront/Data/Texts/Promoted Products/Recommended products based on order" fieldname="Text" template="Text" database="master">
+    <ja-JP>&lt;span class="product-list-title"&gt;前回のご注文に基づいて、おすすめの商品をご紹介します&lt;/span&gt;</ja-JP>
+  </phrase>
+<phrase key="master#{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}#{04070E1D-D020-414B-9EF3-9AB02239782B}" itemid="{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}" fieldid="{04070E1D-D020-414B-9EF3-9AB02239782B}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/__Standard Values" fieldname="InvalidRangeMessage" template="Product Bundle" database="master" auto="true">
+    <ja-JP>数量は{0}～{1}で指定してください。</ja-JP>
+  </phrase>
+<phrase key="master#{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}#{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}" itemid="{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}" fieldid="{14F04241-5BB3-4CA2-B084-17B5B20CB4B7}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/__Standard Values" fieldname="UpgradeOptionsLabel" template="Product Bundle" database="master" auto="true">
+    <ja-JP>アップグレードオプション</ja-JP>
+  </phrase>
+<phrase key="master#{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}#{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}" itemid="{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}" fieldid="{6072AE78-B23F-44D5-9FE7-A7EC860CBFF7}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/__Standard Values" fieldname="IncludeItemText" template="Product Bundle" database="master" auto="true">
+    <ja-JP>製品をバンドルに含める</ja-JP>
+  </phrase>
+<phrase key="master#{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}#{D2138CA3-1965-42D9-9221-5201EDFF6C0E}" itemid="{E4E3B386-4354-46E2-BCDC-A15F7C4709F9}" fieldid="{D2138CA3-1965-42D9-9221-5201EDFF6C0E}" path="/sitecore/templates/Feature/Commerce Experience Accelerator/Catalog/Datasource/Product Bundle/__Standard Values" fieldname="UpgradeOptionsPlaceholder" template="Product Bundle" database="master" auto="true">
+    <ja-JP>アップグレードを選択</ja-JP>
+  </phrase>
+<phrase key="master#{EA1AF879-653B-4E29-83AF-CF2CFD8A9425}#{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" itemid="{EA1AF879-653B-4E29-83AF-CF2CFD8A9425}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" path="/sitecore/templates/Branches/Feature/Commerce Experience Accelerator/Commerce Components/Rendering Variants/Product Bundle/Default-deprecated" fieldname="__Display name" template="Variant Definition" database="master">
+    <ja-JP>Default &amp;#40;Deprecated&amp;#41;</ja-JP>
+  </phrase>
 </sitecore>
