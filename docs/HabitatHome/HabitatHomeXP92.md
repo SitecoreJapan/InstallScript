@@ -6,11 +6,11 @@
 
 ## インストール環境の確認
 
-Sitecore Experience Platform 9.1 Initial Release を利用しています。
+Sitecore Experience Platform 9.2 Initial Release を利用しています。
 
 デモ環境は、Sitecore のインストール環境としては、以下の設定が標準で設定されています。
 
-この製品の <a href="https://github.com/SitecoreJapan/InstallScript/blob/master/docs/91/Sitecore-Experience-Platform-910.md" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) の Habitat-910-XP0.ps1 を利用してください。
+この製品の <a href="https://sitecoreinstall.cmsdemo.jp/92/Sitecore-Experience-Platform-920.html" target="_blank">インストール手順</a> を確認してください。インストール先の情報としては、以下がデフォルトとなっています。この設定を利用しているスクリプトは [ここ](https://github.com/SitecoreJapan/InstallScript/tree/master/habitat) の Habitat-920-XP0.ps1 を利用してください。
 
 **プロジェクトの場所**		`c:\projects\Sitecore.HabitatHome.Platform\`
 **Habitat サイトドメイン**				`habitathome.dev.local`
@@ -38,46 +38,17 @@ Sitecore のクリーンインストールが完了すると、 http://habitatho
 
 デモサイトで必要なモジュールをインストールしていきます。モジュールは以下の順番でインストールを進めてください。
 
-* Sitecore PowerShell Extensions-5.0.zip 
-* Sitecore Experience Accelerator 1.8 rev. 181112 for 9.1.zip
+* Sitecore PowerShell Extensions-5.0 for 9.2.zip 
+* Sitecore Experience Accelerator 1.9.0 rev. 190528 for 9.2.zip
 
 Data Exchange Framework は任意でインストールすることができます。
 
-* Data Exchange Framework 2.1.0 rev. 181113.zip 
-* Sitecore Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* SQL Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* XConnect Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Dynamics Provider for Data Exchange Framework 2.1.0 rev. 181113.zip
-* Connect for Microsoft Dynamics 2.1.0 rev. 181113.zip
-
-/App_Config/connectionstrings.config に Dynamics につなげるための Connection Strings を追加してください。
-
-```
-  <add name="democrm" connectionString="url=https://sitecore1.crm4.dynamics.com/XRMServices/2011/Organization.svc;user id=crmdemo@demo1.onmicrosoft.com;password=password;organization=org;authentication type=2"/>
-```
-
-id
-password
-organization
-
-Dynamics 365 のパラメーターを利用してください。
-
-Web.config には以下の設定を追加する必要があります。
-
-```
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Xrm.Sdk" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-      <dependentAssembly>
-        <assemblyIdentity name="Microsoft.Crm.Sdk.Proxy" publicKeyToken="31bf3856ad364e35" culture="neutral" />
-        <bindingRedirect oldVersion="0.0.0.0-8.0.0.0" newVersion="8.0.0.0" />
-      </dependentAssembly>
-```
+* [Sitecore Connect for Salesforce CRM 3.0.0](https://sitecorequickstart.cmsdemo.jp/modules/connectsfcrm.html)
+* [https://sitecorequickstart.cmsdemo.jp/modules/connectdcrm.html](https://sitecorequickstart.cmsdemo.jp/modules/connectdcrm.html)
 
 # 日本語リソースの追加
 
-Sitecore Experience Platform 9.1 Initial Release の日本語リソースの追加および SXA の日本語リソースを追加してください。追加の手順は、[Youtube の動画](https://www.youtube.com/watch?v=iJGBN0wj10s) が参考になります。
+Sitecore Experience Platform 9.2 Initial Release の日本語リソースの追加および SXA の日本語リソースを追加してください。追加の手順は、[Youtube の動画](https://www.youtube.com/watch?v=iJGBN0wj10s) が参考になります。
 
 # 証明書の追加
 
@@ -101,34 +72,52 @@ Sitecore Experience Platform のインストール環境に合わせて、パラ
 以下のツールをインストールしてください。
 
 * [Node.js](https://nodejs.org/ja/) 推奨版をインストールします
-* [Build Tools for Visual Studio 2017](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2017 の中に含まれています。
+* [Build Tools for Visual Studio 2019](https://visualstudio.microsoft.com/ja/downloads/) リンク先のページで、Tools for Visual Studio 2019 の中に含まれています。
+    * Web development build tools をチェック、合わせて .NET Framework 4.7.1 をチェックしてください。
+
+<img src="images/vs2019install.png" alt="インストール">
 
 # ソリューションを構築する
 
 上記の準備が完了したあと、準備されている build.ps1 を実行してください。
 
 ```
-PS C:\projects\sitecore.habitathome.plathome> build.ps1
+PS C:\projects\Sitecore.HabitatHome.Platform> .\build.ps1
+Preparing to run build script...
+Running build script...
+The assembly 'Cake.Azure, Version=0.3.0.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.28.0).
+For best compatibility it should target Cake.Core version 0.33.0.
+The assembly 'Cake.XdtTransform, Version=0.16.0.0, Culture=neutral, PublicKeyToken=null'
+is referencing an older version of Cake.Core (0.28.1).
+For best compatibility it should target Cake.Core version 0.33.0.
 
-[13:14:20]
-[13:14:20]
-[13:14:20]    ) )       /\
-[13:14:20]   =====     /  \
-[13:14:20]  _|___|____/ __ \____________
-[13:14:20] |:::::::::/ ==== \:::::::::::|
-[13:14:20] |:::::::::/ ====  \::::::::::|
-[13:14:20] |::::::::/__________:::::::::|
-[13:14:20] |_________|  ____  |_________|
-[13:14:20] | ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
-[13:14:20] ||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
-[13:14:20] ||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
-[13:14:20] ||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
-[13:14:20] |======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
-[13:14:20] (^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
-[13:14:20] (,, , ,, , |______|,,,, ,, ,)
-[13:14:20] ','',,,,'  |______|,,,',',;;
-[13:14:20]
-[13:14:20]
+----------------------------------------
+Setup
+----------------------------------------
+
+
+   ) )       /\
+  =====     /  \
+ _|___|____/ __ \____________
+|:::::::::/ ==== \:::::::::::|
+|:::::::::/ ====  \::::::::::|
+|::::::::/__________\:::::::::|
+|_________|  ____  |_________|
+| ______  | / || \ | _______ |            _   _       _     _ _        _     _   _
+||  |   | | ====== ||   |   ||           | | | |     | |   (_) |      | |   | | | |
+||--+---| | |    | ||---+---||           | |_| | __ _| |__  _| |_ __ _| |_  | |_| | ___  _ __ ___   ___
+||__|___| | |   o| ||___|___||           |  _  |/ _` | '_ \| | __/ _` | __| |  _  |/ _ \| '_ ` _ \ / _ \
+|======== | |____| |=========|           | | | | (_| | |_) | | || (_| | |_  | | | | (_) | | | | | |  __/
+(^^-^^^^^- |______|-^^^--^^^)            \_| |_/\__,_|_.__/|_|\__\__,_|\__| \_| |_/\___/|_| |_| |_|\___|
+(,, , ,, , |______|,,,, ,, ,)
+','',,,,'  |______|,,,',',;;
+
+
+ --------------------  ------------------
+   The Habitat Home source code, tools and processes are examples of Sitecore Features.
+   Habitat Home is not supported by Sitecore and should be used at your own risk.
+   
 ```
 
 # インストール後の作業

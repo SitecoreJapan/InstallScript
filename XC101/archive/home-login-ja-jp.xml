@@ -1,0 +1,14 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Home/login" key="login" itemid="{3623E634-518B-484F-B92D-7CC8A355913D}" fieldid="{BE4D8D94-DAF4-417F-837A-7E77DA22CD73}" updated="20210604T070358Z" database="master">
+    <ja-JP>サインイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Home/login" key="login" itemid="{3623E634-518B-484F-B92D-7CC8A355913D}" fieldid="{CE53062E-4385-4244-8382-C2B4530A51BA}" updated="20210604T070358Z" database="master">
+    <ja-JP>{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Home/login" key="login" itemid="{3623E634-518B-484F-B92D-7CC8A355913D}" fieldid="{4E0720E9-9D50-4DDC-87CF-ECD65E8E94C8}" updated="20210604T070358Z" database="master">
+    <ja-JP>サインイン</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Sitecore/Storefront/Home/login" key="login" itemid="{3623E634-518B-484F-B92D-7CC8A355913D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20210604T070358Z" database="master">
+    <ja-JP>ログイン</ja-JP>
+  </phrase>
+</sitecore>

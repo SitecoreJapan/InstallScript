@@ -1,0 +1,5 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/Settings/Html Editor Profiles/Rich Text Default/Toolbar 1/AddMAsset" key="AddMAsset" itemid="{EC3C49DB-E74F-410E-9420-884A549D350B}" fieldid="__Display name" updated="20190418T111317Z">
+    <ja-JP>Sitecore DAM から貼り付け</ja-JP>
+  </phrase>
+</sitecore>
