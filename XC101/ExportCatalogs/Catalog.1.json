@@ -1,0 +1,100 @@
+{
+    "$type": "System.Collections.Generic.List`1[[Sitecore.Commerce.Plugin.Catalog.Catalog, Sitecore.Commerce.Plugin.Catalog]], System.Private.CoreLib",
+    "$values": [
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.Catalog, Sitecore.Commerce.Plugin.Catalog",
+            "PriceBookName": "Habitat_PriceBook",
+            "PromotionBookName": "Habitat_PromotionBook",
+            "DefaultInventorySetName": "Habitat_Inventory",
+            "SitecoreId": "59ddadc1-9b88-727e-9e14-3f6cf321ae0f",
+            "ChildrenCategoryList": "b893c063-6238-ed57-700d-72862c56038d|c1114488-2d5f-39c7-5e16-42f64d5f2d4a|871c3b62-ce96-ad61-dabe-10db020f02c5",
+            "IsBundle": false,
+            "Components": {
+                "$type": "System.Collections.Generic.List`1[[Sitecore.Commerce.Core.Component, Sitecore.Commerce.Core]], System.Private.CoreLib",
+                "$values": [
+                    {
+                        "$type": "Sitecore.Commerce.Plugin.Catalog.ItemDefinitionsComponent, Sitecore.Commerce.Plugin.Catalog",
+                        "Definitions": {
+                            "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                            "$values": [
+                                "Amplifier",
+                                "Camera",
+                                "Desktop",
+                                "DigitalScale",
+                                "Dryer",
+                                "ElectricShaver",
+                                "ElectricToothBrush",
+                                "eReader",
+                                "FitnessTracker",
+                                "GameConsole",
+                                "GameConsoleAccessory",
+                                "GiftCard",
+                                "GiftCardV2",
+                                "GiftWrap",
+                                "Headphones",
+                                "HomeTheater",
+                                "Installation",
+                                "ItemBundle",
+                                "Laptop",
+                                "Microwave",
+                                "Phone",
+                                "PhoneAccessory",
+                                "Product",
+                                "Range",
+                                "Refrigerator",
+                                "SecurityCamera",
+                                "SmallAppliance",
+                                "Speakers",
+                                "Subscription",
+                                "Tablet",
+                                "Television",
+                                "Thermostat",
+                                "Warranty",
+                                "Washer"
+                            ]
+                        },
+                        "Id": "a203dba5a006472380cfa383dcc6baea"
+                    },
+                    {
+                        "$type": "Sitecore.Commerce.Plugin.ManagedLists.ListMembershipsComponent, Sitecore.Commerce.Plugin.ManagedLists",
+                        "Memberships": {
+                            "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                            "$values": [
+                                "Catalogs"
+                            ]
+                        },
+                        "Id": "120f5431cb714b918f72e5f1385da87e"
+                    },
+                    {
+                        "$type": "Sitecore.Commerce.Plugin.Workflow.WorkflowComponent, Sitecore.Commerce.Plugin.Workflow",
+                        "Workflow": {
+                            "$type": "Sitecore.Commerce.Core.EntityReference, Sitecore.Commerce.Core",
+                            "Name": "DefaultCommerceWorkflow",
+                            "EntityTarget": "Entity-Workflow-DefaultCommerceWorkflow",
+                            "EntityTargetUniqueId": "a8407ecd-7d10-0f9d-87db-0aee97770eb1"
+                        },
+                        "CurrentState": "Approved",
+                        "Id": "b7b277291c6e43feb077e56cbad37a50"
+                    },
+                    {
+                        "$type": "Sitecore.Commerce.Plugin.Catalog.ExternalSettingsComponent, Sitecore.Commerce.Plugin.Catalog",
+                        "Settings": "{\"59ddadc1-9b88-727e-9e14-3f6cf321ae0f\":{\"en\":{\"__Updated by\":\"sitecore\\\\admin\",\"__Updated\":\"20210604T070334Z\",\"__Revision\":\"e4a3f704-a245-433a-8888-687b09d8a283\"},\"shared\":{\"ProductTemplate\":\"{D1DD75A5-DB47-41D8-8744-90085082B565}\",\"CategoryTemplate\":\"{11184D3E-9573-42A9-B575-73E8C65E11FF}\",\"StaticBundleTemplate\":\"{1900781C-C572-464C-A0DB-053CC22AE650}\",\"ProductVariantTemplate\":\"{7AC72ADF-BF9B-4DAC-A45C-0273C47C939B}\",\"DynamicBundleTemplate\":\"{6A4AACC0-3C58-40A3-A0BB-AFF0FB19ED66}\"}}}",
+                        "Id": "0dd17b593246486588c143a3452e7f94"
+                    }
+                ]
+            },
+            "CreatedBy": "sitecore\\Admin",
+            "DateCreated": "2020-05-13T18:44:02.0769582+00:00",
+            "DateUpdated": "2021-06-04T07:04:00.8634335+00:00",
+            "DisplayName": "Habitat_Master",
+            "FriendlyId": "Habitat_Master",
+            "Id": "Entity-Catalog-Habitat_Master",
+            "Version": 8,
+            "EntityVersion": 1,
+            "Published": true,
+            "IsPersisted": true,
+            "Name": "Habitat_Master",
+            "UniqueId": "d007ae4e-8eee-ab92-a03d-1d97760ec1c7"
+        }
+    ]
+}
