@@ -1,0 +1,3801 @@
+{
+    "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument[], Sitecore.Commerce.Plugin.Catalog",
+    "$values": [
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042559",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042560",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042561",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042567",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042567",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042567",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042567",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042570",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042570",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042570",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042573",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042573",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042573",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042576",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042576",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042576",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042579",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042579",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042579",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042579",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042582",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042582",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042582",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042585",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042585",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042585",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042588",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042588",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042588",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042591",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042591",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042591",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042594",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042594",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042594",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042597",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042597",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042597",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042600",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042600",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042600",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042603",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042603",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042603",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042606",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042606",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042606",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042609",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042609",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042609",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042612",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042612",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042612",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042615",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042615",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042615",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042618",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042618",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042618",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042621",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042625",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042629",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042633",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042637",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042641",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042641",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042645",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042649",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042653",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042657",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042661",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042665",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042669",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042713",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042717",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042721",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042725",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042729",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042733",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042737",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042737",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042741",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042745",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042749",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042753",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042757",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042761",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042765",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042769",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042773",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042777",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042780",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042783",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042788",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042793",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042794",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042799",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042804",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042809",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042810",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042811",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042812",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042817",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042821",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042822",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042827",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042832",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042837",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042842",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042847",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042852",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042853",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042854",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042855",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042860",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042861",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042866",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042871",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042872",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042873",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042874",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042874",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042874",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042875",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042875",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042875",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042876",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042876",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042876",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042877",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042878"
+                ]
+            },
+            "RelationshipType": "INSTALLATIONSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042877",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042877",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-7042257",
+                    "Entity-SellableItem-7042258",
+                    "Entity-SellableItem-7042259"
+                ]
+            },
+            "RelationshipType": "WARRANTYSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042878",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042879",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042880",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042886",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042891",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042896",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042896",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001002",
+                    "Entity-SellableItem-6001003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042901",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042906",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042907",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042909",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042910",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042911",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042912",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042913",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042922",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042923",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042924",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042929",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042930",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042935",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042936",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042937",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042938",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042939",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042941",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042943",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042944",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042944",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002001"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042946",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042948",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042952",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042956",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042957",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042962",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042963",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042964",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042964",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001001"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042965",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042966",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042967",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042968",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042969",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042970",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042971",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042971",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001001"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042972",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042973",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042974",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042975",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042976",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042977",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042978",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042979",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042986",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042986",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001004",
+                    "Entity-SellableItem-6001008",
+                    "Entity-SellableItem-6002005"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-6042989",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042066",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042066",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6001002",
+                    "Entity-SellableItem-6001003"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042071",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042071",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002002"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042072",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042073",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042073",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6002002"
+                ]
+            },
+            "RelationshipType": "SELLABLEITEMTOBUNDLE"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042074",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042075",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042076",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        },
+        {
+            "$type": "Sitecore.Commerce.Plugin.Catalog.ImportRelationshipsArgument, Sitecore.Commerce.Plugin.Catalog",
+            "SourceId": "Entity-SellableItem-7042077",
+            "SourceEntityVersion": 1,
+            "TargetIds": {
+                "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
+                "$values": [
+                    "Entity-SellableItem-6042064",
+                    "Entity-SellableItem-6042183",
+                    "Entity-SellableItem-6042283",
+                    "Entity-SellableItem-6042325",
+                    "Entity-SellableItem-6042402",
+                    "Entity-SellableItem-6042430",
+                    "Entity-SellableItem-6042886",
+                    "Entity-SellableItem-6042962",
+                    "Entity-SellableItem-6042963",
+                    "Entity-SellableItem-6042986",
+                    "Entity-SellableItem-7042082"
+                ]
+            },
+            "RelationshipType": "RELATEDSELLABLEITEMTOSELLABLEITEM"
+        }
+    ]
+}

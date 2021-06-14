@@ -1,0 +1,14 @@
+﻿<sitecore>
+  <phrase path="/sitecore/system/MAppTranslations/INSERT_TITLE" key="INSERT_TITLE" itemid="{7297B5A2-BFD3-42C3-A6BF-FACAC07E9757}" fieldid="{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}" updated="20190418T110040Z">
+    <ja-JP>Sitecore DAM から挿入</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/MAppTranslations/UNAUTHORIZED_IMAGE_ALT_TEXT" key="UNAUTHORIZED_IMAGE_ALT_TEXT" itemid="{942F58B5-1AE5-41EC-91CA-37A6514906EC}" fieldid="{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}" updated="20190418T110032Z">
+    <ja-JP>この画像は、Sitecore DAMとのセッションが終了しているため利用できません。再度、Sitecore Connect for Sitecore DAMからログインしてください。</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/MAppTranslations/CLOSE" key="CLOSE" itemid="{EA3426D0-F4B2-48DC-871A-8222C6AACECC}" fieldid="{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}" updated="20190301T152907Z">
+    <ja-JP>閉じる</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/system/MAppTranslations/DOWNLOAD_TEXT" key="DOWNLOAD_TEXT" itemid="{090AB69B-56CA-4CDF-9CE6-C1B70F5527BE}" fieldid="{2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}" updated="20190301T114157Z">
+    <ja-JP>ダウンロード</ja-JP>
+  </phrase>
+</sitecore>
