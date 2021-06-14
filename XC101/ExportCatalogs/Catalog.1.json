@@ -13,11 +13,13 @@
                 "$type": "System.Collections.Generic.List`1[[Sitecore.Commerce.Core.Component, Sitecore.Commerce.Core]], System.Private.CoreLib",
                 "$values": [
                     {
+                        "$type": "Sitecore.Commerce.Plugin.Catalog.ItemDefinitionsComponent, Sitecore.Commerce.Plugin.Catalog",
                         "Definitions": {
                             "$type": "System.Collections.Generic.List`1[[System.String, System.Private.CoreLib]], System.Private.CoreLib",
                             "$values": [
                                 "Amplifier",
                                 "Camera",
+                                "Desktop",
                                 "DigitalScale",
                                 "Dryer",
                                 "ElectricShaver",
