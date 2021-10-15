@@ -1,0 +1,95 @@
+﻿<sitecore>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink" key="GlobalLink" itemid="{D25CCDF7-73C3-4B5C-A3EA-41CCBC206692}" fieldid="{C95D21BD-66C3-444B-A37F-D346CBAF2B55}" updated="20170619T203757Z" database="core">
+    <ja-JP>GlobalLink 翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Translate" key="Translate" itemid="{4C2B5578-744A-4965-A48C-07361AEE580C}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20170619T203826Z" database="core">
+    <ja-JP>翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Add to Queue" key="Add to Queue" itemid="{09972DE1-F8F7-4E5C-8BCF-F1E6515384C2}" fieldid="{B11F9F5F-88FC-48C5-9501-2E827EF40EAD}" updated="20181019T062825Z" database="core">
+    <ja-JP>リストに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Dashboard" key="Dashboard" itemid="{0C83D15C-71E5-42C6-BC88-C589247AFAF9}" fieldid="{B11F9F5F-88FC-48C5-9501-2E827EF40EAD}" updated="20190822T194603Z" database="core">
+    <ja-JP>ダッシュボード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Copy Source" key="Copy Source" itemid="{BEAE7163-48BA-4B1A-BDBC-822D256498E7}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20170621T183127Z" database="core">
+    <ja-JP>ソース コピー</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Show Queue" key="Show Queue" itemid="{786548C0-E1E3-4EAE-9C8E-DA3ABB2A29E1}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20181019T062834Z" database="core">
+    <ja-JP>リストを表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Import" key="Import" itemid="{24786635-FFBD-4368-A400-38B2E3EACCF4}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20170622T201520Z" database="core">
+    <ja-JP>インポート</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Translatable Fields" key="Translatable Fields" itemid="{EE168440-BF00-42BF-8070-566CA7D6E4AA}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20141208T182525Z" database="core">
+    <ja-JP>設定</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Parameters" key="Parameters" itemid="{C266EE2C-8534-44B7-BAA1-5265742BB8AA}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20170323T205518Z" database="core">
+    <ja-JP>セットアップ</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Chunks/GlobalLink/Agents" key="Agents" itemid="{8553088A-7AA4-47F9-B8C3-74429A1F6F06}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20170928T192926Z" database="core">
+    <ja-JP>エージェント</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Menues/GlobalLinkDash/Dashboard" key="Dashboard" itemid="{742A9F07-4825-4C1C-ADE9-52A0EB3957D2}" fieldid="{9B72A62B-2775-423D-B17A-EC34A9F31AF8}" updated="20190822T194806Z" database="core">
+    <ja-JP>ダッシュボード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Menues/GlobalLinkDash/Dashboard per Item" key="Dashboard per Item" itemid="{053718C7-9E50-4F4A-9E6B-F17C8A143A77}" fieldid="{9B72A62B-2775-423D-B17A-EC34A9F31AF8}" updated="20190822T185442Z" database="core">
+    <ja-JP>アイテム毎のダッシュボード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Menues/GlobalLink/Add Single" key="Add Single" itemid="{3EE6BA1A-B059-4A61-A369-2CFA1FF8786F}" fieldid="{9B72A62B-2775-423D-B17A-EC34A9F31AF8}" updated="20170519T180854Z" database="core">
+    <ja-JP>単独で追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Menues/GlobalLink/Add Recursive" key="Add Recursive" itemid="{C6534DEE-42F0-4BA8-A463-13C66B0ABC91}" fieldid="{9B72A62B-2775-423D-B17A-EC34A9F31AF8}" updated="20170519T180845Z" database="core">
+    <ja-JP>サブアイテムの追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Ribbons/Strips/GlobalLink" key="GlobalLink" itemid="{BB990DD6-CB5B-4952-8003-1323B58D7277}" fieldid="{5453DC07-6A17-48BA-8D05-17DB90A2E795}" updated="20150218T130105Z" database="core">
+    <ja-JP>GlobalLink</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink" key="GlobalLink" itemid="{DBF16F23-D8FF-41AA-8EC5-4C1017CD54F4}" fieldid="{5453DC07-6A17-48BA-8D05-17DB90A2E795}" updated="20150824T202340Z" database="core">
+    <ja-JP>GlobalLink</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink" key="GlobalLink" itemid="{DBF16F23-D8FF-41AA-8EC5-4C1017CD54F4}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20150824T202340Z" database="core">
+    <ja-JP>GlobalLink</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation" key="Translation" itemid="{E650439D-5D98-46EA-A0A6-39A9312E8ECD}" fieldid="{C95D21BD-66C3-444B-A37F-D346CBAF2B55}" updated="20150824T202137Z" database="core">
+    <ja-JP>翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation" key="Translation" itemid="{E650439D-5D98-46EA-A0A6-39A9312E8ECD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20150824T202137Z" database="core">
+    <ja-JP>翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Translate" key="Translate" itemid="{0BE2B9AF-9306-4937-82B9-E246C18442BD}" fieldid="{A1A31A93-C4A0-4396-B629-67C33001A3CF}" updated="20181022T055424Z" database="core">
+    <ja-JP>割り当てられたレイアウト、レンダリングおよびサブレイアウトの詳細を表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Translate" key="Translate" itemid="{0BE2B9AF-9306-4937-82B9-E246C18442BD}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20181022T055424Z" database="core">
+    <ja-JP>翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Translate" key="Translate" itemid="{0BE2B9AF-9306-4937-82B9-E246C18442BD}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20181022T055424Z" database="core">
+    <ja-JP>翻訳</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/AddtoList" key="AddtoList" itemid="{0236851C-10E0-4A53-BE10-7C83BD5BA29D}" fieldid="{A1A31A93-C4A0-4396-B629-67C33001A3CF}" updated="20181022T061523Z" database="core">
+    <ja-JP>割り当てられたレイアウト、レンダリングおよびサブレイアウトの詳細を表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/AddtoList" key="AddtoList" itemid="{0236851C-10E0-4A53-BE10-7C83BD5BA29D}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20181022T061523Z" database="core">
+    <ja-JP>リストに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/AddtoList" key="AddtoList" itemid="{0236851C-10E0-4A53-BE10-7C83BD5BA29D}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20181022T061523Z" database="core">
+    <ja-JP>リストに追加</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/ShowList" key="ShowList" itemid="{1AA0E1FB-1DC8-4C04-A442-1A5DFA0BFF86}" fieldid="{A1A31A93-C4A0-4396-B629-67C33001A3CF}" updated="20181022T063445Z" database="core">
+    <ja-JP>割り当てられたレイアウト、レンダリングおよびサブレイアウトの詳細を表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/ShowList" key="ShowList" itemid="{1AA0E1FB-1DC8-4C04-A442-1A5DFA0BFF86}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20181022T063445Z" database="core">
+    <ja-JP>リストの表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/ShowList" key="ShowList" itemid="{1AA0E1FB-1DC8-4C04-A442-1A5DFA0BFF86}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20181022T063445Z" database="core">
+    <ja-JP>リストの表示</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Dashboard" key="Dashboard" itemid="{973BDAD3-D84D-4694-960F-760335100F8E}" fieldid="{A1A31A93-C4A0-4396-B629-67C33001A3CF}" updated="20151109T194019Z" database="core">
+    <ja-JP>割り当てられたレイアウト、レンダリングおよびサブレイアウトの詳細を表示します</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Dashboard" key="Dashboard" itemid="{973BDAD3-D84D-4694-960F-760335100F8E}" fieldid="{4DF6DA21-E745-444C-956E-1D4A96AB8821}" updated="20151109T194019Z" database="core">
+    <ja-JP>ダッシュボード</ja-JP>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/GlobalLink/Translation/Dashboard" key="Dashboard" itemid="{973BDAD3-D84D-4694-960F-760335100F8E}" fieldid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" updated="20151109T194019Z" database="core">
+    <ja-JP>ダッシュボード</ja-JP>
+  </phrase>
+</sitecore>
